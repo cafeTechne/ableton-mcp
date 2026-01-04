@@ -1,0 +1,16 @@
+Downloaded docs manifest
+
+- URL: https://docs.cycling74.com/legacy/max8/vignettes/live_api_overview
+  File: live_api_overview_7b655132.html
+  Content-Type: text/html; charset=utf-8
+  Size: 108152 bytes
+
+- URL: https://docs.cycling74.com/legacy/max8/vignettes/live_api
+  File: live_api_55d9a6f8.html
+  Content-Type: text/html; charset=utf-8
+  Size: 97083 bytes
+
+- URL: https://docs.cycling74.com/legacy/max8/vignettes/jsliveapi
+  File: jsliveapi_f5492d09.html
+  Content-Type: text/html; charset=utf-8
+  Size: 64009 bytes
