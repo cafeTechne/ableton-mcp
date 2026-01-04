@@ -1,0 +1,45 @@
+{
+  "path": "Instruments/Tension/Mallets",
+  "name": "Mallets",
+  "uri": "query:Synths#Tension:Mallets",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Chime Blues.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Mallets:FileId_59731"
+    },
+    {
+      "name": "Concrete Jungle Kalimba.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Mallets:FileId_61096"
+    },
+    {
+      "name": "Kalimba Big.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Mallets:FileId_5158"
+    },
+    {
+      "name": "Mallet School.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Mallets:FileId_59732"
+    },
+    {
+      "name": "Sound the Alarm.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Mallets:FileId_59733"
+    }
+  ]
+}

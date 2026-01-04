@@ -1,0 +1,192 @@
+{
+  "path": "Instruments/Poli/Synth Keys",
+  "name": "Synth Keys",
+  "uri": "query:Synths#Poli:Synth%20Keys",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "1999 Organ Synth.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41345"
+    },
+    {
+      "name": "Alpha Slo Attack.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41346"
+    },
+    {
+      "name": "Aspiring Cathedral.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41461"
+    },
+    {
+      "name": "Belial.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41347"
+    },
+    {
+      "name": "Brass Feeder.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41462"
+    },
+    {
+      "name": "Capacitorpad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41348"
+    },
+    {
+      "name": "Clav Lotus.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41349"
+    },
+    {
+      "name": "Coil Plucks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41463"
+    },
+    {
+      "name": "Copper Transit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41464"
+    },
+    {
+      "name": "Dark Strobe.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41350"
+    },
+    {
+      "name": "Fast Reaction.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41351"
+    },
+    {
+      "name": "Hammer Power Drop.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41352"
+    },
+    {
+      "name": "Henry.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41353"
+    },
+    {
+      "name": "I'm A Star Organ.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41354"
+    },
+    {
+      "name": "Koolaid Truck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41355"
+    },
+    {
+      "name": "Many People Keys .adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41356"
+    },
+    {
+      "name": "Melodic Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41357"
+    },
+    {
+      "name": "Metro 83 Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41358"
+    },
+    {
+      "name": "Nobody Blames Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41359"
+    },
+    {
+      "name": "Nova Strassa.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41360"
+    },
+    {
+      "name": "Piano Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41361"
+    },
+    {
+      "name": "Quadra Aplha Saw.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41362"
+    },
+    {
+      "name": "Slip n Slide.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41363"
+    },
+    {
+      "name": "Squish Dish.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41364"
+    },
+    {
+      "name": "Synthro Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41465"
+    },
+    {
+      "name": "Tasty Pluck Bars.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Keys:FileId_41365"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "path": "Instruments/Simpler/Experimental",
+  "name": "Experimental",
+  "uri": "query:Synths#Simpler:Experimental",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "3RDEYEZ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Experimental:FileId_43213"
+    },
+    {
+      "name": "Canyon Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Experimental:FileId_43216"
+    },
+    {
+      "name": "Cyber Angel Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Experimental:FileId_43218"
+    },
+    {
+      "name": "Cylinder.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Experimental:FileId_43219"
+    },
+    {
+      "name": "Drone E-Tanpura Rack.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Experimental:FileId_43262"
+    },
+    {
+      "name": "Hallow Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Experimental:FileId_43224"
+    },
+    {
+      "name": "Hourglass Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Experimental:FileId_43227"
+    },
+    {
+      "name": "Internal Routing.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Experimental:FileId_43228"
+    },
+    {
+      "name": "Parsec Breach.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Experimental:FileId_43230"
+    },
+    {
+      "name": "Pelog.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Experimental:FileId_43264"
+    },
+    {
+      "name": "Razor Wire Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Experimental:FileId_43232"
+    },
+    {
+      "name": "Silent Night Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Experimental:FileId_43234"
+    },
+    {
+      "name": "Solfeggio Mirror Forks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Experimental:FileId_43265"
+    },
+    {
+      "name": "Spaghetti Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Experimental:FileId_43235"
+    },
+    {
+      "name": "Turtle Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Experimental:FileId_43236"
+    },
+    {
+      "name": "XEMF.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Experimental:FileId_43269"
+    },
+    {
+      "name": "XITHER.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Experimental:FileId_43270"
+    }
+  ]
+}

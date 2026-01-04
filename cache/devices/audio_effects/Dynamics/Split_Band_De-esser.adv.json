@@ -1,0 +1,409 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Dynamics",
+  "name": "Split Band De-esser",
+  "uri": "query:AudioFx#Dynamics:Multiband%20Dynamics:FileId_6147",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Low-Mid Crossover",
+      "min": 1.4771212339401245,
+      "max": 3.477121353149414,
+      "value": 3.477121353149414,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Mid-High Crossover",
+      "min": 2.477121353149414,
+      "max": 4.176091194152832,
+      "value": 4.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Soft Knee On/Off",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Peak/RMS Mode",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "RMS",
+        "Peak"
+      ],
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Master Output",
+      "min": -24.0,
+      "max": 24.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Amount",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Time Scaling",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Output Gain (Low)",
+      "min": -24.0,
+      "max": 24.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Output Gain (Mid)",
+      "min": -24.0,
+      "max": 24.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Output Gain (High)",
+      "min": -24.0,
+      "max": 24.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "Input Gain (Low)",
+      "min": -24.0,
+      "max": 24.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "Input Gain (Mid)",
+      "min": -24.0,
+      "max": 24.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "Input Gain (High)",
+      "min": -24.0,
+      "max": 24.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "Band Activator (Low)",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "Band Activator (Mid)",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 15
+    },
+    {
+      "name": "Band Activator (High)",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 16
+    },
+    {
+      "name": "Above Threshold (Low)",
+      "min": -80.0,
+      "max": 0.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 17
+    },
+    {
+      "name": "Above Threshold (Mid)",
+      "min": -80.0,
+      "max": 0.0,
+      "value": -32.25,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 18
+    },
+    {
+      "name": "Above Threshold (High)",
+      "min": -80.0,
+      "max": 0.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 19
+    },
+    {
+      "name": "Below Threshold (Low)",
+      "min": -80.0,
+      "max": 0.0,
+      "value": -80.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 20
+    },
+    {
+      "name": "Below Threshold (Mid)",
+      "min": -80.0,
+      "max": 0.0,
+      "value": -80.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 21
+    },
+    {
+      "name": "Below Threshold (High)",
+      "min": -80.0,
+      "max": 0.0,
+      "value": -80.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 22
+    },
+    {
+      "name": "Above Ratio (Low)",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 23
+    },
+    {
+      "name": "Above Ratio (Mid)",
+      "min": -1.0,
+      "max": 1.0,
+      "value": -0.828125,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 24
+    },
+    {
+      "name": "Above Ratio (High)",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 25
+    },
+    {
+      "name": "Below Ratio (Low)",
+      "min": -3.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 26
+    },
+    {
+      "name": "Below Ratio (Mid)",
+      "min": -3.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 27
+    },
+    {
+      "name": "Below Ratio (High)",
+      "min": -3.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 28
+    },
+    {
+      "name": "Attack Time (Low)",
+      "min": -1.0,
+      "max": 3.698970079421997,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 29
+    },
+    {
+      "name": "Attack Time (Mid)",
+      "min": -1.0,
+      "max": 3.698970079421997,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 30
+    },
+    {
+      "name": "Attack Time (High)",
+      "min": -1.0,
+      "max": 3.698970079421997,
+      "value": -0.6696036458015442,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 31
+    },
+    {
+      "name": "Release Time (Low)",
+      "min": -1.0,
+      "max": 3.698970079421997,
+      "value": 2.301029920578003,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 32
+    },
+    {
+      "name": "Release Time (Mid)",
+      "min": -1.0,
+      "max": 3.698970079421997,
+      "value": 2.176091194152832,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 33
+    },
+    {
+      "name": "Release Time (High)",
+      "min": -1.0,
+      "max": 3.698970079421997,
+      "value": -1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 34
+    },
+    {
+      "name": "S/C On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 35
+    },
+    {
+      "name": "S/C Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.4000000059604645,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 36
+    },
+    {
+      "name": "S/C Mix",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 37
+    }
+  ]
+}

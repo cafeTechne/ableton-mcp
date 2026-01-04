@@ -1,0 +1,195 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Drive_&_Color",
+  "name": "A Bit Warmer.adv",
+  "uri": "query:AudioFx#Drive%20&%20Color:Saturator:FileId_6011",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Dry/Wet",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.6190476417541504,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Drive",
+      "min": -36.0,
+      "max": 36.0,
+      "value": 6.1875,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Output",
+      "min": -36.0,
+      "max": 0.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Type",
+      "min": 0.0,
+      "max": 6.0,
+      "value": 4.0,
+      "is_quantized": true,
+      "value_items": [
+        "Analog Clip",
+        "Soft Sine",
+        "Medium Curve",
+        "Hard Curve",
+        "Sinoid Fold",
+        "Digital Clip",
+        "Waveshaper"
+      ],
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Base",
+      "min": -36.0,
+      "max": 36.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Color",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Frequency",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.4251968562602997,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Width",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.09448818862438202,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Depth",
+      "min": -24.0,
+      "max": 24.0,
+      "value": -9.259842872619629,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Soft Clip",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "WS Drive",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "WS Lin",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "WS Curve",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "WS Damp",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "WS Period",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 15
+    },
+    {
+      "name": "WS Depth",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 16
+    }
+  ]
+}

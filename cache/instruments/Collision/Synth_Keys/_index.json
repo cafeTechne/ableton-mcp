@@ -1,0 +1,94 @@
+{
+  "path": "Instruments/Collision/Synth Keys",
+  "name": "Synth Keys",
+  "uri": "query:Synths#Collision:Synth%20Keys",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Ancient Far East.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Keys:FileId_59651"
+    },
+    {
+      "name": "Dulcimerverb.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Keys:FileId_59652"
+    },
+    {
+      "name": "Fuzzy Pan Steel.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Keys:FileId_59653"
+    },
+    {
+      "name": "Godfather Stabs.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Keys:FileId_61117"
+    },
+    {
+      "name": "Little Synth Piano.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Keys:FileId_3805"
+    },
+    {
+      "name": "Maytage Plucks.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Keys:FileId_59654"
+    },
+    {
+      "name": "Metal Smasher.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Keys:FileId_61127"
+    },
+    {
+      "name": "Piano Coal Mine.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Keys:FileId_59655"
+    },
+    {
+      "name": "Plucky Ducky.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Keys:FileId_39941"
+    },
+    {
+      "name": "The Digital Age.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Keys:FileId_59656"
+    },
+    {
+      "name": "Theft By Rhythm (Split).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Keys:FileId_61139"
+    },
+    {
+      "name": "Toy Piano.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Keys:FileId_59657"
+    }
+  ]
+}

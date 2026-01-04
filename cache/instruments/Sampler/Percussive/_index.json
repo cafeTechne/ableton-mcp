@@ -1,0 +1,59 @@
+{
+  "path": "Instruments/Sampler/Percussive",
+  "name": "Percussive",
+  "uri": "query:Synths#Sampler:Percussive",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Desert Drumming.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Percussive:FileId_51295"
+    },
+    {
+      "name": "Digital Dance Zones.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Percussive:FileId_51296"
+    },
+    {
+      "name": "Flooded Dungeon.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Percussive:FileId_51297"
+    },
+    {
+      "name": "Quartz Chimes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Percussive:FileId_51298"
+    },
+    {
+      "name": "Quartz Rainstick.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Percussive:FileId_51299"
+    },
+    {
+      "name": "Resonant Cymbal Blender.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Percussive:FileId_51301"
+    },
+    {
+      "name": "Spiral Frame Drums.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Percussive:FileId_51302"
+    }
+  ]
+}

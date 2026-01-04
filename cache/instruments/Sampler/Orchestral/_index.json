@@ -1,0 +1,283 @@
+{
+  "path": "Instruments/Sampler/Orchestral",
+  "name": "Orchestral",
+  "uri": "query:Synths#Sampler:Orchestral",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Long All-in-one - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36727"
+    },
+    {
+      "name": "Long All-in-one - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59315"
+    },
+    {
+      "name": "Long Flautando - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59317"
+    },
+    {
+      "name": "Long Flutter - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36729"
+    },
+    {
+      "name": "Long Hollow - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36730"
+    },
+    {
+      "name": "Long Normale - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59318"
+    },
+    {
+      "name": "Long Pitch Bend - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36731"
+    },
+    {
+      "name": "Long Senza Vibrato - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36732"
+    },
+    {
+      "name": "Long Sul Pont - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59319"
+    },
+    {
+      "name": "Long Super Sul Tasto - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59320"
+    },
+    {
+      "name": "Long Tremolo - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59321"
+    },
+    {
+      "name": "Long Vibrato - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36733"
+    },
+    {
+      "name": "MPE Erosion (Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36737"
+    },
+    {
+      "name": "MPE Erosion (Slide & Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36738"
+    },
+    {
+      "name": "MPE Erosion (Slide) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36739"
+    },
+    {
+      "name": "MPE Glacial (Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59326"
+    },
+    {
+      "name": "MPE Glacial (Slide & Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59327"
+    },
+    {
+      "name": "MPE Glacial (Slide) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59328"
+    },
+    {
+      "name": "MPE Intimate (Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36740"
+    },
+    {
+      "name": "MPE Intimate (Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59329"
+    },
+    {
+      "name": "MPE Intimate (Slide & Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36741"
+    },
+    {
+      "name": "MPE Intimate (Slide & Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59330"
+    },
+    {
+      "name": "MPE Intimate (Slide) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36742"
+    },
+    {
+      "name": "MPE Intimate (Slide) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59331"
+    },
+    {
+      "name": "MPE Spectral (Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59332"
+    },
+    {
+      "name": "MPE Spectral (Slide & Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59333"
+    },
+    {
+      "name": "MPE Spectral (Slide) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59334"
+    },
+    {
+      "name": "MPE Vibrato (Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36743"
+    },
+    {
+      "name": "MPE Vibrato (Slide & Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36744"
+    },
+    {
+      "name": "MPE Vibrato (Slide) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36745"
+    },
+    {
+      "name": "Short All-in-one - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36728"
+    },
+    {
+      "name": "Short All-in-one - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59316"
+    },
+    {
+      "name": "Short Pizzicato - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59322"
+    },
+    {
+      "name": "Short Soft - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36734"
+    },
+    {
+      "name": "Short Spiccato - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59323"
+    },
+    {
+      "name": "Short Staccatissimo - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36735"
+    },
+    {
+      "name": "Short Staccato - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_36736"
+    },
+    {
+      "name": "Short Staccato - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59324"
+    },
+    {
+      "name": "Short Sul Tasto - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Orchestral:FileId_59325"
+    }
+  ]
+}

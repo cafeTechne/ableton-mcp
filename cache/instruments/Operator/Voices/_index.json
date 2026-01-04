@@ -1,0 +1,101 @@
+{
+  "path": "Instruments/Operator/Voices",
+  "name": "Voices",
+  "uri": "query:Synths#Operator:Voices",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Choir Metal Bright.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Voices:FileId_5382"
+    },
+    {
+      "name": "Choir Metal Muted.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Voices:FileId_5383"
+    },
+    {
+      "name": "Choir Reverb.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Voices:FileId_5384"
+    },
+    {
+      "name": "Choir Steam.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Voices:FileId_5385"
+    },
+    {
+      "name": "Plastic Chromatic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Voices:FileId_61530"
+    },
+    {
+      "name": "Portamento Female Nasal.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Voices:FileId_5386"
+    },
+    {
+      "name": "Portamento Female Pure.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Voices:FileId_5387"
+    },
+    {
+      "name": "Portamento Male.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Voices:FileId_5388"
+    },
+    {
+      "name": "Solo Female Fast Att.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Voices:FileId_5389"
+    },
+    {
+      "name": "Solo Female Long Rel.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Voices:FileId_5390"
+    },
+    {
+      "name": "Solo Female Reso.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Voices:FileId_5391"
+    },
+    {
+      "name": "Solo Male Fast Attack.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Voices:FileId_5392"
+    },
+    {
+      "name": "Solo Male Metal Echo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Voices:FileId_5393"
+    }
+  ]
+}

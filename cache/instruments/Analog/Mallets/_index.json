@@ -1,0 +1,31 @@
+{
+  "path": "Instruments/Analog/Mallets",
+  "name": "Mallets",
+  "uri": "query:Synths#Analog:Mallets",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Dilla Marimba.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Mallets:FileId_39913"
+    },
+    {
+      "name": "Minor Metal.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Mallets:FileId_61099"
+    },
+    {
+      "name": "Morning Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Mallets:FileId_51242"
+    }
+  ]
+}

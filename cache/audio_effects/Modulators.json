@@ -1,0 +1,278 @@
+{
+  "count": 39,
+  "items": [
+    {
+      "name": "CV Envelope Follower",
+      "uri": "query:AudioFx#Modulators:CV%20Envelope%20Follower",
+      "path": "Audio Effects/Modulators/CV Envelope Follower",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "CV In",
+      "uri": "query:AudioFx#Modulators:CV%20In",
+      "path": "Audio Effects/Modulators/CV In",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "CV LFO",
+      "uri": "query:AudioFx#Modulators:CV%20LFO",
+      "path": "Audio Effects/Modulators/CV LFO",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "CV Shaper",
+      "uri": "query:AudioFx#Modulators:CV%20Shaper",
+      "path": "Audio Effects/Modulators/CV Shaper",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Envelope Follower",
+      "uri": "query:AudioFx#Modulators:Envelope%20Follower",
+      "path": "Audio Effects/Modulators/Envelope Follower",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "LFO",
+      "uri": "query:AudioFx#Modulators:LFO",
+      "path": "Audio Effects/Modulators/LFO",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Shaper",
+      "uri": "query:AudioFx#Modulators:Shaper",
+      "path": "Audio Effects/Modulators/Shaper",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vector Map",
+      "uri": "query:AudioFx#Modulators:Vector%20Map",
+      "path": "Audio Effects/Modulators/Vector Map",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "8ths Precise.adv",
+      "uri": "query:AudioFx#Modulators:Envelope%20Follower:FileId_6371",
+      "path": "Audio Effects/Modulators/Envelope Follower/8ths Precise.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "16ths Ghosts.adv",
+      "uri": "query:AudioFx#Modulators:Envelope%20Follower:FileId_6370",
+      "path": "Audio Effects/Modulators/Envelope Follower/16ths Ghosts.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Fast Rise & Fall.adv",
+      "uri": "query:AudioFx#Modulators:Envelope%20Follower:FileId_6372",
+      "path": "Audio Effects/Modulators/Envelope Follower/Fast Rise & Fall.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Gentle Waves.adv",
+      "uri": "query:AudioFx#Modulators:Envelope%20Follower:FileId_6373",
+      "path": "Audio Effects/Modulators/Envelope Follower/Gentle Waves.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Slow Rise.adv",
+      "uri": "query:AudioFx#Modulators:Envelope%20Follower:FileId_6374",
+      "path": "Audio Effects/Modulators/Envelope Follower/Slow Rise.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Ducker Snappy.adv",
+      "uri": "query:AudioFx#Modulators:LFO:FileId_6222",
+      "path": "Audio Effects/Modulators/LFO/Ducker Snappy.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Flutter Fast.adv",
+      "uri": "query:AudioFx#Modulators:LFO:FileId_6223",
+      "path": "Audio Effects/Modulators/LFO/Flutter Fast.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Pulse Filter Pad.adv",
+      "uri": "query:AudioFx#Modulators:LFO:FileId_6224",
+      "path": "Audio Effects/Modulators/LFO/Pulse Filter Pad.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Rhythm Against 8ths.adv",
+      "uri": "query:AudioFx#Modulators:LFO:FileId_6225",
+      "path": "Audio Effects/Modulators/LFO/Rhythm Against 8ths.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Rhythm Offbeat Filter.adv",
+      "uri": "query:AudioFx#Modulators:LFO:FileId_6226",
+      "path": "Audio Effects/Modulators/LFO/Rhythm Offbeat Filter.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Rhythm Saw Up 4ths.adv",
+      "uri": "query:AudioFx#Modulators:LFO:FileId_6227",
+      "path": "Audio Effects/Modulators/LFO/Rhythm Saw Up 4ths.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Rhythm Triangle 8ths.adv",
+      "uri": "query:AudioFx#Modulators:LFO:FileId_6228",
+      "path": "Audio Effects/Modulators/LFO/Rhythm Triangle 8ths.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Wobble Slow.adv",
+      "uri": "query:AudioFx#Modulators:LFO:FileId_6229",
+      "path": "Audio Effects/Modulators/LFO/Wobble Slow.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "4ths Choker.adv",
+      "uri": "query:AudioFx#Modulators:Shaper:FileId_5999",
+      "path": "Audio Effects/Modulators/Shaper/4ths Choker.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "4ths Climb.adv",
+      "uri": "query:AudioFx#Modulators:Shaper:FileId_6000",
+      "path": "Audio Effects/Modulators/Shaper/4ths Climb.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "4ths Fast Peaks.adv",
+      "uri": "query:AudioFx#Modulators:Shaper:FileId_6001",
+      "path": "Audio Effects/Modulators/Shaper/4ths Fast Peaks.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "4ths Soft Peaks.adv",
+      "uri": "query:AudioFx#Modulators:Shaper:FileId_6002",
+      "path": "Audio Effects/Modulators/Shaper/4ths Soft Peaks.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "8ths Swelling.adv",
+      "uri": "query:AudioFx#Modulators:Shaper:FileId_6003",
+      "path": "Audio Effects/Modulators/Shaper/8ths Swelling.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Break After Two.adv",
+      "uri": "query:AudioFx#Modulators:Shaper:FileId_6004",
+      "path": "Audio Effects/Modulators/Shaper/Break After Two.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Downbeat Syncopated.adv",
+      "uri": "query:AudioFx#Modulators:Shaper:FileId_6005",
+      "path": "Audio Effects/Modulators/Shaper/Downbeat Syncopated.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Fast Extremes.adv",
+      "uri": "query:AudioFx#Modulators:Shaper:FileId_6006",
+      "path": "Audio Effects/Modulators/Shaper/Fast Extremes.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Offbeat Intervals.adv",
+      "uri": "query:AudioFx#Modulators:Shaper:FileId_6007",
+      "path": "Audio Effects/Modulators/Shaper/Offbeat Intervals.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Pulse Against 4ths.adv",
+      "uri": "query:AudioFx#Modulators:Shaper:FileId_6008",
+      "path": "Audio Effects/Modulators/Shaper/Pulse Against 4ths.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Shakey Climb.adv",
+      "uri": "query:AudioFx#Modulators:Shaper:FileId_6009",
+      "path": "Audio Effects/Modulators/Shaper/Shakey Climb.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Stutter Accents.adv",
+      "uri": "query:AudioFx#Modulators:Shaper:FileId_6010",
+      "path": "Audio Effects/Modulators/Shaper/Stutter Accents.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Push 3 Env Follow CV1.adv",
+      "uri": "query:AudioFx#Modulators:CV%20Envelope%20Follower:Performance%20&%20DJ:FileId_41568",
+      "path": "Audio Effects/Modulators/CV Envelope Follower/Performance & DJ/Push 3 Env Follow CV1.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Push 3 Env Follow CV2.adv",
+      "uri": "query:AudioFx#Modulators:CV%20Envelope%20Follower:Performance%20&%20DJ:FileId_41569",
+      "path": "Audio Effects/Modulators/CV Envelope Follower/Performance & DJ/Push 3 Env Follow CV2.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Push 3 LFO CV 1L.adv",
+      "uri": "query:AudioFx#Modulators:CV%20LFO:Performance%20&%20DJ:FileId_41576",
+      "path": "Audio Effects/Modulators/CV LFO/Performance & DJ/Push 3 LFO CV 1L.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Push 3 LFO CV 1R.adv",
+      "uri": "query:AudioFx#Modulators:CV%20LFO:Performance%20&%20DJ:FileId_41577",
+      "path": "Audio Effects/Modulators/CV LFO/Performance & DJ/Push 3 LFO CV 1R.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Push 3 LFO Out 2L.adv",
+      "uri": "query:AudioFx#Modulators:CV%20LFO:Performance%20&%20DJ:FileId_41578",
+      "path": "Audio Effects/Modulators/CV LFO/Performance & DJ/Push 3 LFO Out 2L.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Push 3 LFO Out 2R.adv",
+      "uri": "query:AudioFx#Modulators:CV%20LFO:Performance%20&%20DJ:FileId_41579",
+      "path": "Audio Effects/Modulators/CV LFO/Performance & DJ/Push 3 LFO Out 2R.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "path": "Instruments/Drift/Synth Lead",
+  "name": "Synth Lead",
+  "uri": "query:Synths#Drift:Synth%20Lead",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Crunch Arcade.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_5751"
+    },
+    {
+      "name": "Drifting Interferences.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_3749"
+    },
+    {
+      "name": "Filtered Sync Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_3750"
+    },
+    {
+      "name": "Freak Bounce Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_3753"
+    },
+    {
+      "name": "Game Console.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_5752"
+    },
+    {
+      "name": "Homebound Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_3754"
+    },
+    {
+      "name": "Hubus Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_5753"
+    },
+    {
+      "name": "Kentucky Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_5754"
+    },
+    {
+      "name": "Noise Sweep Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_3756"
+    },
+    {
+      "name": "Rogue.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_5755"
+    },
+    {
+      "name": "Sparkle Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_3762"
+    },
+    {
+      "name": "Synthetic Flute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_3768"
+    },
+    {
+      "name": "UK Siren Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_3771"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Drive_&_Color",
+  "name": "Synth Bite.adv",
+  "uri": "query:AudioFx#Drive%20&%20Color:Redux:FileId_6105",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Sample Rate",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5859375,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Jitter",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Bit Depth",
+      "min": 1.0,
+      "max": 16.0,
+      "value": 16.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Quantizer Shape",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.01587301678955555,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "DC Shift",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Pre-Filter On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Post-Filter On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Post-Filter",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Dry/Wet",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    }
+  ]
+}

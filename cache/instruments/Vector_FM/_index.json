@@ -1,0 +1,9 @@
+{
+  "path": "Instruments/Vector FM",
+  "name": "Vector FM",
+  "uri": "query:Synths#Vector%20FM",
+  "is_folder": false,
+  "is_device": true,
+  "is_loadable": true,
+  "items": []
+}

@@ -1,0 +1,101 @@
+{
+  "path": "Instruments/Analog/Brass",
+  "name": "Brass",
+  "uri": "query:Synths#Analog:Brass",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "80's Synth Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Brass:FileId_59602"
+    },
+    {
+      "name": "80s VCO Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Brass:FileId_5904"
+    },
+    {
+      "name": "Basic Silk Horns.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Brass:FileId_4050"
+    },
+    {
+      "name": "Brindali Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Brass:FileId_59603"
+    },
+    {
+      "name": "Chord Analog Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Brass:FileId_4053"
+    },
+    {
+      "name": "Circuit Brass Synth.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Brass:FileId_59604"
+    },
+    {
+      "name": "Ensemble Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Brass:FileId_59605"
+    },
+    {
+      "name": "Horn2 Hollow Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Brass:FileId_5905"
+    },
+    {
+      "name": "Mellow Notch Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Brass:FileId_5906"
+    },
+    {
+      "name": "OB Centric Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Brass:FileId_61088"
+    },
+    {
+      "name": "Old School Stab.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Brass:FileId_39912"
+    },
+    {
+      "name": "Poly Synth Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Brass:FileId_4056"
+    },
+    {
+      "name": "Saw Pure Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Brass:FileId_5907"
+    }
+  ]
+}

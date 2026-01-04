@@ -1,0 +1,2236 @@
+{
+  "path": "Sounds/Synth Rhythmic",
+  "name": "Synth Rhythmic",
+  "uri": "query:Sounds#Synth%20Rhythmic",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "106 Live Key.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_43074"
+    },
+    {
+      "name": "A Lower Tract.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59823"
+    },
+    {
+      "name": "A Stranger Saw.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_43075"
+    },
+    {
+      "name": "A Wobble Modwheel.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4846"
+    },
+    {
+      "name": "A1A Bass Sequencer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61226"
+    },
+    {
+      "name": "Add 32.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61227"
+    },
+    {
+      "name": "Aeroplane Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51328"
+    },
+    {
+      "name": "Aged Harmonics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51329"
+    },
+    {
+      "name": "Ambient Starfield Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61228"
+    },
+    {
+      "name": "Anti Gravity.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61229"
+    },
+    {
+      "name": "Arp Code.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_55524"
+    },
+    {
+      "name": "ARP Hatter.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38431"
+    },
+    {
+      "name": "Arp Sample Blender.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51246"
+    },
+    {
+      "name": "Arp Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61230"
+    },
+    {
+      "name": "Arps Of Orion.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51247"
+    },
+    {
+      "name": "Artes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49111"
+    },
+    {
+      "name": "Ascend Squares.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61231"
+    },
+    {
+      "name": "Ascending Sequence.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_41455"
+    },
+    {
+      "name": "Atmostronic Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61232"
+    },
+    {
+      "name": "Azimuth Arp Plucks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_41479"
+    },
+    {
+      "name": "Basic Harp Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3701"
+    },
+    {
+      "name": "Basic Pluck Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3702"
+    },
+    {
+      "name": "Basic Retro Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3703"
+    },
+    {
+      "name": "Basic Signal Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3704"
+    },
+    {
+      "name": "Bass Grinder.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4847"
+    },
+    {
+      "name": "Bastille Basher.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4848"
+    },
+    {
+      "name": "Batcopter Interior.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59728"
+    },
+    {
+      "name": "Bedbugs.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59824"
+    },
+    {
+      "name": "Berlin Lanechange.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61233"
+    },
+    {
+      "name": "Bit Strum.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49112"
+    },
+    {
+      "name": "Bounce Along.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49113"
+    },
+    {
+      "name": "Bounce Along.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59277"
+    },
+    {
+      "name": "Bounce Plush Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51248"
+    },
+    {
+      "name": "Bright Plonks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38432"
+    },
+    {
+      "name": "Bright Plonks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49114"
+    },
+    {
+      "name": "Buzz Bass 16ths.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5395"
+    },
+    {
+      "name": "Buzz Lead 4ths.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5396"
+    },
+    {
+      "name": "Bwauck Bwauck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51330"
+    },
+    {
+      "name": "Carbon Regulator.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_41480"
+    },
+    {
+      "name": "Carpenter's Chase.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51249"
+    },
+    {
+      "name": "Carpentry Skills.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4849"
+    },
+    {
+      "name": "Chaos Agent.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_54513"
+    },
+    {
+      "name": "Chaos Driver.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_54514"
+    },
+    {
+      "name": "Chasing The LFO.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4850"
+    },
+    {
+      "name": "Chatterbox.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4851"
+    },
+    {
+      "name": "Chewing Insects.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59729"
+    },
+    {
+      "name": "Chip Monk.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59825"
+    },
+    {
+      "name": "Choppy Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49115"
+    },
+    {
+      "name": "Chord Molecule Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3705"
+    },
+    {
+      "name": "Chouncer.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4852"
+    },
+    {
+      "name": "Chunk-a-Lot.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61234"
+    },
+    {
+      "name": "City Motion.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49116"
+    },
+    {
+      "name": "Clarks Revenge.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61235"
+    },
+    {
+      "name": "Cloud Cover Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3706"
+    },
+    {
+      "name": "Club Level Shorthand.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59826"
+    },
+    {
+      "name": "Colorado Stepper.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59827"
+    },
+    {
+      "name": "Concatenation.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4853"
+    },
+    {
+      "name": "Copper Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51250"
+    },
+    {
+      "name": "Cream Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59278"
+    },
+    {
+      "name": "Crispy 7th.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_54515"
+    },
+    {
+      "name": "Cycloid Noise.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61236"
+    },
+    {
+      "name": "Dark Ambience.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49117"
+    },
+    {
+      "name": "Dark Forest Synth Sequence.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_43076"
+    },
+    {
+      "name": "Deep Impact Engine.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51331"
+    },
+    {
+      "name": "Digital Murmers 1.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49118"
+    },
+    {
+      "name": "Digital Murmers 2.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49119"
+    },
+    {
+      "name": "Digital Receiver.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59279"
+    },
+    {
+      "name": "Digital Tension.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51332"
+    },
+    {
+      "name": "Digital Whisper Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3707"
+    },
+    {
+      "name": "Dirterydoo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59828"
+    },
+    {
+      "name": "Distant Memories.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51251"
+    },
+    {
+      "name": "Disturbed Industrial Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49120"
+    },
+    {
+      "name": "Dock Lands Chase.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51333"
+    },
+    {
+      "name": "Dog Walker.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61237"
+    },
+    {
+      "name": "Downhill Paragon.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59829"
+    },
+    {
+      "name": "Downwards Retro Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3708"
+    },
+    {
+      "name": "Drum Base.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49121"
+    },
+    {
+      "name": "Dusty Plates.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61238"
+    },
+    {
+      "name": "ElectroFest Sequence.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59830"
+    },
+    {
+      "name": "Enter Void.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51334"
+    },
+    {
+      "name": "Escape.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51335"
+    },
+    {
+      "name": "Euphoric Poly Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38433"
+    },
+    {
+      "name": "Eurythmical Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3709"
+    },
+    {
+      "name": "Face Melter.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4854"
+    },
+    {
+      "name": "Falling Bell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61239"
+    },
+    {
+      "name": "Faraday.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51336"
+    },
+    {
+      "name": "Felixian Pluck Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3710"
+    },
+    {
+      "name": "Flight Time.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_43077"
+    },
+    {
+      "name": "Flower In The Night.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51252"
+    },
+    {
+      "name": "Flutter Fiend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_54516"
+    },
+    {
+      "name": "Flux State.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51253"
+    },
+    {
+      "name": "Flying over Factories.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_55525"
+    },
+    {
+      "name": "FM Harp Bass Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51337"
+    },
+    {
+      "name": "FOF Bass Pulse.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59831"
+    },
+    {
+      "name": "Full Bass Repeat.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_43078"
+    },
+    {
+      "name": "Full Perc Pluck 16ths.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5397"
+    },
+    {
+      "name": "Galaxian Pride.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61240"
+    },
+    {
+      "name": "Gamelan Chimes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61241"
+    },
+    {
+      "name": "Git Proc Loop.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5244"
+    },
+    {
+      "name": "Glass Chimes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_43079"
+    },
+    {
+      "name": "Glitch Sequence.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3711"
+    },
+    {
+      "name": "Glitter Box.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51254"
+    },
+    {
+      "name": "Glowfex.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59280"
+    },
+    {
+      "name": "Growl Pitch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38434"
+    },
+    {
+      "name": "Happy Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_43080"
+    },
+    {
+      "name": "Heliotropic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61242"
+    },
+    {
+      "name": "Hero Approaching.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51338"
+    },
+    {
+      "name": "Highwire Tension.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59832"
+    },
+    {
+      "name": "Hold it now.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59658"
+    },
+    {
+      "name": "Holding Pattern Seq.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_55526"
+    },
+    {
+      "name": "Hollow Synth 16ths.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5398"
+    },
+    {
+      "name": "House Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61243"
+    },
+    {
+      "name": "Hungrywolf.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61244"
+    },
+    {
+      "name": "Hypno Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_55527"
+    },
+    {
+      "name": "Hypno Sequence.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_41456"
+    },
+    {
+      "name": "Icarus.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61245"
+    },
+    {
+      "name": "In Suspension.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51255"
+    },
+    {
+      "name": "Karplus Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49122"
+    },
+    {
+      "name": "Keyoff Bassline.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61246"
+    },
+    {
+      "name": "Klong Bass Machine.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5399"
+    },
+    {
+      "name": "Kneejerk Reaction.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_43081"
+    },
+    {
+      "name": "Knots.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51339"
+    },
+    {
+      "name": "Legacy Roar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38435"
+    },
+    {
+      "name": "Life On Mars.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61247"
+    },
+    {
+      "name": "Lightest Night Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3712"
+    },
+    {
+      "name": "Liquid Bassline.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49123"
+    },
+    {
+      "name": "Love Train Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61248"
+    },
+    {
+      "name": "Lucius Leftfoot.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_54517"
+    },
+    {
+      "name": "Lunar Steps.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61249"
+    },
+    {
+      "name": "Magna Rhythm.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61250"
+    },
+    {
+      "name": "Majestic Minions.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_54518"
+    },
+    {
+      "name": "Marking Time.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51340"
+    },
+    {
+      "name": "Maverick Pulser.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4855"
+    },
+    {
+      "name": "Meditation.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51256"
+    },
+    {
+      "name": "Medusa Melody.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_54519"
+    },
+    {
+      "name": "Melacid Steps.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_41457"
+    },
+    {
+      "name": "Melodian.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_54520"
+    },
+    {
+      "name": "Melody Generator.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38436"
+    },
+    {
+      "name": "Meme Richochet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61251"
+    },
+    {
+      "name": "Menke Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49124"
+    },
+    {
+      "name": "Metal Can Float.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51341"
+    },
+    {
+      "name": "Metal Pluck 8ths.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5400"
+    },
+    {
+      "name": "Metallism Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51257"
+    },
+    {
+      "name": "Metric.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51342"
+    },
+    {
+      "name": "Midnight Chase.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4856"
+    },
+    {
+      "name": "Midnight Dip.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_55528"
+    },
+    {
+      "name": "Mi-Go Down.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49125"
+    },
+    {
+      "name": "Mod Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_43082"
+    },
+    {
+      "name": "Modal Particles.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51343"
+    },
+    {
+      "name": "Modular Bass Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61252"
+    },
+    {
+      "name": "Module 1.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_55529"
+    },
+    {
+      "name": "Molar Activity.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59833"
+    },
+    {
+      "name": "Molecular Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_55530"
+    },
+    {
+      "name": "Molten Metal.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4857"
+    },
+    {
+      "name": "Moonscape Chord Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61253"
+    },
+    {
+      "name": "Motion Swarm.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49126"
+    },
+    {
+      "name": "Mouse Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3713"
+    },
+    {
+      "name": "MPE FM Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3733"
+    },
+    {
+      "name": "MPE Level Ives Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3734"
+    },
+    {
+      "name": "MPE Metallic Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3735"
+    },
+    {
+      "name": "MPE Polypulse Pressure.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3736"
+    },
+    {
+      "name": "MPE Spieluhr.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3737"
+    },
+    {
+      "name": "Nebulous Sequence.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61254"
+    },
+    {
+      "name": "Nein Chords.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59281"
+    },
+    {
+      "name": "Neo Post Acid.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4858"
+    },
+    {
+      "name": "Neon Flicker.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49127"
+    },
+    {
+      "name": "Neptune Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3714"
+    },
+    {
+      "name": "Neptune is Cloudy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61255"
+    },
+    {
+      "name": "Neuro Pulse Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3715"
+    },
+    {
+      "name": "Neurothmic Steps.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_41458"
+    },
+    {
+      "name": "NewYork Escape Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61256"
+    },
+    {
+      "name": "No Trix.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49128"
+    },
+    {
+      "name": "Noise Apparatus.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_54521"
+    },
+    {
+      "name": "Noisy Keys Machine.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5401"
+    },
+    {
+      "name": "Octave Jumper.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59628"
+    },
+    {
+      "name": "Off The Rails Rhythm.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59834"
+    },
+    {
+      "name": "One Note Wander.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49129"
+    },
+    {
+      "name": "Particle Bass Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51344"
+    },
+    {
+      "name": "Past Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_43083"
+    },
+    {
+      "name": "Pine Straw Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38437"
+    },
+    {
+      "name": "Pink House Blues.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49130"
+    },
+    {
+      "name": "Pitter Patter.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49131"
+    },
+    {
+      "name": "Planetary Arps Colliding.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51258"
+    },
+    {
+      "name": "Polardazed Pattern.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59835"
+    },
+    {
+      "name": "Poli Stepper.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_41459"
+    },
+    {
+      "name": "PolyRythm FM.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49132"
+    },
+    {
+      "name": "Pong It.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38438"
+    },
+    {
+      "name": "Pressure Plates.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61257"
+    },
+    {
+      "name": "Prodigal Bass Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61258"
+    },
+    {
+      "name": "Prowler Groove.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38439"
+    },
+    {
+      "name": "Pulse of Vengeance.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51345"
+    },
+    {
+      "name": "Pulse Warp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_43084"
+    },
+    {
+      "name": "Pulsing Click Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3716"
+    },
+    {
+      "name": "Pulsing LoFi Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3717"
+    },
+    {
+      "name": "Pulsing Organ Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3718"
+    },
+    {
+      "name": "Pulsing Raum Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3719"
+    },
+    {
+      "name": "Punch Bowl Dunk.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4859"
+    },
+    {
+      "name": "Pure Bell 8ths.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5402"
+    },
+    {
+      "name": "PW Sync Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61259"
+    },
+    {
+      "name": "Queasy Pulses.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51346"
+    },
+    {
+      "name": "Quick Step.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_41460"
+    },
+    {
+      "name": "Railings And Pipes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_55531"
+    },
+    {
+      "name": "Ramble Mod.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4860"
+    },
+    {
+      "name": "Raw Creep.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_55532"
+    },
+    {
+      "name": "ResoBox FM.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49133"
+    },
+    {
+      "name": "Rhythm and Groove.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59282"
+    },
+    {
+      "name": "Rhythmic Bass & Bell.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5403"
+    },
+    {
+      "name": "Rhythmic Bass & Hihat Basic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5404"
+    },
+    {
+      "name": "Rhythmic Bass & Hihat Sweep.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5405"
+    },
+    {
+      "name": "Rhythmic Bass & Perc Full.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5406"
+    },
+    {
+      "name": "Rhythmic Filter Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3720"
+    },
+    {
+      "name": "Rhythmic Oshima Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3721"
+    },
+    {
+      "name": "Rhythmic Paradise Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3722"
+    },
+    {
+      "name": "Rhythmic Pong Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5407"
+    },
+    {
+      "name": "Rhythmic SciFi Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5408"
+    },
+    {
+      "name": "Rhythmic Sine Saw Square.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5295"
+    },
+    {
+      "name": "Rhythmic Square Synth Buzz.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5409"
+    },
+    {
+      "name": "Rhythmic Sweep Synth Buzz.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5410"
+    },
+    {
+      "name": "Rhythmic Synth Buzz.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5411"
+    },
+    {
+      "name": "Rhythmic Tines Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5412"
+    },
+    {
+      "name": "Rhythmic Wow Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5413"
+    },
+    {
+      "name": "Roller FM Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4861"
+    },
+    {
+      "name": "Rolling Hi Tech Perc.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3723"
+    },
+    {
+      "name": "Rubber Technology.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_55533"
+    },
+    {
+      "name": "Run For Cover.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59659"
+    },
+    {
+      "name": "Running After Touch.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59730"
+    },
+    {
+      "name": "Running Late Sequence.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61260"
+    },
+    {
+      "name": "Running Loco.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_55534"
+    },
+    {
+      "name": "Runscape.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_43085"
+    },
+    {
+      "name": "Rye Catcher.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59836"
+    },
+    {
+      "name": "SAH Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_41304"
+    },
+    {
+      "name": "Sapphire Bounce.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_43086"
+    },
+    {
+      "name": "SAW It Up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38440"
+    },
+    {
+      "name": "Saw Plus Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61261"
+    },
+    {
+      "name": "SC 30 LFO.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61262"
+    },
+    {
+      "name": "SciFi Machine.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5414"
+    },
+    {
+      "name": "Scraps.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4863"
+    },
+    {
+      "name": "Screech Factor.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38441"
+    },
+    {
+      "name": "Scrumptious Sync.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59837"
+    },
+    {
+      "name": "Second Sticks.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4864"
+    },
+    {
+      "name": "Sencha Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3724"
+    },
+    {
+      "name": "SH Notes.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4862"
+    },
+    {
+      "name": "Shake & Bake.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49134"
+    },
+    {
+      "name": "Shaznoffer Bassline.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38442"
+    },
+    {
+      "name": "Shimmer Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38443"
+    },
+    {
+      "name": "Shimmer Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61263"
+    },
+    {
+      "name": "Shiver Shake.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59283"
+    },
+    {
+      "name": "Short Circuit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49135"
+    },
+    {
+      "name": "Shorthand Rumblefish.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59838"
+    },
+    {
+      "name": "Sidechain Charger.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38444"
+    },
+    {
+      "name": "Sidechain Pump Wash.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38445"
+    },
+    {
+      "name": "Silen Chord.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59284"
+    },
+    {
+      "name": "Skatepark Dynasty.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4865"
+    },
+    {
+      "name": "Skip Time.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38446"
+    },
+    {
+      "name": "Slippery Mo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_55535"
+    },
+    {
+      "name": "Smackdown Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_55536"
+    },
+    {
+      "name": "Snake Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_41305"
+    },
+    {
+      "name": "Snow Peaks Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3725"
+    },
+    {
+      "name": "Sogawni Split Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3726"
+    },
+    {
+      "name": "Space Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3727"
+    },
+    {
+      "name": "Space Cowboy Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51259"
+    },
+    {
+      "name": "Spirit Bell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_43087"
+    },
+    {
+      "name": "Splatbass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59839"
+    },
+    {
+      "name": "SQR Arpy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61264"
+    },
+    {
+      "name": "SQUeggiator.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38447"
+    },
+    {
+      "name": "Stabbed Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_41481"
+    },
+    {
+      "name": "Staccato City.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_54522"
+    },
+    {
+      "name": "Stardazed Pattern.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59840"
+    },
+    {
+      "name": "Steeple Chaser Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3728"
+    },
+    {
+      "name": "Stepper.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61265"
+    },
+    {
+      "name": "Sticky Gears.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59841"
+    },
+    {
+      "name": "Stop Short.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59629"
+    },
+    {
+      "name": "StopandGo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_41306"
+    },
+    {
+      "name": "Stranger Rings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61266"
+    },
+    {
+      "name": "String-Ting Arpeggio Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_43088"
+    },
+    {
+      "name": "Stubby Echo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59842"
+    },
+    {
+      "name": "Sub Chamber Bassline.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61267"
+    },
+    {
+      "name": "Submerged Externals.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51347"
+    },
+    {
+      "name": "Sufi Whirling.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59285"
+    },
+    {
+      "name": "Sumptuous.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49136"
+    },
+    {
+      "name": "Sun Sound.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_43089"
+    },
+    {
+      "name": "Sunshine Miner.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_54523"
+    },
+    {
+      "name": "Surface Strobe.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_55537"
+    },
+    {
+      "name": "Surfing Stratus.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_38448"
+    },
+    {
+      "name": "Survival Mode.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61268"
+    },
+    {
+      "name": "Synth Buzz 8ths.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5415"
+    },
+    {
+      "name": "Synth Reso Buzz 16ths.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5416"
+    },
+    {
+      "name": "Synth Reso Sweep 16ths.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5417"
+    },
+    {
+      "name": "Tesla Riser Loop.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4866"
+    },
+    {
+      "name": "Thin Perc 8ths.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_5418"
+    },
+    {
+      "name": "Time Runner Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61269"
+    },
+    {
+      "name": "Timeless Vault.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_61270"
+    },
+    {
+      "name": "Toasty Arp Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49137"
+    },
+    {
+      "name": "Tortoise and Trent.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59843"
+    },
+    {
+      "name": "Trace Amount.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_54524"
+    },
+    {
+      "name": "Track In a Rack.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_55538"
+    },
+    {
+      "name": "Trippy Drops Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3729"
+    },
+    {
+      "name": "Twilit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49138"
+    },
+    {
+      "name": "Twinkle & Hold.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4867"
+    },
+    {
+      "name": "Twins At Sunset.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51260"
+    },
+    {
+      "name": "Uneasy Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_51348"
+    },
+    {
+      "name": "Up and Up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_54525"
+    },
+    {
+      "name": "Uphill Climber.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59844"
+    },
+    {
+      "name": "Uplift Strings Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3730"
+    },
+    {
+      "name": "Vapor Games Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_3731"
+    },
+    {
+      "name": "Velocity Choker.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59845"
+    },
+    {
+      "name": "Velocity Doubler.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4868"
+    },
+    {
+      "name": "Velocity LFO Resolume.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4869"
+    },
+    {
+      "name": "Venus Smiles.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49139"
+    },
+    {
+      "name": "Vintage Rhythm.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59846"
+    },
+    {
+      "name": "Vowel Cadence.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4870"
+    },
+    {
+      "name": "Walk The Walk.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59847"
+    },
+    {
+      "name": "Warped Mind Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_49140"
+    },
+    {
+      "name": "Wave Terminology.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4871"
+    },
+    {
+      "name": "Whats The Antimatter.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4872"
+    },
+    {
+      "name": "Wire Bass Journey.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4873"
+    },
+    {
+      "name": "Wobble Stutter.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_59848"
+    },
+    {
+      "name": "Yayaya.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Synth%20Rhythmic:FileId_4874"
+    }
+  ]
+}

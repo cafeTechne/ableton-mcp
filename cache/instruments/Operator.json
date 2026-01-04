@@ -1,0 +1,136 @@
+{
+  "path": "Instruments/Operator",
+  "name": "Operator",
+  "uri": "query:Synths#Operator",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "Ambient & Evolving",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving"
+    },
+    {
+      "name": "Bass",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Bass"
+    },
+    {
+      "name": "Booms",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Booms"
+    },
+    {
+      "name": "Brass",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Brass"
+    },
+    {
+      "name": "Components",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Components"
+    },
+    {
+      "name": "Effects",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Effects"
+    },
+    {
+      "name": "Experimental",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Experimental"
+    },
+    {
+      "name": "Guitar & Plucked",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked"
+    },
+    {
+      "name": "Mallets",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Mallets"
+    },
+    {
+      "name": "Pad",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Pad"
+    },
+    {
+      "name": "Percussive",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Percussive"
+    },
+    {
+      "name": "Piano & Keys",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Piano%20&%20Keys"
+    },
+    {
+      "name": "Synth Keys",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Synth%20Keys"
+    },
+    {
+      "name": "Synth Lead",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Synth%20Lead"
+    },
+    {
+      "name": "Synth Misc",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Synth%20Misc"
+    },
+    {
+      "name": "Synth Rhythmic",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Synth%20Rhythmic"
+    },
+    {
+      "name": "Voices",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Voices"
+    },
+    {
+      "name": "Winds",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Operator:Winds"
+    }
+  ]
+}

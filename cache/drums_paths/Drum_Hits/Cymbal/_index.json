@@ -1,0 +1,2852 @@
+{
+  "path": "drums/Drum Hits/Cymbal",
+  "name": "Cymbal",
+  "uri": "query:Drums#Drum%20Hits:Cymbal",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Brush Crash 14 ClubSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55704"
+    },
+    {
+      "name": "Brush Crash 16 ClubSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55705"
+    },
+    {
+      "name": "Brush Crash 17 ClubSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55706"
+    },
+    {
+      "name": "Brush Crash 18 ClubSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55707"
+    },
+    {
+      "name": "China AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56428"
+    },
+    {
+      "name": "China BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55708"
+    },
+    {
+      "name": "China BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56429"
+    },
+    {
+      "name": "China BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55709"
+    },
+    {
+      "name": "China Burned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46450"
+    },
+    {
+      "name": "China ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56430"
+    },
+    {
+      "name": "China ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56431"
+    },
+    {
+      "name": "China CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56432"
+    },
+    {
+      "name": "China DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55710"
+    },
+    {
+      "name": "China DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55711"
+    },
+    {
+      "name": "China DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56433"
+    },
+    {
+      "name": "China LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55712"
+    },
+    {
+      "name": "China OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56434"
+    },
+    {
+      "name": "CHINA PE TW 14 choke.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45871"
+    },
+    {
+      "name": "CHINA PE TW 14 edge crash.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45872"
+    },
+    {
+      "name": "CHINA PE TW 14 side stick atmo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45873"
+    },
+    {
+      "name": "China ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55713"
+    },
+    {
+      "name": "China RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56435"
+    },
+    {
+      "name": "China SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56436"
+    },
+    {
+      "name": "China SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56437"
+    },
+    {
+      "name": "China StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56438"
+    },
+    {
+      "name": "China WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55714"
+    },
+    {
+      "name": "Crash 14 BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55715"
+    },
+    {
+      "name": "Crash 14 BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56439"
+    },
+    {
+      "name": "Crash 14 BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55716"
+    },
+    {
+      "name": "Crash 14 ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56440"
+    },
+    {
+      "name": "Crash 14 ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56441"
+    },
+    {
+      "name": "Crash 14 CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56442"
+    },
+    {
+      "name": "Crash 14 DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55717"
+    },
+    {
+      "name": "Crash 14 DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55718"
+    },
+    {
+      "name": "Crash 14 DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56443"
+    },
+    {
+      "name": "Crash 14 LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55719"
+    },
+    {
+      "name": "Crash 14 OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56444"
+    },
+    {
+      "name": "Crash 14 ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55720"
+    },
+    {
+      "name": "Crash 14 RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56445"
+    },
+    {
+      "name": "Crash 14 SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56446"
+    },
+    {
+      "name": "Crash 14 SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56447"
+    },
+    {
+      "name": "Crash 14 StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56448"
+    },
+    {
+      "name": "Crash 14 WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55721"
+    },
+    {
+      "name": "Crash 16 AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56449"
+    },
+    {
+      "name": "Crash 16 BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55722"
+    },
+    {
+      "name": "Crash 16 BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56450"
+    },
+    {
+      "name": "Crash 16 BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55723"
+    },
+    {
+      "name": "Crash 16 ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56451"
+    },
+    {
+      "name": "Crash 16 ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56452"
+    },
+    {
+      "name": "Crash 16 CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56453"
+    },
+    {
+      "name": "Crash 16 DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55724"
+    },
+    {
+      "name": "Crash 16 DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55725"
+    },
+    {
+      "name": "Crash 16 DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56454"
+    },
+    {
+      "name": "Crash 16 LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55726"
+    },
+    {
+      "name": "Crash 16 OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56455"
+    },
+    {
+      "name": "Crash 16 ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55727"
+    },
+    {
+      "name": "Crash 16 RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56456"
+    },
+    {
+      "name": "Crash 16 SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56457"
+    },
+    {
+      "name": "Crash 16 SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56458"
+    },
+    {
+      "name": "Crash 16 StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56459"
+    },
+    {
+      "name": "Crash 16 WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55728"
+    },
+    {
+      "name": "Crash 17 AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56460"
+    },
+    {
+      "name": "Crash 17 BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55729"
+    },
+    {
+      "name": "Crash 17 BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56461"
+    },
+    {
+      "name": "Crash 17 BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55730"
+    },
+    {
+      "name": "Crash 17 ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56462"
+    },
+    {
+      "name": "Crash 17 ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56463"
+    },
+    {
+      "name": "Crash 17 CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56464"
+    },
+    {
+      "name": "Crash 17 DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55731"
+    },
+    {
+      "name": "Crash 17 DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55732"
+    },
+    {
+      "name": "Crash 17 DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56465"
+    },
+    {
+      "name": "Crash 17 LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55733"
+    },
+    {
+      "name": "Crash 17 OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56466"
+    },
+    {
+      "name": "Crash 17 ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55734"
+    },
+    {
+      "name": "Crash 17 RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56467"
+    },
+    {
+      "name": "Crash 17 SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56468"
+    },
+    {
+      "name": "Crash 17 SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56469"
+    },
+    {
+      "name": "Crash 17 StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56470"
+    },
+    {
+      "name": "Crash 17 WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55735"
+    },
+    {
+      "name": "Crash 17o14 StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56471"
+    },
+    {
+      "name": "Crash 18 AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56472"
+    },
+    {
+      "name": "Crash 18 BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55736"
+    },
+    {
+      "name": "Crash 18 BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56473"
+    },
+    {
+      "name": "Crash 18 BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55737"
+    },
+    {
+      "name": "Crash 18 ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56474"
+    },
+    {
+      "name": "Crash 18 ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56475"
+    },
+    {
+      "name": "Crash 18 CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56476"
+    },
+    {
+      "name": "Crash 18 DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55738"
+    },
+    {
+      "name": "Crash 18 DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55739"
+    },
+    {
+      "name": "Crash 18 DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56477"
+    },
+    {
+      "name": "Crash 18 LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55740"
+    },
+    {
+      "name": "Crash 18 OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56478"
+    },
+    {
+      "name": "Crash 18 ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55741"
+    },
+    {
+      "name": "Crash 18 RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56479"
+    },
+    {
+      "name": "Crash 18 SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56480"
+    },
+    {
+      "name": "Crash 18 SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56481"
+    },
+    {
+      "name": "Crash 18 StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56482"
+    },
+    {
+      "name": "Crash 18 WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55742"
+    },
+    {
+      "name": "Crash 18o16 ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56483"
+    },
+    {
+      "name": "Crash 505 ASR.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1633"
+    },
+    {
+      "name": "Crash 505 Glow.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_42280"
+    },
+    {
+      "name": "Crash 505.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1634"
+    },
+    {
+      "name": "Crash 707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_57858"
+    },
+    {
+      "name": "Crash 707.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1635"
+    },
+    {
+      "name": "Crash 909.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1636"
+    },
+    {
+      "name": "Crash 909.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_57859"
+    },
+    {
+      "name": "Crash Acoustic Clash.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_36135"
+    },
+    {
+      "name": "Crash Acoustified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46453"
+    },
+    {
+      "name": "Crash Acoustified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46458"
+    },
+    {
+      "name": "Crash Acoustified 03.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46451"
+    },
+    {
+      "name": "Crash Acoustified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46459"
+    },
+    {
+      "name": "Crash Acoustified 09.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46452"
+    },
+    {
+      "name": "Crash Acoustified 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46454"
+    },
+    {
+      "name": "Crash Acoustified 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46455"
+    },
+    {
+      "name": "Crash Acoustified 13.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46456"
+    },
+    {
+      "name": "Crash Acoustified 15.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46457"
+    },
+    {
+      "name": "Crash Acoustified High.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1637"
+    },
+    {
+      "name": "Crash Acoustified Low.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1638"
+    },
+    {
+      "name": "Crash Airy Watcher R.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_36136"
+    },
+    {
+      "name": "Crash Airy Watcher.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_36137"
+    },
+    {
+      "name": "Crash Autopan.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37301"
+    },
+    {
+      "name": "Crash BamVin.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1639"
+    },
+    {
+      "name": "Crash Bandicute.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1640"
+    },
+    {
+      "name": "Crash Bang.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_39605"
+    },
+    {
+      "name": "Crash Big Dirt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37302"
+    },
+    {
+      "name": "Crash Blueprint [2019-10-14 171306] R.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_39606"
+    },
+    {
+      "name": "Crash Blueprint [2019-10-14 171306].aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_39607"
+    },
+    {
+      "name": "Crash Blueprint.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_39608"
+    },
+    {
+      "name": "Crash Bluesbreak.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1641"
+    },
+    {
+      "name": "Crash Bolt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1642"
+    },
+    {
+      "name": "Crash Boring.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1643"
+    },
+    {
+      "name": "Crash Bottom Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46460"
+    },
+    {
+      "name": "Crash Brkroni.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1644"
+    },
+    {
+      "name": "Crash Bronze.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37303"
+    },
+    {
+      "name": "Crash Build.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37304"
+    },
+    {
+      "name": "Crash Build.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1645"
+    },
+    {
+      "name": "Crash Burned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46461"
+    },
+    {
+      "name": "Crash Canvas.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_39609"
+    },
+    {
+      "name": "Crash China Edge ML.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1646"
+    },
+    {
+      "name": "Crash China Edge TW.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1647"
+    },
+    {
+      "name": "Crash China Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46462"
+    },
+    {
+      "name": "Crash China Stick Hit Cop Style.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1648"
+    },
+    {
+      "name": "Crash Chop Yolo.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1649"
+    },
+    {
+      "name": "Crash Chordial.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37305"
+    },
+    {
+      "name": "Crash Classic Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46463"
+    },
+    {
+      "name": "Crash Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37306"
+    },
+    {
+      "name": "Crash Crack 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1650"
+    },
+    {
+      "name": "Crash Crack 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1651"
+    },
+    {
+      "name": "Crash Cymbal 505 Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46464"
+    },
+    {
+      "name": "Crash Deep Clinical.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46465"
+    },
+    {
+      "name": "Crash Dirt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37307"
+    },
+    {
+      "name": "Crash Distant Metal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_36138"
+    },
+    {
+      "name": "Crash DMX Real 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1652"
+    },
+    {
+      "name": "Crash DMX Real 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1653"
+    },
+    {
+      "name": "Crash DMX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1654"
+    },
+    {
+      "name": "Crash Dry Session Doft 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1655"
+    },
+    {
+      "name": "Crash Dry Session Hard 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1656"
+    },
+    {
+      "name": "Crash Dry Session Hard 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1657"
+    },
+    {
+      "name": "Crash Dry Session Soft 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1658"
+    },
+    {
+      "name": "Crash Duster.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_36139"
+    },
+    {
+      "name": "Crash EDM Bright.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37308"
+    },
+    {
+      "name": "Crash EDM Dry.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37309"
+    },
+    {
+      "name": "Crash EDM Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37310"
+    },
+    {
+      "name": "Crash EDM Type.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37311"
+    },
+    {
+      "name": "Crash EDM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37312"
+    },
+    {
+      "name": "Crash Electrified 06.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46466"
+    },
+    {
+      "name": "Crash Electrified 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46467"
+    },
+    {
+      "name": "Crash ER Fenk.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1659"
+    },
+    {
+      "name": "Crash ER-1 Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46468"
+    },
+    {
+      "name": "Crash Feel.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1660"
+    },
+    {
+      "name": "Crash Filter Sweep.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37313"
+    },
+    {
+      "name": "Crash Flanger Sweep.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1661"
+    },
+    {
+      "name": "Crash FX 18o16 AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56484"
+    },
+    {
+      "name": "Crash FX17o14 AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56485"
+    },
+    {
+      "name": "Crash FX17o14 BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55743"
+    },
+    {
+      "name": "Crash FX17o14 BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56486"
+    },
+    {
+      "name": "Crash FX17o14 BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55744"
+    },
+    {
+      "name": "Crash FX17o14 ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56487"
+    },
+    {
+      "name": "Crash FX17o14 ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56488"
+    },
+    {
+      "name": "Crash FX17o14 CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56489"
+    },
+    {
+      "name": "Crash FX17o14 DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55745"
+    },
+    {
+      "name": "Crash FX17o14 DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55746"
+    },
+    {
+      "name": "Crash FX17o14 DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56490"
+    },
+    {
+      "name": "Crash FX17o14 LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55747"
+    },
+    {
+      "name": "Crash FX17o14 OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56491"
+    },
+    {
+      "name": "Crash FX17o14 ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55748"
+    },
+    {
+      "name": "Crash FX17o14 RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56492"
+    },
+    {
+      "name": "Crash FX17o14 SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56493"
+    },
+    {
+      "name": "Crash FX17o14 SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56494"
+    },
+    {
+      "name": "Crash FX17o14 WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55749"
+    },
+    {
+      "name": "Crash FX18o14 BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55750"
+    },
+    {
+      "name": "Crash FX18o16 BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56495"
+    },
+    {
+      "name": "Crash FX18o16 BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55751"
+    },
+    {
+      "name": "Crash FX18o16 ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56496"
+    },
+    {
+      "name": "Crash FX18o16 CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56497"
+    },
+    {
+      "name": "Crash FX18o16 DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55752"
+    },
+    {
+      "name": "Crash FX18o16 DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55753"
+    },
+    {
+      "name": "Crash FX18o16 DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56498"
+    },
+    {
+      "name": "Crash FX18o16 LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55754"
+    },
+    {
+      "name": "Crash FX18o16 OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56499"
+    },
+    {
+      "name": "Crash FX18o16 ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55755"
+    },
+    {
+      "name": "Crash FX18o16 RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56500"
+    },
+    {
+      "name": "Crash FX18o16 SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56501"
+    },
+    {
+      "name": "Crash FX18o16 SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56502"
+    },
+    {
+      "name": "Crash FX18o16 StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56503"
+    },
+    {
+      "name": "Crash FX18o16 WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55756"
+    },
+    {
+      "name": "Crash Gen Purpose 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1662"
+    },
+    {
+      "name": "Crash Gen Purpose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1663"
+    },
+    {
+      "name": "Crash Grounded.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46469"
+    },
+    {
+      "name": "Crash Head Nod.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_42281"
+    },
+    {
+      "name": "Crash Heavy Rock.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1664"
+    },
+    {
+      "name": "Crash Hi Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46470"
+    },
+    {
+      "name": "Crash Hi Bright.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_36140"
+    },
+    {
+      "name": "Crash Hi Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46471"
+    },
+    {
+      "name": "Crash Higher.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37314"
+    },
+    {
+      "name": "Crash Hihat Pedal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37315"
+    },
+    {
+      "name": "Crash Ironman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_39610"
+    },
+    {
+      "name": "Crash Ironman.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1665"
+    },
+    {
+      "name": "Crash Kick Reverse.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1666"
+    },
+    {
+      "name": "Crash Kindified 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1667"
+    },
+    {
+      "name": "Crash Kindified 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1668"
+    },
+    {
+      "name": "Crash Layer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37316"
+    },
+    {
+      "name": "Crash Layered.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1670"
+    },
+    {
+      "name": "Crash LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1669"
+    },
+    {
+      "name": "Crash LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46472"
+    },
+    {
+      "name": "Crash Light Right.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_36141"
+    },
+    {
+      "name": "Crash Light.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1671"
+    },
+    {
+      "name": "Crash Lo Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46473"
+    },
+    {
+      "name": "Crash Lofi Check.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46474"
+    },
+    {
+      "name": "Crash Lofi.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1672"
+    },
+    {
+      "name": "Crash Mansion.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1673"
+    },
+    {
+      "name": "Crash Marching Reverse.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_36142"
+    },
+    {
+      "name": "Crash Marching.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_36143"
+    },
+    {
+      "name": "Crash Milli.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_39611"
+    },
+    {
+      "name": "Crash Nervous Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46475"
+    },
+    {
+      "name": "Crash Oldskool.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37317"
+    },
+    {
+      "name": "Crash Party Starter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_36144"
+    },
+    {
+      "name": "CRASH PE ML 16 choke.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45874"
+    },
+    {
+      "name": "CRASH PE ML 16 edge crash.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45875"
+    },
+    {
+      "name": "CRASH PE ML 16 edge tip.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45876"
+    },
+    {
+      "name": "CRASH PE ML 16 side stick atmo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45877"
+    },
+    {
+      "name": "CRASH PE ML 18 choke.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45878"
+    },
+    {
+      "name": "CRASH PE ML 18 edge crash.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45879"
+    },
+    {
+      "name": "CRASH PE ML 18 edge tip.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45880"
+    },
+    {
+      "name": "CRASH PE ML 18 side stick atmo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45881"
+    },
+    {
+      "name": "CRASH PE TW 18 edge crash.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45882"
+    },
+    {
+      "name": "CRASH PE TW 18 side stick atmo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45883"
+    },
+    {
+      "name": "CRASH PE TW 20 edge crash.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45884"
+    },
+    {
+      "name": "Crash Pete.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1674"
+    },
+    {
+      "name": "Crash PO.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_48223"
+    },
+    {
+      "name": "Crash Proge Crash.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37318"
+    },
+    {
+      "name": "Crash Radio Rip .aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46476"
+    },
+    {
+      "name": "Crash Real DMX 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46477"
+    },
+    {
+      "name": "Crash Real DMX 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46478"
+    },
+    {
+      "name": "Crash Real SP 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1675"
+    },
+    {
+      "name": "Crash Real SP 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1676"
+    },
+    {
+      "name": "Crash Road Monger.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_36145"
+    },
+    {
+      "name": "Crash Room.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1677"
+    },
+    {
+      "name": "Crash Roomy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_42282"
+    },
+    {
+      "name": "Crash Roomy.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1678"
+    },
+    {
+      "name": "Crash Shimmer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37319"
+    },
+    {
+      "name": "Crash Silver.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37320"
+    },
+    {
+      "name": "Crash Simple.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37321"
+    },
+    {
+      "name": "Crash Smooth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37322"
+    },
+    {
+      "name": "Crash Songwriter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46479"
+    },
+    {
+      "name": "Crash Ssshh.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37323"
+    },
+    {
+      "name": "Crash Stacked.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1679"
+    },
+    {
+      "name": "Crash Sticky.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_39612"
+    },
+    {
+      "name": "Crash StreetPlayer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_42283"
+    },
+    {
+      "name": "Crash Streets.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_39613"
+    },
+    {
+      "name": "Crash Synthetic Filtered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37324"
+    },
+    {
+      "name": "Crash Terrified.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1680"
+    },
+    {
+      "name": "Crash Timeless.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37325"
+    },
+    {
+      "name": "Crash Trax.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_57860"
+    },
+    {
+      "name": "Crash Vintagey.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37326"
+    },
+    {
+      "name": "Crash-707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46480"
+    },
+    {
+      "name": "Crash-909.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46481"
+    },
+    {
+      "name": "Crash-DMX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46482"
+    },
+    {
+      "name": "Crash-SessionDry16-Stick-Hit-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46483"
+    },
+    {
+      "name": "Crash-SessionDry18-Stick-Hit-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46484"
+    },
+    {
+      "name": "Cymbal 505 ASR.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46485"
+    },
+    {
+      "name": "Cymbal 606.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1681"
+    },
+    {
+      "name": "Cymbal 808 Bright Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_36146"
+    },
+    {
+      "name": "Cymbal 808 Full.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1682"
+    },
+    {
+      "name": "Cymbal 808 Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1683"
+    },
+    {
+      "name": "Cymbal 808 Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1684"
+    },
+    {
+      "name": "Cymbal 808 VA90.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46486"
+    },
+    {
+      "name": "Cymbal 808 VA90.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1685"
+    },
+    {
+      "name": "Cymbal 808 XXXX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1686"
+    },
+    {
+      "name": "Cymbal A Bell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_50254"
+    },
+    {
+      "name": "Cymbal A Finger Op.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_50255"
+    },
+    {
+      "name": "Cymbal A Finger Stp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_50256"
+    },
+    {
+      "name": "Cymbal A Stick Opn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_50257"
+    },
+    {
+      "name": "Cymbal A Stick Stop.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_50258"
+    },
+    {
+      "name": "Cymbal Acid House.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1687"
+    },
+    {
+      "name": "Cymbal Acoustic Melt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_48224"
+    },
+    {
+      "name": "Cymbal Acoustic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1688"
+    },
+    {
+      "name": "Cymbal B Bell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_50259"
+    },
+    {
+      "name": "Cymbal B Finger Op.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_50260"
+    },
+    {
+      "name": "Cymbal B Finger Stp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_50261"
+    },
+    {
+      "name": "Cymbal B Stick Opn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_50262"
+    },
+    {
+      "name": "Cymbal B Stick Stop.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_50263"
+    },
+    {
+      "name": "Cymbal Boring.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46488"
+    },
+    {
+      "name": "Cymbal Boring-1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46487"
+    },
+    {
+      "name": "Cymbal C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1689"
+    },
+    {
+      "name": "Cymbal Code Gltch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_48225"
+    },
+    {
+      "name": "Cymbal Code Night.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_48226"
+    },
+    {
+      "name": "Cymbal Code Snake.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_48227"
+    },
+    {
+      "name": "Cymbal Code Sonar.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_48228"
+    },
+    {
+      "name": "Cymbal Crash Food.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_39614"
+    },
+    {
+      "name": "Cymbal Crash Reverse Gnirob.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1690"
+    },
+    {
+      "name": "Cymbal Dax.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1692"
+    },
+    {
+      "name": "Cymbal DM Vintage.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1691"
+    },
+    {
+      "name": "Cymbal Layered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46489"
+    },
+    {
+      "name": "Cymbal Lofi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1693"
+    },
+    {
+      "name": "Cymbal Real SP 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46490"
+    },
+    {
+      "name": "Cymbal Reverse Quick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_36147"
+    },
+    {
+      "name": "Cymbal Roomy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46491"
+    },
+    {
+      "name": "Cymbal Smash Clinical.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46492"
+    },
+    {
+      "name": "Cymbal Splash Paradise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_36148"
+    },
+    {
+      "name": "Cymbal Swell Come Up.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_39615"
+    },
+    {
+      "name": "Cymbal Swell Dual Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_36149"
+    },
+    {
+      "name": "Cymbal Swell Rise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_39616"
+    },
+    {
+      "name": "Cymbal Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_39617"
+    },
+    {
+      "name": "Cymbal-606.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46493"
+    },
+    {
+      "name": "Cymbal-808-Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46494"
+    },
+    {
+      "name": "Cymbal-C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46495"
+    },
+    {
+      "name": "Finger Cymbal A.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_50264"
+    },
+    {
+      "name": "Finger Cymbal B.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_50265"
+    },
+    {
+      "name": "Gong A 1.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_50266"
+    },
+    {
+      "name": "Gong A 2.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_50267"
+    },
+    {
+      "name": "Gong B 2.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_50268"
+    },
+    {
+      "name": "Gong B 3.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_50269"
+    },
+    {
+      "name": "Gong OVXO.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37327"
+    },
+    {
+      "name": "Multirod Crash 14 DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56504"
+    },
+    {
+      "name": "Multirod Crash 16 DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56505"
+    },
+    {
+      "name": "Multirod Crash 17 DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56506"
+    },
+    {
+      "name": "Multirod Crash 18 DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56507"
+    },
+    {
+      "name": "Ride 808 Long Retro.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46496"
+    },
+    {
+      "name": "Ride Long Ambience.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46497"
+    },
+    {
+      "name": "Splash 8 AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56529"
+    },
+    {
+      "name": "Splash 8 BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55771"
+    },
+    {
+      "name": "Splash 8 BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56530"
+    },
+    {
+      "name": "Splash 8 BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55772"
+    },
+    {
+      "name": "Splash 8 ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56531"
+    },
+    {
+      "name": "Splash 8 ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56532"
+    },
+    {
+      "name": "Splash 8 CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56533"
+    },
+    {
+      "name": "Splash 8 DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55773"
+    },
+    {
+      "name": "Splash 8 DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55774"
+    },
+    {
+      "name": "Splash 8 DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56534"
+    },
+    {
+      "name": "Splash 8 LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55775"
+    },
+    {
+      "name": "Splash 8 OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56535"
+    },
+    {
+      "name": "Splash 8 ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55776"
+    },
+    {
+      "name": "Splash 8 RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56536"
+    },
+    {
+      "name": "Splash 8 SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56537"
+    },
+    {
+      "name": "Splash 8 SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56538"
+    },
+    {
+      "name": "Splash 8 StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56539"
+    },
+    {
+      "name": "Splash 8 WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55777"
+    },
+    {
+      "name": "Splash 10 AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56508"
+    },
+    {
+      "name": "Splash 10 BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55757"
+    },
+    {
+      "name": "Splash 10 BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56509"
+    },
+    {
+      "name": "Splash 10 BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55758"
+    },
+    {
+      "name": "Splash 10 ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56510"
+    },
+    {
+      "name": "Splash 10 ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56511"
+    },
+    {
+      "name": "Splash 10 CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56512"
+    },
+    {
+      "name": "Splash 10 DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55759"
+    },
+    {
+      "name": "Splash 10 DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55760"
+    },
+    {
+      "name": "Splash 10 DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56513"
+    },
+    {
+      "name": "Splash 10 LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55761"
+    },
+    {
+      "name": "Splash 10 OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56514"
+    },
+    {
+      "name": "Splash 10 ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55762"
+    },
+    {
+      "name": "Splash 10 RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56515"
+    },
+    {
+      "name": "Splash 10 SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56516"
+    },
+    {
+      "name": "Splash 10 SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56517"
+    },
+    {
+      "name": "Splash 10 StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56518"
+    },
+    {
+      "name": "Splash 10 WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55763"
+    },
+    {
+      "name": "Splash 12 BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55764"
+    },
+    {
+      "name": "Splash 12 BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56519"
+    },
+    {
+      "name": "Splash 12 BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55765"
+    },
+    {
+      "name": "Splash 12 ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56520"
+    },
+    {
+      "name": "Splash 12 ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56521"
+    },
+    {
+      "name": "Splash 12 CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56522"
+    },
+    {
+      "name": "Splash 12 DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55766"
+    },
+    {
+      "name": "Splash 12 DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55767"
+    },
+    {
+      "name": "Splash 12 DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56523"
+    },
+    {
+      "name": "Splash 12 LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55768"
+    },
+    {
+      "name": "Splash 12 OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56524"
+    },
+    {
+      "name": "Splash 12 ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55769"
+    },
+    {
+      "name": "Splash 12 RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56525"
+    },
+    {
+      "name": "Splash 12 SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56526"
+    },
+    {
+      "name": "Splash 12 SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56527"
+    },
+    {
+      "name": "Splash 12 StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_56528"
+    },
+    {
+      "name": "Splash 12 WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_55770"
+    },
+    {
+      "name": "Splash Code Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37328"
+    },
+    {
+      "name": "Splash Code Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1694"
+    },
+    {
+      "name": "Splash Crackin.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46498"
+    },
+    {
+      "name": "Splash Grounded.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_1695"
+    },
+    {
+      "name": "Splash Hi Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46499"
+    },
+    {
+      "name": "Splash Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46500"
+    },
+    {
+      "name": "Splash Lo Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46501"
+    },
+    {
+      "name": "SPLASH PE TW 08 choke.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45885"
+    },
+    {
+      "name": "SPLASH PE TW 08 edge crash.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45886"
+    },
+    {
+      "name": "SPLASH PE TW 08 side stick atmo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45887"
+    },
+    {
+      "name": "SPLASH PE TW 10 edge crash.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_45888"
+    },
+    {
+      "name": "Splash Reverberant.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_37329"
+    },
+    {
+      "name": "Splash Tremolo Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Cymbal:FileId_46502"
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "path": "Instruments/Operator/Ambient & Evolving",
+  "name": "Ambient & Evolving",
+  "uri": "query:Synths#Operator:Ambient%20&%20Evolving",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Bells & Thin Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_5706"
+    },
+    {
+      "name": "Binaural Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_43214"
+    },
+    {
+      "name": "Clone Modifier.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_48960"
+    },
+    {
+      "name": "Da Growler.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_55433"
+    },
+    {
+      "name": "Dark Horizon.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_55434"
+    },
+    {
+      "name": "Detuned Broad Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_5707"
+    },
+    {
+      "name": "Detuned Instable Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_5708"
+    },
+    {
+      "name": "Detuned Sustain Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_5709"
+    },
+    {
+      "name": "Distant Thunder FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_43220"
+    },
+    {
+      "name": "Drone Tapes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_55435"
+    },
+    {
+      "name": "Dynamic Inharmonics.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_5710"
+    },
+    {
+      "name": "Eighth-Tone-Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_43263"
+    },
+    {
+      "name": "Fizzling Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_5711"
+    },
+    {
+      "name": "Golden Gate Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_43223"
+    },
+    {
+      "name": "Grow & Shine.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_5712"
+    },
+    {
+      "name": "Heavenly  Glitch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_48964"
+    },
+    {
+      "name": "High & Low.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_5713"
+    },
+    {
+      "name": "Metallic FM.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_5714"
+    },
+    {
+      "name": "Mindfulness.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_4024"
+    },
+    {
+      "name": "Noisy Fourth Beat Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_5715"
+    },
+    {
+      "name": "Noisy Triple Beat Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_5716"
+    },
+    {
+      "name": "Pelog.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_43264"
+    },
+    {
+      "name": "Questionable Nature.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_55436"
+    },
+    {
+      "name": "Reso Repair.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_61049"
+    },
+    {
+      "name": "Resonant Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_5717"
+    },
+    {
+      "name": "Robot Beautician.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_54480"
+    },
+    {
+      "name": "Sake.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_48971"
+    },
+    {
+      "name": "Shoegazer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_43233"
+    },
+    {
+      "name": "Sliced Onion.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_55437"
+    },
+    {
+      "name": "Solfeggio Mirror Gongs.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_43266"
+    },
+    {
+      "name": "Square Sweep.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_5718"
+    },
+    {
+      "name": "Sunrise Waves.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_4028"
+    },
+    {
+      "name": "Swallow Shadows.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_61050"
+    },
+    {
+      "name": "Time Chimes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_55438"
+    },
+    {
+      "name": "Toro.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_48975"
+    },
+    {
+      "name": "Tranquility at Sea.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_48977"
+    },
+    {
+      "name": "Tsubugai.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_48978"
+    },
+    {
+      "name": "Vocal Ambience.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_61051"
+    },
+    {
+      "name": "X3RKABA.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Ambient%20&%20Evolving:FileId_43267"
+    }
+  ]
+}

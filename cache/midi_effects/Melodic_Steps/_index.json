@@ -1,0 +1,59 @@
+{
+  "path": "midi_effects/Melodic Steps",
+  "name": "Melodic Steps",
+  "uri": "query:MidiFx#Melodic%20Steps",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "Melodic Steps Aeolian.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Melodic%20Steps:FileId_41412"
+    },
+    {
+      "name": "Melodic Steps Chromatic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Melodic%20Steps:FileId_41413"
+    },
+    {
+      "name": "Melodic Steps Dorian.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Melodic%20Steps:FileId_41414"
+    },
+    {
+      "name": "Melodic Steps Locrian.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Melodic%20Steps:FileId_41415"
+    },
+    {
+      "name": "Melodic Steps Mixolydian.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Melodic%20Steps:FileId_41416"
+    },
+    {
+      "name": "Melodic Steps Phrygian.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Melodic%20Steps:FileId_41417"
+    },
+    {
+      "name": "Neurothmic Drums.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Melodic%20Steps:FileId_41418"
+    }
+  ]
+}

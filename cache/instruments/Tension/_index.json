@@ -1,0 +1,101 @@
+{
+  "path": "Instruments/Tension",
+  "name": "Tension",
+  "uri": "query:Synths#Tension",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "Ambient & Evolving",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Tension:Ambient%20&%20Evolving"
+    },
+    {
+      "name": "Bass",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Tension:Bass"
+    },
+    {
+      "name": "Effects",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Tension:Effects"
+    },
+    {
+      "name": "Experimental",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Tension:Experimental"
+    },
+    {
+      "name": "Guitar & Plucked",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked"
+    },
+    {
+      "name": "Mallets",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Tension:Mallets"
+    },
+    {
+      "name": "Pad",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Tension:Pad"
+    },
+    {
+      "name": "Percussive",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Tension:Percussive"
+    },
+    {
+      "name": "Piano & Keys",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Tension:Piano%20&%20Keys"
+    },
+    {
+      "name": "Strings",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Tension:Strings"
+    },
+    {
+      "name": "Synth Keys",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Tension:Synth%20Keys"
+    },
+    {
+      "name": "Synth Lead",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Tension:Synth%20Lead"
+    },
+    {
+      "name": "Synth Rhythmic",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Tension:Synth%20Rhythmic"
+    }
+  ]
+}

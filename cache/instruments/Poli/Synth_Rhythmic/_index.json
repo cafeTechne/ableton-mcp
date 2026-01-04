@@ -1,0 +1,24 @@
+{
+  "path": "Instruments/Poli/Synth Rhythmic",
+  "name": "Synth Rhythmic",
+  "uri": "query:Synths#Poli:Synth%20Rhythmic",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Azimuth Arp Plucks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Rhythmic:FileId_41479"
+    },
+    {
+      "name": "Carbon Regulator.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Rhythmic:FileId_41480"
+    }
+  ]
+}

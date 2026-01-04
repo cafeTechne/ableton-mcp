@@ -1,0 +1,178 @@
+{
+  "path": "Instruments/Drift/Bass",
+  "name": "Bass",
+  "uri": "query:Synths#Drift:Bass",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "808 Drifter.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_4062"
+    },
+    {
+      "name": "808 Pure.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_4063"
+    },
+    {
+      "name": "Body Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_4078"
+    },
+    {
+      "name": "Climb The Ladder.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_5814"
+    },
+    {
+      "name": "Clob Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_5815"
+    },
+    {
+      "name": "Deep Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_5816"
+    },
+    {
+      "name": "Dub Techno Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_5817"
+    },
+    {
+      "name": "Dub Wob Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_5818"
+    },
+    {
+      "name": "Esperienza Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_4085"
+    },
+    {
+      "name": "Floot Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_5819"
+    },
+    {
+      "name": "Glass Stomper Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_4089"
+    },
+    {
+      "name": "Go Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_4090"
+    },
+    {
+      "name": "Hammer Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_4091"
+    },
+    {
+      "name": "Mondo Star Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_4096"
+    },
+    {
+      "name": "Noise Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_4097"
+    },
+    {
+      "name": "Plain Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_4101"
+    },
+    {
+      "name": "Reese Bass Filtered.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_4102"
+    },
+    {
+      "name": "Screech Lead Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_4105"
+    },
+    {
+      "name": "Seventy Two Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_5820"
+    },
+    {
+      "name": "Skanker Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_4106"
+    },
+    {
+      "name": "Sol Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_5821"
+    },
+    {
+      "name": "Synth Pop Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_4110"
+    },
+    {
+      "name": "Vintage Chorus Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_5822"
+    },
+    {
+      "name": "Wub Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Bass:FileId_4115"
+    }
+  ]
+}

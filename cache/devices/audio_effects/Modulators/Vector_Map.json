@@ -1,0 +1,778 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Modulators",
+  "name": "Vector Map",
+  "uri": "query:AudioFx#Modulators:Vector%20Map",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "1 Attribute",
+      "min": 0.0,
+      "max": 4.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "x",
+        "y",
+        "mag",
+        "vel",
+        "mass"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "1 Index",
+      "min": 1.0,
+      "max": 8.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "1 Center",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 50.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "1 Width",
+      "min": -100.0,
+      "max": 100.0,
+      "value": 100.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "2 Attribute",
+      "min": 0.0,
+      "max": 4.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "x",
+        "y",
+        "mag",
+        "vel",
+        "mass"
+      ],
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "2 Index",
+      "min": 1.0,
+      "max": 8.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "2 Center",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 50.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "2 Width",
+      "min": -100.0,
+      "max": 100.0,
+      "value": 100.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "3 Attribute",
+      "min": 0.0,
+      "max": 4.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "x",
+        "y",
+        "mag",
+        "vel",
+        "mass"
+      ],
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "3 Index",
+      "min": 1.0,
+      "max": 8.0,
+      "value": 2.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "3 Center",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 50.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "3 Width",
+      "min": -100.0,
+      "max": 100.0,
+      "value": 100.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "4 Attribute",
+      "min": 0.0,
+      "max": 4.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "x",
+        "y",
+        "mag",
+        "vel",
+        "mass"
+      ],
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "4 Index",
+      "min": 1.0,
+      "max": 8.0,
+      "value": 2.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "4 Center",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 50.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 15
+    },
+    {
+      "name": "4 Width",
+      "min": -100.0,
+      "max": 100.0,
+      "value": 100.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 16
+    },
+    {
+      "name": "5 Attribute",
+      "min": 0.0,
+      "max": 4.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "x",
+        "y",
+        "mag",
+        "vel",
+        "mass"
+      ],
+      "unit": null,
+      "index": 17
+    },
+    {
+      "name": "5 Index",
+      "min": 1.0,
+      "max": 8.0,
+      "value": 3.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 18
+    },
+    {
+      "name": "5 Center",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 50.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 19
+    },
+    {
+      "name": "5 Width",
+      "min": -100.0,
+      "max": 100.0,
+      "value": 100.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 20
+    },
+    {
+      "name": "6 Attribute",
+      "min": 0.0,
+      "max": 4.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "x",
+        "y",
+        "mag",
+        "vel",
+        "mass"
+      ],
+      "unit": null,
+      "index": 21
+    },
+    {
+      "name": "6 Index",
+      "min": 1.0,
+      "max": 8.0,
+      "value": 3.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 22
+    },
+    {
+      "name": "6 Center",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 50.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 23
+    },
+    {
+      "name": "6 Width",
+      "min": -100.0,
+      "max": 100.0,
+      "value": 100.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 24
+    },
+    {
+      "name": "7 Attribute",
+      "min": 0.0,
+      "max": 4.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "x",
+        "y",
+        "mag",
+        "vel",
+        "mass"
+      ],
+      "unit": null,
+      "index": 25
+    },
+    {
+      "name": "7 Index",
+      "min": 1.0,
+      "max": 8.0,
+      "value": 4.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 26
+    },
+    {
+      "name": "7 Center",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 50.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 27
+    },
+    {
+      "name": "7 Width",
+      "min": -100.0,
+      "max": 100.0,
+      "value": 100.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 28
+    },
+    {
+      "name": "8 Attribute",
+      "min": 0.0,
+      "max": 4.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "x",
+        "y",
+        "mag",
+        "vel",
+        "mass"
+      ],
+      "unit": null,
+      "index": 29
+    },
+    {
+      "name": "8 Index",
+      "min": 1.0,
+      "max": 8.0,
+      "value": 4.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 30
+    },
+    {
+      "name": "8 Center",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 50.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 31
+    },
+    {
+      "name": "8 Width",
+      "min": -100.0,
+      "max": 100.0,
+      "value": 100.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 32
+    },
+    {
+      "name": "Attractor Charge",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "-",
+        "=",
+        "+"
+      ],
+      "unit": null,
+      "index": 33
+    },
+    {
+      "name": "Attractor Strength",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.4000000059604645,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 34
+    },
+    {
+      "name": "Attractor X",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 35
+    },
+    {
+      "name": "Attractor Y",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 36
+    },
+    {
+      "name": "Edge",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Bounce",
+        "Clip",
+        "Wrap"
+      ],
+      "unit": null,
+      "index": 37
+    },
+    {
+      "name": "Emit Rate Spread",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 38
+    },
+    {
+      "name": "Emit Rate",
+      "min": 0.0,
+      "max": 18.0,
+      "value": 6.0,
+      "is_quantized": true,
+      "value_items": [
+        "32n",
+        "24n",
+        "16n",
+        "12n",
+        "8n",
+        "6n",
+        "4n",
+        "3n",
+        "2n",
+        "1.5n",
+        "1b",
+        "1.5b",
+        "2b",
+        "3b",
+        "4b",
+        "6b",
+        "8b",
+        "12b",
+        "16b"
+      ],
+      "unit": null,
+      "index": 39
+    },
+    {
+      "name": "Attractor",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "off",
+        "on"
+      ],
+      "unit": null,
+      "index": 40
+    },
+    {
+      "name": "Enable Emitter",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "off",
+        "on"
+      ],
+      "unit": null,
+      "index": 41
+    },
+    {
+      "name": "Flowfield",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "off",
+        "on"
+      ],
+      "unit": null,
+      "index": 42
+    },
+    {
+      "name": "Flowfield Charge",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "-",
+        "=",
+        "+"
+      ],
+      "unit": null,
+      "index": 43
+    },
+    {
+      "name": "Flowfield Size",
+      "min": 0.0,
+      "max": 4.0,
+      "value": 2.0,
+      "is_quantized": true,
+      "value_items": [
+        "4",
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "unit": null,
+      "index": 44
+    },
+    {
+      "name": "Flowfield Strength",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.3499999940395355,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 45
+    },
+    {
+      "name": "Freeze",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "off",
+        "on"
+      ],
+      "unit": null,
+      "index": 46
+    },
+    {
+      "name": "Magnetism",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 47
+    },
+    {
+      "name": "Mass Spread",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.26771700382232666,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 48
+    },
+    {
+      "name": "Voices",
+      "min": 0.0,
+      "max": 8.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 49
+    },
+    {
+      "name": "Click Mode",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "random",
+        "freeze"
+      ],
+      "unit": null,
+      "index": 50
+    },
+    {
+      "name": "Charge",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 51
+    },
+    {
+      "name": "Particle Life",
+      "min": 0.0,
+      "max": 18.0,
+      "value": 6.0,
+      "is_quantized": true,
+      "value_items": [
+        "32n",
+        "24n",
+        "16n",
+        "12n",
+        "8n",
+        "6n",
+        "4n",
+        "3n",
+        "2n",
+        "1.5n",
+        "1b",
+        "1.5b",
+        "2b",
+        "3b",
+        "4b",
+        "6b",
+        "8b",
+        "12b",
+        "16b"
+      ],
+      "unit": null,
+      "index": 52
+    },
+    {
+      "name": "Particle Lifetime Spread",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 53
+    },
+    {
+      "name": "Mass",
+      "min": 0.30000001192092896,
+      "max": 5.0,
+      "value": 2.449650764465332,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 54
+    },
+    {
+      "name": "Scale",
+      "min": 0.009999999776482582,
+      "max": 8.0,
+      "value": 3.9932990074157715,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 55
+    },
+    {
+      "name": "Randomize",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "off",
+        "random"
+      ],
+      "unit": null,
+      "index": 56
+    },
+    {
+      "name": "Save State",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "off",
+        "save"
+      ],
+      "unit": null,
+      "index": 57
+    },
+    {
+      "name": "Skip",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 58
+    },
+    {
+      "name": "Speed",
+      "min": 0.009999999776482582,
+      "max": 8.0,
+      "value": 3.9932990074157715,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 59
+    },
+    {
+      "name": "Velocity",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 52.79999923706055,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 60
+    },
+    {
+      "name": "X Off",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 61
+    },
+    {
+      "name": "Y off",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 62
+    },
+    {
+      "name": "Burst",
+      "min": 1.0,
+      "max": 16.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 63
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "path": "Instruments/Analog/Synth Keys",
+  "name": "Synth Keys",
+  "uri": "query:Synths#Analog:Synth%20Keys",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Accordion Unisono Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_5883"
+    },
+    {
+      "name": "Analog Drawbar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_61104"
+    },
+    {
+      "name": "Aqua Fundemental Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_38362"
+    },
+    {
+      "name": "Atmospheric Spirit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_61105"
+    },
+    {
+      "name": "ButterPuff Stabs.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_61107"
+    },
+    {
+      "name": "Canadian Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_3786"
+    },
+    {
+      "name": "Flash Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_61115"
+    },
+    {
+      "name": "Fuzzy Analog Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_3801"
+    },
+    {
+      "name": "Hard Chord Sidechain.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_61118"
+    },
+    {
+      "name": "Impaled Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_43026"
+    },
+    {
+      "name": "Metal Smasher.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_61127"
+    },
+    {
+      "name": "Old Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_49056"
+    },
+    {
+      "name": "Old School Piano.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_36663"
+    },
+    {
+      "name": "Past Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_43033"
+    },
+    {
+      "name": "Perfect Midnight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_39938"
+    },
+    {
+      "name": "Pitbull.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_39939"
+    },
+    {
+      "name": "S&H Muted Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_5884"
+    },
+    {
+      "name": "Saw Elegant Thick Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_5885"
+    },
+    {
+      "name": "Soft Morning Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_5886"
+    },
+    {
+      "name": "Sweep Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_5887"
+    },
+    {
+      "name": "Synth Disco Stab.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_43037"
+    },
+    {
+      "name": "Synth Organ Long Release.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_5888"
+    },
+    {
+      "name": "Transistor.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_61140"
+    },
+    {
+      "name": "Tremolo Tines.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_5889"
+    },
+    {
+      "name": "Vintage Saw Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Keys:FileId_3820"
+    }
+  ]
+}

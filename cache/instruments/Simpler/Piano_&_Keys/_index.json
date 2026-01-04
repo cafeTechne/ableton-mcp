@@ -1,0 +1,108 @@
+{
+  "path": "Instruments/Simpler/Piano & Keys",
+  "name": "Piano & Keys",
+  "uri": "query:Synths#Simpler:Piano%20&%20Keys",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Clav Chord Delay.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Piano%20&%20Keys:FileId_5253"
+    },
+    {
+      "name": "E-Piano Cheap.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Piano%20&%20Keys:FileId_5256"
+    },
+    {
+      "name": "E-Piano CMaj7 Chord.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Piano%20&%20Keys:FileId_5254"
+    },
+    {
+      "name": "E-Piano CMin7 Chord.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Piano%20&%20Keys:FileId_5255"
+    },
+    {
+      "name": "Grand Piano Single Sample.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Piano%20&%20Keys:FileId_5257"
+    },
+    {
+      "name": "Grand Piano.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Piano%20&%20Keys:FileId_3890"
+    },
+    {
+      "name": "Jazz Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Piano%20&%20Keys:FileId_59250"
+    },
+    {
+      "name": "Organ Bach 2 Basics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Piano%20&%20Keys:FileId_47767"
+    },
+    {
+      "name": "Organ Chimes & Dimes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Piano%20&%20Keys:FileId_47768"
+    },
+    {
+      "name": "Organ Funk Shimmer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Piano%20&%20Keys:FileId_47769"
+    },
+    {
+      "name": "Organ Italian Highways.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Piano%20&%20Keys:FileId_47770"
+    },
+    {
+      "name": "Organ Joyous Tonewheels.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Piano%20&%20Keys:FileId_47771"
+    },
+    {
+      "name": "Organ Mustard Ball Park.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Piano%20&%20Keys:FileId_47772"
+    },
+    {
+      "name": "Organ Power Ball.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Piano%20&%20Keys:FileId_47773"
+    }
+  ]
+}

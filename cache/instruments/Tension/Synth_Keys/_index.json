@@ -1,0 +1,73 @@
+{
+  "path": "Instruments/Tension/Synth Keys",
+  "name": "Synth Keys",
+  "uri": "query:Synths#Tension:Synth%20Keys",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Amethyst Harp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Keys:FileId_61103"
+    },
+    {
+      "name": "Attack Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Keys:FileId_5132"
+    },
+    {
+      "name": "Chime Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Keys:FileId_59740"
+    },
+    {
+      "name": "Guitarchestra.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Keys:FileId_59741"
+    },
+    {
+      "name": "Ice Ballad Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Keys:FileId_5133"
+    },
+    {
+      "name": "Meow Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Keys:FileId_5134"
+    },
+    {
+      "name": "Squarestring.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Keys:FileId_59742"
+    },
+    {
+      "name": "Upper Harmonix Wah.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Keys:FileId_59743"
+    },
+    {
+      "name": "Visions.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Keys:FileId_43038"
+    }
+  ]
+}

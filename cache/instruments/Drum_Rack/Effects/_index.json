@@ -1,0 +1,17 @@
+{
+  "path": "Instruments/Drum Rack/Effects",
+  "name": "Effects",
+  "uri": "query:Synths#Drum%20Rack:Effects",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Plucked Harp Effects.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Effects:FileId_51309"
+    }
+  ]
+}

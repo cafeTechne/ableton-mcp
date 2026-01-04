@@ -1,0 +1,115 @@
+{
+  "path": "midi_effects/Velocity",
+  "name": "Velocity",
+  "uri": "query:MidiFx#Velocity",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "Add some Random.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Velocity:FileId_4735"
+    },
+    {
+      "name": "Compression I.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Velocity:FileId_4736"
+    },
+    {
+      "name": "Compression II.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Velocity:FileId_4737"
+    },
+    {
+      "name": "Cut Above 64.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Velocity:FileId_4738"
+    },
+    {
+      "name": "Dynamic I.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Velocity:FileId_4739"
+    },
+    {
+      "name": "Dynamic II.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Velocity:FileId_4740"
+    },
+    {
+      "name": "Fix 1.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Velocity:FileId_4741"
+    },
+    {
+      "name": "Fix 32.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Velocity:FileId_4743"
+    },
+    {
+      "name": "Fix 64.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Velocity:FileId_4744"
+    },
+    {
+      "name": "Fix 96.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Velocity:FileId_4745"
+    },
+    {
+      "name": "Fix 127.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Velocity:FileId_4742"
+    },
+    {
+      "name": "Forte.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Velocity:FileId_4746"
+    },
+    {
+      "name": "Invert.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Velocity:FileId_4747"
+    },
+    {
+      "name": "Piano.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Velocity:FileId_4748"
+    },
+    {
+      "name": "Total Random.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Velocity:FileId_4749"
+    }
+  ]
+}

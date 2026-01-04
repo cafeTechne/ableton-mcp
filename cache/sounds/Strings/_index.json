@@ -1,0 +1,717 @@
+{
+  "path": "Sounds/Strings",
+  "name": "Strings",
+  "uri": "query:Sounds#Strings",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Bowed Guitar Scrapes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51167"
+    },
+    {
+      "name": "Bowed Wind Harp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51168"
+    },
+    {
+      "name": "Broken Harps.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51169"
+    },
+    {
+      "name": "Broken String Selector.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51170"
+    },
+    {
+      "name": "Cello Harmonics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51171"
+    },
+    {
+      "name": "Cello Section Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54009"
+    },
+    {
+      "name": "Cello Section Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54010"
+    },
+    {
+      "name": "Cello Section Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54011"
+    },
+    {
+      "name": "Cello Section.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54012"
+    },
+    {
+      "name": "Cello Section_update.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54013"
+    },
+    {
+      "name": "Cello Solo Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54014"
+    },
+    {
+      "name": "Cello Solo Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54015"
+    },
+    {
+      "name": "Cello Solo Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54016"
+    },
+    {
+      "name": "Cello Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54017"
+    },
+    {
+      "name": "Cello Strings.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_5136"
+    },
+    {
+      "name": "Cello Tremolo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51176"
+    },
+    {
+      "name": "Col Legno Cello Selector.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51177"
+    },
+    {
+      "name": "Cruiser Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_3832"
+    },
+    {
+      "name": "Custom Bowed Instrument.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51178"
+    },
+    {
+      "name": "Dante's Violin.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51179"
+    },
+    {
+      "name": "Darkened Strings.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_5770"
+    },
+    {
+      "name": "Distant String.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51180"
+    },
+    {
+      "name": "Double Bass Section Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54018"
+    },
+    {
+      "name": "Double Bass Section Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54019"
+    },
+    {
+      "name": "Double Bass Section Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54020"
+    },
+    {
+      "name": "Double Bass Section.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54021"
+    },
+    {
+      "name": "Double Bass Solo Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54022"
+    },
+    {
+      "name": "Double Bass Solo Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54023"
+    },
+    {
+      "name": "Double Bass Solo Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54024"
+    },
+    {
+      "name": "Double Bass Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54025"
+    },
+    {
+      "name": "Ensemble Strings.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_5137"
+    },
+    {
+      "name": "Evangelis Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_3833"
+    },
+    {
+      "name": "Feedback Bow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_3834"
+    },
+    {
+      "name": "Fractured Violin.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51181"
+    },
+    {
+      "name": "Harpitextural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51182"
+    },
+    {
+      "name": "Limbo Call.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51183"
+    },
+    {
+      "name": "Long All-in-one - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59315"
+    },
+    {
+      "name": "Long Flautando - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59317"
+    },
+    {
+      "name": "Long Normale - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59318"
+    },
+    {
+      "name": "Long Sul Pont - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59319"
+    },
+    {
+      "name": "Long Super Sul Tasto - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59320"
+    },
+    {
+      "name": "Long Tremolo - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59321"
+    },
+    {
+      "name": "M Tron Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_3835"
+    },
+    {
+      "name": "Magnetic Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_3836"
+    },
+    {
+      "name": "MPE Cello Bow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_3843"
+    },
+    {
+      "name": "MPE Glacial (Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59326"
+    },
+    {
+      "name": "MPE Glacial (Slide & Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59327"
+    },
+    {
+      "name": "MPE Glacial (Slide) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59328"
+    },
+    {
+      "name": "MPE Intimate (Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59329"
+    },
+    {
+      "name": "MPE Intimate (Slide & Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59330"
+    },
+    {
+      "name": "MPE Intimate (Slide) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59331"
+    },
+    {
+      "name": "MPE Spectral (Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59332"
+    },
+    {
+      "name": "MPE Spectral (Slide & Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59333"
+    },
+    {
+      "name": "MPE Spectral (Slide) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59334"
+    },
+    {
+      "name": "MPE Synth Bow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_3844"
+    },
+    {
+      "name": "MPE Warping Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_3845"
+    },
+    {
+      "name": "Notes From The Edge.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51184"
+    },
+    {
+      "name": "Off World Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_3837"
+    },
+    {
+      "name": "Phasing String.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51185"
+    },
+    {
+      "name": "Pizz Strings.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_5138"
+    },
+    {
+      "name": "Razor Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_3838"
+    },
+    {
+      "name": "Resonant Saltando Cello.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51186"
+    },
+    {
+      "name": "Rusty Dual Cello.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51187"
+    },
+    {
+      "name": "Second Stellar Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_3839"
+    },
+    {
+      "name": "Short All-in-one - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59316"
+    },
+    {
+      "name": "Short Pizzicato - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59322"
+    },
+    {
+      "name": "Short Spiccato - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59323"
+    },
+    {
+      "name": "Short Staccato - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59324"
+    },
+    {
+      "name": "Short Sul Tasto - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_59325"
+    },
+    {
+      "name": "Slow Roll Strings.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_5771"
+    },
+    {
+      "name": "Solemn Wash.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51188"
+    },
+    {
+      "name": "Stacked Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51189"
+    },
+    {
+      "name": "Star Dust Strings.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_5772"
+    },
+    {
+      "name": "Strings Ensemble Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54026"
+    },
+    {
+      "name": "Strings Ensemble Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54027"
+    },
+    {
+      "name": "Strings Ensemble Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54028"
+    },
+    {
+      "name": "Strings Ensemble Tremolo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54029"
+    },
+    {
+      "name": "Strings Ensemble.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54030"
+    },
+    {
+      "name": "Strings Quartet.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_5139"
+    },
+    {
+      "name": "Synfonic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51190"
+    },
+    {
+      "name": "Synthetic Choir Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_3840"
+    },
+    {
+      "name": "Synthetic Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_3841"
+    },
+    {
+      "name": "Vintage Strings.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_5140"
+    },
+    {
+      "name": "Viola Section Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54031"
+    },
+    {
+      "name": "Viola Section Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54032"
+    },
+    {
+      "name": "Viola Section Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54033"
+    },
+    {
+      "name": "Viola Section.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54034"
+    },
+    {
+      "name": "Viola Solo Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54035"
+    },
+    {
+      "name": "Viola Solo Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54036"
+    },
+    {
+      "name": "Viola Solo Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54037"
+    },
+    {
+      "name": "Viola Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54038"
+    },
+    {
+      "name": "Violin Section Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54039"
+    },
+    {
+      "name": "Violin Section Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54040"
+    },
+    {
+      "name": "Violin Section Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54041"
+    },
+    {
+      "name": "Violin Section.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54042"
+    },
+    {
+      "name": "Violin Solo Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54043"
+    },
+    {
+      "name": "Violin Solo Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54044"
+    },
+    {
+      "name": "Violin Solo Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54045"
+    },
+    {
+      "name": "Violin Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_54046"
+    },
+    {
+      "name": "Violin Strings.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_5141"
+    },
+    {
+      "name": "Warm Dream Harp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Strings:FileId_51191"
+    }
+  ]
+}

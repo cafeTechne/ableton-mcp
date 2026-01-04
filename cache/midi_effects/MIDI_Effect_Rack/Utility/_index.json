@@ -1,0 +1,38 @@
+{
+  "path": "midi_effects/MIDI Effect Rack/Utility",
+  "name": "Utility",
+  "uri": "query:MidiFx#MIDI%20Effect%20Rack:Utility",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Keys & Scales.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Utility:FileId_3679"
+    },
+    {
+      "name": "MIDI to MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Utility:FileId_3680"
+    },
+    {
+      "name": "MPE Invert.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Utility:FileId_3681"
+    },
+    {
+      "name": "MPE Note PB Range.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Utility:FileId_3682"
+    }
+  ]
+}

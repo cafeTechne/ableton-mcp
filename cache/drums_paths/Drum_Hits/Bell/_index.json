@@ -1,0 +1,1557 @@
+{
+  "path": "drums/Drum Hits/Bell",
+  "name": "Bell",
+  "uri": "query:Drums#Drum%20Hits:Bell",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Agogo A High.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50114"
+    },
+    {
+      "name": "Agogo A Low.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50115"
+    },
+    {
+      "name": "Agogo B High.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50116"
+    },
+    {
+      "name": "Agogo B Low.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50117"
+    },
+    {
+      "name": "Agogo B Mid.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50118"
+    },
+    {
+      "name": "Agogo E High.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50119"
+    },
+    {
+      "name": "Agogo E Low.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50120"
+    },
+    {
+      "name": "Bell Bike Chop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_37236"
+    },
+    {
+      "name": "Bell Bike Clash.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_42253"
+    },
+    {
+      "name": "Bell Church Ambient Large pattern Bb 134 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_35861"
+    },
+    {
+      "name": "Bell Church pattern Ebmin 110 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_35862"
+    },
+    {
+      "name": "Bell Click groove Abmin 155 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_35863"
+    },
+    {
+      "name": "Bell Deep Knight.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_36066"
+    },
+    {
+      "name": "Bell Foley.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1822"
+    },
+    {
+      "name": "Bell Glassy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_37237"
+    },
+    {
+      "name": "Bell Hi Metallic Electrified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_37238"
+    },
+    {
+      "name": "Bell Horror Church.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_36067"
+    },
+    {
+      "name": "Bell Lo Charred.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1823"
+    },
+    {
+      "name": "Bell Melodic Pattern Abmin 100 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_35864"
+    },
+    {
+      "name": "Bell Mid Metallic Electrified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_37239"
+    },
+    {
+      "name": "Bell Mid Metallic Electrified.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1824"
+    },
+    {
+      "name": "Bell Mkit Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_57814"
+    },
+    {
+      "name": "Bell Mkit Lo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_57815"
+    },
+    {
+      "name": "Bell Modular.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_57816"
+    },
+    {
+      "name": "Bell Plucks Melody Emin 82 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_35865"
+    },
+    {
+      "name": "Bell Reso Noise 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1825"
+    },
+    {
+      "name": "Bell Reso Noise 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1826"
+    },
+    {
+      "name": "Bell Reso Noise 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1827"
+    },
+    {
+      "name": "Bell Reso Noise 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1828"
+    },
+    {
+      "name": "Bell Reso Noise 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1829"
+    },
+    {
+      "name": "Bell Reso Noise 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1830"
+    },
+    {
+      "name": "Bell Ring ER Fenk 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1831"
+    },
+    {
+      "name": "Bell Ring ER Fenk 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1832"
+    },
+    {
+      "name": "Bell Sequence phrase 01 83 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_35866"
+    },
+    {
+      "name": "Bell Sequence phrase 02 110 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_35867"
+    },
+    {
+      "name": "Bell Steel Drum Glock.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_36068"
+    },
+    {
+      "name": "Bell Strike Raged.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1833"
+    },
+    {
+      "name": "Bell Tambo FX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1834"
+    },
+    {
+      "name": "Bell Tap Melody Bmin 84 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_35868"
+    },
+    {
+      "name": "Bell Tin.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1835"
+    },
+    {
+      "name": "Bells Agogo Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1836"
+    },
+    {
+      "name": "Bells Agogo Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46330"
+    },
+    {
+      "name": "Bells Jingle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_39523"
+    },
+    {
+      "name": "Bells Low Tone pattern Fmin 130 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_35869"
+    },
+    {
+      "name": "Bells Toy pattern Fmin 130 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_35870"
+    },
+    {
+      "name": "Bells Vintage pattern Cmin 132 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_35871"
+    },
+    {
+      "name": "Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50121"
+    },
+    {
+      "name": "Belltree.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50122"
+    },
+    {
+      "name": "Chimes A Finger dn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50123"
+    },
+    {
+      "name": "Chimes A Finger up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50124"
+    },
+    {
+      "name": "Chimes A FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50125"
+    },
+    {
+      "name": "Chimes A Stick dn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50126"
+    },
+    {
+      "name": "Chimes A Stick up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50127"
+    },
+    {
+      "name": "Chimes B Finger dn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50128"
+    },
+    {
+      "name": "Chimes B Finger up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50129"
+    },
+    {
+      "name": "Chimes B FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50130"
+    },
+    {
+      "name": "Chimes B Stick dn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50131"
+    },
+    {
+      "name": "Chimes B Stick up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50132"
+    },
+    {
+      "name": "Chimes Finger Down.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1837"
+    },
+    {
+      "name": "Chimes Finger Down.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46331"
+    },
+    {
+      "name": "Chimes Jingle Bell.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1838"
+    },
+    {
+      "name": "Chimes Ruff Sparkle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_39524"
+    },
+    {
+      "name": "Cowbell 707 Animal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_42254"
+    },
+    {
+      "name": "Cowbell 707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1839"
+    },
+    {
+      "name": "Cowbell 808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1840"
+    },
+    {
+      "name": "Cowbell A 1.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50133"
+    },
+    {
+      "name": "Cowbell A 2.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50134"
+    },
+    {
+      "name": "Cowbell B 3.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50135"
+    },
+    {
+      "name": "Cowbell B 4.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50136"
+    },
+    {
+      "name": "Cowbell Bessie.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1841"
+    },
+    {
+      "name": "Cowbell Big AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56406"
+    },
+    {
+      "name": "Cowbell Big BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55690"
+    },
+    {
+      "name": "Cowbell Big BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56407"
+    },
+    {
+      "name": "Cowbell Big BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55691"
+    },
+    {
+      "name": "Cowbell Big ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56408"
+    },
+    {
+      "name": "Cowbell Big ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56409"
+    },
+    {
+      "name": "Cowbell Big CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56410"
+    },
+    {
+      "name": "Cowbell Big DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55692"
+    },
+    {
+      "name": "Cowbell Big DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55693"
+    },
+    {
+      "name": "Cowbell Big DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56411"
+    },
+    {
+      "name": "Cowbell Big LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55694"
+    },
+    {
+      "name": "Cowbell Big OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56412"
+    },
+    {
+      "name": "Cowbell Big ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55695"
+    },
+    {
+      "name": "Cowbell Big RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56413"
+    },
+    {
+      "name": "Cowbell Big SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56414"
+    },
+    {
+      "name": "Cowbell Big SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56415"
+    },
+    {
+      "name": "Cowbell Big Stick British Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1842"
+    },
+    {
+      "name": "Cowbell Big Stick Dry Session.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1843"
+    },
+    {
+      "name": "Cowbell Big StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56416"
+    },
+    {
+      "name": "Cowbell Big WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55696"
+    },
+    {
+      "name": "Cowbell Brkroni.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1844"
+    },
+    {
+      "name": "Cowbell Build.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_37240"
+    },
+    {
+      "name": "Cowbell C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1845"
+    },
+    {
+      "name": "Cowbell Captain Rock.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46332"
+    },
+    {
+      "name": "Cowbell Chop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_37241"
+    },
+    {
+      "name": "Cowbell Corner.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_39525"
+    },
+    {
+      "name": "Cowbell Cracked.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_39526"
+    },
+    {
+      "name": "Cowbell E 5.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50137"
+    },
+    {
+      "name": "Cowbell E 6.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50138"
+    },
+    {
+      "name": "Cowbell Fenk Chick.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1846"
+    },
+    {
+      "name": "Cowbell Fenk Rook.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1847"
+    },
+    {
+      "name": "Cowbell Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46333"
+    },
+    {
+      "name": "Cowbell Hi 505 Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46334"
+    },
+    {
+      "name": "Cowbell Hi 505.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1848"
+    },
+    {
+      "name": "Cowbell Hi Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46335"
+    },
+    {
+      "name": "Cowbell Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1849"
+    },
+    {
+      "name": "Cowbell Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46336"
+    },
+    {
+      "name": "Cowbell Latin Ting.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1851"
+    },
+    {
+      "name": "Cowbell LatinTing.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46337"
+    },
+    {
+      "name": "Cowbell LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1850"
+    },
+    {
+      "name": "Cowbell LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46338"
+    },
+    {
+      "name": "Cowbell Lo Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46339"
+    },
+    {
+      "name": "Cowbell Loose Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_57817"
+    },
+    {
+      "name": "Cowbell Loose Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_57818"
+    },
+    {
+      "name": "Cowbell Low 505 Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46340"
+    },
+    {
+      "name": "Cowbell Low 505.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1852"
+    },
+    {
+      "name": "Cowbell Mid AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56417"
+    },
+    {
+      "name": "Cowbell Mid BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55697"
+    },
+    {
+      "name": "Cowbell Mid BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56418"
+    },
+    {
+      "name": "Cowbell Mid BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55698"
+    },
+    {
+      "name": "Cowbell Mid ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56419"
+    },
+    {
+      "name": "Cowbell Mid ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56420"
+    },
+    {
+      "name": "Cowbell Mid CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56421"
+    },
+    {
+      "name": "Cowbell Mid DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55699"
+    },
+    {
+      "name": "Cowbell Mid DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55700"
+    },
+    {
+      "name": "Cowbell Mid DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56422"
+    },
+    {
+      "name": "Cowbell Mid LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55701"
+    },
+    {
+      "name": "Cowbell Mid OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56423"
+    },
+    {
+      "name": "Cowbell Mid ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55702"
+    },
+    {
+      "name": "Cowbell Mid RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56424"
+    },
+    {
+      "name": "Cowbell Mid SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56425"
+    },
+    {
+      "name": "Cowbell Mid SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56426"
+    },
+    {
+      "name": "Cowbell Mid Stick Dry Session.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1854"
+    },
+    {
+      "name": "Cowbell Mid StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56427"
+    },
+    {
+      "name": "Cowbell Mid Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46341"
+    },
+    {
+      "name": "Cowbell Mid WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55703"
+    },
+    {
+      "name": "Cowbell Mkit 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_57819"
+    },
+    {
+      "name": "Cowbell Mkit 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_57820"
+    },
+    {
+      "name": "Cowbell Mkit 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_57821"
+    },
+    {
+      "name": "Cowbell Mkit 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_57822"
+    },
+    {
+      "name": "Cowbell MPC 90s.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1853"
+    },
+    {
+      "name": "Cowbell Noise Anvil.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1855"
+    },
+    {
+      "name": "Cowbell Raw Mute.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_57823"
+    },
+    {
+      "name": "Cowbell Raw Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_57824"
+    },
+    {
+      "name": "Cowbell Simple.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1858"
+    },
+    {
+      "name": "Cowbell SP StockSweetened.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46342"
+    },
+    {
+      "name": "Cowbell SP Sweetened.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1856"
+    },
+    {
+      "name": "Cowbell SP.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46343"
+    },
+    {
+      "name": "Cowbell SP.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1857"
+    },
+    {
+      "name": "Cowbell Trax Momento.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_42255"
+    },
+    {
+      "name": "Cowbell Trax Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_42256"
+    },
+    {
+      "name": "Cowbell Trax.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46344"
+    },
+    {
+      "name": "Cowbell Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_39527"
+    },
+    {
+      "name": "Cowbell Vinyl SP 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1859"
+    },
+    {
+      "name": "Cowbell Vinyl SP 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1860"
+    },
+    {
+      "name": "Cowbell Vinyl SP 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1861"
+    },
+    {
+      "name": "Cowbell-707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46345"
+    },
+    {
+      "name": "Cowbell-808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46346"
+    },
+    {
+      "name": "Cowbell-C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46347"
+    },
+    {
+      "name": "Cowbells AmbientLoudPunch MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56288"
+    },
+    {
+      "name": "Cowbells BigPunchy MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55614"
+    },
+    {
+      "name": "Cowbells BrightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56289"
+    },
+    {
+      "name": "Cowbells BritishVintage MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55615"
+    },
+    {
+      "name": "Cowbells BrushSizzle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55616"
+    },
+    {
+      "name": "Cowbells ClassicMuffle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56290"
+    },
+    {
+      "name": "Cowbells ColdTightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56291"
+    },
+    {
+      "name": "Cowbells CopStyle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56292"
+    },
+    {
+      "name": "Cowbells DarkPlateVerb MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55617"
+    },
+    {
+      "name": "Cowbells DeepSnareDynamics MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55618"
+    },
+    {
+      "name": "Cowbells DirectNatural MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56293"
+    },
+    {
+      "name": "Cowbells LowLoudSquashed MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55619"
+    },
+    {
+      "name": "Cowbells MultirodDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56294"
+    },
+    {
+      "name": "Cowbells OldSchool MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56295"
+    },
+    {
+      "name": "Cowbells ResoClassic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55620"
+    },
+    {
+      "name": "Cowbells RoomWithAVista MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56296"
+    },
+    {
+      "name": "Cowbells SessionDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56297"
+    },
+    {
+      "name": "Cowbells SteelyTight MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56298"
+    },
+    {
+      "name": "Cowbells StudioBasic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_56299"
+    },
+    {
+      "name": "Cowbells WarmAndLow MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_55621"
+    },
+    {
+      "name": "Jingle Bell A FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50139"
+    },
+    {
+      "name": "Jingle Bell A.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50140"
+    },
+    {
+      "name": "Jira Rattle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_42257"
+    },
+    {
+      "name": "Metalic Clang.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_57825"
+    },
+    {
+      "name": "Metalic Dong.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_57826"
+    },
+    {
+      "name": "Metalic Jingles.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_42258"
+    },
+    {
+      "name": "Metallic C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1862"
+    },
+    {
+      "name": "Perc Bell.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_36069"
+    },
+    {
+      "name": "Perc Cowbell K2L.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_36070"
+    },
+    {
+      "name": "Perc Metal Sonar.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_48209"
+    },
+    {
+      "name": "Percussion Triangle Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_36071"
+    },
+    {
+      "name": "ROTO Rims Spin 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_44602"
+    },
+    {
+      "name": "ROTO Rims Spin 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_44603"
+    },
+    {
+      "name": "ROTO Rims Spin 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_44600"
+    },
+    {
+      "name": "ROTO Rims Spin 18.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_44601"
+    },
+    {
+      "name": "Triangle A Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50141"
+    },
+    {
+      "name": "Triangle A Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50142"
+    },
+    {
+      "name": "Triangle B Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50143"
+    },
+    {
+      "name": "Triangle B Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50144"
+    },
+    {
+      "name": "Triangle Build.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_37242"
+    },
+    {
+      "name": "Triangle Build.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1863"
+    },
+    {
+      "name": "Triangle C Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50145"
+    },
+    {
+      "name": "Triangle C Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50146"
+    },
+    {
+      "name": "Triangle Casual Dry.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_36072"
+    },
+    {
+      "name": "Triangle Charred.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1864"
+    },
+    {
+      "name": "Triangle D Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50147"
+    },
+    {
+      "name": "Triangle D Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50148"
+    },
+    {
+      "name": "Triangle DMX Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1865"
+    },
+    {
+      "name": "Triangle E Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50149"
+    },
+    {
+      "name": "Triangle E Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_50150"
+    },
+    {
+      "name": "Triangle Long Hit Chekov.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_46348"
+    },
+    {
+      "name": "Triangle Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_37243"
+    },
+    {
+      "name": "Triangle Mute.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1866"
+    },
+    {
+      "name": "Triangle Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1867"
+    },
+    {
+      "name": "Triangle Pete.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1868"
+    },
+    {
+      "name": "Triangle Prommer Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1869"
+    },
+    {
+      "name": "Triangle Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_37244"
+    },
+    {
+      "name": "Triangle Short.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1872"
+    },
+    {
+      "name": "Triangle SP 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1870"
+    },
+    {
+      "name": "Triangle SP 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_1871"
+    },
+    {
+      "name": "Triangle Streets.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_39528"
+    },
+    {
+      "name": "Triangle Wah Soul.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bell:FileId_39529"
+    }
+  ]
+}

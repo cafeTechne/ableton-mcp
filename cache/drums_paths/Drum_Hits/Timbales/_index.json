@@ -1,0 +1,374 @@
+{
+  "path": "drums/Drum Hits/Timbales",
+  "name": "Timbales",
+  "uri": "query:Drums#Drum%20Hits:Timbales",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Timb A H Cascara.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50371"
+    },
+    {
+      "name": "Timb A H Pressroll.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50372"
+    },
+    {
+      "name": "Timb A H Stick.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50373"
+    },
+    {
+      "name": "Timb A L Cascara.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50374"
+    },
+    {
+      "name": "Timb A L Pressroll.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50375"
+    },
+    {
+      "name": "Timb B H Cascara.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50376"
+    },
+    {
+      "name": "Timb B H Pressroll.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50377"
+    },
+    {
+      "name": "Timb B H Stick.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50378"
+    },
+    {
+      "name": "Timb B L Cascara.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50379"
+    },
+    {
+      "name": "Timb B L Pressroll.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50380"
+    },
+    {
+      "name": "Timb C H Cascara.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50381"
+    },
+    {
+      "name": "Timb C H Pressroll.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50382"
+    },
+    {
+      "name": "Timb C H Stick.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50383"
+    },
+    {
+      "name": "Timb C L Cascara.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50384"
+    },
+    {
+      "name": "Timb C L Pressroll.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50385"
+    },
+    {
+      "name": "Timbale 505.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_520"
+    },
+    {
+      "name": "Timbales A H Flam.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50386"
+    },
+    {
+      "name": "Timbales A H Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50387"
+    },
+    {
+      "name": "Timbales A H Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50388"
+    },
+    {
+      "name": "Timbales A H Rim.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50389"
+    },
+    {
+      "name": "Timbales A H Roll.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50390"
+    },
+    {
+      "name": "Timbales A L Flam.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50391"
+    },
+    {
+      "name": "Timbales A L Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50392"
+    },
+    {
+      "name": "Timbales A L Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50393"
+    },
+    {
+      "name": "Timbales A L Rim.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50394"
+    },
+    {
+      "name": "Timbales A L Roll.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50395"
+    },
+    {
+      "name": "Timbales A L Stick.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50396"
+    },
+    {
+      "name": "Timbales B H Flam.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50397"
+    },
+    {
+      "name": "Timbales B H Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50398"
+    },
+    {
+      "name": "Timbales B H Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50399"
+    },
+    {
+      "name": "Timbales B H Rim.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50400"
+    },
+    {
+      "name": "Timbales B H Roll.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50401"
+    },
+    {
+      "name": "Timbales B L Flam.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50402"
+    },
+    {
+      "name": "Timbales B L Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50403"
+    },
+    {
+      "name": "Timbales B L Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50404"
+    },
+    {
+      "name": "Timbales B L Rim.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50405"
+    },
+    {
+      "name": "Timbales B L Roll.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50406"
+    },
+    {
+      "name": "Timbales B L Stick.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50407"
+    },
+    {
+      "name": "Timbales C H Flam.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50408"
+    },
+    {
+      "name": "Timbales C H Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50409"
+    },
+    {
+      "name": "Timbales C H Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50410"
+    },
+    {
+      "name": "Timbales C H Rim.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50411"
+    },
+    {
+      "name": "Timbales C H Roll.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50412"
+    },
+    {
+      "name": "Timbales C L Flam.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50413"
+    },
+    {
+      "name": "Timbales C L Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50414"
+    },
+    {
+      "name": "Timbales C L Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50415"
+    },
+    {
+      "name": "Timbales C L Rim.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50416"
+    },
+    {
+      "name": "Timbales C L Roll.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50417"
+    },
+    {
+      "name": "Timbales C L Stick.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_50418"
+    },
+    {
+      "name": "Timbales High Open Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_521"
+    },
+    {
+      "name": "Timbales Low Open Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_522"
+    },
+    {
+      "name": "Timbales Pete.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Timbales:FileId_523"
+    }
+  ]
+}

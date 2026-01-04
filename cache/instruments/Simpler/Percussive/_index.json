@@ -1,0 +1,52 @@
+{
+  "path": "Instruments/Simpler/Percussive",
+  "name": "Percussive",
+  "uri": "query:Synths#Simpler:Percussive",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Circus Tricks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Percussive:FileId_38355"
+    },
+    {
+      "name": "Garage Crisp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Percussive:FileId_59246"
+    },
+    {
+      "name": "Rain Tambourine.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Percussive:FileId_51300"
+    },
+    {
+      "name": "Twenty Perc Dixo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Percussive:FileId_38360"
+    },
+    {
+      "name": "Voice Clap.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Percussive:FileId_49043"
+    },
+    {
+      "name": "Wile West.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Percussive:FileId_59249"
+    }
+  ]
+}

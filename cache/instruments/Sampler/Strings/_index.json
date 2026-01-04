@@ -1,0 +1,283 @@
+{
+  "path": "Instruments/Sampler/Strings",
+  "name": "Strings",
+  "uri": "query:Synths#Sampler:Strings",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Bowed Guitar Scrapes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51167"
+    },
+    {
+      "name": "Bowed Wind Harp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51168"
+    },
+    {
+      "name": "Broken Harps.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51169"
+    },
+    {
+      "name": "Broken String Selector.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51170"
+    },
+    {
+      "name": "Cello Harmonics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51171"
+    },
+    {
+      "name": "Cello Tremolo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51176"
+    },
+    {
+      "name": "Col Legno Cello Selector.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51177"
+    },
+    {
+      "name": "Custom Bowed Instrument.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51178"
+    },
+    {
+      "name": "Dante's Violin.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51179"
+    },
+    {
+      "name": "Distant String.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51180"
+    },
+    {
+      "name": "Fractured Violin.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51181"
+    },
+    {
+      "name": "Harpitextural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51182"
+    },
+    {
+      "name": "Long All-in-one - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59315"
+    },
+    {
+      "name": "Long Flautando - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59317"
+    },
+    {
+      "name": "Long Normale - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59318"
+    },
+    {
+      "name": "Long Sul Pont - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59319"
+    },
+    {
+      "name": "Long Super Sul Tasto - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59320"
+    },
+    {
+      "name": "Long Tremolo - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59321"
+    },
+    {
+      "name": "MPE Glacial (Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59326"
+    },
+    {
+      "name": "MPE Glacial (Slide & Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59327"
+    },
+    {
+      "name": "MPE Glacial (Slide) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59328"
+    },
+    {
+      "name": "MPE Intimate (Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59329"
+    },
+    {
+      "name": "MPE Intimate (Slide & Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59330"
+    },
+    {
+      "name": "MPE Intimate (Slide) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59331"
+    },
+    {
+      "name": "MPE Spectral (Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59332"
+    },
+    {
+      "name": "MPE Spectral (Slide & Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59333"
+    },
+    {
+      "name": "MPE Spectral (Slide) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59334"
+    },
+    {
+      "name": "Notes From The Edge.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51184"
+    },
+    {
+      "name": "Phasing String.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51185"
+    },
+    {
+      "name": "Resonant Saltando Cello.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51186"
+    },
+    {
+      "name": "Rusty Dual Cello.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51187"
+    },
+    {
+      "name": "Short All-in-one - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59316"
+    },
+    {
+      "name": "Short Pizzicato - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59322"
+    },
+    {
+      "name": "Short Spiccato - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59323"
+    },
+    {
+      "name": "Short Staccato - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59324"
+    },
+    {
+      "name": "Short Sul Tasto - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_59325"
+    },
+    {
+      "name": "Stacked Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51189"
+    },
+    {
+      "name": "Synfonic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51190"
+    },
+    {
+      "name": "Warm Dream Harp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Strings:FileId_51191"
+    }
+  ]
+}

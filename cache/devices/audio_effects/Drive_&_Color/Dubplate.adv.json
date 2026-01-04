@@ -1,0 +1,163 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Drive_&_Color",
+  "name": "Dubplate.adv",
+  "uri": "query:AudioFx#Drive%20&%20Color:Vinyl%20Distortion:FileId_5935",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Tracing On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Tracing Drive",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.6486486196517944,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Tracing Freq.",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.9626168012619019,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Tracing Width",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.34198272228240967,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Pinch On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Pinch Drive",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.13513512909412384,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Pinch Freq.",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.15887850522994995,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Pinch Width",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.9999999403953552,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Global Drive",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Pinch Soft On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Soft",
+        "Hard"
+      ],
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "Pinch Mono On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Stereo",
+        "Mono"
+      ],
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "Crackle Density",
+      "min": 0.0,
+      "max": 50.0,
+      "value": 10.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "Crackle Volume",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 13
+    }
+  ]
+}

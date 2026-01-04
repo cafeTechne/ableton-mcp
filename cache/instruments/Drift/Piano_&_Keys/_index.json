@@ -1,0 +1,45 @@
+{
+  "path": "Instruments/Drift/Piano & Keys",
+  "name": "Piano & Keys",
+  "uri": "query:Synths#Drift:Piano%20&%20Keys",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Bellatine.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Piano%20&%20Keys:FileId_5781"
+    },
+    {
+      "name": "E-Piano Rhodish.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Piano%20&%20Keys:FileId_3884"
+    },
+    {
+      "name": "Paddles Out.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Piano%20&%20Keys:FileId_5782"
+    },
+    {
+      "name": "Synth Piano.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Piano%20&%20Keys:FileId_5783"
+    },
+    {
+      "name": "Transistor Reeds.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Piano%20&%20Keys:FileId_5784"
+    }
+  ]
+}

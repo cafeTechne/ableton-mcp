@@ -1,0 +1,407 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Pitch_&_Modulation",
+  "name": "Electric Distortion",
+  "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5980",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Lfo Amount Hz",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.2460317611694336,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Lfo Amount St",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Lfo Waveform",
+      "min": 0.0,
+      "max": 9.0,
+      "value": 9.0,
+      "is_quantized": true,
+      "value_items": [
+        "Sine",
+        "Triangle",
+        "Triangle Analog",
+        "Triangle 8",
+        "Triangle 16",
+        "Saw Up",
+        "Saw Down",
+        "Rectangle",
+        "Random",
+        "Random S&H"
+      ],
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Lfo Sync",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Lfo Rate Hz",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Lfo S. Rate",
+      "min": 0.0,
+      "max": 21.0,
+      "value": 19.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Lfo Spin",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Lfo Phase",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.6666666865348816,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Lfo Spin Amount",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.6666666865348816,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Lfo Offset",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5714285373687744,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "Lfo Width",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.8253968358039856,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "Lfo Duty Cycle",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "Pitch Coarse",
+      "min": -24.0,
+      "max": 24.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "Pitch Fine",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "Pitch Window",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5904815793037415,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 15
+    },
+    {
+      "name": "Mod Fine",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.70333331823349,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 16
+    },
+    {
+      "name": "FShift Coarse",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.6740000247955322,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 17
+    },
+    {
+      "name": "RM Coarse",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.7599999904632568,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 18
+    },
+    {
+      "name": "RM Drive",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 19
+    },
+    {
+      "name": "RM Drive Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.1328125,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 20
+    },
+    {
+      "name": "MidiPitch Glide",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 21
+    },
+    {
+      "name": "Env On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 22
+    },
+    {
+      "name": "Env Attack",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.19732442498207092,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 23
+    },
+    {
+      "name": "Env Release",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.49987494945526123,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 24
+    },
+    {
+      "name": "Env Amount Hz",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 25
+    },
+    {
+      "name": "Env Amount St",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 26
+    },
+    {
+      "name": "Delay On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 27
+    },
+    {
+      "name": "Delay Sync",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 28
+    },
+    {
+      "name": "Delay Time",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.34901344776153564,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 29
+    },
+    {
+      "name": "Delay S. Time",
+      "min": 0.0,
+      "max": 17.0,
+      "value": 9.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 30
+    },
+    {
+      "name": "Delay Feedback",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 31
+    },
+    {
+      "name": "Mode",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Pitch",
+        "Freq",
+        "Ring"
+      ],
+      "unit": null,
+      "index": 32
+    },
+    {
+      "name": "Tone",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 33
+    },
+    {
+      "name": "Wide",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 34
+    },
+    {
+      "name": "Dry/Wet",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.4047619104385376,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 35
+    }
+  ]
+}

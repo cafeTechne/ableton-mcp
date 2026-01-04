@@ -1,0 +1,248 @@
+{
+  "path": "Instruments/Sampler/Synth Lead",
+  "name": "Synth Lead",
+  "uri": "query:Synths#Sampler:Synth%20Lead",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Arp 5th Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_5309"
+    },
+    {
+      "name": "Arp Poly Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_5310"
+    },
+    {
+      "name": "Attack PVM.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_59254"
+    },
+    {
+      "name": "Back To The Future.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_51313"
+    },
+    {
+      "name": "Big Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_59255"
+    },
+    {
+      "name": "Dark Thought Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_5311"
+    },
+    {
+      "name": "Deep Space.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_51315"
+    },
+    {
+      "name": "Deepstab.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_59257"
+    },
+    {
+      "name": "Dirty Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_59258"
+    },
+    {
+      "name": "DnB Tools 1 Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_5312"
+    },
+    {
+      "name": "DnB Tools 2 Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_5313"
+    },
+    {
+      "name": "DnB Tools 3 Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_5314"
+    },
+    {
+      "name": "Dread Distort.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_51316"
+    },
+    {
+      "name": "Eerie Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_59260"
+    },
+    {
+      "name": "Evolving States.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_51317"
+    },
+    {
+      "name": "Fm Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_59261"
+    },
+    {
+      "name": "Glass Stab.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_59263"
+    },
+    {
+      "name": "Glidesynth Lead 1.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_5315"
+    },
+    {
+      "name": "Glidesynth Lead 2.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_5316"
+    },
+    {
+      "name": "Good Old Vintage Phat 1 Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_5317"
+    },
+    {
+      "name": "Good Old Vintage Phat 2 Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_5318"
+    },
+    {
+      "name": "Hard Stab.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_59265"
+    },
+    {
+      "name": "HardPWM.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_59266"
+    },
+    {
+      "name": "Lawrence.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_51318"
+    },
+    {
+      "name": "Legions.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_51319"
+    },
+    {
+      "name": "No 3O3 FM 1 Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_5319"
+    },
+    {
+      "name": "No 3O3 FM 2 Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_5320"
+    },
+    {
+      "name": "Oscillations.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_51321"
+    },
+    {
+      "name": "Piano Drop Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_51322"
+    },
+    {
+      "name": "Sandblaster Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_5321"
+    },
+    {
+      "name": "Sicario's Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_51324"
+    },
+    {
+      "name": "SineChord.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_59271"
+    },
+    {
+      "name": "Stop The Lights.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_51326"
+    },
+    {
+      "name": "Trance Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Lead:FileId_38414"
+    }
+  ]
+}

@@ -1,0 +1,1076 @@
+{
+  "count": 153,
+  "items": [
+    {
+      "name": "Convolution Reverb",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Convolution Reverb Pro",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Corpus",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus",
+      "path": "Audio Effects/Reverb & Resonance/Corpus",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Hybrid Reverb",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Resonators",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Resonators",
+      "path": "Audio Effects/Reverb & Resonance/Resonators",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Reverb",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Reverb",
+      "path": "Audio Effects/Reverb & Resonance/Reverb",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Spectral Resonator",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Spectral%20Resonator",
+      "path": "Audio Effects/Reverb & Resonance/Spectral Resonator",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vocoder",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Vocoder",
+      "path": "Audio Effects/Reverb & Resonance/Vocoder",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "A Large Plate.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41056",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/A Large Plate.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "A Plate Made Small.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41057",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/A Plate Made Small.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Add a Cymbal.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41058",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Add a Cymbal.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Anything Distant.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41059",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Anything Distant.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Anything Reversed.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41060",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Anything Reversed.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Anything To Room.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41061",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Anything To Room.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Anything To Vocal.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41062",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Anything To Vocal.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bathroom Presence.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41063",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Bathroom Presence.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bright Beautiful Swell.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41064",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Bright Beautiful Swell.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Cathedral ERs.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41065",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Cathedral ERs.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dirty Spring.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41066",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Dirty Spring.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum Booth Presence.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41067",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Drum Booth Presence.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Empty Warehouse.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41068",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Empty Warehouse.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Fresh Room.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41069",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Fresh Room.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Gated Snare.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41070",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Gated Snare.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Japanese Synth Hall.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41071",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Japanese Synth Hall.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Large Wood Room.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41072",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Large Wood Room.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Percussion Air.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41073",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Percussion Air.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Real Cathedral Closer.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41074",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Real Cathedral Closer.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Real Cathedral Normal.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41075",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Real Cathedral Normal.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Real Plate.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41076",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Real Plate.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Reverb Echo.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41077",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Reverb Echo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Spring Tape Echo.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41078",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Spring Tape Echo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Synth in a Giant Stairway.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41079",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Synth in a Giant Stairway.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Synth Strings.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41080",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Synth Strings.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Warm Pad Space.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41081",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Warm Pad Space.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Wood Plate.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Convolution%20Reverb%20Pro:FileId_41082",
+      "path": "Audio Effects/Reverb & Resonance/Convolution Reverb Pro/Wood Plate.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bright Snare.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6559",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Bright Snare.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum Rezo Gate.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6560",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Drum Rezo Gate.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum to Bass Synth.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6561",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Drum to Bass Synth.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Kick Loose.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6562",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Kick Loose.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Kick Medium.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6563",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Kick Medium.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Kick Tight.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6564",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Kick Tight.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Loop Hollow.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6565",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Loop Hollow.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Loop Metal Needle.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6566",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Loop Metal Needle.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Loop Move.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6567",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Loop Move.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Loop Percussifier.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6568",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Loop Percussifier.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Loop Phase.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6569",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Loop Phase.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Loop Ping Pong.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6570",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Loop Ping Pong.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Loop Random.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6571",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Loop Random.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Loop Rhythmic Changer.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6572",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Loop Rhythmic Changer.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Loop Robotifier.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6573",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Loop Robotifier.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Loop Tablamaker.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6574",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Loop Tablamaker.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Loop Ticking.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6575",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Loop Ticking.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Metallic Rezo.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6576",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Metallic Rezo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Panning Rezo.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6577",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Panning Rezo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Phasing Flange.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6578",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Phasing Flange.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Pipe Resonator.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6579",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Pipe Resonator.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Punchy Snare.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6580",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Punchy Snare.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Sub Boom.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6581",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Sub Boom.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Sub Filter Boost.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6582",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Sub Filter Boost.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Sub Kick Maker.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6583",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Sub Kick Maker.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Tubular Pan.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6584",
+      "path": "Audio Effects/Reverb & Resonance/Corpus/Tubular Pan.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Berlin.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Resonators:FileId_6087",
+      "path": "Audio Effects/Reverb & Resonance/Resonators/Berlin.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Brooklyn.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Resonators:FileId_6088",
+      "path": "Audio Effects/Reverb & Resonance/Resonators/Brooklyn.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "LosAngeles.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Resonators:FileId_6089",
+      "path": "Audio Effects/Reverb & Resonance/Resonators/LosAngeles.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Moscow.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Resonators:FileId_6090",
+      "path": "Audio Effects/Reverb & Resonance/Resonators/Moscow.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Munich.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Resonators:FileId_6091",
+      "path": "Audio Effects/Reverb & Resonance/Resonators/Munich.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Paris.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Resonators:FileId_6092",
+      "path": "Audio Effects/Reverb & Resonance/Resonators/Paris.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Prague.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Resonators:FileId_6093",
+      "path": "Audio Effects/Reverb & Resonance/Resonators/Prague.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Rome.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Resonators:FileId_6094",
+      "path": "Audio Effects/Reverb & Resonance/Resonators/Rome.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Tokyo.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Resonators:FileId_6095",
+      "path": "Audio Effects/Reverb & Resonance/Resonators/Tokyo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Valhalla.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Resonators:FileId_6096",
+      "path": "Audio Effects/Reverb & Resonance/Resonators/Valhalla.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vienna.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Resonators:FileId_6097",
+      "path": "Audio Effects/Reverb & Resonance/Resonators/Vienna.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dripping Grains.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Spectral%20Resonator:FileId_5967",
+      "path": "Audio Effects/Reverb & Resonance/Spectral Resonator/Dripping Grains.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum Challenger.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Spectral%20Resonator:FileId_5968",
+      "path": "Audio Effects/Reverb & Resonance/Spectral Resonator/Drum Challenger.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum Snow.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Spectral%20Resonator:FileId_5969",
+      "path": "Audio Effects/Reverb & Resonance/Spectral Resonator/Drum Snow.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Low Rider Drums.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Spectral%20Resonator:FileId_5970",
+      "path": "Audio Effects/Reverb & Resonance/Spectral Resonator/Low Rider Drums.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Metallic Tail.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Spectral%20Resonator:FileId_5971",
+      "path": "Audio Effects/Reverb & Resonance/Spectral Resonator/Metallic Tail.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Reso Mirrors.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Spectral%20Resonator:FileId_5972",
+      "path": "Audio Effects/Reverb & Resonance/Spectral Resonator/Reso Mirrors.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Robot Drums.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Spectral%20Resonator:FileId_5973",
+      "path": "Audio Effects/Reverb & Resonance/Spectral Resonator/Robot Drums.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Wandering Reso.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Spectral%20Resonator:FileId_5974",
+      "path": "Audio Effects/Reverb & Resonance/Spectral Resonator/Wandering Reso.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Chromatic.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Vocoder:FileId_5926",
+      "path": "Audio Effects/Reverb & Resonance/Vocoder/Chromatic.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Filterbank.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Vocoder:FileId_5927",
+      "path": "Audio Effects/Reverb & Resonance/Vocoder/Filterbank.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Formant +5.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Vocoder:FileId_5928",
+      "path": "Audio Effects/Reverb & Resonance/Vocoder/Formant +5.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Formant -5.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Vocoder:FileId_5929",
+      "path": "Audio Effects/Reverb & Resonance/Vocoder/Formant -5.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Noise Drums.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Vocoder:FileId_5930",
+      "path": "Audio Effects/Reverb & Resonance/Vocoder/Noise Drums.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Oct+Six Mod.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Vocoder:FileId_5931",
+      "path": "Audio Effects/Reverb & Resonance/Vocoder/Oct+Six Mod.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Octaves Mod.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Vocoder:FileId_5932",
+      "path": "Audio Effects/Reverb & Resonance/Vocoder/Octaves Mod.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Clap Hybrid.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Drums:FileId_6293",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Drums/Clap Hybrid.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dark Snare Room.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Drums:FileId_6294",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Drums/Dark Snare Room.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drums In A Canyon.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Drums:FileId_6295",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Drums/Drums In A Canyon.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drums In A Closet.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Drums:FileId_6296",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Drums/Drums In A Closet.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Fat Drum Studio.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Drums:FileId_6297",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Drums/Fat Drum Studio.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Gated & Ambience.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Drums:FileId_6298",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Drums/Gated & Ambience.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Lively Resonant.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Drums:FileId_6299",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Drums/Lively Resonant.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Modal Hybrid.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Drums:FileId_6300",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Drums/Modal Hybrid.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Rain On Drums.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Drums:FileId_6301",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Drums/Rain On Drums.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Short Bliss.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Drums:FileId_6302",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Drums/Short Bliss.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Slap Lo Fi.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Drums:FileId_6303",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Drums/Slap Lo Fi.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Snare Hybrid.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Drums:FileId_6304",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Drums/Snare Hybrid.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Snare Plate Digital Vintage.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Drums:FileId_6305",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Drums/Snare Plate Digital Vintage.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vintage Drum Echo.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Drums:FileId_6306",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Drums/Vintage Drum Echo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Artificial Flutter Hall.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6272",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Artificial Flutter Hall.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Cathedral Huge.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6273",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Cathedral Huge.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Delayed Blurry Hall.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6274",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Delayed Blurry Hall.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Galactic Coral Hall.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6275",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Galactic Coral Hall.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Guitar Tones.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6276",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Guitar Tones.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Keys Bastille.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6277",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Keys Bastille.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Medium Dark Plate.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6278",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Medium Dark Plate.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Modulated Cinematic Space.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6279",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Modulated Cinematic Space.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Piano Hall.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6280",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Piano Hall.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Plate Foyer.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6281",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Plate Foyer.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Presenza Hall.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6282",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Presenza Hall.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Refraction Episode.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6283",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Refraction Episode.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Sheer Hall.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6284",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Sheer Hall.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Small Dirty Plate.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6285",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Small Dirty Plate.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Sparse Hall.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6286",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Sparse Hall.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Synthetic Hall.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6287",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Synthetic Hall.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Tartaruga Hall.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6288",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Tartaruga Hall.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vocal Plate Hall.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6289",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Vocal Plate Hall.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vocal Pop Hall.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6290",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Vocal Pop Hall.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Wide Hallway.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6291",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Hall/Wide Hallway.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Car Garage.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Room:FileId_6261",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Room/Car Garage.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dirty Synth Room.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Room:FileId_6262",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Room/Dirty Synth Room.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Empty Floor.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Room:FileId_6263",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Room/Empty Floor.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Empty Walls.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Room:FileId_6264",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Room/Empty Walls.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Large Hostel Bedroom.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Room:FileId_6265",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Room/Large Hostel Bedroom.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Modest Corner.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Room:FileId_6266",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Room/Modest Corner.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Room Slapback.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Room:FileId_6267",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Room/Room Slapback.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Small Dark Room.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Room:FileId_6268",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Room/Small Dark Room.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Spatial Room.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Room:FileId_6269",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Room/Spatial Room.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Synthetic Drum Room.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Room:FileId_6270",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Room/Synthetic Drum Room.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Droney Cave.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Space:FileId_6249",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Space/Droney Cave.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Echo Streets.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Space:FileId_6250",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Space/Echo Streets.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Empty Oil Tank.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Space:FileId_6251",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Space/Empty Oil Tank.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Endless Arctic.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Space:FileId_6252",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Space/Endless Arctic.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Filtered Dub Tech.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Space:FileId_6253",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Space/Filtered Dub Tech.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Large Dark Space.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Space:FileId_6254",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Space/Large Dark Space.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Large Octave Shimmer.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Space:FileId_6255",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Space/Large Octave Shimmer.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Large Shimmer Plate.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Space:FileId_6256",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Space/Large Shimmer Plate.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Resonantic Space.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Space:FileId_6257",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Space/Resonantic Space.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Stutter Dub.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Space:FileId_6258",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Space/Stutter Dub.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Submarine Space.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Space:FileId_6259",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Space/Submarine Space.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bathtub Percussion.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Special:FileId_6231",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Special/Bathtub Percussion.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum Kit Silo.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Special:FileId_6232",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Special/Drum Kit Silo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Echo Flex.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Special:FileId_6233",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Special/Echo Flex.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Filter Waves.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Special:FileId_6234",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Special/Filter Waves.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Gated Stretch.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Special:FileId_6235",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Special/Gated Stretch.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Harmonic Tension.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Special:FileId_6236",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Special/Harmonic Tension.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Intercom Speaker.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Special:FileId_6237",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Special/Intercom Speaker.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Phone Call.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Special:FileId_6238",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Special/Phone Call.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Pitched Down Delay Spiral.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Special:FileId_6239",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Special/Pitched Down Delay Spiral.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Reversal Protocol.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Special:FileId_6240",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Special/Reversal Protocol.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Space Tank.adv",
+      "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Special:FileId_6241",
+      "path": "Audio Effects/Reverb & Resonance/Hybrid Reverb/Special/Space Tank.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    }
+  ]
+}

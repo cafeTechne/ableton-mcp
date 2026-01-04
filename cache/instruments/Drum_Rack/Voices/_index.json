@@ -1,0 +1,248 @@
+{
+  "path": "Instruments/Drum Rack/Voices",
+  "name": "Voices",
+  "uri": "query:Synths#Drum%20Rack:Voices",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Air Tight Rack Veronica (Root E).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61549"
+    },
+    {
+      "name": "Basic Beat Box Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61568"
+    },
+    {
+      "name": "Beat Box Gate Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61569"
+    },
+    {
+      "name": "Boom Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61570"
+    },
+    {
+      "name": "Combined Rack Fiona & Ave (Root A).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61536"
+    },
+    {
+      "name": "Combined Rack Fiona & Maike (Root D).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61537"
+    },
+    {
+      "name": "Combined Rack Fiona (Root A).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61538"
+    },
+    {
+      "name": "Combined Rack Issara & Fiona (Root A).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61539"
+    },
+    {
+      "name": "Combined Rack Maike (Root D).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61540"
+    },
+    {
+      "name": "Combined Rack Maike (Root F).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61541"
+    },
+    {
+      "name": "Combined Rack Niklas (Root G).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61542"
+    },
+    {
+      "name": "Combined Rack Philipp (Root C).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61543"
+    },
+    {
+      "name": "Combined Rack Veronica (Root B).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61544"
+    },
+    {
+      "name": "Combined Rack Veronica (Root E).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61545"
+    },
+    {
+      "name": "Demon Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61571"
+    },
+    {
+      "name": "Digital Pop Veronica (A min).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61550"
+    },
+    {
+      "name": "Expression Rack Issara (Root A).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61551"
+    },
+    {
+      "name": "Fiona & Humphrey (A min).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61546"
+    },
+    {
+      "name": "FM Melody Rack Philipp (Root C).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61552"
+    },
+    {
+      "name": "Glass Automaton (Root A).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61553"
+    },
+    {
+      "name": "Hocketing Rack Veronica (C Lydian).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61554"
+    },
+    {
+      "name": "Odd Loops Niklas (Root G).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61555"
+    },
+    {
+      "name": "Power Cords Niklas (Root G).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61556"
+    },
+    {
+      "name": "Shifted Rhythms Fiona (Root D).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61557"
+    },
+    {
+      "name": "Shimmer Rack Veronica (Root B).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61558"
+    },
+    {
+      "name": "Snappy Vowelizer Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61573"
+    },
+    {
+      "name": "Suffocation Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61574"
+    },
+    {
+      "name": "Two Rooms Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61575"
+    },
+    {
+      "name": "Two Way Velocity (G-flat Maj Pentatonic).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61559"
+    },
+    {
+      "name": "Velocity Cords Niklas (Root G).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61560"
+    },
+    {
+      "name": "Veronica & Humphrey (B maj).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61547"
+    },
+    {
+      "name": "Veronica & Humphrey (D min).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61548"
+    },
+    {
+      "name": "Vowelizer Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61576"
+    },
+    {
+      "name": "Warped Beat Box Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Voices:FileId_61577"
+    }
+  ]
+}

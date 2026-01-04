@@ -1,0 +1,136 @@
+{
+  "path": "Instruments/Operator/Components",
+  "name": "Components",
+  "uri": "query:Synths#Operator:Components",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Low Pass Filter.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5631"
+    },
+    {
+      "name": "Noise Hit Attack.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5632"
+    },
+    {
+      "name": "Saw 3 Waveforms.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5633"
+    },
+    {
+      "name": "Short Metallic Spectral.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5634"
+    },
+    {
+      "name": "Sine Blip Attack.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5635"
+    },
+    {
+      "name": "Sine Blip Filter Attack.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5636"
+    },
+    {
+      "name": "Sine Mono Glide Waveforms.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5637"
+    },
+    {
+      "name": "Sine Notch Sweep Waveforms.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5638"
+    },
+    {
+      "name": "Sine Waveforms.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5639"
+    },
+    {
+      "name": "Square 3 Waveforms.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5641"
+    },
+    {
+      "name": "Square 4 Waveforms.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5643"
+    },
+    {
+      "name": "Square 6 Waveforms.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5644"
+    },
+    {
+      "name": "Square 8 Waveforms.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5646"
+    },
+    {
+      "name": "Square 16 Waveforms.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5640"
+    },
+    {
+      "name": "Square 32 Waveforms.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5642"
+    },
+    {
+      "name": "Square 64 Waveforms.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5645"
+    },
+    {
+      "name": "Square D Waveforms.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5647"
+    },
+    {
+      "name": "Triangle Waveforms.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Components:FileId_5648"
+    }
+  ]
+}

@@ -1,0 +1,962 @@
+{
+  "path": "drums/Drum Hits/Tambourine",
+  "name": "Tambourine",
+  "uri": "query:Drums#Drum%20Hits:Tambourine",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Pandeiro A Finger.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50341"
+    },
+    {
+      "name": "Pandeiro A Rim.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50342"
+    },
+    {
+      "name": "Pandeiro A Roll.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50343"
+    },
+    {
+      "name": "Pandeiro A Shake.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50344"
+    },
+    {
+      "name": "Pandeiro A Slap.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50345"
+    },
+    {
+      "name": "Pandeiro A Thumb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50346"
+    },
+    {
+      "name": "Perc Tambourine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_59128"
+    },
+    {
+      "name": "Snap Tambo Layer Medium.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_36375"
+    },
+    {
+      "name": "Tamb 80s Space Craft.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_526"
+    },
+    {
+      "name": "Tamb 707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_525"
+    },
+    {
+      "name": "Tamb Acoustified 04.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47341"
+    },
+    {
+      "name": "Tamb Acoustified 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47342"
+    },
+    {
+      "name": "Tamb Acoustified 13.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47343"
+    },
+    {
+      "name": "Tamb Acoustified Plymouth.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_527"
+    },
+    {
+      "name": "Tamb Alien Fash.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_528"
+    },
+    {
+      "name": "Tamb Bang.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_529"
+    },
+    {
+      "name": "Tamb BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_55896"
+    },
+    {
+      "name": "Tamb BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_55897"
+    },
+    {
+      "name": "Tamb C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_530"
+    },
+    {
+      "name": "Tamb Chop Jagged Glass.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_531"
+    },
+    {
+      "name": "Tamb Chop.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_532"
+    },
+    {
+      "name": "Tamb DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_55898"
+    },
+    {
+      "name": "Tamb DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_55899"
+    },
+    {
+      "name": "Tamb DMX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_533"
+    },
+    {
+      "name": "Tamb Electrified 09.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47344"
+    },
+    {
+      "name": "Tamb Hit Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_534"
+    },
+    {
+      "name": "Tamb Hit Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_535"
+    },
+    {
+      "name": "Tamb Jiggy.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_536"
+    },
+    {
+      "name": "Tamb LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_537"
+    },
+    {
+      "name": "Tamb Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_538"
+    },
+    {
+      "name": "Tamb LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_55900"
+    },
+    {
+      "name": "Tamb Metal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47345"
+    },
+    {
+      "name": "Tamb Metal.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_539"
+    },
+    {
+      "name": "Tamb Perc Combo.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_540"
+    },
+    {
+      "name": "Tamb Processed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_541"
+    },
+    {
+      "name": "Tamb Prommer Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_542"
+    },
+    {
+      "name": "Tamb RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_56725"
+    },
+    {
+      "name": "Tamb Shake.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_543"
+    },
+    {
+      "name": "Tamb Short And Solid.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_544"
+    },
+    {
+      "name": "Tamb Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_545"
+    },
+    {
+      "name": "Tamb Source.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_546"
+    },
+    {
+      "name": "Tamb Stick Hard British Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_547"
+    },
+    {
+      "name": "Tamb Stick Soft British Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_548"
+    },
+    {
+      "name": "Tamb WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_55901"
+    },
+    {
+      "name": "Tamb Wood.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_549"
+    },
+    {
+      "name": "Tamb-707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47346"
+    },
+    {
+      "name": "Tamb-DMX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47347"
+    },
+    {
+      "name": "Tamb-LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47348"
+    },
+    {
+      "name": "TambMid DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_56726"
+    },
+    {
+      "name": "Tambo 707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_59129"
+    },
+    {
+      "name": "Tambo Acoustified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47349"
+    },
+    {
+      "name": "Tambo Acoustified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47350"
+    },
+    {
+      "name": "Tambo Acoustified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47351"
+    },
+    {
+      "name": "Tambo Acoustified 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47352"
+    },
+    {
+      "name": "Tambo Boni.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_39807"
+    },
+    {
+      "name": "Tambo British Vintage Stick Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47353"
+    },
+    {
+      "name": "Tambo Burned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47354"
+    },
+    {
+      "name": "Tambo DMX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_59130"
+    },
+    {
+      "name": "Tambo Jiggy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_39808"
+    },
+    {
+      "name": "Tambo Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47355"
+    },
+    {
+      "name": "Tambo LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_59131"
+    },
+    {
+      "name": "Tambo Mid Shake.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47356"
+    },
+    {
+      "name": "Tambo Shake Wah Soul.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_39809"
+    },
+    {
+      "name": "Tambo Stick Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47357"
+    },
+    {
+      "name": "Tambo Stick Spring.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_39810"
+    },
+    {
+      "name": "Tambo Streets.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_39811"
+    },
+    {
+      "name": "Tambo Trax.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47358"
+    },
+    {
+      "name": "Tambo Wow.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_39812"
+    },
+    {
+      "name": "Tamboo Shy and Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47359"
+    },
+    {
+      "name": "Tamborine #1 - 20.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47360"
+    },
+    {
+      "name": "Tamborine Harbour.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_42433"
+    },
+    {
+      "name": "Tambourin Hit-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47361"
+    },
+    {
+      "name": "Tambourin Hit-Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47362"
+    },
+    {
+      "name": "TAMBOURINE #1 - 50.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45659"
+    },
+    {
+      "name": "TAMBOURINE #1 - 51.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45660"
+    },
+    {
+      "name": "TAMBOURINE #1 - 54.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45661"
+    },
+    {
+      "name": "TAMBOURINE #1 - 55.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45662"
+    },
+    {
+      "name": "TAMBOURINE #1 - 56.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45663"
+    },
+    {
+      "name": "TAMBOURINE #1 - 64.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45664"
+    },
+    {
+      "name": "TAMBOURINE #1 - 65.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45665"
+    },
+    {
+      "name": "TAMBOURINE #1 - 67.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45666"
+    },
+    {
+      "name": "TAMBOURINE #2 - 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45670"
+    },
+    {
+      "name": "TAMBOURINE #2 - 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45671"
+    },
+    {
+      "name": "TAMBOURINE #2 - 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45667"
+    },
+    {
+      "name": "TAMBOURINE #2 - 13.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45668"
+    },
+    {
+      "name": "TAMBOURINE #2 - 14.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45669"
+    },
+    {
+      "name": "TAMBOURINE #3 - 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45681"
+    },
+    {
+      "name": "TAMBOURINE #3 - 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45682"
+    },
+    {
+      "name": "TAMBOURINE #3 - 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45683"
+    },
+    {
+      "name": "TAMBOURINE #3 - 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45684"
+    },
+    {
+      "name": "TAMBOURINE #3 - 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45672"
+    },
+    {
+      "name": "TAMBOURINE #3 - 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45673"
+    },
+    {
+      "name": "TAMBOURINE #3 - 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45674"
+    },
+    {
+      "name": "TAMBOURINE #3 - 13.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45675"
+    },
+    {
+      "name": "TAMBOURINE #3 - 14.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45676"
+    },
+    {
+      "name": "TAMBOURINE #3 - 15.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45677"
+    },
+    {
+      "name": "TAMBOURINE #3 - 16.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45678"
+    },
+    {
+      "name": "TAMBOURINE #3 - 17.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45679"
+    },
+    {
+      "name": "TAMBOURINE #3 - 18.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45680"
+    },
+    {
+      "name": "TAMBOURINE 1.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45954"
+    },
+    {
+      "name": "TAMBOURINE 2.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45955"
+    },
+    {
+      "name": "TAMBOURINE 3a.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45956"
+    },
+    {
+      "name": "TAMBOURINE 3b.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45957"
+    },
+    {
+      "name": "TAMBOURINE 3c.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_45958"
+    },
+    {
+      "name": "Tambourine Dry.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_59132"
+    },
+    {
+      "name": "Tambourine Knock Wood Shake.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_36376"
+    },
+    {
+      "name": "Tambourine Large Single Shake.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_36377"
+    },
+    {
+      "name": "Tambourine Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47363"
+    },
+    {
+      "name": "Tambourine Mid Shake.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_36378"
+    },
+    {
+      "name": "Tambourine Shake Tap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_36379"
+    },
+    {
+      "name": "Tambourine Tap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_36380"
+    },
+    {
+      "name": "Tambourine-BritishVintage-Stick-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_47364"
+    },
+    {
+      "name": "Tmbourim A Finger.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50347"
+    },
+    {
+      "name": "Tmbourim A Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50348"
+    },
+    {
+      "name": "Tmbourim A Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50349"
+    },
+    {
+      "name": "Tmbourim B Finger.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50350"
+    },
+    {
+      "name": "Tmbourim B Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50351"
+    },
+    {
+      "name": "Tmbourim B Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50352"
+    },
+    {
+      "name": "Tmbourin A 1 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50353"
+    },
+    {
+      "name": "Tmbourin A 1 Hit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50354"
+    },
+    {
+      "name": "Tmbourin A 1 Shake.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50355"
+    },
+    {
+      "name": "Tmbourin B 2 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50356"
+    },
+    {
+      "name": "Tmbourin B 2 Hit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50357"
+    },
+    {
+      "name": "Tmbourin B 2 Shake.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50358"
+    },
+    {
+      "name": "Tmbourin C 3 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50359"
+    },
+    {
+      "name": "Tmbourin C 3 Hit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50360"
+    },
+    {
+      "name": "Tmbourin C 3 Shake.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50361"
+    },
+    {
+      "name": "Tmbourin C 4 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50362"
+    },
+    {
+      "name": "Tmbourin C 4 Hit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50363"
+    },
+    {
+      "name": "Tmbourin C 4 Shake.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50364"
+    },
+    {
+      "name": "Tmbourin C 5 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50365"
+    },
+    {
+      "name": "Tmbourin C 5 Hit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50366"
+    },
+    {
+      "name": "Tmbourin C 5 Shake.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50367"
+    },
+    {
+      "name": "Tmbourin C 6 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50368"
+    },
+    {
+      "name": "Tmbourin C 6 Hit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50369"
+    },
+    {
+      "name": "Tmbourin C 6 Shake.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tambourine:FileId_50370"
+    }
+  ]
+}

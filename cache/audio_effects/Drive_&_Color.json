@@ -1,0 +1,803 @@
+{
+  "count": 114,
+  "items": [
+    {
+      "name": "Amp",
+      "uri": "query:AudioFx#Drive%20&%20Color:Amp",
+      "path": "Audio Effects/Drive & Color/Amp",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Cabinet",
+      "uri": "query:AudioFx#Drive%20&%20Color:Cabinet",
+      "path": "Audio Effects/Drive & Color/Cabinet",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum Buss",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss",
+      "path": "Audio Effects/Drive & Color/Drum Buss",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dynamic Tube",
+      "uri": "query:AudioFx#Drive%20&%20Color:Dynamic%20Tube",
+      "path": "Audio Effects/Drive & Color/Dynamic Tube",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Erosion",
+      "uri": "query:AudioFx#Drive%20&%20Color:Erosion",
+      "path": "Audio Effects/Drive & Color/Erosion",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Overdrive",
+      "uri": "query:AudioFx#Drive%20&%20Color:Overdrive",
+      "path": "Audio Effects/Drive & Color/Overdrive",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Pedal",
+      "uri": "query:AudioFx#Drive%20&%20Color:Pedal",
+      "path": "Audio Effects/Drive & Color/Pedal",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Redux",
+      "uri": "query:AudioFx#Drive%20&%20Color:Redux",
+      "path": "Audio Effects/Drive & Color/Redux",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Saturator",
+      "uri": "query:AudioFx#Drive%20&%20Color:Saturator",
+      "path": "Audio Effects/Drive & Color/Saturator",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vinyl Distortion",
+      "uri": "query:AudioFx#Drive%20&%20Color:Vinyl%20Distortion",
+      "path": "Audio Effects/Drive & Color/Vinyl Distortion",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bass Roundup.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Amp:FileId_6684",
+      "path": "Audio Effects/Drive & Color/Amp/Bass Roundup.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Blues Drive.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Amp:FileId_6685",
+      "path": "Audio Effects/Drive & Color/Amp/Blues Drive.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Boost and Crunch.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Amp:FileId_6686",
+      "path": "Audio Effects/Drive & Color/Amp/Boost and Crunch.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Clean.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Amp:FileId_6687",
+      "path": "Audio Effects/Drive & Color/Amp/Clean.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Discrete.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Amp:FileId_6688",
+      "path": "Audio Effects/Drive & Color/Amp/Discrete.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Heavy.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Amp:FileId_6689",
+      "path": "Audio Effects/Drive & Color/Amp/Heavy.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Key Crunch.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Amp:FileId_6690",
+      "path": "Audio Effects/Drive & Color/Amp/Key Crunch.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Marsh Mellows.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Amp:FileId_6691",
+      "path": "Audio Effects/Drive & Color/Amp/Marsh Mellows.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Metalic.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Amp:FileId_6692",
+      "path": "Audio Effects/Drive & Color/Amp/Metalic.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Rhythm Funk.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Amp:FileId_6693",
+      "path": "Audio Effects/Drive & Color/Amp/Rhythm Funk.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Rock all 10.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Amp:FileId_6694",
+      "path": "Audio Effects/Drive & Color/Amp/Rock all 10.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Screamer.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Amp:FileId_6695",
+      "path": "Audio Effects/Drive & Color/Amp/Screamer.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "1x12 Cab.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Cabinet:FileId_6623",
+      "path": "Audio Effects/Drive & Color/Cabinet/1x12 Cab.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "2x12 Cab.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Cabinet:FileId_6624",
+      "path": "Audio Effects/Drive & Color/Cabinet/2x12 Cab.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "4x10 Bass Cab.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Cabinet:FileId_6625",
+      "path": "Audio Effects/Drive & Color/Cabinet/4x10 Bass Cab.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "4x10 Cab.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Cabinet:FileId_6626",
+      "path": "Audio Effects/Drive & Color/Cabinet/4x10 Cab.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "4x12 Cab.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Cabinet:FileId_6627",
+      "path": "Audio Effects/Drive & Color/Cabinet/4x12 Cab.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bottom Up.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Cabinet:FileId_6628",
+      "path": "Audio Effects/Drive & Color/Cabinet/Bottom Up.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bright Small Box.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Cabinet:FileId_6629",
+      "path": "Audio Effects/Drive & Color/Cabinet/Bright Small Box.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Sit in the Mix.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Cabinet:FileId_6630",
+      "path": "Audio Effects/Drive & Color/Cabinet/Sit in the Mix.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Slight Reflections.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Cabinet:FileId_6631",
+      "path": "Audio Effects/Drive & Color/Cabinet/Slight Reflections.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Small Drum Room.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Cabinet:FileId_6632",
+      "path": "Audio Effects/Drive & Color/Cabinet/Small Drum Room.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Studio Room.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Cabinet:FileId_6633",
+      "path": "Audio Effects/Drive & Color/Cabinet/Studio Room.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bonzo on the Dials.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6507",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Bonzo on the Dials.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Boom in A.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6508",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Boom in A.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Boom in C.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6509",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Boom in C.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Boom in D.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6510",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Boom in D.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Boom in E.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6511",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Boom in E.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Boom in G.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6512",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Boom in G.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Compression Gate.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6513",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Compression Gate.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Crisp Boom in C.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6514",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Crisp Boom in C.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Crisp Comp in G.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6515",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Crisp Comp in G.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum Pumper.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6516",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Drum Pumper.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum Sharpener.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6517",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Drum Sharpener.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum Softener.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6518",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Drum Softener.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Fat & Ruff in E.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6519",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Fat & Ruff in E.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Full Boom in E.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6520",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Full Boom in E.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Instant Mayhem.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6521",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Instant Mayhem.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Muffled Crunch in E.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6522",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Muffled Crunch in E.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Punch Bass in G.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6523",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Punch Bass in G.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Punch Boom in A.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6524",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Punch Boom in A.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Punchy Driven .adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6525",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Punchy Driven .adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Squeeze & Drive in G.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6526",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Squeeze & Drive in G.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Transient Shaping Enhance.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6527",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Transient Shaping Enhance.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Transient Shift Decay.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6528",
+      "path": "Audio Effects/Drive & Color/Drum Buss/Transient Shift Decay.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Broken Tube.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Dynamic%20Tube:FileId_6501",
+      "path": "Audio Effects/Drive & Color/Dynamic Tube/Broken Tube.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Discreet Beat Dirt.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Dynamic%20Tube:FileId_6502",
+      "path": "Audio Effects/Drive & Color/Dynamic Tube/Discreet Beat Dirt.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Distortion Gate.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Dynamic%20Tube:FileId_6503",
+      "path": "Audio Effects/Drive & Color/Dynamic Tube/Distortion Gate.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Hot Driven Tape.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Dynamic%20Tube:FileId_6504",
+      "path": "Audio Effects/Drive & Color/Dynamic Tube/Hot Driven Tape.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Tube Trash.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Dynamic%20Tube:FileId_6505",
+      "path": "Audio Effects/Drive & Color/Dynamic Tube/Tube Trash.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Warm Tube.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Dynamic%20Tube:FileId_6506",
+      "path": "Audio Effects/Drive & Color/Dynamic Tube/Warm Tube.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Hiss.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Erosion:FileId_6362",
+      "path": "Audio Effects/Drive & Color/Erosion/Hiss.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Noisy.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Erosion:FileId_6363",
+      "path": "Audio Effects/Drive & Color/Erosion/Noisy.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Sine 3.2 Max.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Erosion:FileId_6365",
+      "path": "Audio Effects/Drive & Color/Erosion/Sine 3.2 Max.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Sine 4.6 Mid.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Erosion:FileId_6366",
+      "path": "Audio Effects/Drive & Color/Erosion/Sine 4.6 Mid.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Sine 16 Max.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Erosion:FileId_6364",
+      "path": "Audio Effects/Drive & Color/Erosion/Sine 16 Max.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Sine 962 High.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Erosion:FileId_6367",
+      "path": "Audio Effects/Drive & Color/Erosion/Sine 962 High.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Snorz.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Erosion:FileId_6368",
+      "path": "Audio Effects/Drive & Color/Erosion/Snorz.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Wide and Dirty.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Erosion:FileId_6369",
+      "path": "Audio Effects/Drive & Color/Erosion/Wide and Dirty.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Distort.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Overdrive:FileId_6132",
+      "path": "Audio Effects/Drive & Color/Overdrive/Distort.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Enhance.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Overdrive:FileId_6133",
+      "path": "Audio Effects/Drive & Color/Overdrive/Enhance.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Mids Distort.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Overdrive:FileId_6134",
+      "path": "Audio Effects/Drive & Color/Overdrive/Mids Distort.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Mids Overdrive.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Overdrive:FileId_6135",
+      "path": "Audio Effects/Drive & Color/Overdrive/Mids Overdrive.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Overdrive.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Overdrive:FileId_6136",
+      "path": "Audio Effects/Drive & Color/Overdrive/Overdrive.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bass Guitar Front of Stage.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Pedal:FileId_6117",
+      "path": "Audio Effects/Drive & Color/Pedal/Bass Guitar Front of Stage.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bass Guitar Synthesizerizer.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Pedal:FileId_6118",
+      "path": "Audio Effects/Drive & Color/Pedal/Bass Guitar Synthesizerizer.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Broken Pedal.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Pedal:FileId_6119",
+      "path": "Audio Effects/Drive & Color/Pedal/Broken Pedal.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum Patina.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Pedal:FileId_6120",
+      "path": "Audio Effects/Drive & Color/Pedal/Drum Patina.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum Purgatory.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Pedal:FileId_6121",
+      "path": "Audio Effects/Drive & Color/Pedal/Drum Purgatory.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "E-Piano Dirt & Gnarl.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Pedal:FileId_6122",
+      "path": "Audio Effects/Drive & Color/Pedal/E-Piano Dirt & Gnarl.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "E-Piano Soloist.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Pedal:FileId_6123",
+      "path": "Audio Effects/Drive & Color/Pedal/E-Piano Soloist.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Guitar Dirt.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Pedal:FileId_6124",
+      "path": "Audio Effects/Drive & Color/Pedal/Guitar Dirt.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Guitar Gnarly Fuzz.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Pedal:FileId_6125",
+      "path": "Audio Effects/Drive & Color/Pedal/Guitar Gnarly Fuzz.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Guitar Mellow Crunch.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Pedal:FileId_6126",
+      "path": "Audio Effects/Drive & Color/Pedal/Guitar Mellow Crunch.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Hot Fuzz.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Pedal:FileId_6127",
+      "path": "Audio Effects/Drive & Color/Pedal/Hot Fuzz.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Little Drive.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Pedal:FileId_6128",
+      "path": "Audio Effects/Drive & Color/Pedal/Little Drive.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Synth Lead Lushener.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Pedal:FileId_6129",
+      "path": "Audio Effects/Drive & Color/Pedal/Synth Lead Lushener.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Synth Pad Fattener.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Pedal:FileId_6130",
+      "path": "Audio Effects/Drive & Color/Pedal/Synth Pad Fattener.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Warm Fuzz.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Pedal:FileId_6131",
+      "path": "Audio Effects/Drive & Color/Pedal/Warm Fuzz.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Chiptune Filter.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Redux:FileId_6098",
+      "path": "Audio Effects/Drive & Color/Redux/Chiptune Filter.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dirt & Grit.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Redux:FileId_6099",
+      "path": "Audio Effects/Drive & Color/Redux/Dirt & Grit.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Epoxy Crush.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Redux:FileId_6100",
+      "path": "Audio Effects/Drive & Color/Redux/Epoxy Crush.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Kaputt.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Redux:FileId_6101",
+      "path": "Audio Effects/Drive & Color/Redux/Kaputt.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Low Sample Rate.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Redux:FileId_6102",
+      "path": "Audio Effects/Drive & Color/Redux/Low Sample Rate.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "New Mirage.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Redux:FileId_6103",
+      "path": "Audio Effects/Drive & Color/Redux/New Mirage.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Some Dust.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Redux:FileId_6104",
+      "path": "Audio Effects/Drive & Color/Redux/Some Dust.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Synth Bite.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Redux:FileId_6105",
+      "path": "Audio Effects/Drive & Color/Redux/Synth Bite.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vintage Sampler.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Redux:FileId_6106",
+      "path": "Audio Effects/Drive & Color/Redux/Vintage Sampler.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "A Bit Warmer.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Saturator:FileId_6011",
+      "path": "Audio Effects/Drive & Color/Saturator/A Bit Warmer.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Crew Cut.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Saturator:FileId_6012",
+      "path": "Audio Effects/Drive & Color/Saturator/Crew Cut.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Digital Clip Center.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Saturator:FileId_6013",
+      "path": "Audio Effects/Drive & Color/Saturator/Digital Clip Center.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Hot Tubes.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Saturator:FileId_6014",
+      "path": "Audio Effects/Drive & Color/Saturator/Hot Tubes.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Mid-Range Phattener.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Saturator:FileId_6015",
+      "path": "Audio Effects/Drive & Color/Saturator/Mid-Range Phattener.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Rectifier.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Saturator:FileId_6016",
+      "path": "Audio Effects/Drive & Color/Saturator/Rectifier.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Soft Shaper.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Saturator:FileId_6017",
+      "path": "Audio Effects/Drive & Color/Saturator/Soft Shaper.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Warm Up Highs.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Saturator:FileId_6018",
+      "path": "Audio Effects/Drive & Color/Saturator/Warm Up Highs.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Warm Up Lows.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Saturator:FileId_6019",
+      "path": "Audio Effects/Drive & Color/Saturator/Warm Up Lows.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Awfull.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Vinyl%20Distortion:FileId_5933",
+      "path": "Audio Effects/Drive & Color/Vinyl Distortion/Awfull.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Crack.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Vinyl%20Distortion:FileId_5934",
+      "path": "Audio Effects/Drive & Color/Vinyl Distortion/Crack.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dubplate.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Vinyl%20Distortion:FileId_5935",
+      "path": "Audio Effects/Drive & Color/Vinyl Distortion/Dubplate.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Klirr.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Vinyl%20Distortion:FileId_5936",
+      "path": "Audio Effects/Drive & Color/Vinyl Distortion/Klirr.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Nonreal.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Vinyl%20Distortion:FileId_5937",
+      "path": "Audio Effects/Drive & Color/Vinyl Distortion/Nonreal.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vinyl.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Vinyl%20Distortion:FileId_5938",
+      "path": "Audio Effects/Drive & Color/Vinyl Distortion/Vinyl.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Zerr.adv",
+      "uri": "query:AudioFx#Drive%20&%20Color:Vinyl%20Distortion:FileId_5939",
+      "path": "Audio Effects/Drive & Color/Vinyl Distortion/Zerr.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    }
+  ]
+}

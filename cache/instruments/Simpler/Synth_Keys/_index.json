@@ -1,0 +1,108 @@
+{
+  "path": "Instruments/Simpler/Synth Keys",
+  "name": "Synth Keys",
+  "uri": "query:Synths#Simpler:Synth%20Keys",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "106 Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Keys:FileId_43025"
+    },
+    {
+      "name": "Brecon.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Keys:FileId_49044"
+    },
+    {
+      "name": "Chord Soft Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Keys:FileId_5250"
+    },
+    {
+      "name": "Mister M Piano.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Keys:FileId_36662"
+    },
+    {
+      "name": "Mums Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Keys:FileId_49055"
+    },
+    {
+      "name": "Os Car Crues.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Keys:FileId_61133"
+    },
+    {
+      "name": "Oscar Boke.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Keys:FileId_43031"
+    },
+    {
+      "name": "Oscar Stollig.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Keys:FileId_43032"
+    },
+    {
+      "name": "Pathos Key Coplean.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Keys:FileId_61134"
+    },
+    {
+      "name": "Reverberant Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Keys:FileId_5251"
+    },
+    {
+      "name": "Sonix LFO Chabela.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Keys:FileId_49059"
+    },
+    {
+      "name": "Sonix PUL.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Keys:FileId_38370"
+    },
+    {
+      "name": "Twenty Perc Rev 2.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Keys:FileId_61141"
+    },
+    {
+      "name": "Vibewave.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Keys:FileId_49063"
+    }
+  ]
+}

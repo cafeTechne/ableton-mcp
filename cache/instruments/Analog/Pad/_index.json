@@ -1,0 +1,486 @@
+{
+  "path": "Instruments/Analog/Pad",
+  "name": "Pad",
+  "uri": "query:Synths#Analog:Pad",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Analog Pad Chord.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_36692"
+    },
+    {
+      "name": "Analog Rising Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_59621"
+    },
+    {
+      "name": "Bender Chord.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_39984"
+    },
+    {
+      "name": "Bi-Phase Sector.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_39985"
+    },
+    {
+      "name": "Blissful Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_49088"
+    },
+    {
+      "name": "Bright Thin Sweep Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_5864"
+    },
+    {
+      "name": "Chanel Basic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_49090"
+    },
+    {
+      "name": "Charry Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_5865"
+    },
+    {
+      "name": "Chomperz Split Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_61189"
+    },
+    {
+      "name": "Chop Lushness Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_38417"
+    },
+    {
+      "name": "Chopin Halloween.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_61190"
+    },
+    {
+      "name": "Dark Filter Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_49093"
+    },
+    {
+      "name": "Dreamer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_38418"
+    },
+    {
+      "name": "Eidolon.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_59239"
+    },
+    {
+      "name": "Eighty Four Blue Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_61200"
+    },
+    {
+      "name": "Encryption Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_39990"
+    },
+    {
+      "name": "Essential Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_61201"
+    },
+    {
+      "name": "Fifth Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_5866"
+    },
+    {
+      "name": "Formant Evolve Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_61203"
+    },
+    {
+      "name": "Galactic Ripple.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_49097"
+    },
+    {
+      "name": "Glass High Strings Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_5867"
+    },
+    {
+      "name": "Glass Low Strings Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_5868"
+    },
+    {
+      "name": "Gritteson Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_55479"
+    },
+    {
+      "name": "Horizon.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_43247"
+    },
+    {
+      "name": "Hybrid Duck Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_38421"
+    },
+    {
+      "name": "Iceflow Shush.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_36696"
+    },
+    {
+      "name": "Idle Warmth Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_49100"
+    },
+    {
+      "name": "Illustra Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_43057"
+    },
+    {
+      "name": "Johnny's Soft Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_59622"
+    },
+    {
+      "name": "Keys Mellow Morning.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_43058"
+    },
+    {
+      "name": "Largeness Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_36697"
+    },
+    {
+      "name": "Light Ray.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_55480"
+    },
+    {
+      "name": "Light Sweep Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_43059"
+    },
+    {
+      "name": "Metal SynPad Majesty.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_38423"
+    },
+    {
+      "name": "Mighty Detuned.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_59623"
+    },
+    {
+      "name": "MPE Slide Orchestrator.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_3975"
+    },
+    {
+      "name": "Neo Soul Pad Tilt.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_61209"
+    },
+    {
+      "name": "Neo Soul Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_36698"
+    },
+    {
+      "name": "Neon Heaven.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_61210"
+    },
+    {
+      "name": "Neon Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_38425"
+    },
+    {
+      "name": "Neutron Fog.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_49102"
+    },
+    {
+      "name": "Nostalgia Explorer Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_43061"
+    },
+    {
+      "name": "Nostalgia Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_43062"
+    },
+    {
+      "name": "Not So Saw.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_55482"
+    },
+    {
+      "name": "Otherworld Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_43064"
+    },
+    {
+      "name": "Pad Distant Spirit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_43065"
+    },
+    {
+      "name": "Past Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_43067"
+    },
+    {
+      "name": "Phil's Sine Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_59624"
+    },
+    {
+      "name": "PWM Strings.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_59625"
+    },
+    {
+      "name": "Quarantine Qeys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_51217"
+    },
+    {
+      "name": "Red Sky at Night.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_59626"
+    },
+    {
+      "name": "Replican.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_55485"
+    },
+    {
+      "name": "Rockin' Me Synth.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_59627"
+    },
+    {
+      "name": "Serenity.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_43070"
+    },
+    {
+      "name": "Simple Analog Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_51222"
+    },
+    {
+      "name": "Sine from the Past.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_51223"
+    },
+    {
+      "name": "Sonar Dive Bomb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_49108"
+    },
+    {
+      "name": "Space Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_39992"
+    },
+    {
+      "name": "Square Sync Tremolo Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_5869"
+    },
+    {
+      "name": "Strings Detuned Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_5870"
+    },
+    {
+      "name": "Super Fall.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_49109"
+    },
+    {
+      "name": "Synth Deep Chord.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_59244"
+    },
+    {
+      "name": "Synth Deep Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_43072"
+    },
+    {
+      "name": "Talking Vibrato Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_43073"
+    },
+    {
+      "name": "Thick Chord Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_5871"
+    },
+    {
+      "name": "Tidal Pool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_36702"
+    },
+    {
+      "name": "Vending Machine Dreams.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_49110"
+    },
+    {
+      "name": "Vivid Synth Dreams.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Pad:FileId_61222"
+    }
+  ]
+}

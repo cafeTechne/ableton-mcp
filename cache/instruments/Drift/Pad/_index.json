@@ -1,0 +1,290 @@
+{
+  "path": "Instruments/Drift/Pad",
+  "name": "Pad",
+  "uri": "query:Synths#Drift:Pad",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "After Glow Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3903"
+    },
+    {
+      "name": "Awakening Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3904"
+    },
+    {
+      "name": "Bronto Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3908"
+    },
+    {
+      "name": "Casino Blips Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3909"
+    },
+    {
+      "name": "Classic Ensemble Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3916"
+    },
+    {
+      "name": "Dark Poly Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3920"
+    },
+    {
+      "name": "Dreamlike Motif Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3924"
+    },
+    {
+      "name": "Dunkel Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3925"
+    },
+    {
+      "name": "Echo Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3927"
+    },
+    {
+      "name": "Foglie Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_5794"
+    },
+    {
+      "name": "Format World.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3930"
+    },
+    {
+      "name": "Freudian Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3931"
+    },
+    {
+      "name": "Gentle Pulse Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_5795"
+    },
+    {
+      "name": "Goddess Flight Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3933"
+    },
+    {
+      "name": "Inclement Drone Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3935"
+    },
+    {
+      "name": "Lo-Fi Reso Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3936"
+    },
+    {
+      "name": "Metal Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3937"
+    },
+    {
+      "name": "Metallic Flutter Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_5796"
+    },
+    {
+      "name": "Metallic Swell Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_5797"
+    },
+    {
+      "name": "Morning Chorus Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_5798"
+    },
+    {
+      "name": "Mourning Stories Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3938"
+    },
+    {
+      "name": "MPE Con Amore Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3968"
+    },
+    {
+      "name": "MPE Dark Cinema Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3969"
+    },
+    {
+      "name": "MPE Ghost Choir Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3970"
+    },
+    {
+      "name": "MPE Ghost Ship Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3971"
+    },
+    {
+      "name": "MPE Power Plant Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3974"
+    },
+    {
+      "name": "MPE Windwhistle Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3977"
+    },
+    {
+      "name": "Rectangular Bliss.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3942"
+    },
+    {
+      "name": "Rising Fog Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_5799"
+    },
+    {
+      "name": "Ruggine Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3943"
+    },
+    {
+      "name": "Scape Shape Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_5800"
+    },
+    {
+      "name": "Scream Shim Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3945"
+    },
+    {
+      "name": "Shark Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_5801"
+    },
+    {
+      "name": "Shy Guy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3947"
+    },
+    {
+      "name": "Space Blip Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3952"
+    },
+    {
+      "name": "Star Talk Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_5802"
+    },
+    {
+      "name": "Synth on Screen.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_5803"
+    },
+    {
+      "name": "VHS Dreams.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3959"
+    },
+    {
+      "name": "Wailing Poly Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_3964"
+    },
+    {
+      "name": "Wave Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Pad:FileId_5804"
+    }
+  ]
+}

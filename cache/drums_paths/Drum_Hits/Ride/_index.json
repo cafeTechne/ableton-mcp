@@ -1,0 +1,1739 @@
+{
+  "path": "drums/Drum Hits/Ride",
+  "name": "Ride",
+  "uri": "query:Drums#Drum%20Hits:Ride",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Cymbal Acid House.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_42371"
+    },
+    {
+      "name": "Ride 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55133"
+    },
+    {
+      "name": "Ride 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55134"
+    },
+    {
+      "name": "Ride 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55135"
+    },
+    {
+      "name": "Ride 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55136"
+    },
+    {
+      "name": "Ride 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55137"
+    },
+    {
+      "name": "Ride 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55138"
+    },
+    {
+      "name": "Ride 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55139"
+    },
+    {
+      "name": "Ride 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55140"
+    },
+    {
+      "name": "Ride 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55141"
+    },
+    {
+      "name": "Ride 505.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_917"
+    },
+    {
+      "name": "Ride 606.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_58090"
+    },
+    {
+      "name": "Ride 707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_918"
+    },
+    {
+      "name": "Ride 808 Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_36307"
+    },
+    {
+      "name": "Ride 808 Tone 1 Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47016"
+    },
+    {
+      "name": "Ride 808 Tone 1 Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47017"
+    },
+    {
+      "name": "Ride 808 Tone 2 Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47018"
+    },
+    {
+      "name": "Ride 808 Tone 2 Med.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47019"
+    },
+    {
+      "name": "Ride 808 Tone 2 Short 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47020"
+    },
+    {
+      "name": "Ride 808 Tone 2 Short 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47021"
+    },
+    {
+      "name": "Ride 808 Tone 3 Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47022"
+    },
+    {
+      "name": "Ride 808 Tone 3 Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47023"
+    },
+    {
+      "name": "Ride 909.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_919"
+    },
+    {
+      "name": "Ride 909.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_58091"
+    },
+    {
+      "name": "Ride Abacus.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_920"
+    },
+    {
+      "name": "Ride Abacus.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47024"
+    },
+    {
+      "name": "Ride Acid House.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_921"
+    },
+    {
+      "name": "Ride Acoustic Bell Nightly.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_42372"
+    },
+    {
+      "name": "Ride Acoustic Bell.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_37538"
+    },
+    {
+      "name": "Ride Acoustic Ocean.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_922"
+    },
+    {
+      "name": "Ride Acoustic Ocean.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_42373"
+    },
+    {
+      "name": "Ride Acoustic Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_42374"
+    },
+    {
+      "name": "Ride Acoustic Uluru.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_42375"
+    },
+    {
+      "name": "Ride Acoustic Wayman 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_42376"
+    },
+    {
+      "name": "Ride Acoustic Wayman 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_42377"
+    },
+    {
+      "name": "Ride Acoustic Wayman Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_42378"
+    },
+    {
+      "name": "Ride Acoustic Yakiman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_923"
+    },
+    {
+      "name": "Ride Acoustic Yakiman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_42379"
+    },
+    {
+      "name": "Ride Acoustified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47026"
+    },
+    {
+      "name": "Ride Acoustified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47028"
+    },
+    {
+      "name": "Ride Acoustified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47029"
+    },
+    {
+      "name": "Ride Acoustified 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47030"
+    },
+    {
+      "name": "Ride Acoustified 05.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47025"
+    },
+    {
+      "name": "Ride Acoustified 15.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47027"
+    },
+    {
+      "name": "Ride Acoustified Plymouth.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_924"
+    },
+    {
+      "name": "Ride AmbientLoudPunch MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56324"
+    },
+    {
+      "name": "Ride Analog 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55142"
+    },
+    {
+      "name": "Ride Analog 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55146"
+    },
+    {
+      "name": "Ride Analog 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55147"
+    },
+    {
+      "name": "Ride Analog 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55148"
+    },
+    {
+      "name": "Ride Analog 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55149"
+    },
+    {
+      "name": "Ride Analog 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55150"
+    },
+    {
+      "name": "Ride Analog 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55151"
+    },
+    {
+      "name": "Ride Analog 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55152"
+    },
+    {
+      "name": "Ride Analog 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55153"
+    },
+    {
+      "name": "Ride Analog 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55143"
+    },
+    {
+      "name": "Ride Analog 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55144"
+    },
+    {
+      "name": "Ride Analog 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55145"
+    },
+    {
+      "name": "Ride Bang.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_39730"
+    },
+    {
+      "name": "Ride Bell Acoustic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_58092"
+    },
+    {
+      "name": "Ride Bell AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56627"
+    },
+    {
+      "name": "Ride Bell BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55834"
+    },
+    {
+      "name": "Ride Bell Blueprint.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_39731"
+    },
+    {
+      "name": "Ride Bell BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56628"
+    },
+    {
+      "name": "Ride Bell BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55835"
+    },
+    {
+      "name": "Ride Bell ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56629"
+    },
+    {
+      "name": "Ride Bell ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56630"
+    },
+    {
+      "name": "Ride Bell CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56631"
+    },
+    {
+      "name": "Ride Bell DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55836"
+    },
+    {
+      "name": "Ride Bell DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55837"
+    },
+    {
+      "name": "Ride Bell DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56632"
+    },
+    {
+      "name": "Ride Bell Ironman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_39732"
+    },
+    {
+      "name": "Ride Bell Ironman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_925"
+    },
+    {
+      "name": "Ride Bell Kindified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47031"
+    },
+    {
+      "name": "Ride Bell Kindified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47032"
+    },
+    {
+      "name": "Ride Bell LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55838"
+    },
+    {
+      "name": "Ride Bell OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56633"
+    },
+    {
+      "name": "Ride Bell RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56634"
+    },
+    {
+      "name": "Ride Bell SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56635"
+    },
+    {
+      "name": "Ride Bell SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56636"
+    },
+    {
+      "name": "Ride Bell Stick 90s Heavy Rock.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_926"
+    },
+    {
+      "name": "Ride Bell Stick Alternative Rock.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_927"
+    },
+    {
+      "name": "Ride Bell StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56637"
+    },
+    {
+      "name": "Ride Bell WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55839"
+    },
+    {
+      "name": "Ride BigPunchy MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55638"
+    },
+    {
+      "name": "Ride Bit Bell.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_48426"
+    },
+    {
+      "name": "Ride Bluesbreak.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47033"
+    },
+    {
+      "name": "Ride Bluesbreak.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_928"
+    },
+    {
+      "name": "Ride BrightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56325"
+    },
+    {
+      "name": "Ride BritishVintage MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55639"
+    },
+    {
+      "name": "Ride Brush ClubSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55840"
+    },
+    {
+      "name": "Ride Brush Hit Hard Club Sizzle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_929"
+    },
+    {
+      "name": "Ride Canvas.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_39733"
+    },
+    {
+      "name": "Ride Casual Dirt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_36308"
+    },
+    {
+      "name": "Ride Casual Flange.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_36309"
+    },
+    {
+      "name": "Ride Chop Rise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_39734"
+    },
+    {
+      "name": "Ride ClassicMuffle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56326"
+    },
+    {
+      "name": "Ride Clean.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_930"
+    },
+    {
+      "name": "Ride Code 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_931"
+    },
+    {
+      "name": "Ride Code 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_58093"
+    },
+    {
+      "name": "Ride Code 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_58094"
+    },
+    {
+      "name": "Ride Code 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_58095"
+    },
+    {
+      "name": "Ride Code.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_48427"
+    },
+    {
+      "name": "Ride ColdTightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56327"
+    },
+    {
+      "name": "Ride CopStyle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56328"
+    },
+    {
+      "name": "Ride Cup 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_932"
+    },
+    {
+      "name": "Ride Cup 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_933"
+    },
+    {
+      "name": "Ride Cup Gen Purpose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_934"
+    },
+    {
+      "name": "Ride Cymbal 505 Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47034"
+    },
+    {
+      "name": "Ride Dark Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_36310"
+    },
+    {
+      "name": "Ride DarkPlateVerb MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55640"
+    },
+    {
+      "name": "Ride DeepSnareDynamics MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55641"
+    },
+    {
+      "name": "Ride DirectNatural MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56329"
+    },
+    {
+      "name": "Ride DMX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47035"
+    },
+    {
+      "name": "Ride DMX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_935"
+    },
+    {
+      "name": "Ride Edge AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56638"
+    },
+    {
+      "name": "Ride Edge BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55841"
+    },
+    {
+      "name": "Ride Edge BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56639"
+    },
+    {
+      "name": "Ride Edge BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55842"
+    },
+    {
+      "name": "Ride Edge ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56640"
+    },
+    {
+      "name": "Ride Edge ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56641"
+    },
+    {
+      "name": "Ride Edge CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56642"
+    },
+    {
+      "name": "Ride Edge DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55843"
+    },
+    {
+      "name": "Ride Edge DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55844"
+    },
+    {
+      "name": "Ride Edge DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56643"
+    },
+    {
+      "name": "Ride Edge LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55845"
+    },
+    {
+      "name": "Ride Edge OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56644"
+    },
+    {
+      "name": "Ride Edge ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55846"
+    },
+    {
+      "name": "Ride Edge RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56645"
+    },
+    {
+      "name": "Ride Edge SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56646"
+    },
+    {
+      "name": "Ride Edge SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56647"
+    },
+    {
+      "name": "Ride Edge StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56648"
+    },
+    {
+      "name": "Ride Edge WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55847"
+    },
+    {
+      "name": "Ride EDM Toned.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_936"
+    },
+    {
+      "name": "Ride EDM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_37539"
+    },
+    {
+      "name": "Ride Electrified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47036"
+    },
+    {
+      "name": "Ride Electrified 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47037"
+    },
+    {
+      "name": "Ride Feel.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_937"
+    },
+    {
+      "name": "Ride Filter Swell.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_938"
+    },
+    {
+      "name": "Ride FX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55154"
+    },
+    {
+      "name": "Ride Gated.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_939"
+    },
+    {
+      "name": "Ride Gen Purpose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_940"
+    },
+    {
+      "name": "Ride Hard Shadowed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47038"
+    },
+    {
+      "name": "Ride Hi Acid House.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_37540"
+    },
+    {
+      "name": "Ride Hi Acid House.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_941"
+    },
+    {
+      "name": "Ride Hi Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47039"
+    },
+    {
+      "name": "Ride Layered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47040"
+    },
+    {
+      "name": "Ride Layered.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_943"
+    },
+    {
+      "name": "Ride LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_942"
+    },
+    {
+      "name": "Ride LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47041"
+    },
+    {
+      "name": "Ride Live Studio.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_58096"
+    },
+    {
+      "name": "Ride Lo Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47042"
+    },
+    {
+      "name": "Ride Lofi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_944"
+    },
+    {
+      "name": "Ride LowLoudSquashed MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55642"
+    },
+    {
+      "name": "Ride Machine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_37541"
+    },
+    {
+      "name": "Ride Machine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_945"
+    },
+    {
+      "name": "Ride Mid Acid House.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_37542"
+    },
+    {
+      "name": "Ride Mid AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56649"
+    },
+    {
+      "name": "Ride Mid BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55848"
+    },
+    {
+      "name": "Ride Mid BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56650"
+    },
+    {
+      "name": "Ride Mid BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55849"
+    },
+    {
+      "name": "Ride Mid ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56651"
+    },
+    {
+      "name": "Ride Mid ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56652"
+    },
+    {
+      "name": "Ride Mid CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56653"
+    },
+    {
+      "name": "Ride Mid DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55850"
+    },
+    {
+      "name": "Ride Mid DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55851"
+    },
+    {
+      "name": "Ride Mid DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56654"
+    },
+    {
+      "name": "Ride Mid LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55852"
+    },
+    {
+      "name": "Ride Mid OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56655"
+    },
+    {
+      "name": "Ride Mid ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55853"
+    },
+    {
+      "name": "Ride Mid RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56656"
+    },
+    {
+      "name": "Ride Mid SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56657"
+    },
+    {
+      "name": "Ride Mid SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56658"
+    },
+    {
+      "name": "Ride Mid StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56659"
+    },
+    {
+      "name": "Ride Mid WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55854"
+    },
+    {
+      "name": "Ride Mkit Digi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_58097"
+    },
+    {
+      "name": "Ride Mkit Hybrid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_58098"
+    },
+    {
+      "name": "Ride Mkit Sample 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_58099"
+    },
+    {
+      "name": "Ride Mkit Sample 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_58100"
+    },
+    {
+      "name": "Ride Mkit Synth 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_58101"
+    },
+    {
+      "name": "Ride Mkit Synth 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_58102"
+    },
+    {
+      "name": "Ride MSX Corner.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_39735"
+    },
+    {
+      "name": "Ride Multirod Bell DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56660"
+    },
+    {
+      "name": "Ride Multirod Edge DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56661"
+    },
+    {
+      "name": "Ride Multirod Mid DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56662"
+    },
+    {
+      "name": "Ride MultirodDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56330"
+    },
+    {
+      "name": "Ride Neutral.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_946"
+    },
+    {
+      "name": "Ride OldSchool MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56331"
+    },
+    {
+      "name": "RIDE PE TL 22 cup tip.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_45918"
+    },
+    {
+      "name": "RIDE PE TL 22 cup.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_45919"
+    },
+    {
+      "name": "RIDE PE TL 22 edge crash.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_45920"
+    },
+    {
+      "name": "RIDE PE TL 22 edge tip.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_45921"
+    },
+    {
+      "name": "RIDE PE TL 22 side stick atmo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_45922"
+    },
+    {
+      "name": "RIDE PE TW 22 cup tip.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_45923"
+    },
+    {
+      "name": "RIDE PE TW 22 cup.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_45924"
+    },
+    {
+      "name": "RIDE PE TW 22 edge crash.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_45925"
+    },
+    {
+      "name": "RIDE PE TW 22 edge tip.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_45926"
+    },
+    {
+      "name": "Ride Peace.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_39736"
+    },
+    {
+      "name": "Ride Ping.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_947"
+    },
+    {
+      "name": "Ride Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47043"
+    },
+    {
+      "name": "Ride Real SP 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_952"
+    },
+    {
+      "name": "Ride Real SP 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_953"
+    },
+    {
+      "name": "Ride Real Tasty.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_954"
+    },
+    {
+      "name": "Ride Reso Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_955"
+    },
+    {
+      "name": "Ride ResoClassic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55643"
+    },
+    {
+      "name": "Ride Reverb Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47044"
+    },
+    {
+      "name": "Ride Ring.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55155"
+    },
+    {
+      "name": "Ride Rise Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47045"
+    },
+    {
+      "name": "Ride RKTD High.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_37543"
+    },
+    {
+      "name": "Ride RKTD Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_37544"
+    },
+    {
+      "name": "Ride RKTD Low.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_948"
+    },
+    {
+      "name": "Ride RKTD1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_949"
+    },
+    {
+      "name": "Ride RKTD2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_950"
+    },
+    {
+      "name": "Ride RKTD3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_951"
+    },
+    {
+      "name": "Ride Rock My Bells.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_956"
+    },
+    {
+      "name": "Ride RockMyBells.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47046"
+    },
+    {
+      "name": "Ride RoomWithAVista MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56332"
+    },
+    {
+      "name": "Ride Roomy.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_957"
+    },
+    {
+      "name": "Ride Sense 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47047"
+    },
+    {
+      "name": "Ride SessionDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56333"
+    },
+    {
+      "name": "Ride Slackjaw.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_39737"
+    },
+    {
+      "name": "Ride Slackjaw.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_958"
+    },
+    {
+      "name": "Ride Soft Shadowed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47048"
+    },
+    {
+      "name": "Ride Stacked.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_959"
+    },
+    {
+      "name": "Ride SteelyTight MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56334"
+    },
+    {
+      "name": "Ride Stick Edge 90s Heavy Rock.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_960"
+    },
+    {
+      "name": "Ride Stick Edge Medium Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_961"
+    },
+    {
+      "name": "Ride Stick Mid Hard Dry Session.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_962"
+    },
+    {
+      "name": "Ride Stick Mid Hard Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_963"
+    },
+    {
+      "name": "Ride Stick Mid Medium Dry Session.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_964"
+    },
+    {
+      "name": "Ride Stick Mid Medium.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_965"
+    },
+    {
+      "name": "Ride Stick Mid Soft Dry Session.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_966"
+    },
+    {
+      "name": "Ride Stick Mid Yester Years.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_967"
+    },
+    {
+      "name": "Ride StudioBasic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_56335"
+    },
+    {
+      "name": "Ride Synthetic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_37545"
+    },
+    {
+      "name": "Ride Thin Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_968"
+    },
+    {
+      "name": "Ride Tinsy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_39738"
+    },
+    {
+      "name": "Ride Tokyo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_48428"
+    },
+    {
+      "name": "Ride Transient Clash.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47049"
+    },
+    {
+      "name": "Ride WarmAndLow MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_55644"
+    },
+    {
+      "name": "Ride-707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47050"
+    },
+    {
+      "name": "Ride-909.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47051"
+    },
+    {
+      "name": "RideBell Acoustified 04.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47055"
+    },
+    {
+      "name": "RideBell Kindified 09.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47056"
+    },
+    {
+      "name": "Ride-SessionDry-Stick-Mid-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47052"
+    },
+    {
+      "name": "Ride-SessionDry-Stick-Mid-Medium.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47053"
+    },
+    {
+      "name": "Ride-SessionDry-Stick-Mid-Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Ride:FileId_47054"
+    }
+  ]
+}

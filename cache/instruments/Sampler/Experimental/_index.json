@@ -1,0 +1,31 @@
+{
+  "path": "Instruments/Sampler/Experimental",
+  "name": "Experimental",
+  "uri": "query:Synths#Sampler:Experimental",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "MPE Machine Noise.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Experimental:FileId_43239"
+    },
+    {
+      "name": "Prophets.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Experimental:FileId_43231"
+    },
+    {
+      "name": "XARP.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Experimental:FileId_43268"
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "path": "Instruments/Operator/Guitar & Plucked",
+  "name": "Guitar & Plucked",
+  "uri": "query:Synths#Operator:Guitar%20&%20Plucked",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "12 String Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_5600"
+    },
+    {
+      "name": "Chord Minor Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_3850"
+    },
+    {
+      "name": "Delay Bleep Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_5601"
+    },
+    {
+      "name": "Floomery Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_3854"
+    },
+    {
+      "name": "FM Basic Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_5602"
+    },
+    {
+      "name": "FM Koto.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_5603"
+    },
+    {
+      "name": "FM Pluck Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_3853"
+    },
+    {
+      "name": "FM Sitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_5604"
+    },
+    {
+      "name": "Focal Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_38354"
+    },
+    {
+      "name": "Guitar-French Guitar Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_49481"
+    },
+    {
+      "name": "Harp Plastic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_5605"
+    },
+    {
+      "name": "Heavenly Plucks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_51290"
+    },
+    {
+      "name": "Kototar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_5606"
+    },
+    {
+      "name": "Metallic Noise Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_3859"
+    },
+    {
+      "name": "Miami Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_3860"
+    },
+    {
+      "name": "Mod Amp Sine Bleep.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_3861"
+    },
+    {
+      "name": "Multi Saw Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_3862"
+    },
+    {
+      "name": "Perc Blip Bleep.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_5607"
+    },
+    {
+      "name": "Pitchy Release Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_5608"
+    },
+    {
+      "name": "Power Chords Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_5609"
+    },
+    {
+      "name": "Rubber Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_5610"
+    },
+    {
+      "name": "Starry Notes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_51294"
+    },
+    {
+      "name": "Subtle Look Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_3866"
+    },
+    {
+      "name": "Suitar Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_5611"
+    },
+    {
+      "name": "Toasty Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Guitar%20&%20Plucked:FileId_49028"
+    }
+  ]
+}

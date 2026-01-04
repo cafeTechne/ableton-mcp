@@ -1,0 +1,350 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Reverb_&_Resonance",
+  "name": "Munich",
+  "uri": "query:AudioFx#Reverb%20&%20Resonance:Resonators:FileId_6091",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Filter On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Frequency",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.6507936716079712,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Filter Type",
+      "min": 0.0,
+      "max": 3.0,
+      "value": 2.0,
+      "is_quantized": true,
+      "value_items": [
+        "low pass",
+        "high pass",
+        "band pass",
+        "notch"
+      ],
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Mode",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Mode B",
+        "Mode A"
+      ],
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Decay",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 50.79365158081055,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Const",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Color",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 100.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Width",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Dry/Wet",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Global Gain",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 2.142857074737549,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "I On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "I Note",
+      "min": 12.0,
+      "max": 84.0,
+      "value": 24.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "I Tune",
+      "min": -50.0,
+      "max": 50.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "I Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.8500000238418579,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "II On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 15
+    },
+    {
+      "name": "II Pitch",
+      "min": -24.0,
+      "max": 24.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 16
+    },
+    {
+      "name": "II Tune",
+      "min": -50.0,
+      "max": 50.0,
+      "value": -4.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 17
+    },
+    {
+      "name": "II Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.9999999403953552,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 18
+    },
+    {
+      "name": "III On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 19
+    },
+    {
+      "name": "III Pitch",
+      "min": -24.0,
+      "max": 24.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 20
+    },
+    {
+      "name": "III Tune",
+      "min": -50.0,
+      "max": 50.0,
+      "value": 4.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 21
+    },
+    {
+      "name": "III Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.9365079402923584,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 22
+    },
+    {
+      "name": "IV On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 23
+    },
+    {
+      "name": "IV Pitch",
+      "min": -24.0,
+      "max": 24.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 24
+    },
+    {
+      "name": "IV Tune",
+      "min": -50.0,
+      "max": 50.0,
+      "value": -9.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 25
+    },
+    {
+      "name": "IV Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.9920634627342224,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 26
+    },
+    {
+      "name": "V On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 27
+    },
+    {
+      "name": "V Pitch",
+      "min": -24.0,
+      "max": 24.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 28
+    },
+    {
+      "name": "V Tune",
+      "min": -50.0,
+      "max": 50.0,
+      "value": 9.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 29
+    },
+    {
+      "name": "V Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.9999999403953552,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 30
+    }
+  ]
+}

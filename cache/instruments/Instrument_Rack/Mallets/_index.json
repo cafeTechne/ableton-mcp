@@ -1,0 +1,626 @@
+{
+  "path": "Instruments/Instrument Rack/Mallets",
+  "name": "Mallets",
+  "uri": "query:Synths#Instrument%20Rack:Mallets",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "A Squeaky Bell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_36603"
+    },
+    {
+      "name": "Acme Bell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_36604"
+    },
+    {
+      "name": "Ambient Computer Bell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3979"
+    },
+    {
+      "name": "Arctic Shadows.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_43011"
+    },
+    {
+      "name": "Balsam Gamelan.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3980"
+    },
+    {
+      "name": "Basic Analog Chime.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3981"
+    },
+    {
+      "name": "Basic Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3982"
+    },
+    {
+      "name": "Basic Bright Marimba.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3983"
+    },
+    {
+      "name": "Basic Brushed Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3984"
+    },
+    {
+      "name": "Basic FM Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3985"
+    },
+    {
+      "name": "Bedroom Kalimba (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_51231"
+    },
+    {
+      "name": "Bell and Swell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3987"
+    },
+    {
+      "name": "Bell Delay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_43012"
+    },
+    {
+      "name": "Bell Variations.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3986"
+    },
+    {
+      "name": "Bellagio.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_51232"
+    },
+    {
+      "name": "Bellevue.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_51233"
+    },
+    {
+      "name": "Belzebub.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_54487"
+    },
+    {
+      "name": "Big Benjamin.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_36605"
+    },
+    {
+      "name": "Ceramic Dreams.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_51234"
+    },
+    {
+      "name": "Ceramic Melodies (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_51235"
+    },
+    {
+      "name": "Changing Rate Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_54488"
+    },
+    {
+      "name": "Concrete Jungle Kalimba.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_61096"
+    },
+    {
+      "name": "Corrosion Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3988"
+    },
+    {
+      "name": "Crotales.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53939"
+    },
+    {
+      "name": "Crystal Big Bowl (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_51236"
+    },
+    {
+      "name": "Crystal Pyramid (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_51237"
+    },
+    {
+      "name": "Cycle Chimes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3989"
+    },
+    {
+      "name": "Dahrkring.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_36606"
+    },
+    {
+      "name": "Dilla Marimba.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_39913"
+    },
+    {
+      "name": "Dixxon Carillon.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_61097"
+    },
+    {
+      "name": "Drakebell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_36607"
+    },
+    {
+      "name": "Dream Cycle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_54489"
+    },
+    {
+      "name": "Dulce Delay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_43013"
+    },
+    {
+      "name": "Dusty Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3990"
+    },
+    {
+      "name": "Ennio's Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_51238"
+    },
+    {
+      "name": "Ethereal Brushed Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3991"
+    },
+    {
+      "name": "Fake Phone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3992"
+    },
+    {
+      "name": "Fear Gong.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3993"
+    },
+    {
+      "name": "FlamGlock.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_49029"
+    },
+    {
+      "name": "Glassimba (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_51239"
+    },
+    {
+      "name": "Glassophone (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_51240"
+    },
+    {
+      "name": "Glockenspiel Brass Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53940"
+    },
+    {
+      "name": "Glockenspiel Brass Rolls.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53941"
+    },
+    {
+      "name": "Glockenspiel Plastic Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53942"
+    },
+    {
+      "name": "Glockenspiel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53943"
+    },
+    {
+      "name": "Island Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3994"
+    },
+    {
+      "name": "Iwashi.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_49030"
+    },
+    {
+      "name": "Jarhead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_54490"
+    },
+    {
+      "name": "Kalimba Atk.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_61098"
+    },
+    {
+      "name": "LoFi FM EP.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_39914"
+    },
+    {
+      "name": "Maki.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_49031"
+    },
+    {
+      "name": "Mallet Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_39915"
+    },
+    {
+      "name": "Marimba Cloth Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53944"
+    },
+    {
+      "name": "Marimba Rubber Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53945"
+    },
+    {
+      "name": "Marimba Rubber Rolls.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53946"
+    },
+    {
+      "name": "Marimba.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53947"
+    },
+    {
+      "name": "Masago.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_49032"
+    },
+    {
+      "name": "Metropolis Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3995"
+    },
+    {
+      "name": "Milky Way Bottleneck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_51241"
+    },
+    {
+      "name": "Minor Metal.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_61099"
+    },
+    {
+      "name": "Morning Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_51242"
+    },
+    {
+      "name": "Nostalgic VHS Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3996"
+    },
+    {
+      "name": "Obelisk Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3997"
+    },
+    {
+      "name": "Oldbellz.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_39916"
+    },
+    {
+      "name": "Orbit Mallets.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3998"
+    },
+    {
+      "name": "Outland Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_3999"
+    },
+    {
+      "name": "Plastic Toy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_4000"
+    },
+    {
+      "name": "Product Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_4001"
+    },
+    {
+      "name": "Sad Bell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_49033"
+    },
+    {
+      "name": "Sequential Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_54491"
+    },
+    {
+      "name": "Spetses Bell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_4002"
+    },
+    {
+      "name": "Strumboli.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_54492"
+    },
+    {
+      "name": "Suspended Cymbal Mallet Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53948"
+    },
+    {
+      "name": "Suspended Cymbal Mallet Rolls.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53949"
+    },
+    {
+      "name": "Suspended Cymbal Stick Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53950"
+    },
+    {
+      "name": "Timpani.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53951"
+    },
+    {
+      "name": "Tip Toes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_61100"
+    },
+    {
+      "name": "Tube CardBoard (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_51243"
+    },
+    {
+      "name": "Tubular Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53952"
+    },
+    {
+      "name": "Vibraphone Bowed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53953"
+    },
+    {
+      "name": "Vibraphone Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53954"
+    },
+    {
+      "name": "Vibraphone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53955"
+    },
+    {
+      "name": "Wavey Bowl.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_51244"
+    },
+    {
+      "name": "Work Stringbell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_36608"
+    },
+    {
+      "name": "Xylophone Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53956"
+    },
+    {
+      "name": "Xylophone Rolls.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53957"
+    },
+    {
+      "name": "Xylophone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_53958"
+    },
+    {
+      "name": "Zen Bowl.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Mallets:FileId_51245"
+    }
+  ]
+}

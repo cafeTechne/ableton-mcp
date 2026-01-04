@@ -1,0 +1,243 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Utilities",
+  "name": "IR Measurement Device",
+  "uri": "query:AudioFx#Utilities:IR%20Measurement%20Device",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Amp",
+      "min": 0.0,
+      "max": 6.0,
+      "value": 4.0,
+      "is_quantized": true,
+      "value_items": [
+        "0dB",
+        "-5dB",
+        "-10dB",
+        "-15dB",
+        "-20dB",
+        "-25dB",
+        "-30dB"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Audition",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Right",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Right",
+        "Right"
+      ],
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "IR Time",
+      "min": 0.0,
+      "max": 9.0,
+      "value": 4.0,
+      "is_quantized": true,
+      "value_items": [
+        "1s",
+        "2s",
+        "3s",
+        "4s",
+        "5s",
+        "7.5s",
+        "10s",
+        "15s",
+        "20s",
+        "30s"
+      ],
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Impulse",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Impulse",
+        "Impulse"
+      ],
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Input",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Save",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Save",
+        "Save"
+      ],
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Stereo",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "True Stereo",
+        "Mono to Stereo"
+      ],
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Stop",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Stop",
+        "Stop"
+      ],
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Sweep",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Sweep",
+        "Sweep"
+      ],
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "Sweep Time",
+      "min": 0.0,
+      "max": 5.0,
+      "value": 4.0,
+      "is_quantized": true,
+      "value_items": [
+        "10s (quick measure)",
+        "15s (low quality)",
+        "20s (medium quality)",
+        "30s (good quality)",
+        "45s (high quality)",
+        "60s (very high quality)"
+      ],
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "Channel",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Both",
+        "Left",
+        "Right"
+      ],
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "Freq",
+      "min": 0.0,
+      "max": 10.0,
+      "value": 5.0,
+      "is_quantized": true,
+      "value_items": [
+        "32Hz",
+        "64Hz",
+        "125Hz",
+        "250Hz",
+        "500Hz",
+        "1kHz",
+        "2kHz",
+        "4kHz",
+        "4kHz",
+        "8kHz",
+        "16kHz"
+      ],
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "Tone",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "Trim",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 15
+    }
+  ]
+}

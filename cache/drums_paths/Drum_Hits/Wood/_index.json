@@ -1,0 +1,710 @@
+{
+  "path": "drums/Drum Hits/Wood",
+  "name": "Wood",
+  "uri": "query:Drums#Drum%20Hits:Wood",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Castanet A Flam.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50419"
+    },
+    {
+      "name": "Castanet A Roll.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50420"
+    },
+    {
+      "name": "Castanet A.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50421"
+    },
+    {
+      "name": "Castanet C Flam.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50422"
+    },
+    {
+      "name": "Castanet C Roll.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50423"
+    },
+    {
+      "name": "Castanet C Single.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50424"
+    },
+    {
+      "name": "Clave 808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_228"
+    },
+    {
+      "name": "Clave Bam Vin.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_229"
+    },
+    {
+      "name": "Clave C78 Processed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_230"
+    },
+    {
+      "name": "Clave C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_231"
+    },
+    {
+      "name": "Clave Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_232"
+    },
+    {
+      "name": "Clave-808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_47504"
+    },
+    {
+      "name": "Claves A 1.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50425"
+    },
+    {
+      "name": "Claves A 2.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50426"
+    },
+    {
+      "name": "Claves B 3.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50427"
+    },
+    {
+      "name": "Claves B 4.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50428"
+    },
+    {
+      "name": "Claves C 5.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50429"
+    },
+    {
+      "name": "Claves C 6.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50430"
+    },
+    {
+      "name": "Claves D 7.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50431"
+    },
+    {
+      "name": "Claves D 8.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50432"
+    },
+    {
+      "name": "Guiro A Down.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50433"
+    },
+    {
+      "name": "Guiro A Long.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50434"
+    },
+    {
+      "name": "Guiro A Top.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50435"
+    },
+    {
+      "name": "Guiro A Up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50436"
+    },
+    {
+      "name": "Guiro B Down.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50437"
+    },
+    {
+      "name": "Guiro B Long.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50438"
+    },
+    {
+      "name": "Guiro B Top.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50439"
+    },
+    {
+      "name": "Guiro B Up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50440"
+    },
+    {
+      "name": "Guiro C Down.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50441"
+    },
+    {
+      "name": "Guiro C Long.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50442"
+    },
+    {
+      "name": "Guiro C Top.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50443"
+    },
+    {
+      "name": "Guiro C Up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50444"
+    },
+    {
+      "name": "Guiro C78 Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_233"
+    },
+    {
+      "name": "Guiro C78 Short b.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_234"
+    },
+    {
+      "name": "Guiro C78 Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_235"
+    },
+    {
+      "name": "Guiro D Long.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50445"
+    },
+    {
+      "name": "Guiro D Reverse Up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50446"
+    },
+    {
+      "name": "Guiro D Top.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50447"
+    },
+    {
+      "name": "Guiro D Up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50448"
+    },
+    {
+      "name": "Jam Block Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_236"
+    },
+    {
+      "name": "Perc Wood FX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_39829"
+    },
+    {
+      "name": "Perc Wood Streets.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_39830"
+    },
+    {
+      "name": "Perc Wood.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_237"
+    },
+    {
+      "name": "Perc Wood.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_42462"
+    },
+    {
+      "name": "Resonant Knock Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_42463"
+    },
+    {
+      "name": "Resonant Knock.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_42464"
+    },
+    {
+      "name": "Stick Clean.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_59179"
+    },
+    {
+      "name": "Vibraslap A Pan.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50449"
+    },
+    {
+      "name": "Vibraslap A.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50450"
+    },
+    {
+      "name": "Vibraslap B Pan.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50451"
+    },
+    {
+      "name": "Vibraslap B.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50452"
+    },
+    {
+      "name": "Vibraslap C Pan.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50453"
+    },
+    {
+      "name": "Vibraslap C.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50454"
+    },
+    {
+      "name": "Vibraslap D Pan.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50455"
+    },
+    {
+      "name": "Vibraslap D.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50456"
+    },
+    {
+      "name": "Wood Alien.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_238"
+    },
+    {
+      "name": "Wood Bell Acoustified.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_239"
+    },
+    {
+      "name": "Wood Blip.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_38292"
+    },
+    {
+      "name": "Wood Block B Hi.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50457"
+    },
+    {
+      "name": "Wood Block B Low.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50458"
+    },
+    {
+      "name": "Wood Block B Mid.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50459"
+    },
+    {
+      "name": "Wood Block D Hi.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50460"
+    },
+    {
+      "name": "Wood Block D Low.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_50461"
+    },
+    {
+      "name": "Wood Block High.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_240"
+    },
+    {
+      "name": "Wood Block High.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_47505"
+    },
+    {
+      "name": "Wood Block Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_241"
+    },
+    {
+      "name": "Wood Block Prommer Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_242"
+    },
+    {
+      "name": "Wood Bright.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_243"
+    },
+    {
+      "name": "Wood Buzz.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_244"
+    },
+    {
+      "name": "Wood Claves.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_245"
+    },
+    {
+      "name": "Wood Clog Medium.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_47506"
+    },
+    {
+      "name": "Wood Clog Medium.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_246"
+    },
+    {
+      "name": "Wood Feel.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_247"
+    },
+    {
+      "name": "Wood Hi Charred.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_47507"
+    },
+    {
+      "name": "Wood High Kingsway.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_39831"
+    },
+    {
+      "name": "Wood Highway.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_42465"
+    },
+    {
+      "name": "Wood Insert Cassette.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_248"
+    },
+    {
+      "name": "Wood Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_47508"
+    },
+    {
+      "name": "Wood Klok 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_38293"
+    },
+    {
+      "name": "Wood Klok 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_38294"
+    },
+    {
+      "name": "Wood Lo Charred.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_47509"
+    },
+    {
+      "name": "Wood Lofi Twig.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_249"
+    },
+    {
+      "name": "Wood MPC 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_250"
+    },
+    {
+      "name": "Wood MPC 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_251"
+    },
+    {
+      "name": "Wood MPC 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_252"
+    },
+    {
+      "name": "Wood MPC 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_253"
+    },
+    {
+      "name": "Wood MS.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_254"
+    },
+    {
+      "name": "Wood Prod Soft.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_255"
+    },
+    {
+      "name": "Wood Resonant Knock.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_256"
+    },
+    {
+      "name": "Wood Shadowed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_47510"
+    },
+    {
+      "name": "Wood Short Bong.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_38295"
+    },
+    {
+      "name": "Wood Short Knok.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_38296"
+    },
+    {
+      "name": "Wood Stick Ring.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_257"
+    },
+    {
+      "name": "Wood Tip Tag.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_258"
+    },
+    {
+      "name": "Wood Under The Rug.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_259"
+    },
+    {
+      "name": "Wood Unsaned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_47511"
+    },
+    {
+      "name": "Wood Vibraslap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_260"
+    },
+    {
+      "name": "Wood Young Blood.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_42466"
+    },
+    {
+      "name": "WoodBlock.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_59180"
+    },
+    {
+      "name": "Woodblok Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Wood:FileId_42467"
+    }
+  ]
+}

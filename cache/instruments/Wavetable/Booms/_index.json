@@ -1,0 +1,38 @@
+{
+  "path": "Instruments/Wavetable/Booms",
+  "name": "Booms",
+  "uri": "query:Synths#Wavetable:Booms",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Ballistic Boom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Booms:FileId_39905"
+    },
+    {
+      "name": "Bending Boom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Booms:FileId_39906"
+    },
+    {
+      "name": "Command Boom Kick.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Booms:FileId_39907"
+    },
+    {
+      "name": "Tunable Boom Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Booms:FileId_39908"
+    }
+  ]
+}

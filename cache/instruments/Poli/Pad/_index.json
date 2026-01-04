@@ -1,0 +1,185 @@
+{
+  "path": "Instruments/Poli/Pad",
+  "name": "Pad",
+  "uri": "query:Synths#Poli:Pad",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Anticipation Overlay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41470"
+    },
+    {
+      "name": "Ask Yourself.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41377"
+    },
+    {
+      "name": "Brain Teaser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41471"
+    },
+    {
+      "name": "Broken Wing Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41378"
+    },
+    {
+      "name": "Butter Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41379"
+    },
+    {
+      "name": "Carl Cosmos.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41380"
+    },
+    {
+      "name": "Childs Play.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41381"
+    },
+    {
+      "name": "Dark Throne.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41382"
+    },
+    {
+      "name": "Darkened Theatre Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41472"
+    },
+    {
+      "name": "Grand Blanket.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41473"
+    },
+    {
+      "name": "Legato Drone Stepper.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41383"
+    },
+    {
+      "name": "Martian Mouthwash.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41384"
+    },
+    {
+      "name": "Meditation Room.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41474"
+    },
+    {
+      "name": "Meow Attack.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41385"
+    },
+    {
+      "name": "Neo Chord Creator.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41386"
+    },
+    {
+      "name": "Pad Choir.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41475"
+    },
+    {
+      "name": "Piston Vegas.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41387"
+    },
+    {
+      "name": "Power of 7.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41388"
+    },
+    {
+      "name": "Retro Arco Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41476"
+    },
+    {
+      "name": "Retro Century Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41477"
+    },
+    {
+      "name": "Saw Swell.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41389"
+    },
+    {
+      "name": "Shine Through.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41478"
+    },
+    {
+      "name": "Slow Seque Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41390"
+    },
+    {
+      "name": "Soft Attack Mars Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41391"
+    },
+    {
+      "name": "Xray Vision.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Pad:FileId_41392"
+    }
+  ]
+}

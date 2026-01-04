@@ -1,0 +1,101 @@
+{
+  "path": "Instruments/Poli/Synth Lead",
+  "name": "Synth Lead",
+  "uri": "query:Synths#Poli:Synth%20Lead",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "A Date With Analog.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Lead:FileId_41366"
+    },
+    {
+      "name": "AreaCode 212.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Lead:FileId_41367"
+    },
+    {
+      "name": "Bass-Lead Split.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Lead:FileId_41368"
+    },
+    {
+      "name": "Bernie Funk Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Lead:FileId_41369"
+    },
+    {
+      "name": "Caribbean Lab.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Lead:FileId_41466"
+    },
+    {
+      "name": "Cloud Cruise.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Lead:FileId_41370"
+    },
+    {
+      "name": "Dome.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Lead:FileId_41371"
+    },
+    {
+      "name": "Electric Eel.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Lead:FileId_41372"
+    },
+    {
+      "name": "Lighthouse.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Lead:FileId_41373"
+    },
+    {
+      "name": "Orca Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Lead:FileId_41468"
+    },
+    {
+      "name": "Release Trigger.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Lead:FileId_41374"
+    },
+    {
+      "name": "UE.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Lead:FileId_41375"
+    },
+    {
+      "name": "Wurly.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Synth%20Lead:FileId_41376"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "count": 32,
+  "items": [
+    {
+      "name": "Align Delay",
+      "uri": "query:AudioFx#Utilities:Align%20Delay",
+      "path": "Audio Effects/Utilities/Align Delay",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Audio Effect Rack",
+      "uri": "query:AudioFx#Utilities:Audio%20Effect%20Rack",
+      "path": "Audio Effects/Utilities/Audio Effect Rack",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "CV Clock In",
+      "uri": "query:AudioFx#Utilities:CV%20Clock%20In",
+      "path": "Audio Effects/Utilities/CV Clock In",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "CV Clock Out",
+      "uri": "query:AudioFx#Utilities:CV%20Clock%20Out",
+      "path": "Audio Effects/Utilities/CV Clock Out",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "CV Utility",
+      "uri": "query:AudioFx#Utilities:CV%20Utility",
+      "path": "Audio Effects/Utilities/CV Utility",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "External Audio Effect",
+      "uri": "query:AudioFx#Utilities:External%20Audio%20Effect",
+      "path": "Audio Effects/Utilities/External Audio Effect",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "IR Measurement Device",
+      "uri": "query:AudioFx#Utilities:IR%20Measurement%20Device",
+      "path": "Audio Effects/Utilities/IR Measurement Device",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Spectrum",
+      "uri": "query:AudioFx#Utilities:Spectrum",
+      "path": "Audio Effects/Utilities/Spectrum",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Surround Panner",
+      "uri": "query:AudioFx#Utilities:Surround%20Panner",
+      "path": "Audio Effects/Utilities/Surround Panner",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Tuner",
+      "uri": "query:AudioFx#Utilities:Tuner",
+      "path": "Audio Effects/Utilities/Tuner",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Utility",
+      "uri": "query:AudioFx#Utilities:Utility",
+      "path": "Audio Effects/Utilities/Utility",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Accurate Fast.adv",
+      "uri": "query:AudioFx#Utilities:Spectrum:FileId_5950",
+      "path": "Audio Effects/Utilities/Spectrum/Accurate Fast.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Linear Scale Low CPU.adv",
+      "uri": "query:AudioFx#Utilities:Spectrum:FileId_5951",
+      "path": "Audio Effects/Utilities/Spectrum/Linear Scale Low CPU.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Master.adv",
+      "uri": "query:AudioFx#Utilities:Spectrum:FileId_5952",
+      "path": "Audio Effects/Utilities/Spectrum/Master.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Noise Floor.adv",
+      "uri": "query:AudioFx#Utilities:Spectrum:FileId_5953",
+      "path": "Audio Effects/Utilities/Spectrum/Noise Floor.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Notes.adv",
+      "uri": "query:AudioFx#Utilities:Spectrum:FileId_5954",
+      "path": "Audio Effects/Utilities/Spectrum/Notes.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Overview.adv",
+      "uri": "query:AudioFx#Utilities:Spectrum:FileId_5955",
+      "path": "Audio Effects/Utilities/Spectrum/Overview.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Pitch.adv",
+      "uri": "query:AudioFx#Utilities:Spectrum:FileId_5956",
+      "path": "Audio Effects/Utilities/Spectrum/Pitch.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Quick.adv",
+      "uri": "query:AudioFx#Utilities:Spectrum:FileId_5957",
+      "path": "Audio Effects/Utilities/Spectrum/Quick.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Slow Average Line.adv",
+      "uri": "query:AudioFx#Utilities:Spectrum:FileId_5958",
+      "path": "Audio Effects/Utilities/Spectrum/Slow Average Line.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Slow Average Log.adv",
+      "uri": "query:AudioFx#Utilities:Spectrum:FileId_5959",
+      "path": "Audio Effects/Utilities/Spectrum/Slow Average Log.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Spectrum.adv",
+      "uri": "query:AudioFx#Utilities:Spectrum:FileId_5960",
+      "path": "Audio Effects/Utilities/Spectrum/Spectrum.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bass Mono.adv",
+      "uri": "query:AudioFx#Utilities:Utility:FileId_5940",
+      "path": "Audio Effects/Utilities/Utility/Bass Mono.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Difference.adv",
+      "uri": "query:AudioFx#Utilities:Utility:FileId_5941",
+      "path": "Audio Effects/Utilities/Utility/Difference.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Left.adv",
+      "uri": "query:AudioFx#Utilities:Utility:FileId_5942",
+      "path": "Audio Effects/Utilities/Utility/Left.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Mid Only.adv",
+      "uri": "query:AudioFx#Utilities:Utility:FileId_5943",
+      "path": "Audio Effects/Utilities/Utility/Mid Only.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Mono.adv",
+      "uri": "query:AudioFx#Utilities:Utility:FileId_5944",
+      "path": "Audio Effects/Utilities/Utility/Mono.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Narrow Stereo.adv",
+      "uri": "query:AudioFx#Utilities:Utility:FileId_5945",
+      "path": "Audio Effects/Utilities/Utility/Narrow Stereo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Phase Invert.adv",
+      "uri": "query:AudioFx#Utilities:Utility:FileId_5946",
+      "path": "Audio Effects/Utilities/Utility/Phase Invert.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Right.adv",
+      "uri": "query:AudioFx#Utilities:Utility:FileId_5947",
+      "path": "Audio Effects/Utilities/Utility/Right.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Sides Only.adv",
+      "uri": "query:AudioFx#Utilities:Utility:FileId_5948",
+      "path": "Audio Effects/Utilities/Utility/Sides Only.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Wide Stereo.adv",
+      "uri": "query:AudioFx#Utilities:Utility:FileId_5949",
+      "path": "Audio Effects/Utilities/Utility/Wide Stereo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    }
+  ]
+}

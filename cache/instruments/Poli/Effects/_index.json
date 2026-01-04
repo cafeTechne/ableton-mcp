@@ -1,0 +1,136 @@
+{
+  "path": "Instruments/Poli/Effects",
+  "name": "Effects",
+  "uri": "query:Synths#Poli:Effects",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Analoclick.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41315"
+    },
+    {
+      "name": "Babytears.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41316"
+    },
+    {
+      "name": "Beatle.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41317"
+    },
+    {
+      "name": "Crossfire Lazer.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41318"
+    },
+    {
+      "name": "Ghost Rain.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41319"
+    },
+    {
+      "name": "Kyoto Drone.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41320"
+    },
+    {
+      "name": "Pulsar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41321"
+    },
+    {
+      "name": "Rubber Duck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41322"
+    },
+    {
+      "name": "ShyFX.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41323"
+    },
+    {
+      "name": "Squisch.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41324"
+    },
+    {
+      "name": "Stunn.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41325"
+    },
+    {
+      "name": "Telephone.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41326"
+    },
+    {
+      "name": "Videogamer.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41327"
+    },
+    {
+      "name": "Weird Splash.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41328"
+    },
+    {
+      "name": "Worm.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41329"
+    },
+    {
+      "name": "Xforza.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41330"
+    },
+    {
+      "name": "Zipper FX.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41331"
+    },
+    {
+      "name": "Zisch.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Effects:FileId_41332"
+    }
+  ]
+}

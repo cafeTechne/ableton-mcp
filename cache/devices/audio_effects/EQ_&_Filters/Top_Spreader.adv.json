@@ -1,0 +1,320 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "EQ_&_Filters",
+  "name": "Top Spreader.adv",
+  "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6681",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Filter Type",
+      "min": 0.0,
+      "max": 4.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Lowpass",
+        "Highpass",
+        "Bandpass",
+        "Notch",
+        "Morph"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Filter Circuit - LP/HP",
+      "min": 0.0,
+      "max": 4.0,
+      "value": 2.0,
+      "is_quantized": true,
+      "value_items": [
+        "Clean",
+        "OSR",
+        "MS2",
+        "SMP",
+        "PRD"
+      ],
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Filter Circuit - BP/NO/Morph",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Clean",
+        "OSR"
+      ],
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Slope",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "12 dB",
+        "24 dB"
+      ],
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Frequency",
+      "min": 20.0,
+      "max": 135.0,
+      "value": 125.87301635742188,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Resonance",
+      "min": 0.0,
+      "max": 1.25,
+      "value": 0.4861111044883728,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Morph",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Drive",
+      "min": 0.0,
+      "max": 24.0,
+      "value": 5.142857074737549,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Env. Modulation",
+      "min": -127.0,
+      "max": 127.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Env. Attack",
+      "min": 0.10000000149011612,
+      "max": 30.0,
+      "value": 1.9984127283096313,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "Env. Release",
+      "min": 0.10000000149011612,
+      "max": 400.0,
+      "value": 120.70475769042969,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "LFO Amount",
+      "min": 0.0,
+      "max": 30.0,
+      "value": 15.952381134033203,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "LFO Waveform",
+      "min": 0.0,
+      "max": 6.0,
+      "value": 2.0,
+      "is_quantized": true,
+      "value_items": [
+        "Sine",
+        "Square",
+        "Triangle",
+        "SawUp",
+        "SawDown",
+        "S&H Stereo",
+        "S&H Mono"
+      ],
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "LFO Frequency",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "LFO Sync",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Free",
+        "Sync"
+      ],
+      "unit": null,
+      "index": 15
+    },
+    {
+      "name": "LFO Sync Rate",
+      "min": 0.0,
+      "max": 21.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 16
+    },
+    {
+      "name": "LFO Stereo Mode",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Phase",
+        "Spin"
+      ],
+      "unit": null,
+      "index": 17
+    },
+    {
+      "name": "LFO Spin",
+      "min": 0.0,
+      "max": 0.5,
+      "value": 0.2420634925365448,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 18
+    },
+    {
+      "name": "LFO Phase",
+      "min": 0.0,
+      "max": 360.0,
+      "value": 125.71428680419922,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 19
+    },
+    {
+      "name": "LFO Offset",
+      "min": 0.0,
+      "max": 360.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 20
+    },
+    {
+      "name": "LFO Quantize On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 21
+    },
+    {
+      "name": "LFO Quantize Rate",
+      "min": 0.0,
+      "max": 9.0,
+      "value": 2.0,
+      "is_quantized": true,
+      "value_items": [
+        "0.5",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "8",
+        "12",
+        "16"
+      ],
+      "unit": null,
+      "index": 22
+    },
+    {
+      "name": "S/C On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 23
+    },
+    {
+      "name": "S/C Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.4000000059604645,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 24
+    },
+    {
+      "name": "S/C Mix",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 25
+    }
+  ]
+}

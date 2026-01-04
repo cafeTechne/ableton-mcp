@@ -1,0 +1,31 @@
+{
+  "path": "Instruments/Sampler/Winds",
+  "name": "Winds",
+  "uri": "query:Synths#Sampler:Winds",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Bansuri (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Winds:FileId_51349"
+    },
+    {
+      "name": "Bassoon Augmented.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Winds:FileId_51350"
+    },
+    {
+      "name": "Mystic Whistle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Winds:FileId_51351"
+    }
+  ]
+}

@@ -1,0 +1,1522 @@
+{
+  "path": "Sounds/Effects",
+  "name": "Effects",
+  "uri": "query:Sounds#Effects",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "8bit Explosion.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59675"
+    },
+    {
+      "name": "8Bit Lazer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_36613"
+    },
+    {
+      "name": "50s Slide Rules (C3-D#4).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_51303"
+    },
+    {
+      "name": "1950s.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41260"
+    },
+    {
+      "name": "Accelerating Harmonics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_51304"
+    },
+    {
+      "name": "Air Raid Alarm.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38333"
+    },
+    {
+      "name": "Air Raid Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_36614"
+    },
+    {
+      "name": "Airplane Wave.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5032"
+    },
+    {
+      "name": "Alien Cesarian.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5033"
+    },
+    {
+      "name": "Alien Invasion (C3-D#4).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_51305"
+    },
+    {
+      "name": "All Star.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59676"
+    },
+    {
+      "name": "Ambient Drops Hold.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5205"
+    },
+    {
+      "name": "Analoclick.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41315"
+    },
+    {
+      "name": "Babytears.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41316"
+    },
+    {
+      "name": "Basscycle Aftertouch.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5613"
+    },
+    {
+      "name": "Beam Me Down.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49002"
+    },
+    {
+      "name": "Beam Patrol.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_51306"
+    },
+    {
+      "name": "Beatle.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41317"
+    },
+    {
+      "name": "Bellyfeel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38334"
+    },
+    {
+      "name": "Bit Bite.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49003"
+    },
+    {
+      "name": "Boinky Saw Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38335"
+    },
+    {
+      "name": "Burnt FX Loop.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49004"
+    },
+    {
+      "name": "Chimes Finger Down.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5266"
+    },
+    {
+      "name": "Cirrus Ascend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49005"
+    },
+    {
+      "name": "Cletterling.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5034"
+    },
+    {
+      "name": "Click And Finer Cuts.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5330"
+    },
+    {
+      "name": "Click Noise.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5331"
+    },
+    {
+      "name": "Climbing Operation.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_55461"
+    },
+    {
+      "name": "Cnarz FX.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5332"
+    },
+    {
+      "name": "Complex Zipper FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_4037"
+    },
+    {
+      "name": "Crackling Strings Abstract.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5206"
+    },
+    {
+      "name": "Crossfire Lazer.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41318"
+    },
+    {
+      "name": "Cycle Clicker.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49006"
+    },
+    {
+      "name": "Cylindrical Lobotomy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_55462"
+    },
+    {
+      "name": "Dark Metalic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49007"
+    },
+    {
+      "name": "Darknet.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5035"
+    },
+    {
+      "name": "Dead City FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_4038"
+    },
+    {
+      "name": "Deck Alarm LFO.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41261"
+    },
+    {
+      "name": "Digi Race.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5036"
+    },
+    {
+      "name": "Dirty Laser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49008"
+    },
+    {
+      "name": "Dive Dive Dive.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38336"
+    },
+    {
+      "name": "Dive Drama.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49009"
+    },
+    {
+      "name": "Double Tap Laser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_36615"
+    },
+    {
+      "name": "Drip.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5614"
+    },
+    {
+      "name": "Drop In Temperature.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59772"
+    },
+    {
+      "name": "Dub Filter FX.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5615"
+    },
+    {
+      "name": "Dynamic Wind.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59637"
+    },
+    {
+      "name": "Electrix Circuit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_55463"
+    },
+    {
+      "name": "ENCOM Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_4039"
+    },
+    {
+      "name": "Engine Failure.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59638"
+    },
+    {
+      "name": "Enjoy the Show FX.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5037"
+    },
+    {
+      "name": "Exacto Effect.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38337"
+    },
+    {
+      "name": "Faulty Hyperdrive.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59677"
+    },
+    {
+      "name": "Fifth Spring.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49010"
+    },
+    {
+      "name": "Fixed Luck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_55464"
+    },
+    {
+      "name": "Flick Hit.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59639"
+    },
+    {
+      "name": "Flutter Ambience.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5616"
+    },
+    {
+      "name": "Follow Along.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49011"
+    },
+    {
+      "name": "Freak Out.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59224"
+    },
+    {
+      "name": "Game Over.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59678"
+    },
+    {
+      "name": "Gear Junkie LFO .adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41262"
+    },
+    {
+      "name": "Ghost Rain.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41319"
+    },
+    {
+      "name": "Ghost Whistle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59225"
+    },
+    {
+      "name": "Ghostly Mirror.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5038"
+    },
+    {
+      "name": "Glass Tapas.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_55465"
+    },
+    {
+      "name": "Glowstick SFX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_4040"
+    },
+    {
+      "name": "Gnarls Smartly.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_55466"
+    },
+    {
+      "name": "Gnarly S&H Filter.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5617"
+    },
+    {
+      "name": "Grim Engine.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49012"
+    },
+    {
+      "name": "Head Trip.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5039"
+    },
+    {
+      "name": "Hit and Run.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59226"
+    },
+    {
+      "name": "Hum Tunnel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49013"
+    },
+    {
+      "name": "Hurt Move Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49014"
+    },
+    {
+      "name": "Hyper Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_4041"
+    },
+    {
+      "name": "Jet Sweep.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38338"
+    },
+    {
+      "name": "Keda.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49015"
+    },
+    {
+      "name": "Kick Drum FuzzJump.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5040"
+    },
+    {
+      "name": "Killer Beez.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_51307"
+    },
+    {
+      "name": "Klickering Lead Modern.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5333"
+    },
+    {
+      "name": "Kyoto Drone.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41320"
+    },
+    {
+      "name": "Laser Battle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_61089"
+    },
+    {
+      "name": "Lift Off.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59679"
+    },
+    {
+      "name": "LoFi Voodoo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5334"
+    },
+    {
+      "name": "LoFi Warp Drone.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5335"
+    },
+    {
+      "name": "Madness Breakdown.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59680"
+    },
+    {
+      "name": "Max Descend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38339"
+    },
+    {
+      "name": "Metal Delay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_42997"
+    },
+    {
+      "name": "Metal Impact Delay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_61090"
+    },
+    {
+      "name": "Metal Scrape.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_55467"
+    },
+    {
+      "name": "Metallo Shake.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5267"
+    },
+    {
+      "name": "Missle Drop.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59773"
+    },
+    {
+      "name": "Movie Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5897"
+    },
+    {
+      "name": "Moving Space Alarm.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5207"
+    },
+    {
+      "name": "MPE Alder Waldgeist.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_4045"
+    },
+    {
+      "name": "MPE Sci-Fi Flicks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_4046"
+    },
+    {
+      "name": "MPE Slide Swarmer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_4047"
+    },
+    {
+      "name": "MPE Thunder Drum.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_4048"
+    },
+    {
+      "name": "No Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59227"
+    },
+    {
+      "name": "Noise Rain.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59228"
+    },
+    {
+      "name": "Numb.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59681"
+    },
+    {
+      "name": "Oblivion Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_42998"
+    },
+    {
+      "name": "OC Bank FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49016"
+    },
+    {
+      "name": "Overtones.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5898"
+    },
+    {
+      "name": "Oxide FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_55468"
+    },
+    {
+      "name": "Particle Flow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49017"
+    },
+    {
+      "name": "Pitchy Gong.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5618"
+    },
+    {
+      "name": "Plinky Plonk.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_51308"
+    },
+    {
+      "name": "Plock Blip.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5336"
+    },
+    {
+      "name": "Plucked Harp Effects.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_51309"
+    },
+    {
+      "name": "Plucked To Death.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_55469"
+    },
+    {
+      "name": "Power Up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_42999"
+    },
+    {
+      "name": "Puff Kick D.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59774"
+    },
+    {
+      "name": "Pulsar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41321"
+    },
+    {
+      "name": "Pulse Ascend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38340"
+    },
+    {
+      "name": "Pulse Descend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38341"
+    },
+    {
+      "name": "Pulse Drone Beeper.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_51310"
+    },
+    {
+      "name": "Radio Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49018"
+    },
+    {
+      "name": "Rain On The Servers.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_4042"
+    },
+    {
+      "name": "Random Rhythmic String Abstract.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5208"
+    },
+    {
+      "name": "Rasp Inside.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49019"
+    },
+    {
+      "name": "Rave Signal.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_4043"
+    },
+    {
+      "name": "Rave Siren.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38342"
+    },
+    {
+      "name": "Red Alarm.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38343"
+    },
+    {
+      "name": "Reso Clicks.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5337"
+    },
+    {
+      "name": "Rhyt Mo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5268"
+    },
+    {
+      "name": "Rhythmic Bells & Noise.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5619"
+    },
+    {
+      "name": "Rhythmic Iron.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5899"
+    },
+    {
+      "name": "RingSing.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41263"
+    },
+    {
+      "name": "Rise Up.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59775"
+    },
+    {
+      "name": "Riser Section 8.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5041"
+    },
+    {
+      "name": "Riser Windup Light.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5042"
+    },
+    {
+      "name": "Rize Gate Me.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38344"
+    },
+    {
+      "name": "Robert's Theorem.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5043"
+    },
+    {
+      "name": "Robot Downgrade.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49020"
+    },
+    {
+      "name": "Robot Voice.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5209"
+    },
+    {
+      "name": "Rubber Duck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41322"
+    },
+    {
+      "name": "Rubbery Flick.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5044"
+    },
+    {
+      "name": "S&H Filtered Noise.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5620"
+    },
+    {
+      "name": "S&H Games.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5900"
+    },
+    {
+      "name": "Sad Triangle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59229"
+    },
+    {
+      "name": "Saw Madness.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38345"
+    },
+    {
+      "name": "Saw Madness.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49021"
+    },
+    {
+      "name": "Saw Percussion.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5338"
+    },
+    {
+      "name": "Saw Spiral.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_61091"
+    },
+    {
+      "name": "Saw Struck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_61092"
+    },
+    {
+      "name": "Scan Thru.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5045"
+    },
+    {
+      "name": "Sci Fi Raze.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38346"
+    },
+    {
+      "name": "Scratch Academics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38347"
+    },
+    {
+      "name": "ShortShot.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41264"
+    },
+    {
+      "name": "Shortwave.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59682"
+    },
+    {
+      "name": "Shouting Into Cans.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_51311"
+    },
+    {
+      "name": "Shutter Games.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5901"
+    },
+    {
+      "name": "ShyFX.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41323"
+    },
+    {
+      "name": "Six80Four TapDance.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59230"
+    },
+    {
+      "name": "Sizzle Down.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59776"
+    },
+    {
+      "name": "Sky Spy.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5046"
+    },
+    {
+      "name": "Space FlicFlac.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5339"
+    },
+    {
+      "name": "Spheres.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49022"
+    },
+    {
+      "name": "Squeee.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38348"
+    },
+    {
+      "name": "Squeek & Loop Bleep.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5621"
+    },
+    {
+      "name": "Squisch.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41324"
+    },
+    {
+      "name": "Squishy Bleep.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5622"
+    },
+    {
+      "name": "Strange Beats 1.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5340"
+    },
+    {
+      "name": "Strange Beats 2.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5341"
+    },
+    {
+      "name": "Strange Space Beats.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5342"
+    },
+    {
+      "name": "Student Saws.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_61093"
+    },
+    {
+      "name": "Stunn.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41325"
+    },
+    {
+      "name": "Stutter Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49023"
+    },
+    {
+      "name": "Subs Poppers.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59231"
+    },
+    {
+      "name": "Suckit Effect.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38349"
+    },
+    {
+      "name": "Supershort Blip.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5343"
+    },
+    {
+      "name": "Supersine.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5269"
+    },
+    {
+      "name": "Sweep & Wobble.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5623"
+    },
+    {
+      "name": "Sweep Pitch FX.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5624"
+    },
+    {
+      "name": "Sweeping SciFi Cymbals.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5625"
+    },
+    {
+      "name": "Swish Ascend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_36616"
+    },
+    {
+      "name": "Swish Ascending.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_61094"
+    },
+    {
+      "name": "Swish Descend Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_43000"
+    },
+    {
+      "name": "Swish Downfall.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_36617"
+    },
+    {
+      "name": "Swooshy.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5626"
+    },
+    {
+      "name": "Target Acquired.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5047"
+    },
+    {
+      "name": "Telephone.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41326"
+    },
+    {
+      "name": "Tenebrous Ramp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38350"
+    },
+    {
+      "name": "Tesseract Pitch Fall.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5627"
+    },
+    {
+      "name": "Tesseract Unpredictable Velocity.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5628"
+    },
+    {
+      "name": "The Day The Earth Shrunk.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5048"
+    },
+    {
+      "name": "The Jaguar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49024"
+    },
+    {
+      "name": "The Scream.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41265"
+    },
+    {
+      "name": "Tiny Tonal Drums.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5210"
+    },
+    {
+      "name": "Top Quark.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5049"
+    },
+    {
+      "name": "Transit Traveler.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49025"
+    },
+    {
+      "name": "Tube ZenBoard.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_51312"
+    },
+    {
+      "name": "Tuned Noise.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5211"
+    },
+    {
+      "name": "Turntable Brake.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5050"
+    },
+    {
+      "name": "Vice Descend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38351"
+    },
+    {
+      "name": "Videogamer.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41327"
+    },
+    {
+      "name": "Vintage Mainframe.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59683"
+    },
+    {
+      "name": "Vinyl Scratch Laser.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59684"
+    },
+    {
+      "name": "Vinyl Siren.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5270"
+    },
+    {
+      "name": "Wait For It.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5051"
+    },
+    {
+      "name": "Warble Spaceship.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59685"
+    },
+    {
+      "name": "Warehouse Shivers.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5052"
+    },
+    {
+      "name": "Weird Splash.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41328"
+    },
+    {
+      "name": "Whistling Theremin.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_49026"
+    },
+    {
+      "name": "Wide Air Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_61095"
+    },
+    {
+      "name": "Wind Machine.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5629"
+    },
+    {
+      "name": "Wire Noise.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5212"
+    },
+    {
+      "name": "Worm.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41329"
+    },
+    {
+      "name": "Xforza.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41330"
+    },
+    {
+      "name": "Xperact.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41266"
+    },
+    {
+      "name": "Ye Olde Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_38352"
+    },
+    {
+      "name": "Zap.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5902"
+    },
+    {
+      "name": "Zardoz FX.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_59777"
+    },
+    {
+      "name": "Zipper FX.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41331"
+    },
+    {
+      "name": "Zirp Sync Noiseloop.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_5344"
+    },
+    {
+      "name": "Zisch.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Effects:FileId_41332"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Dynamics",
+  "name": "Gate",
+  "uri": "query:AudioFx#Dynamics:Gate",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Threshold",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5499998927116394,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Attack",
+      "min": 0.019999999552965164,
+      "max": 150.0,
+      "value": 3.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Hold",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.31485241651535034,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Release",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.4860469698905945,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Return",
+      "min": 0.0,
+      "max": 24.0,
+      "value": 3.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Floor",
+      "min": -75.0,
+      "max": 0.0,
+      "value": -40.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "S/C Listen",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "FlipMode",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Normal",
+        "Flip"
+      ],
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "LookAhead",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "0 ms",
+        "1.5 ms",
+        "10 ms"
+      ],
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "S/C On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "S/C Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.4000000059604645,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "S/C Mix",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "S/C EQ Type",
+      "min": 0.0,
+      "max": 5.0,
+      "value": 5.0,
+      "is_quantized": true,
+      "value_items": [
+        "Low Shelf",
+        "Bell",
+        "High Shelf",
+        "Low pass",
+        "Peak",
+        "High pass"
+      ],
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "S/C EQ On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "S/C EQ Freq",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.3052678406238556,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 15
+    },
+    {
+      "name": "S/C EQ Gain",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 16
+    },
+    {
+      "name": "S/C EQ Q",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.40856707096099854,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 17
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "path": "midi_effects/Random",
+  "name": "Random",
+  "uri": "query:MidiFx#Random",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "Blue.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Random:FileId_4786"
+    },
+    {
+      "name": "Chaos.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Random:FileId_4787"
+    },
+    {
+      "name": "Drama.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Random:FileId_4788"
+    },
+    {
+      "name": "Fifth.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Random:FileId_4789"
+    },
+    {
+      "name": "Forced Jazz.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Random:FileId_4790"
+    },
+    {
+      "name": "Jazz Again.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Random:FileId_4791"
+    },
+    {
+      "name": "Low Oct.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Random:FileId_4792"
+    },
+    {
+      "name": "Orange.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Random:FileId_4793"
+    }
+  ]
+}

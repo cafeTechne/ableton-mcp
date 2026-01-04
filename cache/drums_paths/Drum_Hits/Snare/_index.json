@@ -1,0 +1,6058 @@
+{
+  "path": "drums/Drum Hits/Snare",
+  "name": "Snare",
+  "uri": "query:Drums#Drum%20Hits:Snare",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "A-Snare LDW 1 A.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47159"
+    },
+    {
+      "name": "A-Snare Leedy 1 A.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47160"
+    },
+    {
+      "name": "Fund Snare.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37561"
+    },
+    {
+      "name": "Simply West Snare.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37562"
+    },
+    {
+      "name": "Snare & Press AmbientLoudPunch MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56336"
+    },
+    {
+      "name": "Snare & Press BigPunchy MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55645"
+    },
+    {
+      "name": "Snare & Press BrightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56337"
+    },
+    {
+      "name": "Snare & Press BritishVintage MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55646"
+    },
+    {
+      "name": "Snare & Press BrushSizzle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55647"
+    },
+    {
+      "name": "Snare & Press ClassicMuffle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56338"
+    },
+    {
+      "name": "Snare & Press ColdTightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56339"
+    },
+    {
+      "name": "Snare & Press CopStyle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56340"
+    },
+    {
+      "name": "Snare & Press DarkPlateVerb MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55648"
+    },
+    {
+      "name": "Snare & Press DeepSnareDynamics MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55649"
+    },
+    {
+      "name": "Snare & Press DirectNatural MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56341"
+    },
+    {
+      "name": "Snare & Press LowLoudSquashed MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55650"
+    },
+    {
+      "name": "Snare & Press MultirodDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56342"
+    },
+    {
+      "name": "Snare & Press OldSchool MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56343"
+    },
+    {
+      "name": "Snare & Press ResoClassic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55651"
+    },
+    {
+      "name": "Snare & Press RoomWithAVista MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56344"
+    },
+    {
+      "name": "Snare & Press SessionDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56345"
+    },
+    {
+      "name": "Snare & Press SteelyTight MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56346"
+    },
+    {
+      "name": "Snare & Press StudioBasic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56347"
+    },
+    {
+      "name": "Snare & Press WarmAndLow MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55652"
+    },
+    {
+      "name": "Snare 1 Agile Shot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36325"
+    },
+    {
+      "name": "Snare 1 Azimuth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36326"
+    },
+    {
+      "name": "Snare 1 Corner.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39764"
+    },
+    {
+      "name": "Snare 1 PCM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58128"
+    },
+    {
+      "name": "Snare 1 Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58129"
+    },
+    {
+      "name": "Snare 2 Agile Shot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36327"
+    },
+    {
+      "name": "Snare 2 Azimuth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36328"
+    },
+    {
+      "name": "Snare 2 Corner.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39765"
+    },
+    {
+      "name": "Snare 2 EDM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37563"
+    },
+    {
+      "name": "Snare 2 PCM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58130"
+    },
+    {
+      "name": "Snare 2 Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58131"
+    },
+    {
+      "name": "Snare 3 PCM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58132"
+    },
+    {
+      "name": "Snare 3 Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58133"
+    },
+    {
+      "name": "Snare 3k Hiss.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47161"
+    },
+    {
+      "name": "Snare 3k Hiss.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_551"
+    },
+    {
+      "name": "Snare 4 Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58134"
+    },
+    {
+      "name": "Snare 5 EDM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37564"
+    },
+    {
+      "name": "Snare 70s Funk MPC.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47164"
+    },
+    {
+      "name": "Snare 70s Funk MPC.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_557"
+    },
+    {
+      "name": "Snare 70s MPC 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_558"
+    },
+    {
+      "name": "Snare 70s MPC 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_559"
+    },
+    {
+      "name": "Snare 70s MPC 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_560"
+    },
+    {
+      "name": "Snare 70s MPC 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_561"
+    },
+    {
+      "name": "Snare 70s MPC 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47165"
+    },
+    {
+      "name": "Snare 70s MPC 5.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_562"
+    },
+    {
+      "name": "Snare 70s Vinyl.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42392"
+    },
+    {
+      "name": "Snare 70s Vinyl.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47166"
+    },
+    {
+      "name": "Snare 70s Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_563"
+    },
+    {
+      "name": "Snare 78 Robots.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48437"
+    },
+    {
+      "name": "Snare 80s Space Craft.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_570"
+    },
+    {
+      "name": "Snare 80s UK Disco Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_571"
+    },
+    {
+      "name": "Snare 90s MPC 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47178"
+    },
+    {
+      "name": "Snare 90s MPC 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_579"
+    },
+    {
+      "name": "Snare 90s MPC 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47179"
+    },
+    {
+      "name": "Snare 90s MPC 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_580"
+    },
+    {
+      "name": "Snare 212.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39766"
+    },
+    {
+      "name": "Snare 505 ASR.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42389"
+    },
+    {
+      "name": "Snare 505 ASR.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47162"
+    },
+    {
+      "name": "Snare 505 ASR.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_552"
+    },
+    {
+      "name": "Snare 505.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_553"
+    },
+    {
+      "name": "Snare 606 Dub.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47163"
+    },
+    {
+      "name": "Snare 606.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_554"
+    },
+    {
+      "name": "Snare 606.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58135"
+    },
+    {
+      "name": "Snare 707 Diatribal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42390"
+    },
+    {
+      "name": "Snare 707 Variation.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_555"
+    },
+    {
+      "name": "Snare 707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42391"
+    },
+    {
+      "name": "Snare 707.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_556"
+    },
+    {
+      "name": "Snare 808 Airy Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36329"
+    },
+    {
+      "name": "Snare 808 Bip Medium Chekov.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47167"
+    },
+    {
+      "name": "Snare 808 Bright Fast.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36330"
+    },
+    {
+      "name": "Snare 808 Cadance 01.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36331"
+    },
+    {
+      "name": "Snare 808 Cadance 02.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36332"
+    },
+    {
+      "name": "Snare 808 Cadance 03.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36333"
+    },
+    {
+      "name": "Snare 808 Cadance 04.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36334"
+    },
+    {
+      "name": "Snare 808 Cadance Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36335"
+    },
+    {
+      "name": "Snare 808 Clap Layer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36336"
+    },
+    {
+      "name": "Snare 808 Classic Tone.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36337"
+    },
+    {
+      "name": "Snare 808 Deep Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_564"
+    },
+    {
+      "name": "Snare 808 Deep.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36338"
+    },
+    {
+      "name": "Snare 808 Dry.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36339"
+    },
+    {
+      "name": "Snare 808 Dry.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47168"
+    },
+    {
+      "name": "Snare 808 Hi Pitch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36340"
+    },
+    {
+      "name": "Snare 808 Hi Quick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36341"
+    },
+    {
+      "name": "Snare 808 Light Quick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36342"
+    },
+    {
+      "name": "Snare 808 Long Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36343"
+    },
+    {
+      "name": "Snare 808 Metal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36344"
+    },
+    {
+      "name": "Snare 808 Metallic Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36345"
+    },
+    {
+      "name": "Snare 808 Onyx.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47169"
+    },
+    {
+      "name": "Snare 808 Powder Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47170"
+    },
+    {
+      "name": "Snare 808 Reverb Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47171"
+    },
+    {
+      "name": "Snare 808 Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36346"
+    },
+    {
+      "name": "Snare 808 RK.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42393"
+    },
+    {
+      "name": "Snare 808 Solid Bright.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36347"
+    },
+    {
+      "name": "Snare 808 Thick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36348"
+    },
+    {
+      "name": "Snare 808 Tight Lite.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36349"
+    },
+    {
+      "name": "Snare 808 Tite.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_565"
+    },
+    {
+      "name": "Snare 808 Tone 1 I.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47172"
+    },
+    {
+      "name": "Snare 808 Tone 1 II.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47173"
+    },
+    {
+      "name": "Snare 808 Tone 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_566"
+    },
+    {
+      "name": "Snare 808 Tone 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47174"
+    },
+    {
+      "name": "Snare 808 Tone 3r.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_568"
+    },
+    {
+      "name": "Snare 808 Tone 4 I.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47175"
+    },
+    {
+      "name": "Snare 808 Tone 4 II.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47176"
+    },
+    {
+      "name": "Snare 808 Tone 4 III.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47177"
+    },
+    {
+      "name": "Snare 808 Tone 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_567"
+    },
+    {
+      "name": "Snare 808.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_569"
+    },
+    {
+      "name": "Snare 909 Hard 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37565"
+    },
+    {
+      "name": "Snare 909 Hard 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_572"
+    },
+    {
+      "name": "Snare 909 Hard 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37566"
+    },
+    {
+      "name": "Snare 909 Hard 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_573"
+    },
+    {
+      "name": "Snare 909 Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37567"
+    },
+    {
+      "name": "Snare 909 Tune 8.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_576"
+    },
+    {
+      "name": "Snare 909 Tune 8k.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_577"
+    },
+    {
+      "name": "Snare 909 Tune 8s.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_578"
+    },
+    {
+      "name": "Snare 909 Tune 10c.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_574"
+    },
+    {
+      "name": "Snare 909 Tune 10s.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_575"
+    },
+    {
+      "name": "Snare Ace.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39767"
+    },
+    {
+      "name": "Snare Acoustic Crystal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_581"
+    },
+    {
+      "name": "Snare Acoustic Crystal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42394"
+    },
+    {
+      "name": "Snare Acoustic Harbour.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42395"
+    },
+    {
+      "name": "Snare Acoustic Momento.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42396"
+    },
+    {
+      "name": "Snare Acoustic Nightly.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_582"
+    },
+    {
+      "name": "Snare Acoustic Nightly.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42397"
+    },
+    {
+      "name": "Snare Acoustic Quark 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_583"
+    },
+    {
+      "name": "Snare Acoustic Quark 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42398"
+    },
+    {
+      "name": "Snare Acoustic Quark 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_584"
+    },
+    {
+      "name": "Snare Acoustic Quark 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42399"
+    },
+    {
+      "name": "Snare Acoustic Room 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42400"
+    },
+    {
+      "name": "Snare Acoustic Room 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42401"
+    },
+    {
+      "name": "Snare Acoustic Room 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42402"
+    },
+    {
+      "name": "Snare Acoustic Room 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42403"
+    },
+    {
+      "name": "Snare Acoustic Room.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37568"
+    },
+    {
+      "name": "Snare Acoustic Sun.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42404"
+    },
+    {
+      "name": "Snare Acoustic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_585"
+    },
+    {
+      "name": "Snare Acoustic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58136"
+    },
+    {
+      "name": "Snare Acoustified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47182"
+    },
+    {
+      "name": "Snare Acoustified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47185"
+    },
+    {
+      "name": "Snare Acoustified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47186"
+    },
+    {
+      "name": "Snare Acoustified 04 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47180"
+    },
+    {
+      "name": "Snare Acoustified 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47187"
+    },
+    {
+      "name": "Snare Acoustified 05 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47181"
+    },
+    {
+      "name": "Snare Acoustified 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47188"
+    },
+    {
+      "name": "Snare Acoustified 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47189"
+    },
+    {
+      "name": "Snare Acoustified 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47190"
+    },
+    {
+      "name": "Snare Acoustified 17 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47183"
+    },
+    {
+      "name": "Snare Acoustified 18 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47184"
+    },
+    {
+      "name": "Snare African Dream.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39768"
+    },
+    {
+      "name": "Snare Air Lock.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_586"
+    },
+    {
+      "name": "Snare Alien Spawn.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_587"
+    },
+    {
+      "name": "Snare AlienSpawn.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47191"
+    },
+    {
+      "name": "Snare Alley.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39769"
+    },
+    {
+      "name": "Snare Analog 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55156"
+    },
+    {
+      "name": "Snare Analog 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55166"
+    },
+    {
+      "name": "Snare Analog 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55168"
+    },
+    {
+      "name": "Snare Analog 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55169"
+    },
+    {
+      "name": "Snare Analog 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55170"
+    },
+    {
+      "name": "Snare Analog 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55171"
+    },
+    {
+      "name": "Snare Analog 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55172"
+    },
+    {
+      "name": "Snare Analog 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55173"
+    },
+    {
+      "name": "Snare Analog 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55174"
+    },
+    {
+      "name": "Snare Analog 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55157"
+    },
+    {
+      "name": "Snare Analog 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55158"
+    },
+    {
+      "name": "Snare Analog 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55159"
+    },
+    {
+      "name": "Snare Analog 13.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55160"
+    },
+    {
+      "name": "Snare Analog 14.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55161"
+    },
+    {
+      "name": "Snare Analog 15.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55162"
+    },
+    {
+      "name": "Snare Analog 16.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55163"
+    },
+    {
+      "name": "Snare Analog 17.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55164"
+    },
+    {
+      "name": "Snare Analog 18.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55165"
+    },
+    {
+      "name": "Snare Analog 20.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55167"
+    },
+    {
+      "name": "Snare Analog Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37569"
+    },
+    {
+      "name": "Snare Analog Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48438"
+    },
+    {
+      "name": "Snare Analog Preon.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48439"
+    },
+    {
+      "name": "Snare Analog Rest.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48440"
+    },
+    {
+      "name": "Snare Analog Robot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48441"
+    },
+    {
+      "name": "Snare Analog Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37570"
+    },
+    {
+      "name": "Snare Animal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42405"
+    },
+    {
+      "name": "Snare Auto Roll.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36350"
+    },
+    {
+      "name": "Snare Avocado.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39770"
+    },
+    {
+      "name": "Snare Backup Lite.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36351"
+    },
+    {
+      "name": "Snare BamVin.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_588"
+    },
+    {
+      "name": "Snare Bang.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39771"
+    },
+    {
+      "name": "Snare BB Off Center.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42406"
+    },
+    {
+      "name": "Snare Beat Glitch 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48442"
+    },
+    {
+      "name": "Snare Beat Glitch 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48443"
+    },
+    {
+      "name": "Snare Beat Preon.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48444"
+    },
+    {
+      "name": "Snare Beat Snake.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48445"
+    },
+    {
+      "name": "Snare Beat.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37571"
+    },
+    {
+      "name": "Snare Belly Ring.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_589"
+    },
+    {
+      "name": "Snare Biz.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_590"
+    },
+    {
+      "name": "Snare Bizzness SP1200R.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_591"
+    },
+    {
+      "name": "Snare BlackHole 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_592"
+    },
+    {
+      "name": "Snare BlackHole 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_593"
+    },
+    {
+      "name": "Snare Blip Verb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36352"
+    },
+    {
+      "name": "Snare Block Snare.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47192"
+    },
+    {
+      "name": "Snare Block Snare.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_594"
+    },
+    {
+      "name": "Snare Blue Room.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_595"
+    },
+    {
+      "name": "Snare Blueprint.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39772"
+    },
+    {
+      "name": "Snare Bluesbreak 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47193"
+    },
+    {
+      "name": "Snare Bluesbreak 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_596"
+    },
+    {
+      "name": "Snare Bluesbreak 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_597"
+    },
+    {
+      "name": "Snare Boom Bap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39773"
+    },
+    {
+      "name": "Snare Bottom Mic Plymouth.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_598"
+    },
+    {
+      "name": "Snare Bottom Mic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47194"
+    },
+    {
+      "name": "Snare Brand Beats.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42407"
+    },
+    {
+      "name": "Snare Break Chop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47195"
+    },
+    {
+      "name": "Snare BRS Wayman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42408"
+    },
+    {
+      "name": "Snare Brush Hit ClubSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55862"
+    },
+    {
+      "name": "Snare Brush Hit Hard Club Sizzle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_599"
+    },
+    {
+      "name": "Snare Build.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37572"
+    },
+    {
+      "name": "Snare Build.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_600"
+    },
+    {
+      "name": "Snare Burned 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47196"
+    },
+    {
+      "name": "Snare Burned 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47197"
+    },
+    {
+      "name": "Snare Burned 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47198"
+    },
+    {
+      "name": "Snare Burned 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47199"
+    },
+    {
+      "name": "Snare Buss Ride.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_601"
+    },
+    {
+      "name": "Snare C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_602"
+    },
+    {
+      "name": "Snare Cadence Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36353"
+    },
+    {
+      "name": "Snare Caked.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_603"
+    },
+    {
+      "name": "Snare Celebrate.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_604"
+    },
+    {
+      "name": "Snare Center 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47200"
+    },
+    {
+      "name": "Snare Center 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47201"
+    },
+    {
+      "name": "Snare Chop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37573"
+    },
+    {
+      "name": "Snare Chop.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_605"
+    },
+    {
+      "name": "Snare Chrome Mono.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47202"
+    },
+    {
+      "name": "Snare Chrome Mono.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_606"
+    },
+    {
+      "name": "Snare Clap Back.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_607"
+    },
+    {
+      "name": "Snare Clap Days Off.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_608"
+    },
+    {
+      "name": "Snare Clap Disco.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_609"
+    },
+    {
+      "name": "Snare Clap Dog.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_610"
+    },
+    {
+      "name": "Snare Clap Stereo RK.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48446"
+    },
+    {
+      "name": "Snare Clap Strong.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37574"
+    },
+    {
+      "name": "Snare Clapper.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_611"
+    },
+    {
+      "name": "Snare Clappy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37575"
+    },
+    {
+      "name": "Snare Classic Canvas.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39774"
+    },
+    {
+      "name": "Snare Classic Canvas.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_612"
+    },
+    {
+      "name": "Snare Clatter 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55175"
+    },
+    {
+      "name": "Snare Clatter 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55176"
+    },
+    {
+      "name": "Snare Clatter 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55177"
+    },
+    {
+      "name": "Snare Code Bucket.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48447"
+    },
+    {
+      "name": "Snare Combo Bangky.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_613"
+    },
+    {
+      "name": "Snare Combo Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42409"
+    },
+    {
+      "name": "Snare Combo Right.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_614"
+    },
+    {
+      "name": "Snare Combo Right.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42410"
+    },
+    {
+      "name": "Snare Combo Skitter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58137"
+    },
+    {
+      "name": "Snare Combo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37576"
+    },
+    {
+      "name": "Snare Cooked.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36354"
+    },
+    {
+      "name": "Snare Crack It.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_615"
+    },
+    {
+      "name": "Snare Crack Ring Layer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36355"
+    },
+    {
+      "name": "Snare Crack Ring Layer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47203"
+    },
+    {
+      "name": "Snare Crack Ring Layered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_616"
+    },
+    {
+      "name": "Snare Crackle Basket.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47204"
+    },
+    {
+      "name": "Snare Crackle Basket.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_617"
+    },
+    {
+      "name": "Snare Crisp 808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36356"
+    },
+    {
+      "name": "Snare Crispy.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_618"
+    },
+    {
+      "name": "Snare Crunch 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55178"
+    },
+    {
+      "name": "Snare Crunch 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55179"
+    },
+    {
+      "name": "Snare Crunch 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55180"
+    },
+    {
+      "name": "Snare Crunch 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55181"
+    },
+    {
+      "name": "Snare Crunch 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55182"
+    },
+    {
+      "name": "Snare Crunch 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55183"
+    },
+    {
+      "name": "Snare Crunch Squeeze.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_619"
+    },
+    {
+      "name": "Snare Crunch Wap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39775"
+    },
+    {
+      "name": "Snare Crunch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58138"
+    },
+    {
+      "name": "Snare Curious Woods.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47205"
+    },
+    {
+      "name": "Snare Cust.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_620"
+    },
+    {
+      "name": "Snare D55 Tone 1 I.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47206"
+    },
+    {
+      "name": "Snare D55 Tone 1 II.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47207"
+    },
+    {
+      "name": "Snare D55 Tone 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47208"
+    },
+    {
+      "name": "Snare Daisies.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_624"
+    },
+    {
+      "name": "Snare Damp Nectarine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42411"
+    },
+    {
+      "name": "Snare Damp Stick Center.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_625"
+    },
+    {
+      "name": "Snare Damp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47209"
+    },
+    {
+      "name": "Snare DC Snare.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_621"
+    },
+    {
+      "name": "Snare Deep Knight.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36357"
+    },
+    {
+      "name": "Snare DMX A1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_622"
+    },
+    {
+      "name": "Snare DMX Core.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_623"
+    },
+    {
+      "name": "Snare DMX Vinyl.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42412"
+    },
+    {
+      "name": "Snare DMX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47210"
+    },
+    {
+      "name": "Snare DMX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58139"
+    },
+    {
+      "name": "Snare Dobbs.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39776"
+    },
+    {
+      "name": "Snare Double Slackjaw.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_626"
+    },
+    {
+      "name": "Snare Drop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37577"
+    },
+    {
+      "name": "Snare Drum 505 Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47211"
+    },
+    {
+      "name": "Snare Drum On Son.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42413"
+    },
+    {
+      "name": "Snare Drum On Son.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47212"
+    },
+    {
+      "name": "Snare Dry Crackin.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47213"
+    },
+    {
+      "name": "Snare Dubbers.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_627"
+    },
+    {
+      "name": "Snare Dubplate.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_628"
+    },
+    {
+      "name": "Snare EDM Big.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37578"
+    },
+    {
+      "name": "Snare eGrit Low.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_800"
+    },
+    {
+      "name": "Snare eGrit Tones 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_801"
+    },
+    {
+      "name": "Snare eGrit Tones 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_802"
+    },
+    {
+      "name": "Snare Electric PO.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48448"
+    },
+    {
+      "name": "Snare Electrified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47217"
+    },
+    {
+      "name": "Snare Electrified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47219"
+    },
+    {
+      "name": "Snare Electrified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47220"
+    },
+    {
+      "name": "Snare Electrified 05 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47214"
+    },
+    {
+      "name": "Snare Electrified 06 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47215"
+    },
+    {
+      "name": "Snare Electrified 07 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47216"
+    },
+    {
+      "name": "Snare Electrified 12 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47218"
+    },
+    {
+      "name": "Snare Engine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37579"
+    },
+    {
+      "name": "Snare Ewtery.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_629"
+    },
+    {
+      "name": "Snare Fat Hand Drummer.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_630"
+    },
+    {
+      "name": "Snare Fat Matt Break 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_631"
+    },
+    {
+      "name": "Snare Fat Matt Break 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_632"
+    },
+    {
+      "name": "Snare FatMattBreak 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47221"
+    },
+    {
+      "name": "Snare Feel.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_633"
+    },
+    {
+      "name": "Snare Film With Gatlope.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_634"
+    },
+    {
+      "name": "Snare Flange Down.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37580"
+    },
+    {
+      "name": "Snare Flange Up.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37581"
+    },
+    {
+      "name": "Snare Flaxe.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_635"
+    },
+    {
+      "name": "Snare Flick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37582"
+    },
+    {
+      "name": "Snare Fly.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39777"
+    },
+    {
+      "name": "Snare Frogger 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58140"
+    },
+    {
+      "name": "Snare Frogger 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58141"
+    },
+    {
+      "name": "Snare Frogger 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_636"
+    },
+    {
+      "name": "Snare Frogger 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58142"
+    },
+    {
+      "name": "Snare Frogger 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_637"
+    },
+    {
+      "name": "Snare Frogger.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47222"
+    },
+    {
+      "name": "Snare Funk MPC 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47223"
+    },
+    {
+      "name": "Snare Funk MPC 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_638"
+    },
+    {
+      "name": "Snare Funk MPC 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_639"
+    },
+    {
+      "name": "Snare Funky Moon.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_640"
+    },
+    {
+      "name": "Snare Future Proof 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_641"
+    },
+    {
+      "name": "Snare Future Proof 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_642"
+    },
+    {
+      "name": "Snare Gang 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37583"
+    },
+    {
+      "name": "Snare Gang 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37584"
+    },
+    {
+      "name": "Snare Gen Purpose 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_643"
+    },
+    {
+      "name": "Snare Gen Purpose 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_644"
+    },
+    {
+      "name": "Snare Gen Purpose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_645"
+    },
+    {
+      "name": "Snare Ghosts Uprockable.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47224"
+    },
+    {
+      "name": "Snare GrainUrs DnB.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_646"
+    },
+    {
+      "name": "Snare Grit Kit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39778"
+    },
+    {
+      "name": "Snare Grit Source.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_647"
+    },
+    {
+      "name": "Snare Grit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39779"
+    },
+    {
+      "name": "Snare GSY.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39780"
+    },
+    {
+      "name": "Snare Hard 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58143"
+    },
+    {
+      "name": "Snare Hard 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58144"
+    },
+    {
+      "name": "Snare Hard Body.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39781"
+    },
+    {
+      "name": "Snare Hard Break.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55184"
+    },
+    {
+      "name": "Snare Hard Punish.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55185"
+    },
+    {
+      "name": "Snare Hard Ring.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55186"
+    },
+    {
+      "name": "Snare Hard Snap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55187"
+    },
+    {
+      "name": "Snare Hard Source.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_648"
+    },
+    {
+      "name": "Snare Hard Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47225"
+    },
+    {
+      "name": "Snare Hard Tail.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55188"
+    },
+    {
+      "name": "Snare Hard Tilt 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55189"
+    },
+    {
+      "name": "Snare Hard Tilt 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55190"
+    },
+    {
+      "name": "Snare Hat Chop.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_649"
+    },
+    {
+      "name": "Snare Hatson.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37585"
+    },
+    {
+      "name": "Snare Heavy Future 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_650"
+    },
+    {
+      "name": "Snare Heavy Future 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_651"
+    },
+    {
+      "name": "Snare Heavy.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_652"
+    },
+    {
+      "name": "Snare Hi Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47226"
+    },
+    {
+      "name": "Snare Hi Clinical.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47227"
+    },
+    {
+      "name": "Snare Hi Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47228"
+    },
+    {
+      "name": "Snare Hi Industry.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37586"
+    },
+    {
+      "name": "Snare Hi Melodized.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47229"
+    },
+    {
+      "name": "Snare High Strung.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_653"
+    },
+    {
+      "name": "Snare Hit & Rim AmbientLoudPunch MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56348"
+    },
+    {
+      "name": "Snare Hit & Rim BigPunchy MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55653"
+    },
+    {
+      "name": "Snare Hit & Rim BrightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56349"
+    },
+    {
+      "name": "Snare Hit & Rim BritishVintage MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55654"
+    },
+    {
+      "name": "Snare Hit & Rim ColdTightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56350"
+    },
+    {
+      "name": "Snare Hit & Rim CopStyle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56351"
+    },
+    {
+      "name": "Snare Hit & Rim DarkPlateVerb MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55655"
+    },
+    {
+      "name": "Snare Hit & Rim DeepSnareDynamics MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55656"
+    },
+    {
+      "name": "Snare Hit & Rim DirectNatural MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56352"
+    },
+    {
+      "name": "Snare Hit & Rim LowLoudSquashed MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55657"
+    },
+    {
+      "name": "Snare Hit & Rim OldSchool MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56353"
+    },
+    {
+      "name": "Snare Hit & Rim ResoClassic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55658"
+    },
+    {
+      "name": "Snare Hit & Rim RoomWithAVista MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56354"
+    },
+    {
+      "name": "Snare Hit & Rim SessionDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56355"
+    },
+    {
+      "name": "Snare Hit & Rim SteelyTight MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56356"
+    },
+    {
+      "name": "Snare Hit & Rim StudioBasic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56357"
+    },
+    {
+      "name": "Snare Hit & Rim WarmAndLow MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55659"
+    },
+    {
+      "name": "Snare Hit AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56674"
+    },
+    {
+      "name": "Snare Hit BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55863"
+    },
+    {
+      "name": "Snare Hit BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56675"
+    },
+    {
+      "name": "Snare Hit BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55864"
+    },
+    {
+      "name": "Snare Hit ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56676"
+    },
+    {
+      "name": "Snare Hit ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56677"
+    },
+    {
+      "name": "Snare Hit CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56678"
+    },
+    {
+      "name": "Snare Hit DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55865"
+    },
+    {
+      "name": "Snare Hit DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55866"
+    },
+    {
+      "name": "Snare Hit DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56679"
+    },
+    {
+      "name": "Snare Hit LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55867"
+    },
+    {
+      "name": "Snare Hit OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56680"
+    },
+    {
+      "name": "Snare Hit ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55868"
+    },
+    {
+      "name": "Snare Hit RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56681"
+    },
+    {
+      "name": "Snare Hit SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56682"
+    },
+    {
+      "name": "Snare Hit SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56683"
+    },
+    {
+      "name": "Snare Hit StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56684"
+    },
+    {
+      "name": "Snare Hit WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55869"
+    },
+    {
+      "name": "Snare Hook City.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37587"
+    },
+    {
+      "name": "Snare Hot Ring.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_654"
+    },
+    {
+      "name": "Snare Hum Titan.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39782"
+    },
+    {
+      "name": "Snare Hybrid Sense.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47230"
+    },
+    {
+      "name": "Snare Hymned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47231"
+    },
+    {
+      "name": "Snare Impact 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37588"
+    },
+    {
+      "name": "Snare Impact 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_655"
+    },
+    {
+      "name": "Snare Impact 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37589"
+    },
+    {
+      "name": "Snare Impact 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37590"
+    },
+    {
+      "name": "Snare Impact 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37591"
+    },
+    {
+      "name": "Snare Impact Box Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47232"
+    },
+    {
+      "name": "Snare Impact Hi Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47233"
+    },
+    {
+      "name": "Snare Impact Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47234"
+    },
+    {
+      "name": "Snare Impact Skitter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_656"
+    },
+    {
+      "name": "Snare Impact Skitter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58145"
+    },
+    {
+      "name": "Snare Impact Step.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58146"
+    },
+    {
+      "name": "Snare Impact Wide.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47235"
+    },
+    {
+      "name": "Snare Induster Rest.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48449"
+    },
+    {
+      "name": "Snare Ironman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39783"
+    },
+    {
+      "name": "Snare Ironman.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_657"
+    },
+    {
+      "name": "Snare Issued.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_658"
+    },
+    {
+      "name": "Snare IzoVinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_659"
+    },
+    {
+      "name": "Snare Jazz.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_660"
+    },
+    {
+      "name": "Snare Jethro.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_661"
+    },
+    {
+      "name": "Snare Jungle 1 SP1200R.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_662"
+    },
+    {
+      "name": "Snare Jungle 2 SP1200R.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_663"
+    },
+    {
+      "name": "Snare Jungle 3 SP1200R.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_664"
+    },
+    {
+      "name": "Snare Jungle Skitter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_665"
+    },
+    {
+      "name": "Snare Jungle Skitter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58147"
+    },
+    {
+      "name": "Snare Jungle Step.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58148"
+    },
+    {
+      "name": "Snare Jungle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_666"
+    },
+    {
+      "name": "Snare Jungle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42414"
+    },
+    {
+      "name": "Snare Keep Tight.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_667"
+    },
+    {
+      "name": "Snare Kindified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47236"
+    },
+    {
+      "name": "Snare Kindified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47238"
+    },
+    {
+      "name": "Snare Kindified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47239"
+    },
+    {
+      "name": "Snare Kindified 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47240"
+    },
+    {
+      "name": "Snare Kindified 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47241"
+    },
+    {
+      "name": "Snare Kindified 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47242"
+    },
+    {
+      "name": "Snare Kindified 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47243"
+    },
+    {
+      "name": "Snare Kindified 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47244"
+    },
+    {
+      "name": "Snare Kindified 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47245"
+    },
+    {
+      "name": "Snare Kindified 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47237"
+    },
+    {
+      "name": "Snare Kindified.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_668"
+    },
+    {
+      "name": "Snare Kuddy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47246"
+    },
+    {
+      "name": "Snare Laser Blip.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_671"
+    },
+    {
+      "name": "Snare Layer Clap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36358"
+    },
+    {
+      "name": "Snare Layered 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58149"
+    },
+    {
+      "name": "Snare Layered 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58150"
+    },
+    {
+      "name": "Snare Layered 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58151"
+    },
+    {
+      "name": "Snare Layered 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58152"
+    },
+    {
+      "name": "Snare Layered 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58153"
+    },
+    {
+      "name": "Snare Layered End Game.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_672"
+    },
+    {
+      "name": "Snare Layered EndGame.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47247"
+    },
+    {
+      "name": "Snare Lazy Flange.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36359"
+    },
+    {
+      "name": "SNARE LD 1465 BRS brushes center.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45931"
+    },
+    {
+      "name": "SNARE LD 1465 BRS brushes off center.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45932"
+    },
+    {
+      "name": "SNARE LD 1465 BRS brushes sweep 1.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45933"
+    },
+    {
+      "name": "SNARE LD 1465 BRS brushes sweep 2.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45934"
+    },
+    {
+      "name": "SNARE LD 1465 BRS side stick.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45935"
+    },
+    {
+      "name": "SNARE LD 1465 BRS stick press roll 1.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45936"
+    },
+    {
+      "name": "SNARE LD 1465 BRS stick press roll 2.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45937"
+    },
+    {
+      "name": "Snare LD Stick Damp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42415"
+    },
+    {
+      "name": "Snare LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_669"
+    },
+    {
+      "name": "Snare LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42416"
+    },
+    {
+      "name": "Snare LD.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_670"
+    },
+    {
+      "name": "Snare Ldw.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_673"
+    },
+    {
+      "name": "Snare Leaner.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58154"
+    },
+    {
+      "name": "Snare Leaner.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_674"
+    },
+    {
+      "name": "Snare Leedy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_675"
+    },
+    {
+      "name": "Snare Little Chop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37592"
+    },
+    {
+      "name": "Snare Little DM.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_676"
+    },
+    {
+      "name": "Snare LittleDM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47248"
+    },
+    {
+      "name": "Snare Lo Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47249"
+    },
+    {
+      "name": "Snare Lo Clinical.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47250"
+    },
+    {
+      "name": "Snare Lo Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47251"
+    },
+    {
+      "name": "Snare Lo Industry.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37593"
+    },
+    {
+      "name": "Snare Lo Melodized.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47252"
+    },
+    {
+      "name": "Snare Lofi Blip.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36360"
+    },
+    {
+      "name": "Snare LoFi Token 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48450"
+    },
+    {
+      "name": "Snare LoFi Token 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48451"
+    },
+    {
+      "name": "Snare Lo-Fi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37594"
+    },
+    {
+      "name": "Snare Loki.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_677"
+    },
+    {
+      "name": "Snare Loose Jangle.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_678"
+    },
+    {
+      "name": "Snare Lot 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_679"
+    },
+    {
+      "name": "Snare Lot 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_680"
+    },
+    {
+      "name": "Snare Lot 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_681"
+    },
+    {
+      "name": "Snare Lot 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_682"
+    },
+    {
+      "name": "Snare Lot Roll.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_683"
+    },
+    {
+      "name": "Snare Low Stick Center.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_684"
+    },
+    {
+      "name": "Snare Low Stick Off Center.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_685"
+    },
+    {
+      "name": "Snare Machine 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37595"
+    },
+    {
+      "name": "Snare Machine 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37596"
+    },
+    {
+      "name": "Snare Machine 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37597"
+    },
+    {
+      "name": "Snare Machine 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37598"
+    },
+    {
+      "name": "Snare Machine 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37599"
+    },
+    {
+      "name": "Snare Machine 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37600"
+    },
+    {
+      "name": "Snare Machine Tight.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48452"
+    },
+    {
+      "name": "Snare Mahogany Bottom Mic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47253"
+    },
+    {
+      "name": "Snare Maple Bottom Mic 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47254"
+    },
+    {
+      "name": "Snare Maple Bottom Mic 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47255"
+    },
+    {
+      "name": "Snare Mars Disco 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_687"
+    },
+    {
+      "name": "Snare Mars Disco 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_688"
+    },
+    {
+      "name": "Snare Mars Disco 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_689"
+    },
+    {
+      "name": "Snare Mars Disco 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_690"
+    },
+    {
+      "name": "Snare MarsDisco 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47256"
+    },
+    {
+      "name": "Snare MarsDisco 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47257"
+    },
+    {
+      "name": "Snare MarsDisco 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47258"
+    },
+    {
+      "name": "Snare MarsDisco 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47259"
+    },
+    {
+      "name": "Snare Melba Toast.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_691"
+    },
+    {
+      "name": "Snare Metal Filter Chekov.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47260"
+    },
+    {
+      "name": "Snare Mid Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47261"
+    },
+    {
+      "name": "Snare Mid Impact.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47262"
+    },
+    {
+      "name": "Snare Mighty Bit Reduce.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_692"
+    },
+    {
+      "name": "Snare Mkit Sample 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58155"
+    },
+    {
+      "name": "Snare Mkit Sample 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58166"
+    },
+    {
+      "name": "Snare Mkit Sample 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_693"
+    },
+    {
+      "name": "Snare Mkit Sample 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58168"
+    },
+    {
+      "name": "Snare Mkit Sample 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_695"
+    },
+    {
+      "name": "Snare Mkit Sample 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58169"
+    },
+    {
+      "name": "Snare Mkit Sample 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_696"
+    },
+    {
+      "name": "Snare Mkit Sample 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58170"
+    },
+    {
+      "name": "Snare Mkit Sample 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58171"
+    },
+    {
+      "name": "Snare Mkit Sample 6.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_697"
+    },
+    {
+      "name": "Snare Mkit Sample 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58172"
+    },
+    {
+      "name": "Snare Mkit Sample 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58173"
+    },
+    {
+      "name": "Snare Mkit Sample 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58174"
+    },
+    {
+      "name": "Snare Mkit Sample 9.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_698"
+    },
+    {
+      "name": "Snare Mkit Sample 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58156"
+    },
+    {
+      "name": "Snare Mkit Sample 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58157"
+    },
+    {
+      "name": "Snare Mkit Sample 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58158"
+    },
+    {
+      "name": "Snare Mkit Sample 13.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58159"
+    },
+    {
+      "name": "Snare Mkit Sample 14.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58160"
+    },
+    {
+      "name": "Snare Mkit Sample 15.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58161"
+    },
+    {
+      "name": "Snare Mkit Sample 16.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58162"
+    },
+    {
+      "name": "Snare Mkit Sample 17.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58163"
+    },
+    {
+      "name": "Snare Mkit Sample 18.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58164"
+    },
+    {
+      "name": "Snare Mkit Sample 19.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58165"
+    },
+    {
+      "name": "Snare Mkit Sample 20.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58167"
+    },
+    {
+      "name": "Snare Mkit Sample 20.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_694"
+    },
+    {
+      "name": "Snare Mkit Synth 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58175"
+    },
+    {
+      "name": "Snare Mkit Synth 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58176"
+    },
+    {
+      "name": "Snare Mkit Synth 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58177"
+    },
+    {
+      "name": "Snare Mkit Synth 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58178"
+    },
+    {
+      "name": "Snare Mkit Synth 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58179"
+    },
+    {
+      "name": "Snare Mkit Synth 5.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_699"
+    },
+    {
+      "name": "Snare Mkit Synth 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58180"
+    },
+    {
+      "name": "Snare Modular 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58181"
+    },
+    {
+      "name": "Snare Modular 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58182"
+    },
+    {
+      "name": "Snare Modular 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58183"
+    },
+    {
+      "name": "Snare Modular 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_700"
+    },
+    {
+      "name": "Snare Move.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39784"
+    },
+    {
+      "name": "Snare MPL FX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42417"
+    },
+    {
+      "name": "Snare MPL FX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_686"
+    },
+    {
+      "name": "Snare MPL SFX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42418"
+    },
+    {
+      "name": "Snare Muffled.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42419"
+    },
+    {
+      "name": "Snare Multirod DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56685"
+    },
+    {
+      "name": "SNARE MX 1335 BRS EFX rim.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45938"
+    },
+    {
+      "name": "SNARE MX 1335 BRS EFX.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45939"
+    },
+    {
+      "name": "SNARE MX 1455 STL side stick.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45940"
+    },
+    {
+      "name": "SNARE MX 1455 STL stick center.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45941"
+    },
+    {
+      "name": "SNARE MX 1455 STL stick ghost note.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45942"
+    },
+    {
+      "name": "SNARE MX 1455 STL stick off center.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45943"
+    },
+    {
+      "name": "SNARE MX 1455 STL stick press roll 1.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45944"
+    },
+    {
+      "name": "SNARE MX 1455 STL stick press roll 2.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45945"
+    },
+    {
+      "name": "SNARE MX 1455 STL stick rim shot.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45946"
+    },
+    {
+      "name": "Snare Nois.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_701"
+    },
+    {
+      "name": "Snare Noise 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47263"
+    },
+    {
+      "name": "Snare Noise 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47269"
+    },
+    {
+      "name": "Snare Noise 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47270"
+    },
+    {
+      "name": "Snare Noise 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47271"
+    },
+    {
+      "name": "Snare Noise 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47272"
+    },
+    {
+      "name": "Snare Noise 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47273"
+    },
+    {
+      "name": "Snare Noise 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47274"
+    },
+    {
+      "name": "Snare Noise 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47275"
+    },
+    {
+      "name": "Snare Noise 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47264"
+    },
+    {
+      "name": "Snare Noise 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47265"
+    },
+    {
+      "name": "Snare Noise 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47266"
+    },
+    {
+      "name": "Snare Noise 13.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47267"
+    },
+    {
+      "name": "Snare Noise 14.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47268"
+    },
+    {
+      "name": "Snare Noise Deep.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47276"
+    },
+    {
+      "name": "Snare Noise Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37601"
+    },
+    {
+      "name": "Snare Noise Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_702"
+    },
+    {
+      "name": "Snare Noise Impact Industrial.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47277"
+    },
+    {
+      "name": "Snare Noise Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47278"
+    },
+    {
+      "name": "Snare Noise Mangah.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48453"
+    },
+    {
+      "name": "Snare Noise Metal Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47279"
+    },
+    {
+      "name": "Snare Noise Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47280"
+    },
+    {
+      "name": "Snare Noise RKTD1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_703"
+    },
+    {
+      "name": "Snare Noise Robot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48454"
+    },
+    {
+      "name": "Snare Noise Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47281"
+    },
+    {
+      "name": "Snare Noise Soft 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37602"
+    },
+    {
+      "name": "Snare Noise Soft 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37603"
+    },
+    {
+      "name": "Snare Noise Spike.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_704"
+    },
+    {
+      "name": "Snare Numerology.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39785"
+    },
+    {
+      "name": "Snare Object Fish.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48455"
+    },
+    {
+      "name": "Snare Object Glitch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48456"
+    },
+    {
+      "name": "Snare Object Night.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48457"
+    },
+    {
+      "name": "Snare Object.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58184"
+    },
+    {
+      "name": "Snare Oddities Squash.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_705"
+    },
+    {
+      "name": "Snare Official Takeover.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36361"
+    },
+    {
+      "name": "Snare Overdrive Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47282"
+    },
+    {
+      "name": "Snare Overdrive Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47283"
+    },
+    {
+      "name": "Snare Panned Roll.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36362"
+    },
+    {
+      "name": "Snare PCM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42420"
+    },
+    {
+      "name": "Snare Peace.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39786"
+    },
+    {
+      "name": "Snare Pear.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42421"
+    },
+    {
+      "name": "Snare Pete.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_706"
+    },
+    {
+      "name": "Snare Phive 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_707"
+    },
+    {
+      "name": "Snare Phive 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_708"
+    },
+    {
+      "name": "Snare Phone Down.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36363"
+    },
+    {
+      "name": "Snare Pirella.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39787"
+    },
+    {
+      "name": "SNARE PL 1435 BRS Low stick center.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45947"
+    },
+    {
+      "name": "SNARE PL 1435 BRS Low stick off center.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45948"
+    },
+    {
+      "name": "SNARE PL 1435 BRS Low stick rim shot.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45949"
+    },
+    {
+      "name": "Snare PL1465 Off Center.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47284"
+    },
+    {
+      "name": "Snare PL1465 Rimshot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47285"
+    },
+    {
+      "name": "Snare PO Tight Melt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48458"
+    },
+    {
+      "name": "Snare PO Tight.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48459"
+    },
+    {
+      "name": "Snare Pocket Gems.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39788"
+    },
+    {
+      "name": "Snare Pop 12 Bit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39789"
+    },
+    {
+      "name": "Snare Powered 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47286"
+    },
+    {
+      "name": "Snare Powered 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47287"
+    },
+    {
+      "name": "Snare Powered 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47288"
+    },
+    {
+      "name": "Snare Powered 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47289"
+    },
+    {
+      "name": "Snare Powered 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47290"
+    },
+    {
+      "name": "Snare Powered 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47291"
+    },
+    {
+      "name": "Snare Powered 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47292"
+    },
+    {
+      "name": "Snare Powered 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47293"
+    },
+    {
+      "name": "Snare Powered 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47294"
+    },
+    {
+      "name": "Snare PRL1490 Center.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47295"
+    },
+    {
+      "name": "Snare PRL1490 Off Center.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47296"
+    },
+    {
+      "name": "Snare PRL1490 Rimshot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47297"
+    },
+    {
+      "name": "Snare Prommer Vinyl 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_709"
+    },
+    {
+      "name": "Snare Prommer Vinyl 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_710"
+    },
+    {
+      "name": "Snare Pseudo Token.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48460"
+    },
+    {
+      "name": "Snare Punchy Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36364"
+    },
+    {
+      "name": "Snare Rash.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55191"
+    },
+    {
+      "name": "Snare Rattle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37604"
+    },
+    {
+      "name": "Snare Rattle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_711"
+    },
+    {
+      "name": "Snare Red Snapper.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39790"
+    },
+    {
+      "name": "Snare ReEntry.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_712"
+    },
+    {
+      "name": "Snare Reflection.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37605"
+    },
+    {
+      "name": "Snare Reverb 1 Crackin.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47298"
+    },
+    {
+      "name": "Snare Reverb 2 Crackin.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47299"
+    },
+    {
+      "name": "Snare Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37606"
+    },
+    {
+      "name": "Snare Reverb.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_713"
+    },
+    {
+      "name": "Snare Reverse.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55192"
+    },
+    {
+      "name": "Snare Ricky.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39791"
+    },
+    {
+      "name": "Snare Rim 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47300"
+    },
+    {
+      "name": "Snare Rim 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47301"
+    },
+    {
+      "name": "Snare Rim AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56686"
+    },
+    {
+      "name": "Snare Rim BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55870"
+    },
+    {
+      "name": "Snare Rim BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56687"
+    },
+    {
+      "name": "Snare Rim BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55871"
+    },
+    {
+      "name": "Snare Rim ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56688"
+    },
+    {
+      "name": "Snare Rim CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56689"
+    },
+    {
+      "name": "Snare Rim DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55872"
+    },
+    {
+      "name": "Snare Rim DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55873"
+    },
+    {
+      "name": "Snare Rim DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56690"
+    },
+    {
+      "name": "Snare Rim Frogger.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47302"
+    },
+    {
+      "name": "Snare Rim LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55874"
+    },
+    {
+      "name": "Snare Rim OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56691"
+    },
+    {
+      "name": "Snare Rim Plymouth.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_714"
+    },
+    {
+      "name": "Snare Rim ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55875"
+    },
+    {
+      "name": "Snare Rim RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56692"
+    },
+    {
+      "name": "Snare Rim SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56693"
+    },
+    {
+      "name": "Snare Rim SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56694"
+    },
+    {
+      "name": "Snare Rim StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_56695"
+    },
+    {
+      "name": "Snare Rim WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55876"
+    },
+    {
+      "name": "Snare Ring.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37607"
+    },
+    {
+      "name": "Snare RKTD1 Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42422"
+    },
+    {
+      "name": "Snare RKTD1 Tone.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42423"
+    },
+    {
+      "name": "Snare Ro-Fli.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_715"
+    },
+    {
+      "name": "Snare Roll Plymouth.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_716"
+    },
+    {
+      "name": "Snare Roll.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47303"
+    },
+    {
+      "name": "Snare Rolling.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58185"
+    },
+    {
+      "name": "Snare Rolling.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_717"
+    },
+    {
+      "name": "Snare Room.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_718"
+    },
+    {
+      "name": "Snare Roomy Canvas.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39792"
+    },
+    {
+      "name": "Snare Rubber Duck.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_719"
+    },
+    {
+      "name": "Snare Ruff.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37608"
+    },
+    {
+      "name": "Snare Ruff.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_720"
+    },
+    {
+      "name": "Snare Rush.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55193"
+    },
+    {
+      "name": "Snare Sampled Blueprint.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39793"
+    },
+    {
+      "name": "Snare Scorched.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47304"
+    },
+    {
+      "name": "Snare Scratch 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55194"
+    },
+    {
+      "name": "Snare Scratch 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55195"
+    },
+    {
+      "name": "Snare Shadowed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47305"
+    },
+    {
+      "name": "Snare Shake It Kind Of.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_721"
+    },
+    {
+      "name": "Snare Sharp 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55196"
+    },
+    {
+      "name": "Snare Sharp 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55197"
+    },
+    {
+      "name": "Snare Sharp 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55198"
+    },
+    {
+      "name": "Snare Sharp 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55199"
+    },
+    {
+      "name": "Snare Sharp 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55200"
+    },
+    {
+      "name": "Snare Sharp 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55201"
+    },
+    {
+      "name": "Snare Sharp 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55202"
+    },
+    {
+      "name": "Snare Short And Solid.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_722"
+    },
+    {
+      "name": "Snare Short Feel.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_723"
+    },
+    {
+      "name": "Snare Short Pop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36365"
+    },
+    {
+      "name": "Snare Short Tap.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_724"
+    },
+    {
+      "name": "Snare Short Wah Soul.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39794"
+    },
+    {
+      "name": "Snare Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37609"
+    },
+    {
+      "name": "Snare Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_725"
+    },
+    {
+      "name": "Snare Sidestick YMA.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_726"
+    },
+    {
+      "name": "Snare Skin Only.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_727"
+    },
+    {
+      "name": "Snare Slackjaw.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_728"
+    },
+    {
+      "name": "Snare Slap Hoosier.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_729"
+    },
+    {
+      "name": "Snare Slap Numerology.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39795"
+    },
+    {
+      "name": "Snare Slap RK.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48461"
+    },
+    {
+      "name": "Snare Slap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47306"
+    },
+    {
+      "name": "Snare Smack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47307"
+    },
+    {
+      "name": "Snare Small K2L.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36366"
+    },
+    {
+      "name": "Snare Smoke.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_730"
+    },
+    {
+      "name": "Snare Snabbis.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_731"
+    },
+    {
+      "name": "Snare Snap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55203"
+    },
+    {
+      "name": "Snare Snapalappa.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_732"
+    },
+    {
+      "name": "Snare Snappy Wood.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_733"
+    },
+    {
+      "name": "Snare Snipp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_734"
+    },
+    {
+      "name": "Snare Soft Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47308"
+    },
+    {
+      "name": "Snare Softy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39796"
+    },
+    {
+      "name": "Snare Solid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47309"
+    },
+    {
+      "name": "Snare Stacked.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_735"
+    },
+    {
+      "name": "Snare Stackery.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_736"
+    },
+    {
+      "name": "Snare Stew.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_737"
+    },
+    {
+      "name": "Snare Stick Hit Hard 2 Dry Session.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_738"
+    },
+    {
+      "name": "Snare Stick Hit Hard Ambient Loud Punch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_739"
+    },
+    {
+      "name": "Snare Stick Hit Hard British Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_740"
+    },
+    {
+      "name": "Snare Stick Hit Hard Dry Session.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_741"
+    },
+    {
+      "name": "Snare Stick Hit L 90s Heavy Rock 23.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_742"
+    },
+    {
+      "name": "Snare Stick Hit L 90s Heavy Rock 39.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_743"
+    },
+    {
+      "name": "Snare Stick Hit L Yester Years.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_744"
+    },
+    {
+      "name": "Snare Stick Hit Medium 2 Dry Session.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_745"
+    },
+    {
+      "name": "Snare Stick Hit Medium Dry Session.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_746"
+    },
+    {
+      "name": "Snare Stick Hit R 90s Heavy Rock 39.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_747"
+    },
+    {
+      "name": "Snare Stick Hit R Yester Years.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_748"
+    },
+    {
+      "name": "Snare Stick Hit Rim 2 Dry Session.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_749"
+    },
+    {
+      "name": "Snare Stick Hit Soft 2 Dry Session.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_750"
+    },
+    {
+      "name": "Snare Stick Hit Soft Ambient Loud Punch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_751"
+    },
+    {
+      "name": "Snare Stick Hit Soft Dry Session.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_752"
+    },
+    {
+      "name": "Snare Stick Rim Hard Bright Room.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_753"
+    },
+    {
+      "name": "Snare Stick Rim L Yester Years.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_754"
+    },
+    {
+      "name": "Snare Stick Sonar.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48462"
+    },
+    {
+      "name": "Snare Streets.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39797"
+    },
+    {
+      "name": "Snare Strike Kindified.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_755"
+    },
+    {
+      "name": "Snare Strike Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42424"
+    },
+    {
+      "name": "Snare Strong.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_756"
+    },
+    {
+      "name": "Snare Stuttered Rim.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47310"
+    },
+    {
+      "name": "Snare Subsnare.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_757"
+    },
+    {
+      "name": "Snare Succinct.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_758"
+    },
+    {
+      "name": "Snare Suicide.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47311"
+    },
+    {
+      "name": "Snare Swish.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37610"
+    },
+    {
+      "name": "Snare Swisher.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_759"
+    },
+    {
+      "name": "Snare Syrup.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42425"
+    },
+    {
+      "name": "Snare Tam Tam.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_761"
+    },
+    {
+      "name": "Snare Tambo Combo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36367"
+    },
+    {
+      "name": "Snare Tambo Ironman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39798"
+    },
+    {
+      "name": "Snare Tambo Ironman.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_762"
+    },
+    {
+      "name": "Snare Tambourine Layer Hit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36368"
+    },
+    {
+      "name": "Snare Tanker 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55204"
+    },
+    {
+      "name": "Snare Tanker 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55205"
+    },
+    {
+      "name": "Snare Tap Metal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47312"
+    },
+    {
+      "name": "Snare Tap Wood.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47313"
+    },
+    {
+      "name": "Snare Thin Smack.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_763"
+    },
+    {
+      "name": "Snare Thwack Trap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36369"
+    },
+    {
+      "name": "Snare Thwack Trap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47314"
+    },
+    {
+      "name": "Snare Thwack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55206"
+    },
+    {
+      "name": "Snare Tidy Room.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36370"
+    },
+    {
+      "name": "Snare Tight Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47315"
+    },
+    {
+      "name": "Snare Time Warp.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_764"
+    },
+    {
+      "name": "Snare Tip.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47316"
+    },
+    {
+      "name": "Snare Titan SP.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_58186"
+    },
+    {
+      "name": "Snare TL.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39799"
+    },
+    {
+      "name": "Snare Tokyo 1 Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48463"
+    },
+    {
+      "name": "Snare Tokyo 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48464"
+    },
+    {
+      "name": "Snare Tokyo 2 Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48465"
+    },
+    {
+      "name": "Snare Tokyo 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48466"
+    },
+    {
+      "name": "Snare Tokyo 3 Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48467"
+    },
+    {
+      "name": "Snare Tokyo 4 Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48468"
+    },
+    {
+      "name": "Snare Trap.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_765"
+    },
+    {
+      "name": "Snare Trapped Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36371"
+    },
+    {
+      "name": "Snare Trax Harbour.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42426"
+    },
+    {
+      "name": "Snare Trax.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47317"
+    },
+    {
+      "name": "Snare TRS.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_760"
+    },
+    {
+      "name": "SNARE TS 1465 CBN EFX 1.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45950"
+    },
+    {
+      "name": "SNARE TS 1465 CBN EFX 2.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45951"
+    },
+    {
+      "name": "SNARE TS 1465 CBN EFX 3 drum keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45952"
+    },
+    {
+      "name": "SNARE TS 1465 CBN EFX 4.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_45953"
+    },
+    {
+      "name": "Snare TurntableTrick.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_766"
+    },
+    {
+      "name": "Snare Tweed.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_767"
+    },
+    {
+      "name": "Snare Two Echoes.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37611"
+    },
+    {
+      "name": "Snare Uprockable.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47318"
+    },
+    {
+      "name": "Snare Various Muffled.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37612"
+    },
+    {
+      "name": "Snare Various.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_37613"
+    },
+    {
+      "name": "Snare Verb H3500 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_768"
+    },
+    {
+      "name": "Snare Verb H3500 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_769"
+    },
+    {
+      "name": "Snare Vintage DM.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_770"
+    },
+    {
+      "name": "Snare Vintage Drum Box.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39800"
+    },
+    {
+      "name": "Snare Vintage Large Ambient.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36372"
+    },
+    {
+      "name": "Snare Vintage Pop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36373"
+    },
+    {
+      "name": "Snare Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39801"
+    },
+    {
+      "name": "Snare Vintage.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_771"
+    },
+    {
+      "name": "Snare Vinyl 01.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_772"
+    },
+    {
+      "name": "Snare Vinyl 02.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_773"
+    },
+    {
+      "name": "Snare Vinyl 03.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_774"
+    },
+    {
+      "name": "Snare Vinyl 04.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_775"
+    },
+    {
+      "name": "Snare Vinyl 05.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_776"
+    },
+    {
+      "name": "Snare Vinyl 06.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_777"
+    },
+    {
+      "name": "Snare Vinyl 07.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_778"
+    },
+    {
+      "name": "Snare Vinyl 08.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_779"
+    },
+    {
+      "name": "Snare Vinyl 09.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_780"
+    },
+    {
+      "name": "Snare Vinyl 10.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_781"
+    },
+    {
+      "name": "Snare Vinyl 11.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_782"
+    },
+    {
+      "name": "Snare Vinyl 12.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_783"
+    },
+    {
+      "name": "Snare Vinyl 13.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_784"
+    },
+    {
+      "name": "Snare Vinyl 14.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_785"
+    },
+    {
+      "name": "Snare Vinyl DLA 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_786"
+    },
+    {
+      "name": "Snare Vinyl DLA 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_787"
+    },
+    {
+      "name": "Snare Vinyl DLA 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_788"
+    },
+    {
+      "name": "Snare Vinyl DLB 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_789"
+    },
+    {
+      "name": "Snare Vinyl DLB 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_790"
+    },
+    {
+      "name": "Snare Vinyl DLD 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_791"
+    },
+    {
+      "name": "Snare Vinyl DLD 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_792"
+    },
+    {
+      "name": "Snare Vinyl DLJ 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_793"
+    },
+    {
+      "name": "Snare Vinyl DLJ 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_794"
+    },
+    {
+      "name": "Snare Vinyl DLJ 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_795"
+    },
+    {
+      "name": "Snare Vinyl DLJ 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47319"
+    },
+    {
+      "name": "Snare Vinyl DLJ 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_796"
+    },
+    {
+      "name": "Snare Vinyl DS.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_797"
+    },
+    {
+      "name": "Snare Vinyl Slackjaw.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39802"
+    },
+    {
+      "name": "Snare Vinyl Slackjaw.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_798"
+    },
+    {
+      "name": "Snare Wah Soul.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39803"
+    },
+    {
+      "name": "Snare Wanderlust Crack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47320"
+    },
+    {
+      "name": "Snare Wanderlust Swat.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47321"
+    },
+    {
+      "name": "Snare Whitey.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39804"
+    },
+    {
+      "name": "Snare Wishful.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39805"
+    },
+    {
+      "name": "Snare Wobble.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_39806"
+    },
+    {
+      "name": "Snare Wood Takeover.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_36374"
+    },
+    {
+      "name": "Snare YMA Sidestick 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42427"
+    },
+    {
+      "name": "Snare YMA Sidestick Momento.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42428"
+    },
+    {
+      "name": "Snare YMA Sidestick Room 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42429"
+    },
+    {
+      "name": "Snare YMA Sidestick Room 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42430"
+    },
+    {
+      "name": "Snare Znare.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_55207"
+    },
+    {
+      "name": "Snare Zombie 80s.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_799"
+    },
+    {
+      "name": "Snare-606.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47322"
+    },
+    {
+      "name": "Snare-707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47324"
+    },
+    {
+      "name": "Snare-707-b.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47323"
+    },
+    {
+      "name": "Snare-808-Tone1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47325"
+    },
+    {
+      "name": "Snare-808-Tone3-r.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47326"
+    },
+    {
+      "name": "Snare-909-Tune8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47330"
+    },
+    {
+      "name": "Snare-909-Tune8-s.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47329"
+    },
+    {
+      "name": "Snare-909-Tune10-c.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47327"
+    },
+    {
+      "name": "Snare-909-Tune10-s.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47328"
+    },
+    {
+      "name": "Snare-C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47331"
+    },
+    {
+      "name": "SnareClap Disco.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47340"
+    },
+    {
+      "name": "Snare-LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47332"
+    },
+    {
+      "name": "Snare-Object-28.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_48469"
+    },
+    {
+      "name": "Snare-SessionDry-Stick-Hit2-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47336"
+    },
+    {
+      "name": "Snare-SessionDry-Stick-Hit2-Medium.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47337"
+    },
+    {
+      "name": "Snare-SessionDry-Stick-Hit2-Rim.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47338"
+    },
+    {
+      "name": "Snare-SessionDry-Stick-Hit2-Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47339"
+    },
+    {
+      "name": "Snare-SessionDry-Stick-Hit-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47333"
+    },
+    {
+      "name": "Snare-SessionDry-Stick-Hit-Medium.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47334"
+    },
+    {
+      "name": "Snare-SessionDry-Stick-Hit-Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_47335"
+    },
+    {
+      "name": "Strike Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare:FileId_42431"
+    }
+  ]
+}

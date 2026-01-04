@@ -1,0 +1,24 @@
+{
+  "path": "Instruments/Analog/Percussive",
+  "name": "Percussive",
+  "uri": "query:Synths#Analog:Percussive",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Artifact.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Percussive:FileId_49034"
+    },
+    {
+      "name": "Clap Delay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Percussive:FileId_49036"
+    }
+  ]
+}

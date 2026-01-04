@@ -1,0 +1,24 @@
+{
+  "path": "Instruments/Tension/Percussive",
+  "name": "Percussive",
+  "uri": "query:Synths#Tension:Percussive",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Dark Hit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Percussive:FileId_43014"
+    },
+    {
+      "name": "Noise Delay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Percussive:FileId_43015"
+    }
+  ]
+}

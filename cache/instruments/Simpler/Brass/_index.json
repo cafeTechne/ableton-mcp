@@ -1,0 +1,262 @@
+{
+  "path": "Instruments/Simpler/Brass",
+  "name": "Brass",
+  "uri": "query:Synths#Simpler:Brass",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Alpha Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_61085"
+    },
+    {
+      "name": "Bass Trombone Solo Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53848"
+    },
+    {
+      "name": "Bass Trombone Solo Mute Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53849"
+    },
+    {
+      "name": "Bass Trombone Solo Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53850"
+    },
+    {
+      "name": "Bass Trombone Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53851"
+    },
+    {
+      "name": "Brass Ensemble Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53852"
+    },
+    {
+      "name": "Brass Ensemble Mute Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53853"
+    },
+    {
+      "name": "Brass Ensemble Sforzando.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53854"
+    },
+    {
+      "name": "Brass Ensemble Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53855"
+    },
+    {
+      "name": "Brass Ensemble.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53856"
+    },
+    {
+      "name": "C Tuba Solo Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53878"
+    },
+    {
+      "name": "C Tuba Solo Sforzando.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53879"
+    },
+    {
+      "name": "C Tuba Solo Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53880"
+    },
+    {
+      "name": "C Tuba Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53881"
+    },
+    {
+      "name": "Eb Tuba Solo Mute Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53882"
+    },
+    {
+      "name": "French Horn Section Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53857"
+    },
+    {
+      "name": "French Horn Section Mute Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53858"
+    },
+    {
+      "name": "French Horn Section Sforzando.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53859"
+    },
+    {
+      "name": "French Horn Section Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53860"
+    },
+    {
+      "name": "French Horn Section.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53861"
+    },
+    {
+      "name": "French Horn Solo Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53862"
+    },
+    {
+      "name": "French Horn Solo Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53863"
+    },
+    {
+      "name": "French Horn Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53864"
+    },
+    {
+      "name": "Trombone Section Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53865"
+    },
+    {
+      "name": "Trombone Section Mute Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53866"
+    },
+    {
+      "name": "Trombone Section Sforzando.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53867"
+    },
+    {
+      "name": "Trombone Section Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53868"
+    },
+    {
+      "name": "Trombone Section.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53869"
+    },
+    {
+      "name": "Trumpet Section Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53870"
+    },
+    {
+      "name": "Trumpet Section Mute Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53871"
+    },
+    {
+      "name": "Trumpet Section Sforzando.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53872"
+    },
+    {
+      "name": "Trumpet Section Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53873"
+    },
+    {
+      "name": "Trumpet Section.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53874"
+    },
+    {
+      "name": "Trumpet Solo Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53875"
+    },
+    {
+      "name": "Trumpet Solo Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53876"
+    },
+    {
+      "name": "Trumpet Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Brass:FileId_53877"
+    }
+  ]
+}

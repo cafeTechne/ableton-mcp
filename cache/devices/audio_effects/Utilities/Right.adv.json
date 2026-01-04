@@ -1,0 +1,154 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Utilities",
+  "name": "Right",
+  "uri": "query:AudioFx#Utilities:Utility:FileId_5947",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Left Inv",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Right Inv",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Channel Mode",
+      "min": 0.0,
+      "max": 3.0,
+      "value": 2.0,
+      "is_quantized": true,
+      "value_items": [
+        "Left",
+        "Stereo",
+        "Right",
+        "Swap"
+      ],
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Stereo Width",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Mono",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Bass Mono",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Bass Freq",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.3802112340927124,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Balance",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Gain",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Mute",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "DC Filter",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 11
+    }
+  ]
+}

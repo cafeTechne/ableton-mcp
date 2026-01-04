@@ -1,0 +1,45 @@
+{
+  "path": "Instruments/Operator/Synth Misc",
+  "name": "Synth Misc",
+  "uri": "query:Synths#Operator:Synth%20Misc",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "B.Beetlez Dark Dronepluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Synth%20Misc:FileId_36687"
+    },
+    {
+      "name": "B.Beetlez Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Synth%20Misc:FileId_36688"
+    },
+    {
+      "name": "Bounce Chords.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Synth%20Misc:FileId_36689"
+    },
+    {
+      "name": "Duzzalot.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Synth%20Misc:FileId_36690"
+    },
+    {
+      "name": "Minor Harp Glisswah.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Synth%20Misc:FileId_36691"
+    }
+  ]
+}

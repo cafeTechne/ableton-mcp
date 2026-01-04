@@ -1,0 +1,136 @@
+{
+  "path": "midi_effects",
+  "name": "MIDI Effects",
+  "uri": "query:MidiFx",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Arpeggiator",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Arpeggiator"
+    },
+    {
+      "name": "Bouncy Notes",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes"
+    },
+    {
+      "name": "Chord",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Chord"
+    },
+    {
+      "name": "Envelope MIDI",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Envelope%20MIDI"
+    },
+    {
+      "name": "Expression Control",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Expression%20Control"
+    },
+    {
+      "name": "Melodic Steps",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Melodic%20Steps"
+    },
+    {
+      "name": "Microtuner",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Microtuner"
+    },
+    {
+      "name": "MIDI Effect Rack",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack"
+    },
+    {
+      "name": "MIDI Monitor",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Monitor"
+    },
+    {
+      "name": "MPE Control",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MPE%20Control"
+    },
+    {
+      "name": "Note Echo",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Note%20Echo"
+    },
+    {
+      "name": "Note Length",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Note%20Length"
+    },
+    {
+      "name": "Pitch",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Pitch"
+    },
+    {
+      "name": "Random",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Random"
+    },
+    {
+      "name": "Rotating Rhythm Generator",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Rotating%20Rhythm%20Generator"
+    },
+    {
+      "name": "Scale",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale"
+    },
+    {
+      "name": "Shaper MIDI",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Shaper%20MIDI"
+    },
+    {
+      "name": "Velocity",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Velocity"
+    }
+  ]
+}

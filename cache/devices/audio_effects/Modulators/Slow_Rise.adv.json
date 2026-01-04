@@ -1,0 +1,92 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Modulators",
+  "name": "Slow Rise.adv",
+  "uri": "query:AudioFx#Modulators:Envelope%20Follower:FileId_6374",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Delay",
+      "min": 0.0,
+      "max": 500.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Delay",
+      "min": 0.0,
+      "max": 6.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "0",
+        "1/32",
+        "1/16",
+        "1/8",
+        "1/4",
+        "1/2",
+        "1"
+      ],
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Fall",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 11.811023712158203,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Gain",
+      "min": -70.0,
+      "max": 30.0,
+      "value": -15.724041938781738,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Rise",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 90.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Delay Mode",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Free",
+        "Sync"
+      ],
+      "unit": null,
+      "index": 6
+    }
+  ]
+}

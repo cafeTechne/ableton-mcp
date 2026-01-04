@@ -1,0 +1,94 @@
+{
+  "path": "Max_for_live/Max Instrument/Granulator II",
+  "name": "Granulator II",
+  "uri": "query:M4L#Max%20Instrument:FileId_50846",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "CouCouInLove.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:M4L#Max%20Instrument:FileId_50846:FileId_50849"
+    },
+    {
+      "name": "DarknessFalls.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:M4L#Max%20Instrument:FileId_50846:FileId_50850"
+    },
+    {
+      "name": "Dekonstruct.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:M4L#Max%20Instrument:FileId_50846:FileId_50851"
+    },
+    {
+      "name": "Fred&Fred.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:M4L#Max%20Instrument:FileId_50846:FileId_50852"
+    },
+    {
+      "name": "GoodOld.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:M4L#Max%20Instrument:FileId_50846:FileId_50853"
+    },
+    {
+      "name": "Granulator.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:M4L#Max%20Instrument:FileId_50846:FileId_50854"
+    },
+    {
+      "name": "Hyhatt.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:M4L#Max%20Instrument:FileId_50846:FileId_50855"
+    },
+    {
+      "name": "Klang.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:M4L#Max%20Instrument:FileId_50846:FileId_50856"
+    },
+    {
+      "name": "LandSky.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:M4L#Max%20Instrument:FileId_50846:FileId_50857"
+    },
+    {
+      "name": "Margaret.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:M4L#Max%20Instrument:FileId_50846:FileId_50858"
+    },
+    {
+      "name": "RichardTheEigths.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:M4L#Max%20Instrument:FileId_50846:FileId_50859"
+    },
+    {
+      "name": "TheSnow.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:M4L#Max%20Instrument:FileId_50846:FileId_50860"
+    }
+  ]
+}

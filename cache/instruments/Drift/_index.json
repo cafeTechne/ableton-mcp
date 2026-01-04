@@ -1,0 +1,87 @@
+{
+  "path": "Instruments/Drift",
+  "name": "Drift",
+  "uri": "query:Synths#Drift",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "Bass",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drift:Bass"
+    },
+    {
+      "name": "Brass",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drift:Brass"
+    },
+    {
+      "name": "Guitar & Plucked",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drift:Guitar%20&%20Plucked"
+    },
+    {
+      "name": "Mallets",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drift:Mallets"
+    },
+    {
+      "name": "Pad",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drift:Pad"
+    },
+    {
+      "name": "Percussive",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drift:Percussive"
+    },
+    {
+      "name": "Piano & Keys",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drift:Piano%20&%20Keys"
+    },
+    {
+      "name": "Strings",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drift:Strings"
+    },
+    {
+      "name": "Synth Keys",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drift:Synth%20Keys"
+    },
+    {
+      "name": "Synth Lead",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drift:Synth%20Lead"
+    },
+    {
+      "name": "Synth Rhythmic",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drift:Synth%20Rhythmic"
+    }
+  ]
+}

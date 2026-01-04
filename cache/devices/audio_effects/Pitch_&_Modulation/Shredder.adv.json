@@ -1,0 +1,155 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Pitch_&_Modulation",
+  "name": "Shredder.adv",
+  "uri": "query:AudioFx#Pitch%20&%20Modulation:Auto%20Pan:FileId_6655",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "LFO Type",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Frequency",
+        "Beats"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Amount",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Frequency",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Sync Rate",
+      "min": 0.0,
+      "max": 21.0,
+      "value": 4.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Phase",
+      "min": 0.0,
+      "max": 360.0,
+      "value": 180.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Spin",
+      "min": 0.0,
+      "max": 0.5,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Stereo Mode",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Phase",
+        "Spin"
+      ],
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Offset",
+      "min": 0.0,
+      "max": 360.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Waveform",
+      "min": 0.0,
+      "max": 3.0,
+      "value": 3.0,
+      "is_quantized": true,
+      "value_items": [
+        "Sine",
+        "Triangle",
+        "SawDown",
+        "S&H Width"
+      ],
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Shape",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.7952755689620972,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "Width (Random)",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "Invert",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Normal",
+        "Inverted"
+      ],
+      "unit": null,
+      "index": 12
+    }
+  ]
+}

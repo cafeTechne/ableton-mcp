@@ -1,0 +1,101 @@
+{
+  "path": "Instruments/Impulse",
+  "name": "Impulse",
+  "uri": "query:Synths#Impulse",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "Backbeat Room.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Impulse:FileId_5719"
+    },
+    {
+      "name": "Blue Thunder Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Impulse:FileId_5720"
+    },
+    {
+      "name": "Brainfreeze Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Impulse:FileId_5721"
+    },
+    {
+      "name": "Conga Bongo Timbales.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Impulse:FileId_5722"
+    },
+    {
+      "name": "Dub Delay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Impulse:FileId_5723"
+    },
+    {
+      "name": "Grinder Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Impulse:FileId_5724"
+    },
+    {
+      "name": "Impulse 606.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Impulse:FileId_5725"
+    },
+    {
+      "name": "Impulse 808.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Impulse:FileId_5726"
+    },
+    {
+      "name": "Percussion 1.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Impulse:FileId_5727"
+    },
+    {
+      "name": "Percussion 2.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Impulse:FileId_5728"
+    },
+    {
+      "name": "Soft Saturated.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Impulse:FileId_5729"
+    },
+    {
+      "name": "Vintage Funky Good Time.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Impulse:FileId_5730"
+    },
+    {
+      "name": "Wicked Chillin.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Impulse:FileId_5731"
+    }
+  ]
+}

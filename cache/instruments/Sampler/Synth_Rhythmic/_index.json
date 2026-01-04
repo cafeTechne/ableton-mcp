@@ -1,0 +1,136 @@
+{
+  "path": "Instruments/Sampler/Synth Rhythmic",
+  "name": "Synth Rhythmic",
+  "uri": "query:Synths#Sampler:Synth%20Rhythmic",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Aeroplane Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_51328"
+    },
+    {
+      "name": "Arp Sample Blender.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_51246"
+    },
+    {
+      "name": "Bounce Plush Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_51248"
+    },
+    {
+      "name": "Deep Impact Engine.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_51331"
+    },
+    {
+      "name": "Distant Memories.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_51251"
+    },
+    {
+      "name": "Enter Void.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_51334"
+    },
+    {
+      "name": "Escape.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_51335"
+    },
+    {
+      "name": "Faraday.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_51336"
+    },
+    {
+      "name": "Flower In The Night.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_51252"
+    },
+    {
+      "name": "FM Harp Bass Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_51337"
+    },
+    {
+      "name": "Hero Approaching.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_51338"
+    },
+    {
+      "name": "In Suspension.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_51255"
+    },
+    {
+      "name": "Knots.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_51339"
+    },
+    {
+      "name": "Metallism Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_51257"
+    },
+    {
+      "name": "Metric.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_51342"
+    },
+    {
+      "name": "Modal Particles.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_51343"
+    },
+    {
+      "name": "Particle Bass Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_51344"
+    },
+    {
+      "name": "Rhythmic Sine Saw Square.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Rhythmic:FileId_5295"
+    }
+  ]
+}

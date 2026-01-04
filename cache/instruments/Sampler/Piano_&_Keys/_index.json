@@ -1,0 +1,430 @@
+{
+  "path": "Instruments/Sampler/Piano & Keys",
+  "name": "Piano & Keys",
+  "uri": "query:Synths#Sampler:Piano%20&%20Keys",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "ACME Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_51082"
+    },
+    {
+      "name": "Bakelite Organ (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_51083"
+    },
+    {
+      "name": "Basic Suitcase Amp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47752"
+    },
+    {
+      "name": "Basic Suitcase DI.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47753"
+    },
+    {
+      "name": "Basic Suitcase Speakers.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47754"
+    },
+    {
+      "name": "Basic Tonewheel Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47766"
+    },
+    {
+      "name": "Basic Wurly Amp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47774"
+    },
+    {
+      "name": "Basic Wurly DI.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47775"
+    },
+    {
+      "name": "Basic Wurly Speakers.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47776"
+    },
+    {
+      "name": "Broken Piano (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_51084"
+    },
+    {
+      "name": "Childhood Home Piano.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_3874"
+    },
+    {
+      "name": "Cinematic Waves.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_51085"
+    },
+    {
+      "name": "Dripping Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_51086"
+    },
+    {
+      "name": "Graceful Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_51089"
+    },
+    {
+      "name": "Grand Piano Arp Sweeper.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49310"
+    },
+    {
+      "name": "Grand Piano Classic LA Stack.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49311"
+    },
+    {
+      "name": "Grand Piano Equal Bright Production.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49319"
+    },
+    {
+      "name": "Grand Piano Equal Bright Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49325"
+    },
+    {
+      "name": "Grand Piano Equal Mellow Production.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49320"
+    },
+    {
+      "name": "Grand Piano Equal Mellow Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49326"
+    },
+    {
+      "name": "Grand Piano Equal Production.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49321"
+    },
+    {
+      "name": "Grand Piano Equal Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49327"
+    },
+    {
+      "name": "Grand Piano Filter Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49312"
+    },
+    {
+      "name": "Grand Piano Lost Ship.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49313"
+    },
+    {
+      "name": "Grand Piano Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49314"
+    },
+    {
+      "name": "Grand Piano Piano Harp Time.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49315"
+    },
+    {
+      "name": "Grand Piano Reverse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49316"
+    },
+    {
+      "name": "Grand Piano Stretch Bright Production.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49322"
+    },
+    {
+      "name": "Grand Piano Stretch Bright Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49328"
+    },
+    {
+      "name": "Grand Piano Stretch Mellow Production.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49323"
+    },
+    {
+      "name": "Grand Piano Stretch Mellow Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49329"
+    },
+    {
+      "name": "Grand Piano Stretch Production.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49324"
+    },
+    {
+      "name": "Grand Piano Stretch Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49330"
+    },
+    {
+      "name": "Grand Piano Thin Air.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49317"
+    },
+    {
+      "name": "Grand Piano Upward Grains.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_49318"
+    },
+    {
+      "name": "Hyperion Piano (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_51090"
+    },
+    {
+      "name": "Krubera Piano (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_51091"
+    },
+    {
+      "name": "Pianoglass Resonance.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_51092"
+    },
+    {
+      "name": "Reflectere Piano (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_51093"
+    },
+    {
+      "name": "Reflection.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_51094"
+    },
+    {
+      "name": "Suitcase Blender.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47755"
+    },
+    {
+      "name": "Suitcase Boulevard Funk.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47756"
+    },
+    {
+      "name": "Suitcase Clav Stack.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47757"
+    },
+    {
+      "name": "Suitcase Crispy Afterburn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47758"
+    },
+    {
+      "name": "Suitcase Deep Roots Funk.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47759"
+    },
+    {
+      "name": "Suitcase FlowTron Model A.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47760"
+    },
+    {
+      "name": "Suitcase Hallmark Bite.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47761"
+    },
+    {
+      "name": "Suitcase HUnited Express.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47762"
+    },
+    {
+      "name": "Suitcase Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47763"
+    },
+    {
+      "name": "Suitcase Radio Retro.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47764"
+    },
+    {
+      "name": "Suitcase Uncle Herbie.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47765"
+    },
+    {
+      "name": "Upright Piano.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_61290"
+    },
+    {
+      "name": "Warm Glass Piano.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_51099"
+    },
+    {
+      "name": "Wurly Blender.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47777"
+    },
+    {
+      "name": "Wurly El De-Facto.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47778"
+    },
+    {
+      "name": "Wurly Logical Tramp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47779"
+    },
+    {
+      "name": "Wurly Low & Durty.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47780"
+    },
+    {
+      "name": "Wurly Shake-Alicious.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47781"
+    },
+    {
+      "name": "Wurly Smokey Water.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47782"
+    },
+    {
+      "name": "Wurly Vancouver Ash.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Piano%20&%20Keys:FileId_47783"
+    }
+  ]
+}

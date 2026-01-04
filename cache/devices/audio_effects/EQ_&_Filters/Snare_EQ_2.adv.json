@@ -1,0 +1,1046 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "EQ_&_Filters",
+  "name": "Snare EQ 2",
+  "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Drums:FileId_6499",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Output Gain",
+      "min": -12.0,
+      "max": 12.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Scale",
+      "min": -2.0,
+      "max": 2.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Adaptive Q",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "1 Filter On A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "1 Filter Type A",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "High Pass 48dB",
+        "High Pass 12dB",
+        "Low Shelf",
+        "Bell",
+        "Notch",
+        "High Shelf",
+        "Low Pass 12dB",
+        "Low Pass 48dB"
+      ],
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "1 Frequency A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.28562259674072266,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "1 Gain A",
+      "min": -15.0,
+      "max": 15.0,
+      "value": -4.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "1 Resonance A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.3968254029750824,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "1 Filter On B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "1 Filter Type B",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 3.0,
+      "is_quantized": true,
+      "value_items": [
+        "High Pass 48dB",
+        "High Pass 12dB",
+        "Low Shelf",
+        "Bell",
+        "Notch",
+        "High Shelf",
+        "Low Pass 12dB",
+        "Low Pass 48dB"
+      ],
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "1 Frequency B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.2991842031478882,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "1 Gain B",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "1 Resonance B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.37666624784469604,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "2 Filter On A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "2 Filter Type A",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 3.0,
+      "is_quantized": true,
+      "value_items": [
+        "High Pass 48dB",
+        "High Pass 12dB",
+        "Low Shelf",
+        "Bell",
+        "Notch",
+        "High Shelf",
+        "Low Pass 12dB",
+        "Low Pass 48dB"
+      ],
+      "unit": null,
+      "index": 15
+    },
+    {
+      "name": "2 Frequency A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.4063345789909363,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 16
+    },
+    {
+      "name": "2 Gain A",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 5.714286804199219,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 17
+    },
+    {
+      "name": "2 Resonance A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.4365079402923584,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 18
+    },
+    {
+      "name": "2 Filter On B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 19
+    },
+    {
+      "name": "2 Filter Type B",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 3.0,
+      "is_quantized": true,
+      "value_items": [
+        "High Pass 48dB",
+        "High Pass 12dB",
+        "Low Shelf",
+        "Bell",
+        "Notch",
+        "High Shelf",
+        "Low Pass 12dB",
+        "Low Pass 48dB"
+      ],
+      "unit": null,
+      "index": 20
+    },
+    {
+      "name": "2 Frequency B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.508305013179779,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 21
+    },
+    {
+      "name": "2 Gain B",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 22
+    },
+    {
+      "name": "2 Resonance B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.37666624784469604,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 23
+    },
+    {
+      "name": "3 Filter On A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 24
+    },
+    {
+      "name": "3 Filter Type A",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 3.0,
+      "is_quantized": true,
+      "value_items": [
+        "High Pass 48dB",
+        "High Pass 12dB",
+        "Low Shelf",
+        "Bell",
+        "Notch",
+        "High Shelf",
+        "Low Pass 12dB",
+        "Low Pass 48dB"
+      ],
+      "unit": null,
+      "index": 25
+    },
+    {
+      "name": "3 Frequency A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.6666238903999329,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 26
+    },
+    {
+      "name": "3 Gain A",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 3.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 27
+    },
+    {
+      "name": "3 Resonance A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.4004350006580353,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 28
+    },
+    {
+      "name": "3 Filter On B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 29
+    },
+    {
+      "name": "3 Filter Type B",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 3.0,
+      "is_quantized": true,
+      "value_items": [
+        "High Pass 48dB",
+        "High Pass 12dB",
+        "Low Shelf",
+        "Bell",
+        "Notch",
+        "High Shelf",
+        "Low Pass 12dB",
+        "Low Pass 48dB"
+      ],
+      "unit": null,
+      "index": 30
+    },
+    {
+      "name": "3 Frequency B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.6884317994117737,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 31
+    },
+    {
+      "name": "3 Gain B",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 32
+    },
+    {
+      "name": "3 Resonance B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.37666624784469604,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 33
+    },
+    {
+      "name": "4 Filter On A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 34
+    },
+    {
+      "name": "4 Filter Type A",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 3.0,
+      "is_quantized": true,
+      "value_items": [
+        "High Pass 48dB",
+        "High Pass 12dB",
+        "Low Shelf",
+        "Bell",
+        "Notch",
+        "High Shelf",
+        "Low Pass 12dB",
+        "Low Pass 48dB"
+      ],
+      "unit": null,
+      "index": 35
+    },
+    {
+      "name": "4 Frequency A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.8163029551506042,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 36
+    },
+    {
+      "name": "4 Gain A",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 3.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 37
+    },
+    {
+      "name": "4 Resonance A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.37472105026245117,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 38
+    },
+    {
+      "name": "4 Filter On B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 39
+    },
+    {
+      "name": "4 Filter Type B",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 3.0,
+      "is_quantized": true,
+      "value_items": [
+        "High Pass 48dB",
+        "High Pass 12dB",
+        "Low Shelf",
+        "Bell",
+        "Notch",
+        "High Shelf",
+        "Low Pass 12dB",
+        "Low Pass 48dB"
+      ],
+      "unit": null,
+      "index": 40
+    },
+    {
+      "name": "4 Frequency B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.8975526094436646,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 41
+    },
+    {
+      "name": "4 Gain B",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 42
+    },
+    {
+      "name": "4 Resonance B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.37666624784469604,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 43
+    },
+    {
+      "name": "5 Filter On A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 44
+    },
+    {
+      "name": "5 Filter Type A",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 3.0,
+      "is_quantized": true,
+      "value_items": [
+        "High Pass 48dB",
+        "High Pass 12dB",
+        "Low Shelf",
+        "Bell",
+        "Notch",
+        "High Shelf",
+        "Low Pass 12dB",
+        "Low Pass 48dB"
+      ],
+      "unit": null,
+      "index": 45
+    },
+    {
+      "name": "5 Frequency A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.2091207653284073,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 46
+    },
+    {
+      "name": "5 Gain A",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 47
+    },
+    {
+      "name": "5 Resonance A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.37666624784469604,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 48
+    },
+    {
+      "name": "5 Filter On B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 49
+    },
+    {
+      "name": "5 Filter Type B",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 3.0,
+      "is_quantized": true,
+      "value_items": [
+        "High Pass 48dB",
+        "High Pass 12dB",
+        "Low Shelf",
+        "Bell",
+        "Notch",
+        "High Shelf",
+        "Low Pass 12dB",
+        "Low Pass 48dB"
+      ],
+      "unit": null,
+      "index": 50
+    },
+    {
+      "name": "5 Frequency B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.2091207653284073,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 51
+    },
+    {
+      "name": "5 Gain B",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 52
+    },
+    {
+      "name": "5 Resonance B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.37666624784469604,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 53
+    },
+    {
+      "name": "6 Filter On A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 54
+    },
+    {
+      "name": "6 Filter Type A",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 3.0,
+      "is_quantized": true,
+      "value_items": [
+        "High Pass 48dB",
+        "High Pass 12dB",
+        "Low Shelf",
+        "Bell",
+        "Notch",
+        "High Shelf",
+        "Low Pass 12dB",
+        "Low Pass 48dB"
+      ],
+      "unit": null,
+      "index": 55
+    },
+    {
+      "name": "6 Frequency A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.8575202822685242,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 56
+    },
+    {
+      "name": "6 Gain A",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 7.561983108520508,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 57
+    },
+    {
+      "name": "6 Resonance A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.230158731341362,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 58
+    },
+    {
+      "name": "6 Filter On B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 59
+    },
+    {
+      "name": "6 Filter Type B",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 3.0,
+      "is_quantized": true,
+      "value_items": [
+        "High Pass 48dB",
+        "High Pass 12dB",
+        "Low Shelf",
+        "Bell",
+        "Notch",
+        "High Shelf",
+        "Low Pass 12dB",
+        "Low Pass 48dB"
+      ],
+      "unit": null,
+      "index": 60
+    },
+    {
+      "name": "6 Frequency B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.3892476260662079,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 61
+    },
+    {
+      "name": "6 Gain B",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 62
+    },
+    {
+      "name": "6 Resonance B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.37666624784469604,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 63
+    },
+    {
+      "name": "7 Filter On A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 64
+    },
+    {
+      "name": "7 Filter Type A",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 3.0,
+      "is_quantized": true,
+      "value_items": [
+        "High Pass 48dB",
+        "High Pass 12dB",
+        "Low Shelf",
+        "Bell",
+        "Notch",
+        "High Shelf",
+        "Low Pass 12dB",
+        "Low Pass 48dB"
+      ],
+      "unit": null,
+      "index": 65
+    },
+    {
+      "name": "7 Frequency A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5983684062957764,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 66
+    },
+    {
+      "name": "7 Gain A",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 67
+    },
+    {
+      "name": "7 Resonance A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.37666624784469604,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 68
+    },
+    {
+      "name": "7 Filter On B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 69
+    },
+    {
+      "name": "7 Filter Type B",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 3.0,
+      "is_quantized": true,
+      "value_items": [
+        "High Pass 48dB",
+        "High Pass 12dB",
+        "Low Shelf",
+        "Bell",
+        "Notch",
+        "High Shelf",
+        "Low Pass 12dB",
+        "Low Pass 48dB"
+      ],
+      "unit": null,
+      "index": 70
+    },
+    {
+      "name": "7 Frequency B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5983684062957764,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 71
+    },
+    {
+      "name": "7 Gain B",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 72
+    },
+    {
+      "name": "7 Resonance B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.37666624784469604,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 73
+    },
+    {
+      "name": "8 Filter On A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 74
+    },
+    {
+      "name": "8 Filter Type A",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 6.0,
+      "is_quantized": true,
+      "value_items": [
+        "High Pass 48dB",
+        "High Pass 12dB",
+        "Low Shelf",
+        "Bell",
+        "Notch",
+        "High Shelf",
+        "Low Pass 12dB",
+        "Low Pass 48dB"
+      ],
+      "unit": null,
+      "index": 75
+    },
+    {
+      "name": "8 Frequency A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.9863927960395813,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 76
+    },
+    {
+      "name": "8 Gain A",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 5.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 77
+    },
+    {
+      "name": "8 Resonance A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.2380952388048172,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 78
+    },
+    {
+      "name": "8 Filter On B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 79
+    },
+    {
+      "name": "8 Filter Type B",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 3.0,
+      "is_quantized": true,
+      "value_items": [
+        "High Pass 48dB",
+        "High Pass 12dB",
+        "Low Shelf",
+        "Bell",
+        "Notch",
+        "High Shelf",
+        "Low Pass 12dB",
+        "Low Pass 48dB"
+      ],
+      "unit": null,
+      "index": 80
+    },
+    {
+      "name": "8 Frequency B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.807489275932312,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 81
+    },
+    {
+      "name": "8 Gain B",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 82
+    },
+    {
+      "name": "8 Resonance B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.37666624784469604,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 83
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "path": "Instruments/Wavetable/Winds",
+  "name": "Winds",
+  "uri": "query:Synths#Wavetable:Winds",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Bassoon Augmented.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Winds:FileId_51350"
+    }
+  ]
+}

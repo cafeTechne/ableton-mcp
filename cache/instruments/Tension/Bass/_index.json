@@ -1,0 +1,227 @@
+{
+  "path": "Instruments/Tension/Bass",
+  "name": "Bass",
+  "uri": "query:Synths#Tension:Bass",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Acoustic Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_42974"
+    },
+    {
+      "name": "Acoustic Synth Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5214"
+    },
+    {
+      "name": "Basic Electric Drive Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_4066"
+    },
+    {
+      "name": "Basic Sub Boom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_4074"
+    },
+    {
+      "name": "Bright Wah Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5215"
+    },
+    {
+      "name": "Cat Gut Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5216"
+    },
+    {
+      "name": "Clicky Organ Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5217"
+    },
+    {
+      "name": "Electric Basic Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5218"
+    },
+    {
+      "name": "Electric Damped Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5219"
+    },
+    {
+      "name": "Electric Driven Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5220"
+    },
+    {
+      "name": "Fretless Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5221"
+    },
+    {
+      "name": "Hollow Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5222"
+    },
+    {
+      "name": "Manky Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_42984"
+    },
+    {
+      "name": "Maple Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_42985"
+    },
+    {
+      "name": "Saw Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5223"
+    },
+    {
+      "name": "Slap Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5224"
+    },
+    {
+      "name": "Soft Buzz Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5225"
+    },
+    {
+      "name": "Square Wah Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5226"
+    },
+    {
+      "name": "String Tube Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5227"
+    },
+    {
+      "name": "Studio City Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_61076"
+    },
+    {
+      "name": "Sub Sharp Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5228"
+    },
+    {
+      "name": "Synth String Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5229"
+    },
+    {
+      "name": "Tension Rubber Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5230"
+    },
+    {
+      "name": "Tube Piano Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_61081"
+    },
+    {
+      "name": "Upright Ambient Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5231"
+    },
+    {
+      "name": "Upright Basic Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5232"
+    },
+    {
+      "name": "Upright Close Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5233"
+    },
+    {
+      "name": "Upright Far Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5234"
+    },
+    {
+      "name": "Velo Drive Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5235"
+    },
+    {
+      "name": "Wah Tube Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5236"
+    },
+    {
+      "name": "Wood Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Bass:FileId_5237"
+    }
+  ]
+}

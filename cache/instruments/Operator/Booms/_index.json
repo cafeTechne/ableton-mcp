@@ -1,0 +1,17 @@
+{
+  "path": "Instruments/Operator/Booms",
+  "name": "Booms",
+  "uri": "query:Synths#Operator:Booms",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "3 OP Boom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Booms:FileId_36611"
+    }
+  ]
+}

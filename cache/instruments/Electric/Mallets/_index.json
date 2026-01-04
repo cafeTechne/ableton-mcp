@@ -1,0 +1,24 @@
+{
+  "path": "Instruments/Electric/Mallets",
+  "name": "Mallets",
+  "uri": "query:Synths#Electric:Mallets",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Bell Delay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Electric:Mallets:FileId_43012"
+    },
+    {
+      "name": "Dulce Delay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Electric:Mallets:FileId_43013"
+    }
+  ]
+}

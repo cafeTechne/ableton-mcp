@@ -1,0 +1,66 @@
+{
+  "path": "Instruments/Wavetable/Strings",
+  "name": "Strings",
+  "uri": "query:Synths#Wavetable:Strings",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Cruiser Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Strings:FileId_3832"
+    },
+    {
+      "name": "Harpitextural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Strings:FileId_51182"
+    },
+    {
+      "name": "Magnetic Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Strings:FileId_3836"
+    },
+    {
+      "name": "Notes From The Edge.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Strings:FileId_51184"
+    },
+    {
+      "name": "Second Stellar Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Strings:FileId_3839"
+    },
+    {
+      "name": "Stacked Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Strings:FileId_51189"
+    },
+    {
+      "name": "Synfonic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Strings:FileId_51190"
+    },
+    {
+      "name": "Synthetic Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Strings:FileId_3841"
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "path": "Instruments/Instrument Rack/Brass",
+  "name": "Brass",
+  "uri": "query:Synths#Instrument%20Rack:Brass",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Abrasive Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_51076"
+    },
+    {
+      "name": "Alpha Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_61085"
+    },
+    {
+      "name": "Basic Silk Horns.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_4050"
+    },
+    {
+      "name": "Basic Synth Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_4051"
+    },
+    {
+      "name": "Bass Trombone Augmented.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_51077"
+    },
+    {
+      "name": "Bass Trombone Solo Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53848"
+    },
+    {
+      "name": "Bass Trombone Solo Mute Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53849"
+    },
+    {
+      "name": "Bass Trombone Solo Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53850"
+    },
+    {
+      "name": "Bass Trombone Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53851"
+    },
+    {
+      "name": "Block Minor Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_4052"
+    },
+    {
+      "name": "Brass Ensemble Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53852"
+    },
+    {
+      "name": "Brass Ensemble Mute Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53853"
+    },
+    {
+      "name": "Brass Ensemble Sforzando.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53854"
+    },
+    {
+      "name": "Brass Ensemble Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53855"
+    },
+    {
+      "name": "Brass Ensemble.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53856"
+    },
+    {
+      "name": "Brass Wash.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_51078"
+    },
+    {
+      "name": "C Tuba Solo Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53878"
+    },
+    {
+      "name": "C Tuba Solo Sforzando.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53879"
+    },
+    {
+      "name": "C Tuba Solo Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53880"
+    },
+    {
+      "name": "C Tuba Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53881"
+    },
+    {
+      "name": "Chord Analog Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_4053"
+    },
+    {
+      "name": "Dual Tubas (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_51079"
+    },
+    {
+      "name": "Duality Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_4054"
+    },
+    {
+      "name": "Eb Tuba Solo Mute Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53882"
+    },
+    {
+      "name": "Flyte Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_39909"
+    },
+    {
+      "name": "French Horn Section Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53857"
+    },
+    {
+      "name": "French Horn Section Mute Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53858"
+    },
+    {
+      "name": "French Horn Section Sforzando.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53859"
+    },
+    {
+      "name": "French Horn Section Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53860"
+    },
+    {
+      "name": "French Horn Section.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53861"
+    },
+    {
+      "name": "French Horn Solo Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53862"
+    },
+    {
+      "name": "French Horn Solo Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53863"
+    },
+    {
+      "name": "French Horn Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53864"
+    },
+    {
+      "name": "Get Vertical.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_61086"
+    },
+    {
+      "name": "Horror Horns.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_51080"
+    },
+    {
+      "name": "Hyper Dee.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_39910"
+    },
+    {
+      "name": "Last Dancer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_61087"
+    },
+    {
+      "name": "Long All-in-one - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36727"
+    },
+    {
+      "name": "Long Flutter - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36729"
+    },
+    {
+      "name": "Long Hollow - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36730"
+    },
+    {
+      "name": "Long Pitch Bend - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36731"
+    },
+    {
+      "name": "Long Senza Vibrato - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36732"
+    },
+    {
+      "name": "Long Vibrato - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36733"
+    },
+    {
+      "name": "Moody Fanfare.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_4055"
+    },
+    {
+      "name": "MPE Erosion (Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36737"
+    },
+    {
+      "name": "MPE Erosion (Slide & Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36738"
+    },
+    {
+      "name": "MPE Erosion (Slide) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36739"
+    },
+    {
+      "name": "MPE Intimate (Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36740"
+    },
+    {
+      "name": "MPE Intimate (Slide & Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36741"
+    },
+    {
+      "name": "MPE Intimate (Slide) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36742"
+    },
+    {
+      "name": "MPE Vibrato (Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36743"
+    },
+    {
+      "name": "MPE Vibrato (Slide & Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36744"
+    },
+    {
+      "name": "MPE Vibrato (Slide) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36745"
+    },
+    {
+      "name": "OB Centric Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_61088"
+    },
+    {
+      "name": "Obee 12 Voice Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_39911"
+    },
+    {
+      "name": "Old School Stab.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_39912"
+    },
+    {
+      "name": "Poly Synth Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_4056"
+    },
+    {
+      "name": "Short All-in-one - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36728"
+    },
+    {
+      "name": "Short Soft - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36734"
+    },
+    {
+      "name": "Short Staccatissimo - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36735"
+    },
+    {
+      "name": "Short Staccato - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_36736"
+    },
+    {
+      "name": "Soft Brass Ensemble.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_51081"
+    },
+    {
+      "name": "Swell Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_4057"
+    },
+    {
+      "name": "Trombone Section Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53865"
+    },
+    {
+      "name": "Trombone Section Mute Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53866"
+    },
+    {
+      "name": "Trombone Section Sforzando.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53867"
+    },
+    {
+      "name": "Trombone Section Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53868"
+    },
+    {
+      "name": "Trombone Section.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53869"
+    },
+    {
+      "name": "Trumpet Section Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53870"
+    },
+    {
+      "name": "Trumpet Section Mute Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53871"
+    },
+    {
+      "name": "Trumpet Section Sforzando.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53872"
+    },
+    {
+      "name": "Trumpet Section Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53873"
+    },
+    {
+      "name": "Trumpet Section.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53874"
+    },
+    {
+      "name": "Trumpet Solo Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53875"
+    },
+    {
+      "name": "Trumpet Solo Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53876"
+    },
+    {
+      "name": "Trumpet Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_53877"
+    },
+    {
+      "name": "Woozy Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Brass:FileId_4058"
+    }
+  ]
+}

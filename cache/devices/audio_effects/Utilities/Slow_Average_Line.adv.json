@@ -1,0 +1,21 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Utilities",
+  "name": "Slow Average Line.adv",
+  "uri": "query:AudioFx#Utilities:Spectrum:FileId_5958",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    }
+  ]
+}

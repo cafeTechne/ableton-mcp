@@ -1,0 +1,308 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Delay_&_Loop",
+  "name": "Delay Reso Glitch.adv",
+  "uri": "query:AudioFx#Delay%20&%20Loop:Spectral%20Time:FileId_5962",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Frozen",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Unit",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Milliseconds",
+        "ModulationBeat"
+      ],
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Sync Interval",
+      "min": 0.0,
+      "max": 21.0,
+      "value": 6.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "S.Rate ms",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.36366671323776245,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Mode",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Manual",
+        "Retrigger"
+      ],
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Retrigger Mode",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Onsets",
+        "Sync"
+      ],
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Fade Type",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Crossfade",
+        "Envelope"
+      ],
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Fade In",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.07140512019395828,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "XFade %",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "Fade Out",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.12607620656490326,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "Sensitivity",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.30000001192092896,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "Delay On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "Delay Time Seconds",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.4688490629196167,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "Delay Dly. Unit",
+      "min": 0.0,
+      "max": 4.0,
+      "value": 4.0,
+      "is_quantized": true,
+      "value_items": [
+        "Time",
+        "Notes",
+        "16th",
+        "16th Triplet",
+        "16th Dotted"
+      ],
+      "unit": null,
+      "index": 15
+    },
+    {
+      "name": "Delay Time Sixteenths",
+      "min": 1.0,
+      "max": 16.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 16
+    },
+    {
+      "name": "Delay Time Divisions",
+      "min": 0.0,
+      "max": 21.0,
+      "value": 15.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 17
+    },
+    {
+      "name": "Delay Feedback",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5873016119003296,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 18
+    },
+    {
+      "name": "Delay Tilt",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.2777777910232544,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 19
+    },
+    {
+      "name": "Delay Spray",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.7301587462425232,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 20
+    },
+    {
+      "name": "Delay Mask",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 21
+    },
+    {
+      "name": "Delay Stereo Spread",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 22
+    },
+    {
+      "name": "Delay Frequency Shift",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.4047619104385376,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 23
+    },
+    {
+      "name": "Delay Mix",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 24
+    },
+    {
+      "name": "Input Send Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 25
+    },
+    {
+      "name": "Dry Wet",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 26
+    }
+  ]
+}

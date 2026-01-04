@@ -1,0 +1,6793 @@
+{
+  "path": "drums/Drum Hits/Hihat",
+  "name": "Hihat",
+  "uri": "query:Drums#Drum%20Hits:Hihat",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "A-HiHat 1 Half Open A.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46618"
+    },
+    {
+      "name": "ClosedHH Acoustified 06.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46619"
+    },
+    {
+      "name": "ClosedHH Acoustified 07.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46620"
+    },
+    {
+      "name": "ClosedHH Acoustified 08.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46621"
+    },
+    {
+      "name": "ClosedHH Acoustified 09.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46622"
+    },
+    {
+      "name": "ClosedHH Acoustified 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46623"
+    },
+    {
+      "name": "ClosedHH Acoustified 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46624"
+    },
+    {
+      "name": "ClosedHH Acoustified 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46625"
+    },
+    {
+      "name": "ClosedHH Acoustified 14.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46626"
+    },
+    {
+      "name": "ClosedHH Acoustified 15.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46627"
+    },
+    {
+      "name": "ClosedHH Acoustified 16.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46628"
+    },
+    {
+      "name": "Hats Noise Ring.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54904"
+    },
+    {
+      "name": "Hihat 80sSpaceCraft Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46631"
+    },
+    {
+      "name": "Hihat 505 ASR Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46629"
+    },
+    {
+      "name": "Hihat 505 ASR Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46630"
+    },
+    {
+      "name": "Hihat 606 Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57905"
+    },
+    {
+      "name": "Hihat 606 Combo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57906"
+    },
+    {
+      "name": "Hihat 606 Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57907"
+    },
+    {
+      "name": "Hihat 808 Close.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57908"
+    },
+    {
+      "name": "Hihat 808 Closed Equinox.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36184"
+    },
+    {
+      "name": "Hihat 808 Dark Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36185"
+    },
+    {
+      "name": "Hihat 808 Dirty Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36186"
+    },
+    {
+      "name": "Hihat 808 medium Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36187"
+    },
+    {
+      "name": "Hihat 808 Mixed Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36188"
+    },
+    {
+      "name": "Hihat 808 Open Paradise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36189"
+    },
+    {
+      "name": "Hihat 808 Open Quick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36190"
+    },
+    {
+      "name": "Hihat 808 Reverb Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36191"
+    },
+    {
+      "name": "Hihat 808 Short Castle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36192"
+    },
+    {
+      "name": "HiHat 808 Soft Quick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36193"
+    },
+    {
+      "name": "HiHat 808 Thin Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36194"
+    },
+    {
+      "name": "Hihat 909 Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57909"
+    },
+    {
+      "name": "Hihat 909 Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57910"
+    },
+    {
+      "name": "Hihat Acid House.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37396"
+    },
+    {
+      "name": "Hihat Acoustic Attack Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37397"
+    },
+    {
+      "name": "Hihat Acoustic Fast Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37398"
+    },
+    {
+      "name": "Hihat Acoustic Foot Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42294"
+    },
+    {
+      "name": "Hihat Acoustic Foot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42295"
+    },
+    {
+      "name": "Hihat Acoustic Large Loose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42296"
+    },
+    {
+      "name": "Hihat Acoustic Long Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37399"
+    },
+    {
+      "name": "Hihat Acoustic Long Tail Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37400"
+    },
+    {
+      "name": "Hihat Acoustic Open Close.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42297"
+    },
+    {
+      "name": "Hihat Acoustic Open Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42298"
+    },
+    {
+      "name": "Hihat Acoustic Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42299"
+    },
+    {
+      "name": "Hihat Acoustic Round Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37401"
+    },
+    {
+      "name": "Hihat Acoustic Short Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37402"
+    },
+    {
+      "name": "Hihat Acoustic Small Loose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42300"
+    },
+    {
+      "name": "Hihat AlienFash Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46632"
+    },
+    {
+      "name": "Hihat AlienFash Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46633"
+    },
+    {
+      "name": "Hihat AlienSpawn Closed 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46634"
+    },
+    {
+      "name": "Hihat AlienSpawn Closed 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46635"
+    },
+    {
+      "name": "Hihat Analog Closed 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57911"
+    },
+    {
+      "name": "Hihat Analog Closed 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57912"
+    },
+    {
+      "name": "Hihat Analog Open Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57913"
+    },
+    {
+      "name": "Hihat Analog Open Lo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57914"
+    },
+    {
+      "name": "Hihat Azimuth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36195"
+    },
+    {
+      "name": "Hihat BlackHole Closed 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46636"
+    },
+    {
+      "name": "Hihat BlackHole Closed 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46637"
+    },
+    {
+      "name": "Hihat BlackHole Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46638"
+    },
+    {
+      "name": "Hihat Bluesbreak Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46639"
+    },
+    {
+      "name": "Hihat Boss Loop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36196"
+    },
+    {
+      "name": "Hihat Bring Em Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46640"
+    },
+    {
+      "name": "Hihat Broken Closed Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57915"
+    },
+    {
+      "name": "Hihat Broken Closed Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57916"
+    },
+    {
+      "name": "Hihat Brush 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54905"
+    },
+    {
+      "name": "Hihat Brush 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54906"
+    },
+    {
+      "name": "Hihat Brush 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54907"
+    },
+    {
+      "name": "Hihat Brush 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54908"
+    },
+    {
+      "name": "Hihat Brush 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54909"
+    },
+    {
+      "name": "Hihat Brush Closed BrushSizzle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55622"
+    },
+    {
+      "name": "Hihat Brush Closed ClubSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55778"
+    },
+    {
+      "name": "Hihat Brush Foot ClubSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55779"
+    },
+    {
+      "name": "Hihat Brush Open BrushSizzle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55623"
+    },
+    {
+      "name": "Hihat Brush Open ClubSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55780"
+    },
+    {
+      "name": "Hihat Brush Pedal ClubSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55781"
+    },
+    {
+      "name": "Hihat Build Closed 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37403"
+    },
+    {
+      "name": "Hihat Build Closed 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37404"
+    },
+    {
+      "name": "Hihat Build Closed 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37405"
+    },
+    {
+      "name": "Hihat Burly Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36197"
+    },
+    {
+      "name": "Hihat Canary Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46641"
+    },
+    {
+      "name": "Hihat Chirp Hat Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46642"
+    },
+    {
+      "name": "Hihat Chirp Hat Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46643"
+    },
+    {
+      "name": "Hihat Chives Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46644"
+    },
+    {
+      "name": "Hihat Chroma Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57917"
+    },
+    {
+      "name": "Hihat Chroma Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57918"
+    },
+    {
+      "name": "Hihat Closed 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54910"
+    },
+    {
+      "name": "Hihat Closed 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54916"
+    },
+    {
+      "name": "Hihat Closed 2B.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1271"
+    },
+    {
+      "name": "Hihat Closed 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54917"
+    },
+    {
+      "name": "Hihat Closed 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54918"
+    },
+    {
+      "name": "Hihat Closed 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54919"
+    },
+    {
+      "name": "Hihat Closed 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54920"
+    },
+    {
+      "name": "Hihat Closed 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54921"
+    },
+    {
+      "name": "Hihat Closed 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54922"
+    },
+    {
+      "name": "Hihat Closed 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54923"
+    },
+    {
+      "name": "Hihat Closed 9th Wonder.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39631"
+    },
+    {
+      "name": "Hihat Closed 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54911"
+    },
+    {
+      "name": "Hihat Closed 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54912"
+    },
+    {
+      "name": "Hihat Closed 12 .aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54913"
+    },
+    {
+      "name": "Hihat Closed 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54914"
+    },
+    {
+      "name": "Hihat Closed 13.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54915"
+    },
+    {
+      "name": "Hihat Closed 45 Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1272"
+    },
+    {
+      "name": "Hihat Closed 56 TL.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1275"
+    },
+    {
+      "name": "Hihat Closed 80s Spacecraft.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1280"
+    },
+    {
+      "name": "Hihat Closed 80s UK Disco Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1281"
+    },
+    {
+      "name": "Hihat Closed 89.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39630"
+    },
+    {
+      "name": "Hihat Closed 212.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39629"
+    },
+    {
+      "name": "Hihat Closed 505 ASR.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1273"
+    },
+    {
+      "name": "Hihat Closed 505 Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46645"
+    },
+    {
+      "name": "Hihat Closed 505.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1274"
+    },
+    {
+      "name": "Hihat Closed 606 Smack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46646"
+    },
+    {
+      "name": "Hihat Closed 606.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1276"
+    },
+    {
+      "name": "Hihat Closed 707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1277"
+    },
+    {
+      "name": "Hihat Closed 808 Dub 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46647"
+    },
+    {
+      "name": "Hihat Closed 808 Dub 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46648"
+    },
+    {
+      "name": "HiHat Closed 808 Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36198"
+    },
+    {
+      "name": "Hihat Closed 808 Short Castle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1278"
+    },
+    {
+      "name": "Hihat Closed 808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1279"
+    },
+    {
+      "name": "Hihat Closed 808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46649"
+    },
+    {
+      "name": "Hihat Closed 909.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1282"
+    },
+    {
+      "name": "Hihat Closed Acoustic Fast.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1283"
+    },
+    {
+      "name": "Hihat Closed Acoustic Room.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42301"
+    },
+    {
+      "name": "Hihat Closed Acoustified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46650"
+    },
+    {
+      "name": "Hihat Closed Acoustified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46651"
+    },
+    {
+      "name": "Hihat Closed Acoustified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46652"
+    },
+    {
+      "name": "Hihat Closed Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1284"
+    },
+    {
+      "name": "Hihat Closed Agile Shot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36199"
+    },
+    {
+      "name": "Hihat Closed Airy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39632"
+    },
+    {
+      "name": "Hihat Closed Alien Fash.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1285"
+    },
+    {
+      "name": "Hihat Closed Alien Spawn 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1286"
+    },
+    {
+      "name": "Hihat Closed Alien Spawn 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1287"
+    },
+    {
+      "name": "Hihat Closed Alley.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39633"
+    },
+    {
+      "name": "Hihat Closed AmbientLoudPunch MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56300"
+    },
+    {
+      "name": "Hihat Closed AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56540"
+    },
+    {
+      "name": "Hihat Closed Analog 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54924"
+    },
+    {
+      "name": "Hihat Closed Analog 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54927"
+    },
+    {
+      "name": "Hihat Closed Analog 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54928"
+    },
+    {
+      "name": "Hihat Closed Analog 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54929"
+    },
+    {
+      "name": "Hihat Closed Analog 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54930"
+    },
+    {
+      "name": "Hihat Closed Analog 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54931"
+    },
+    {
+      "name": "Hihat Closed Analog 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54932"
+    },
+    {
+      "name": "Hihat Closed Analog 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54933"
+    },
+    {
+      "name": "Hihat Closed Analog 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54934"
+    },
+    {
+      "name": "Hihat Closed Analog 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54925"
+    },
+    {
+      "name": "Hihat Closed Analog 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54926"
+    },
+    {
+      "name": "Hihat Closed Analog Preon.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48287"
+    },
+    {
+      "name": "Hihat Closed Analog.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42302"
+    },
+    {
+      "name": "Hihat Closed Analogy.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1288"
+    },
+    {
+      "name": "Hihat Closed Bam Vin.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1289"
+    },
+    {
+      "name": "Hihat Closed Bell.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54935"
+    },
+    {
+      "name": "Hihat Closed Beyond.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1290"
+    },
+    {
+      "name": "Hihat Closed BigPunchy MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55624"
+    },
+    {
+      "name": "Hihat Closed BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55782"
+    },
+    {
+      "name": "Hihat Closed Black Hole 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1291"
+    },
+    {
+      "name": "Hihat Closed Black Hole 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1292"
+    },
+    {
+      "name": "Hihat Closed BlackHole Loose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42303"
+    },
+    {
+      "name": "Hihat Closed BlackHole Tight.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42304"
+    },
+    {
+      "name": "Hihat Closed Blade.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1293"
+    },
+    {
+      "name": "Hihat Closed Blue Room 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1294"
+    },
+    {
+      "name": "Hihat Closed Blue Room 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1295"
+    },
+    {
+      "name": "Hihat Closed Blueprint.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39634"
+    },
+    {
+      "name": "Hihat Closed Bluesbreak.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1296"
+    },
+    {
+      "name": "Hihat Closed Boxen.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1297"
+    },
+    {
+      "name": "Hihat Closed Bright Canvas.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39635"
+    },
+    {
+      "name": "Hihat Closed BrightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56301"
+    },
+    {
+      "name": "Hihat Closed BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56541"
+    },
+    {
+      "name": "Hihat Closed BritishVintage MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55625"
+    },
+    {
+      "name": "Hihat Closed BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55783"
+    },
+    {
+      "name": "Hihat Closed Brkhot.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1298"
+    },
+    {
+      "name": "Hihat Closed Brown.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39636"
+    },
+    {
+      "name": "Hihat Closed Brush Club Sizzle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1299"
+    },
+    {
+      "name": "Hihat Closed Build.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37406"
+    },
+    {
+      "name": "Hihat Closed Bull Whip.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1300"
+    },
+    {
+      "name": "Hihat Closed Burned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46653"
+    },
+    {
+      "name": "Hihat Closed Buttermilk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39637"
+    },
+    {
+      "name": "Hihat Closed Buttery.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1301"
+    },
+    {
+      "name": "Hihat Closed Buzz.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39638"
+    },
+    {
+      "name": "Hihat Closed C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1302"
+    },
+    {
+      "name": "Hihat Closed Canary.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1303"
+    },
+    {
+      "name": "Hihat Closed Canopolis High.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48288"
+    },
+    {
+      "name": "Hihat Closed Canopolis.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48289"
+    },
+    {
+      "name": "Hihat Closed Canvas.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39639"
+    },
+    {
+      "name": "Hihat Closed Casual Dry.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36200"
+    },
+    {
+      "name": "Hihat Closed Casual Phase.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46654"
+    },
+    {
+      "name": "Hihat Closed Casual.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36201"
+    },
+    {
+      "name": "Hihat Closed Charred.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46655"
+    },
+    {
+      "name": "Hihat Closed Chirp Hat.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1304"
+    },
+    {
+      "name": "Hihat Closed Chives.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1305"
+    },
+    {
+      "name": "Hihat Closed ClassicMuffle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56302"
+    },
+    {
+      "name": "Hihat Closed ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56542"
+    },
+    {
+      "name": "Hihat Closed Clean.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1306"
+    },
+    {
+      "name": "Hihat Closed Click.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1307"
+    },
+    {
+      "name": "Hihat Closed Clinical.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46656"
+    },
+    {
+      "name": "Hihat Closed ColdTightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56303"
+    },
+    {
+      "name": "Hihat Closed ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56543"
+    },
+    {
+      "name": "Hihat Closed Com Burger.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1308"
+    },
+    {
+      "name": "Hihat Closed Cooked.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36202"
+    },
+    {
+      "name": "Hihat Closed CopStyle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56304"
+    },
+    {
+      "name": "Hihat Closed CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56544"
+    },
+    {
+      "name": "Hihat Closed Corner.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39640"
+    },
+    {
+      "name": "Hihat Closed Cream.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1309"
+    },
+    {
+      "name": "Hihat Closed Cricket.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37407"
+    },
+    {
+      "name": "Hihat Closed Crink.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48290"
+    },
+    {
+      "name": "Hihat Closed Crinkier.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48291"
+    },
+    {
+      "name": "Hihat Closed Crisp Snake.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48292"
+    },
+    {
+      "name": "Hihat Closed Crisp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1310"
+    },
+    {
+      "name": "Hihat Closed Crisp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48293"
+    },
+    {
+      "name": "Hihat Closed Cristal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1311"
+    },
+    {
+      "name": "Hihat Closed Crust.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39641"
+    },
+    {
+      "name": "Hihat Closed Crusty.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37408"
+    },
+    {
+      "name": "Hihat Closed Currency.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1312"
+    },
+    {
+      "name": "Hihat Closed D55 Tone 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46657"
+    },
+    {
+      "name": "Hihat Closed D55 Tone 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46658"
+    },
+    {
+      "name": "Hihat Closed D55 Tone 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46659"
+    },
+    {
+      "name": "Hihat Closed D55 Tone 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46660"
+    },
+    {
+      "name": "Hihat Closed DarkPlateVerb MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55626"
+    },
+    {
+      "name": "Hihat Closed DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55784"
+    },
+    {
+      "name": "Hihat Closed Deep Knight.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36203"
+    },
+    {
+      "name": "Hihat Closed DeepSnareDynamics MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55627"
+    },
+    {
+      "name": "Hihat Closed DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55785"
+    },
+    {
+      "name": "Hihat Closed Delay Crackin.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46661"
+    },
+    {
+      "name": "Hihat Closed Delay High.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1315"
+    },
+    {
+      "name": "Hihat Closed Delay SP.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1316"
+    },
+    {
+      "name": "Hihat Closed Digi Phase.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36204"
+    },
+    {
+      "name": "Hihat Closed Dimpless.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39642"
+    },
+    {
+      "name": "Hihat Closed DirectNatural MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56305"
+    },
+    {
+      "name": "Hihat Closed DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56545"
+    },
+    {
+      "name": "Hihat Closed Dishes.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1317"
+    },
+    {
+      "name": "Hihat Closed DM Accent.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1313"
+    },
+    {
+      "name": "Hihat Closed DMX Vinyl.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42305"
+    },
+    {
+      "name": "Hihat Closed DMX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46662"
+    },
+    {
+      "name": "Hihat Closed DMX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1314"
+    },
+    {
+      "name": "Hihat Closed Dobbs.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39643"
+    },
+    {
+      "name": "Hihat Closed Dreams.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36205"
+    },
+    {
+      "name": "Hihat Closed Dub Future.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1318"
+    },
+    {
+      "name": "Hihat Closed Dublyn.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46663"
+    },
+    {
+      "name": "Hihat Closed Duff.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1319"
+    },
+    {
+      "name": "Hihat Closed Dustital.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1320"
+    },
+    {
+      "name": "Hihat Closed Echo.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1327"
+    },
+    {
+      "name": "Hihat Closed EDM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37409"
+    },
+    {
+      "name": "Hihat Closed Electrified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46664"
+    },
+    {
+      "name": "Hihat Closed Electrified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46665"
+    },
+    {
+      "name": "Hihat Closed Electrified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46666"
+    },
+    {
+      "name": "Hihat Closed ER 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1321"
+    },
+    {
+      "name": "Hihat Closed ER 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1322"
+    },
+    {
+      "name": "Hihat Closed ER Fenk 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1323"
+    },
+    {
+      "name": "Hihat Closed ER Fenk 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1324"
+    },
+    {
+      "name": "Hihat Closed ER Fenk 5.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1325"
+    },
+    {
+      "name": "Hihat Closed ER Fenk.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1326"
+    },
+    {
+      "name": "Hihat Closed Fat Matt Break 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1328"
+    },
+    {
+      "name": "Hihat Closed Fat Matt Break 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1329"
+    },
+    {
+      "name": "Hihat Closed Feel.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1330"
+    },
+    {
+      "name": "Hihat Closed Fenk 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46667"
+    },
+    {
+      "name": "Hihat Closed Fenk 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46668"
+    },
+    {
+      "name": "Hihat Closed Filter Choke.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1331"
+    },
+    {
+      "name": "Hihat Closed Flared Out.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48294"
+    },
+    {
+      "name": "Hihat Closed Flat.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36206"
+    },
+    {
+      "name": "Hihat Closed Fly.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39644"
+    },
+    {
+      "name": "Hihat Closed Frame.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1332"
+    },
+    {
+      "name": "Hihat Closed Frantic.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1333"
+    },
+    {
+      "name": "Hihat Closed Frogger.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46669"
+    },
+    {
+      "name": "Hihat Closed Full.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1334"
+    },
+    {
+      "name": "Hihat Closed Funk Brush.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42306"
+    },
+    {
+      "name": "Hihat Closed Funky Moon 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1335"
+    },
+    {
+      "name": "Hihat Closed Funky Moon 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1336"
+    },
+    {
+      "name": "Hihat Closed Future MPC.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1337"
+    },
+    {
+      "name": "Hihat Closed Future Proof.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1338"
+    },
+    {
+      "name": "Hihat Closed FX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54936"
+    },
+    {
+      "name": "Hihat Closed Gen Purpose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1339"
+    },
+    {
+      "name": "Hihat Closed Grassy.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1340"
+    },
+    {
+      "name": "Hihat Closed Grit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39645"
+    },
+    {
+      "name": "Hihat Closed Grounded.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46670"
+    },
+    {
+      "name": "Hihat Closed Gun.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1341"
+    },
+    {
+      "name": "Hihat Closed H4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1342"
+    },
+    {
+      "name": "Hihat Closed H5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1343"
+    },
+    {
+      "name": "Hihat Closed Hearty.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1344"
+    },
+    {
+      "name": "Hihat Closed Hi Click.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1345"
+    },
+    {
+      "name": "Hihat Closed Hi Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46671"
+    },
+    {
+      "name": "Hihat Closed Hi There.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1346"
+    },
+    {
+      "name": "Hihat Closed Hiss.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1347"
+    },
+    {
+      "name": "Hihat Closed Hiss.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48295"
+    },
+    {
+      "name": "Hihat Closed Hit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37410"
+    },
+    {
+      "name": "Hihat Closed Izo Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1348"
+    },
+    {
+      "name": "Hihat Closed Jiggy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39646"
+    },
+    {
+      "name": "Hihat Closed K2L.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36207"
+    },
+    {
+      "name": "Hihat Closed Kaninchen.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1349"
+    },
+    {
+      "name": "Hihat Closed Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46672"
+    },
+    {
+      "name": "Hihat Closed LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1350"
+    },
+    {
+      "name": "Hihat Closed Light Chekov.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46673"
+    },
+    {
+      "name": "Hihat Closed Lit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46674"
+    },
+    {
+      "name": "Hihat Closed Lo Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46675"
+    },
+    {
+      "name": "Hihat Closed Lo Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46676"
+    },
+    {
+      "name": "Hihat Closed Loafer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1352"
+    },
+    {
+      "name": "Hihat Closed LoFi Glitch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48296"
+    },
+    {
+      "name": "Hihat Closed LoFi Hit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42307"
+    },
+    {
+      "name": "Hihat Closed LoFi Melt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48297"
+    },
+    {
+      "name": "Hihat Closed LoFi Scrape.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42308"
+    },
+    {
+      "name": "Hihat Closed LoFi Thizz.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1351"
+    },
+    {
+      "name": "Hihat Closed LoFi Thizz.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42309"
+    },
+    {
+      "name": "Hihat Closed Log.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1353"
+    },
+    {
+      "name": "Hihat Closed Loop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39647"
+    },
+    {
+      "name": "Hihat Closed Loop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1354"
+    },
+    {
+      "name": "Hihat Closed Loose Foot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46677"
+    },
+    {
+      "name": "Hihat Closed Losing It.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1355"
+    },
+    {
+      "name": "Hihat Closed Low Zils.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1356"
+    },
+    {
+      "name": "Hihat Closed LowLoudSquashed MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55628"
+    },
+    {
+      "name": "Hihat Closed LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55786"
+    },
+    {
+      "name": "Hihat Closed Machine Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48298"
+    },
+    {
+      "name": "Hihat Closed Machine Nectarine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42310"
+    },
+    {
+      "name": "Hihat Closed Machine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1357"
+    },
+    {
+      "name": "Hihat Closed Machine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48299"
+    },
+    {
+      "name": "Hihat Closed Mars Disco 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1358"
+    },
+    {
+      "name": "Hihat Closed Mars Disco 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1359"
+    },
+    {
+      "name": "Hihat Closed Medium Easy.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1360"
+    },
+    {
+      "name": "Hihat Closed Memphis.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1361"
+    },
+    {
+      "name": "Hihat Closed Metallic Charred.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57919"
+    },
+    {
+      "name": "Hihat Closed Mid Noise.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1362"
+    },
+    {
+      "name": "Hihat Closed Mid Open Dublyn.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46678"
+    },
+    {
+      "name": "Hihat Closed Mid Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46679"
+    },
+    {
+      "name": "Hihat Closed Modular Salient 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48300"
+    },
+    {
+      "name": "Hihat Closed Modular Salient 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48301"
+    },
+    {
+      "name": "Hihat Closed Modular Snake.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48302"
+    },
+    {
+      "name": "Hihat Closed Modular.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1363"
+    },
+    {
+      "name": "Hihat Closed Modular.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42311"
+    },
+    {
+      "name": "Hihat Closed MultirodDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56306"
+    },
+    {
+      "name": "Hihat Closed Nat Sharp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54937"
+    },
+    {
+      "name": "Hihat Closed New Old.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1364"
+    },
+    {
+      "name": "Hihat Closed Nobit.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1365"
+    },
+    {
+      "name": "Hihat Closed Noise Build.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37411"
+    },
+    {
+      "name": "Hihat Closed Noise Build.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1366"
+    },
+    {
+      "name": "Hihat Closed Noise Fish.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48303"
+    },
+    {
+      "name": "HiHat Closed Noise Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46680"
+    },
+    {
+      "name": "Hihat Closed Noise Nectarine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42312"
+    },
+    {
+      "name": "HiHat Closed Noise Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46681"
+    },
+    {
+      "name": "Hihat Closed Noise Sonar.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48304"
+    },
+    {
+      "name": "Hihat Closed Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46682"
+    },
+    {
+      "name": "Hihat Closed Noisy Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46683"
+    },
+    {
+      "name": "Hihat Closed Numerology.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39648"
+    },
+    {
+      "name": "Hihat Closed Old Tool.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1367"
+    },
+    {
+      "name": "Hihat Closed OldSchool MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56307"
+    },
+    {
+      "name": "Hihat Closed OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56546"
+    },
+    {
+      "name": "Hihat Closed Onyx.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46684"
+    },
+    {
+      "name": "Hihat Closed Overdrive.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46685"
+    },
+    {
+      "name": "Hihat Closed Parale.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1368"
+    },
+    {
+      "name": "Hihat Closed Pattern.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36208"
+    },
+    {
+      "name": "Hihat Closed PCM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57920"
+    },
+    {
+      "name": "Hihat Closed Peace Corp.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1369"
+    },
+    {
+      "name": "Hihat Closed Pete.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1370"
+    },
+    {
+      "name": "Hihat Closed Pillars.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1371"
+    },
+    {
+      "name": "Hihat Closed Plymouth 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1372"
+    },
+    {
+      "name": "Hihat Closed Plymouth 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1373"
+    },
+    {
+      "name": "Hihat Closed Pointy Hat.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1374"
+    },
+    {
+      "name": "Hihat Closed Polo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1375"
+    },
+    {
+      "name": "Hihat Closed Radio Rip.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36209"
+    },
+    {
+      "name": "Hihat Closed Raged Alt.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1377"
+    },
+    {
+      "name": "Hihat Closed Raged.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46686"
+    },
+    {
+      "name": "Hihat Closed Raged.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1378"
+    },
+    {
+      "name": "Hihat Closed Rattle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37412"
+    },
+    {
+      "name": "Hihat Closed Real Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37413"
+    },
+    {
+      "name": "Hihat Closed ResoClassic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55629"
+    },
+    {
+      "name": "Hihat Closed ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55787"
+    },
+    {
+      "name": "Hihat Closed Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1379"
+    },
+    {
+      "name": "Hihat Closed Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42313"
+    },
+    {
+      "name": "Hihat Closed Reznoise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48305"
+    },
+    {
+      "name": "Hihat Closed Ride Bell Combo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46687"
+    },
+    {
+      "name": "Hihat Closed Ring.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54938"
+    },
+    {
+      "name": "Hihat Closed RKTD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37414"
+    },
+    {
+      "name": "Hihat Closed RKTD.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1376"
+    },
+    {
+      "name": "Hihat Closed Road Monger.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36210"
+    },
+    {
+      "name": "Hihat Closed Robo Hut.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1380"
+    },
+    {
+      "name": "Hihat Closed Rocks.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1381"
+    },
+    {
+      "name": "Hihat Closed Roddy.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1382"
+    },
+    {
+      "name": "Hihat Closed Rolling Sharp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57921"
+    },
+    {
+      "name": "Hihat Closed Rolling Wood.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57922"
+    },
+    {
+      "name": "Hihat Closed Room Feel.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1383"
+    },
+    {
+      "name": "Hihat Closed RoomWithAVista MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56308"
+    },
+    {
+      "name": "Hihat Closed RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56547"
+    },
+    {
+      "name": "Hihat Closed Rude.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1384"
+    },
+    {
+      "name": "Hihat Closed Running.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57923"
+    },
+    {
+      "name": "Hihat Closed Rusty.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39649"
+    },
+    {
+      "name": "Hihat Closed S2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1385"
+    },
+    {
+      "name": "Hihat Closed Sage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42314"
+    },
+    {
+      "name": "Hihat Closed SciFi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1386"
+    },
+    {
+      "name": "Hihat Closed Scorched.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46688"
+    },
+    {
+      "name": "Hihat Closed Scorched.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1387"
+    },
+    {
+      "name": "Hihat Closed SessionDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56309"
+    },
+    {
+      "name": "Hihat Closed SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56548"
+    },
+    {
+      "name": "Hihat Closed Shake.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37415"
+    },
+    {
+      "name": "Hihat Closed Shank AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56549"
+    },
+    {
+      "name": "Hihat Closed Shank BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55788"
+    },
+    {
+      "name": "Hihat Closed Shank BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55789"
+    },
+    {
+      "name": "Hihat Closed Shank ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56550"
+    },
+    {
+      "name": "Hihat Closed Shank ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56551"
+    },
+    {
+      "name": "Hihat Closed Shank CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56552"
+    },
+    {
+      "name": "Hihat Closed Shank DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55790"
+    },
+    {
+      "name": "Hihat Closed Shank DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56553"
+    },
+    {
+      "name": "Hihat Closed Shank LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55791"
+    },
+    {
+      "name": "Hihat Closed Shank OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56554"
+    },
+    {
+      "name": "Hihat Closed Shank ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55792"
+    },
+    {
+      "name": "Hihat Closed Shank RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56555"
+    },
+    {
+      "name": "Hihat Closed Shank SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56556"
+    },
+    {
+      "name": "Hihat Closed Shank SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56557"
+    },
+    {
+      "name": "Hihat Closed Shank StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56558"
+    },
+    {
+      "name": "Hihat Closed Shank WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55793"
+    },
+    {
+      "name": "Hihat Closed Sharp Garage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1388"
+    },
+    {
+      "name": "Hihat Closed Sharp Metalic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48306"
+    },
+    {
+      "name": "Hihat Closed Sharp Yakiman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1389"
+    },
+    {
+      "name": "Hihat Closed Sharp Yakiman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42315"
+    },
+    {
+      "name": "Hihat Closed Sharp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39650"
+    },
+    {
+      "name": "Hihat Closed Sharp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1390"
+    },
+    {
+      "name": "Hihat Closed Sharp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54939"
+    },
+    {
+      "name": "Hihat Closed Short and Solid.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1391"
+    },
+    {
+      "name": "Hihat Closed Short Burned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46689"
+    },
+    {
+      "name": "Hihat Closed Short Dobbs.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39651"
+    },
+    {
+      "name": "Hihat Closed Short Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46690"
+    },
+    {
+      "name": "Hihat Closed Short Rust.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46691"
+    },
+    {
+      "name": "Hihat Closed Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36211"
+    },
+    {
+      "name": "Hihat Closed Shy Dust.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46692"
+    },
+    {
+      "name": "Hihat Closed Shy.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1392"
+    },
+    {
+      "name": "Hihat Closed Silver.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1393"
+    },
+    {
+      "name": "Hihat Closed Smack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46693"
+    },
+    {
+      "name": "Hihat Closed Sole.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1394"
+    },
+    {
+      "name": "Hihat Closed Source.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1395"
+    },
+    {
+      "name": "Hihat Closed Space.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1396"
+    },
+    {
+      "name": "Hihat Closed SteelyTight MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56310"
+    },
+    {
+      "name": "Hihat Closed SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56559"
+    },
+    {
+      "name": "Hihat Closed Step SP.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1397"
+    },
+    {
+      "name": "Hihat Closed Stick Garage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1398"
+    },
+    {
+      "name": "Hihat Closed Stick Hit West Coast Band.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1399"
+    },
+    {
+      "name": "Hihat Closed Stick Tip Hard 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1400"
+    },
+    {
+      "name": "Hihat Closed Stick Tip Hard 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1401"
+    },
+    {
+      "name": "Hihat Closed Stick Tip Medium.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1402"
+    },
+    {
+      "name": "Hihat Closed Stick Tip Soft 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1403"
+    },
+    {
+      "name": "Hihat Closed Stick Tip Soft 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1404"
+    },
+    {
+      "name": "Hihat Closed Stick Tip Yester Years.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1405"
+    },
+    {
+      "name": "Hihat Closed Stick Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1406"
+    },
+    {
+      "name": "Hihat Closed Stick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1407"
+    },
+    {
+      "name": "Hihat Closed Stick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48307"
+    },
+    {
+      "name": "Hihat Closed Streets.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39652"
+    },
+    {
+      "name": "Hihat Closed StudioBasic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56311"
+    },
+    {
+      "name": "Hihat Closed StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56560"
+    },
+    {
+      "name": "Hihat Closed Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46694"
+    },
+    {
+      "name": "Hihat Closed Tailed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39653"
+    },
+    {
+      "name": "Hihat Closed Tambo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39654"
+    },
+    {
+      "name": "Hihat Closed Tambo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48308"
+    },
+    {
+      "name": "Hihat Closed Tap Clinical.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46695"
+    },
+    {
+      "name": "Hihat Closed Teacup.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1408"
+    },
+    {
+      "name": "Hihat Closed Teen.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1409"
+    },
+    {
+      "name": "Hihat Closed Thin Machine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1410"
+    },
+    {
+      "name": "Hihat Closed Tight Side 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1411"
+    },
+    {
+      "name": "Hihat Closed Tight Side 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1412"
+    },
+    {
+      "name": "Hihat Closed TL Sharp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39655"
+    },
+    {
+      "name": "Hihat Closed TL Shy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39656"
+    },
+    {
+      "name": "Hihat Closed Tokyo 1 Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48309"
+    },
+    {
+      "name": "Hihat Closed Tokyo 2 Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48310"
+    },
+    {
+      "name": "Hihat Closed Tokyo 3 Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48311"
+    },
+    {
+      "name": "Hihat Closed Tokyo 4 Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48312"
+    },
+    {
+      "name": "Hihat Closed Trad.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46696"
+    },
+    {
+      "name": "Hihat Closed Trax.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46697"
+    },
+    {
+      "name": "Hihat Closed Trident.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39657"
+    },
+    {
+      "name": "Hihat Closed Twenty 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46698"
+    },
+    {
+      "name": "Hihat Closed Twenty 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46699"
+    },
+    {
+      "name": "HiHat Closed Twenty Harbour.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42316"
+    },
+    {
+      "name": "Hihat Closed Twenty.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46700"
+    },
+    {
+      "name": "Hihat Closed UJ.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1413"
+    },
+    {
+      "name": "Hihat Closed Unsaned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1414"
+    },
+    {
+      "name": "Hihat Closed V1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42317"
+    },
+    {
+      "name": "Hihat Closed Vintage DM.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1415"
+    },
+    {
+      "name": "Hihat Closed Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39658"
+    },
+    {
+      "name": "Hihat Closed Vinyl Alias.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1416"
+    },
+    {
+      "name": "Hihat Closed Vinyl DLF 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1417"
+    },
+    {
+      "name": "Hihat Closed Vinyl DLF 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1418"
+    },
+    {
+      "name": "Hihat Closed Vinyl SP 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1419"
+    },
+    {
+      "name": "Hihat Closed Vinyl SP 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1420"
+    },
+    {
+      "name": "Hihat Closed Vinyl SP 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1421"
+    },
+    {
+      "name": "Hihat Closed Vinyl SP 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1422"
+    },
+    {
+      "name": "Hihat Closed Vinyl SP 5.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1423"
+    },
+    {
+      "name": "Hihat Closed Vinyl SP 6.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1424"
+    },
+    {
+      "name": "Hihat Closed Vinyl SP 7.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1425"
+    },
+    {
+      "name": "Hihat Closed Virtual Steel.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1426"
+    },
+    {
+      "name": "Hihat Closed Wanderlust.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46701"
+    },
+    {
+      "name": "Hihat Closed WarmAndLow MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55630"
+    },
+    {
+      "name": "Hihat Closed WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55794"
+    },
+    {
+      "name": "Hihat Closed White Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46702"
+    },
+    {
+      "name": "Hihat Closed Wrinkled.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1427"
+    },
+    {
+      "name": "Hihat Closed Yoga.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39659"
+    },
+    {
+      "name": "Hihat Closed Yoga.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1428"
+    },
+    {
+      "name": "Hihat Code.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48313"
+    },
+    {
+      "name": "Hihat Combo 606.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1429"
+    },
+    {
+      "name": "Hihat Combo Roll.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36212"
+    },
+    {
+      "name": "Hihat Combo Takeover.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36213"
+    },
+    {
+      "name": "Hihat Crisp Closed Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57924"
+    },
+    {
+      "name": "Hihat Crisp Closed Lo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57925"
+    },
+    {
+      "name": "Hihat Crisp Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37416"
+    },
+    {
+      "name": "Hihat Crisp Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36214"
+    },
+    {
+      "name": "Hihat Cymbal Combo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36215"
+    },
+    {
+      "name": "Hihat D55 Tone 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48314"
+    },
+    {
+      "name": "Hihat Dark Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36216"
+    },
+    {
+      "name": "Hihat Double Noiser.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57926"
+    },
+    {
+      "name": "Hihat Dusty Vintage Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36217"
+    },
+    {
+      "name": "Hihat ER Fenk Closed 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57927"
+    },
+    {
+      "name": "Hihat ER Fenk Closed 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57928"
+    },
+    {
+      "name": "Hihat ER Fenk Closed 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57929"
+    },
+    {
+      "name": "Hihat ER Fenk Closed 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57930"
+    },
+    {
+      "name": "Hihat ER Fenk Closed 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57931"
+    },
+    {
+      "name": "Hihat ER Fenk Closed 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57932"
+    },
+    {
+      "name": "Hihat Foot Acoustic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1430"
+    },
+    {
+      "name": "Hihat Foot AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56561"
+    },
+    {
+      "name": "Hihat Foot BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55795"
+    },
+    {
+      "name": "Hihat Foot BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56562"
+    },
+    {
+      "name": "Hihat Foot BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55796"
+    },
+    {
+      "name": "Hihat Foot ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56563"
+    },
+    {
+      "name": "Hihat Foot ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56564"
+    },
+    {
+      "name": "Hihat Foot CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56565"
+    },
+    {
+      "name": "Hihat Foot DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55797"
+    },
+    {
+      "name": "Hihat Foot DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55798"
+    },
+    {
+      "name": "Hihat Foot DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56566"
+    },
+    {
+      "name": "Hihat Foot Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1431"
+    },
+    {
+      "name": "Hihat Foot LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55799"
+    },
+    {
+      "name": "Hihat Foot OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56567"
+    },
+    {
+      "name": "Hihat Foot ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55800"
+    },
+    {
+      "name": "Hihat Foot RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56568"
+    },
+    {
+      "name": "Hihat Foot SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56569"
+    },
+    {
+      "name": "Hihat Foot Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1432"
+    },
+    {
+      "name": "Hihat Foot SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56570"
+    },
+    {
+      "name": "Hihat Foot StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56571"
+    },
+    {
+      "name": "Hihat Foot WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55801"
+    },
+    {
+      "name": "Hihat Foot West Coast Band.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1433"
+    },
+    {
+      "name": "Hihat FutureMPC Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46703"
+    },
+    {
+      "name": "Hihat FutureMPC Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46704"
+    },
+    {
+      "name": "Hihat Glitch Tokyo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48315"
+    },
+    {
+      "name": "Hihat Greedo Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46705"
+    },
+    {
+      "name": "Hihat Half Open 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1434"
+    },
+    {
+      "name": "Hihat Half Open 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1435"
+    },
+    {
+      "name": "Hihat Half Open Dublyn.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46706"
+    },
+    {
+      "name": "Hihat Half-Open Stick Shank Yester Years.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1436"
+    },
+    {
+      "name": "Hihat Half-Open Stick Tip Hard 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1437"
+    },
+    {
+      "name": "Hihat Half-Open Stick Tip Hard 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1438"
+    },
+    {
+      "name": "Hihat Half-Open Stick Tip Soft 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1439"
+    },
+    {
+      "name": "Hihat Half-Open Stick Tip Soft 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1440"
+    },
+    {
+      "name": "Hihat Hi There Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46707"
+    },
+    {
+      "name": "Hihat Hiss Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37417"
+    },
+    {
+      "name": "Hihat Hiss.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42318"
+    },
+    {
+      "name": "Hihat Layer Triangle Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36218"
+    },
+    {
+      "name": "Hihat LD Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57933"
+    },
+    {
+      "name": "Hihat Light Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36219"
+    },
+    {
+      "name": "HIhat Light Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36220"
+    },
+    {
+      "name": "Hihat LoFi Closed 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57934"
+    },
+    {
+      "name": "Hihat LoFi Closed 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57935"
+    },
+    {
+      "name": "Hihat Low Filtered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36221"
+    },
+    {
+      "name": "Hihat Machine Chop Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36222"
+    },
+    {
+      "name": "Hihat Machine Closed 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57936"
+    },
+    {
+      "name": "Hihat Machine Closed 2 .aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57937"
+    },
+    {
+      "name": "Hihat Machine High Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37418"
+    },
+    {
+      "name": "Hihat Machine Low Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37419"
+    },
+    {
+      "name": "Hihat Machine Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57938"
+    },
+    {
+      "name": "Hihat Machine Thin Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37420"
+    },
+    {
+      "name": "Hihat MarsDisco Closed 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46708"
+    },
+    {
+      "name": "Hihat Md Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57939"
+    },
+    {
+      "name": "Hihat Md Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57940"
+    },
+    {
+      "name": "Hihat Metal Closed .aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57941"
+    },
+    {
+      "name": "Hihat Metal Loose SS2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36223"
+    },
+    {
+      "name": "Hihat Mix Bang.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39660"
+    },
+    {
+      "name": "Hihat Mkit Sample 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57942"
+    },
+    {
+      "name": "Hihat Mkit Sample 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57943"
+    },
+    {
+      "name": "Hihat Mkit Sample 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57944"
+    },
+    {
+      "name": "Hihat Mkit Sample 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57945"
+    },
+    {
+      "name": "Hihat Mkit Sample 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57946"
+    },
+    {
+      "name": "Hihat Mkit Sample 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57947"
+    },
+    {
+      "name": "Hihat Mkit Synth 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57948"
+    },
+    {
+      "name": "Hihat Mkit Synth 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57949"
+    },
+    {
+      "name": "Hihat Mkit Synth 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57950"
+    },
+    {
+      "name": "Hihat Mkit Synth 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57951"
+    },
+    {
+      "name": "Hihat Mkit Synth 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57952"
+    },
+    {
+      "name": "Hihat Modular Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37421"
+    },
+    {
+      "name": "Hihat MPC 707 Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57953"
+    },
+    {
+      "name": "Hihat MPC 707 Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57954"
+    },
+    {
+      "name": "Hihat MPC 707 Tam.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57955"
+    },
+    {
+      "name": "Hihat Multirod Closed DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56572"
+    },
+    {
+      "name": "Hihat Multirod Closed Shank DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56573"
+    },
+    {
+      "name": "Hihat Multirod Foot DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56574"
+    },
+    {
+      "name": "Hihat Multirod Open DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56575"
+    },
+    {
+      "name": "Hihat Multirod Open Shank DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56576"
+    },
+    {
+      "name": "Hihat Multirod Pedal DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56577"
+    },
+    {
+      "name": "Hihat Noise 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37422"
+    },
+    {
+      "name": "Hihat Noise 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54940"
+    },
+    {
+      "name": "Hihat Noise 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37423"
+    },
+    {
+      "name": "Hihat Noise 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54941"
+    },
+    {
+      "name": "Hihat Noise 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37424"
+    },
+    {
+      "name": "Hihat Noise 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54942"
+    },
+    {
+      "name": "Hihat Noise 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37425"
+    },
+    {
+      "name": "Hihat Noise 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37426"
+    },
+    {
+      "name": "Hihat Noise 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37427"
+    },
+    {
+      "name": "Hihat Noise Open 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57956"
+    },
+    {
+      "name": "Hihat Noise Open 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57957"
+    },
+    {
+      "name": "Hihat Noise Open 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57958"
+    },
+    {
+      "name": "Hihat Noise Open 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57959"
+    },
+    {
+      "name": "Hihat Noise Open 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57960"
+    },
+    {
+      "name": "Hihat Notroland Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57961"
+    },
+    {
+      "name": "Hihat Notroland Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57962"
+    },
+    {
+      "name": "Hihat Og Roll.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36224"
+    },
+    {
+      "name": "Hihat OldTool Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46709"
+    },
+    {
+      "name": "Hihat Open 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54943"
+    },
+    {
+      "name": "Hihat Open 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54944"
+    },
+    {
+      "name": "Hihat Open 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54945"
+    },
+    {
+      "name": "Hihat Open 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54946"
+    },
+    {
+      "name": "Hihat Open 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54947"
+    },
+    {
+      "name": "Hihat Open 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54948"
+    },
+    {
+      "name": "Hihat Open 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54949"
+    },
+    {
+      "name": "Hihat Open 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54950"
+    },
+    {
+      "name": "Hihat Open 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54951"
+    },
+    {
+      "name": "Hihat Open 53 TL.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1443"
+    },
+    {
+      "name": "Hihat Open 80s Spacecraft.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1447"
+    },
+    {
+      "name": "Hihat Open 505 Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46710"
+    },
+    {
+      "name": "Hihat Open 505.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1441"
+    },
+    {
+      "name": "Hihat Open 505.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1442"
+    },
+    {
+      "name": "Hihat Open 606.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1444"
+    },
+    {
+      "name": "Hihat Open 707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1445"
+    },
+    {
+      "name": "Hihat Open 808 1 Onyx.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46711"
+    },
+    {
+      "name": "Hihat Open 808 2 Onyx.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46712"
+    },
+    {
+      "name": "Hihat Open 808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1446"
+    },
+    {
+      "name": "Hihat Open 909.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1448"
+    },
+    {
+      "name": "Hihat Open Acoustic Core.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1449"
+    },
+    {
+      "name": "Hihat Open Acoustic Sizzle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1450"
+    },
+    {
+      "name": "Hihat Open Acoustified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46713"
+    },
+    {
+      "name": "Hihat Open Acoustified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46714"
+    },
+    {
+      "name": "Hihat Open Acoustified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46715"
+    },
+    {
+      "name": "Hihat Open Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1451"
+    },
+    {
+      "name": "Hihat Open Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46716"
+    },
+    {
+      "name": "Hihat Open Agile Shot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36225"
+    },
+    {
+      "name": "Hihat Open Air Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46717"
+    },
+    {
+      "name": "Hihat Open Alien Fash.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1452"
+    },
+    {
+      "name": "Hihat Open Alley.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39661"
+    },
+    {
+      "name": "Hihat Open AmbientLoudPunch MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56312"
+    },
+    {
+      "name": "Hihat Open AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56578"
+    },
+    {
+      "name": "Hihat Open Analog 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54952"
+    },
+    {
+      "name": "Hihat Open Analog 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54953"
+    },
+    {
+      "name": "Hihat Open Analog 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54954"
+    },
+    {
+      "name": "Hihat Open Analog 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54955"
+    },
+    {
+      "name": "Hihat Open Analog 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54956"
+    },
+    {
+      "name": "Hihat Open Analog 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54957"
+    },
+    {
+      "name": "Hihat Open Analog 18.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48316"
+    },
+    {
+      "name": "Hihat Open Analog Melt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48317"
+    },
+    {
+      "name": "Hihat Open Analog Night.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48318"
+    },
+    {
+      "name": "Hihat Open Analog Pyramid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48319"
+    },
+    {
+      "name": "Hihat Open Analog.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1453"
+    },
+    {
+      "name": "Hihat Open Bag.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39662"
+    },
+    {
+      "name": "Hihat Open Bam Vin.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1454"
+    },
+    {
+      "name": "Hihat Open Bang.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39663"
+    },
+    {
+      "name": "Hihat Open Bell.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37428"
+    },
+    {
+      "name": "Hihat Open BigPunchy MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55631"
+    },
+    {
+      "name": "Hihat Open BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55802"
+    },
+    {
+      "name": "Hihat Open Black Hole.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1455"
+    },
+    {
+      "name": "Hihat Open BlackHole.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42319"
+    },
+    {
+      "name": "Hihat Open Blue Room.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1456"
+    },
+    {
+      "name": "Hihat Open Bluesbreak.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1457"
+    },
+    {
+      "name": "Hihat Open Bonzo.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1458"
+    },
+    {
+      "name": "Hihat Open BrightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56313"
+    },
+    {
+      "name": "Hihat Open BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56579"
+    },
+    {
+      "name": "Hihat Open Brim.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1459"
+    },
+    {
+      "name": "Hihat Open Bring Em.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1460"
+    },
+    {
+      "name": "Hihat Open BritishVintage MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55632"
+    },
+    {
+      "name": "Hihat Open BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55803"
+    },
+    {
+      "name": "Hihat Open Brkhot.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1461"
+    },
+    {
+      "name": "Hihat Open Brush Club Sizzle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1462"
+    },
+    {
+      "name": "Hihat Open Burned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46718"
+    },
+    {
+      "name": "Hihat Open Canvas.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39664"
+    },
+    {
+      "name": "Hihat Open Casual Crisp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36226"
+    },
+    {
+      "name": "Hihat Open Chirp Hat.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1463"
+    },
+    {
+      "name": "Hihat Open Chopped.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1464"
+    },
+    {
+      "name": "Hihat Open ClassicMuffle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56314"
+    },
+    {
+      "name": "Hihat Open ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56580"
+    },
+    {
+      "name": "Hihat Open Close Acoustic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1465"
+    },
+    {
+      "name": "Hihat Open Code Out.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48320"
+    },
+    {
+      "name": "Hihat Open Code.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42320"
+    },
+    {
+      "name": "Hihat Open ColdTightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56315"
+    },
+    {
+      "name": "Hihat Open ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56581"
+    },
+    {
+      "name": "Hihat Open Combo Crackin.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46719"
+    },
+    {
+      "name": "Hihat Open CopStyle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56316"
+    },
+    {
+      "name": "Hihat Open CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56582"
+    },
+    {
+      "name": "Hihat Open DarkPlateVerb MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55633"
+    },
+    {
+      "name": "Hihat Open DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55804"
+    },
+    {
+      "name": "Hihat Open DeepSnareDynamics MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55634"
+    },
+    {
+      "name": "Hihat Open DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55805"
+    },
+    {
+      "name": "Hihat Open DirectNatural MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56317"
+    },
+    {
+      "name": "Hihat Open DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56583"
+    },
+    {
+      "name": "Hihat Open Dirty Chekov.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46720"
+    },
+    {
+      "name": "Hihat Open Dirty Crisp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36227"
+    },
+    {
+      "name": "Hihat Open Dizzy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1468"
+    },
+    {
+      "name": "Hihat Open DM Vintage.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1466"
+    },
+    {
+      "name": "Hihat Open DMX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46721"
+    },
+    {
+      "name": "Hihat Open DMX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1467"
+    },
+    {
+      "name": "Hihat Open Dolphins.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1469"
+    },
+    {
+      "name": "Hihat Open Dreams.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36228"
+    },
+    {
+      "name": "Hihat Open Drill.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1470"
+    },
+    {
+      "name": "Hihat Open EDM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37429"
+    },
+    {
+      "name": "Hihat Open Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46722"
+    },
+    {
+      "name": "Hihat Open Flared Out.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48321"
+    },
+    {
+      "name": "Hihat Open Funky Moon.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1471"
+    },
+    {
+      "name": "Hihat Open Future MPC.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1472"
+    },
+    {
+      "name": "Hihat Open Gen Purpose 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1473"
+    },
+    {
+      "name": "Hihat Open Gen Purpose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1474"
+    },
+    {
+      "name": "Hihat Open Good.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1475"
+    },
+    {
+      "name": "Hihat Open Greedo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1476"
+    },
+    {
+      "name": "Hihat Open H14.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1477"
+    },
+    {
+      "name": "Hihat Open Hard Tilt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54958"
+    },
+    {
+      "name": "Hihat Open Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37430"
+    },
+    {
+      "name": "Hihat Open Hat On Point 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1478"
+    },
+    {
+      "name": "Hihat Open Hi Electrified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46723"
+    },
+    {
+      "name": "Hihat Open High Machine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1479"
+    },
+    {
+      "name": "Hihat Open Interloper Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37431"
+    },
+    {
+      "name": "Hihat Open Ironman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39665"
+    },
+    {
+      "name": "Hihat Open Ironman.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1480"
+    },
+    {
+      "name": "Hihat Open K2L.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36229"
+    },
+    {
+      "name": "Hihat Open Kindified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46724"
+    },
+    {
+      "name": "Hihat Open Kindified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46725"
+    },
+    {
+      "name": "Hihat Open Kindified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46726"
+    },
+    {
+      "name": "Hihat Open Kingsway.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39666"
+    },
+    {
+      "name": "Hihat Open Late Nite.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1482"
+    },
+    {
+      "name": "Hihat Open Late Nite.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42321"
+    },
+    {
+      "name": "Hihat Open LD.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1481"
+    },
+    {
+      "name": "Hihat Open Light Wave.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1483"
+    },
+    {
+      "name": "Hihat Open Lit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46727"
+    },
+    {
+      "name": "Hihat Open Lo Electrified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46728"
+    },
+    {
+      "name": "HiHat Open Long Candler.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36230"
+    },
+    {
+      "name": "Hihat Open Long Shore.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1484"
+    },
+    {
+      "name": "Hihat Open Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39667"
+    },
+    {
+      "name": "Hihat Open Low Machine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1485"
+    },
+    {
+      "name": "Hihat Open LowLoudSquashed MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55635"
+    },
+    {
+      "name": "Hihat Open LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55806"
+    },
+    {
+      "name": "Hihat Open Machine Rest.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48322"
+    },
+    {
+      "name": "Hihat Open Machine Speak 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48323"
+    },
+    {
+      "name": "Hihat Open Machine Speak 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48324"
+    },
+    {
+      "name": "Hihat Open Mars Disco.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1486"
+    },
+    {
+      "name": "Hihat Open Mkit Sample 6.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1487"
+    },
+    {
+      "name": "Hihat Open Modular Tada.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48325"
+    },
+    {
+      "name": "Hihat Open Move.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39668"
+    },
+    {
+      "name": "Hihat Open Move.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1488"
+    },
+    {
+      "name": "Hihat Open MultirodDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56318"
+    },
+    {
+      "name": "Hihat Open Natural 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54959"
+    },
+    {
+      "name": "Hihat Open Natural 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54960"
+    },
+    {
+      "name": "Hihat Open Natural 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54961"
+    },
+    {
+      "name": "Hihat Open Noise 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54962"
+    },
+    {
+      "name": "Hihat Open Noise 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54963"
+    },
+    {
+      "name": "Hihat Open Noise Boxer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48326"
+    },
+    {
+      "name": "Hihat Open Noise Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46729"
+    },
+    {
+      "name": "Hihat Open Noise Metal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1489"
+    },
+    {
+      "name": "Hihat Open Noise Metal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42322"
+    },
+    {
+      "name": "Hihat Open Noise Sonar.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48327"
+    },
+    {
+      "name": "Hihat Open Noise Thizz.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42323"
+    },
+    {
+      "name": "Hihat Open Noise Tilt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54964"
+    },
+    {
+      "name": "Hihat Open Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46730"
+    },
+    {
+      "name": "Hihat Open OldSchool MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56319"
+    },
+    {
+      "name": "Hihat Open OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56584"
+    },
+    {
+      "name": "Hihat Open Overdrive.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46731"
+    },
+    {
+      "name": "Hihat Open Parale.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1490"
+    },
+    {
+      "name": "Hihat Open PCM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57963"
+    },
+    {
+      "name": "Hihat Open Peace Corp.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1491"
+    },
+    {
+      "name": "Hihat Open Peace.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39669"
+    },
+    {
+      "name": "Hihat Open Pedal Wah Soul.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39670"
+    },
+    {
+      "name": "Hihat Open Pedal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1492"
+    },
+    {
+      "name": "Hihat Open Pete.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39671"
+    },
+    {
+      "name": "Hihat Open Pete.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1493"
+    },
+    {
+      "name": "Hihat Open Pitched.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54965"
+    },
+    {
+      "name": "Hihat Open Plymouth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46732"
+    },
+    {
+      "name": "Hihat Open Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46733"
+    },
+    {
+      "name": "Hihat Open Radio Rip.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36231"
+    },
+    {
+      "name": "Hihat Open Rattler.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1495"
+    },
+    {
+      "name": "Hihat Open ResoClassic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55636"
+    },
+    {
+      "name": "Hihat Open ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55807"
+    },
+    {
+      "name": "Hihat Open Reznoise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48328"
+    },
+    {
+      "name": "Hihat Open RKTD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37432"
+    },
+    {
+      "name": "Hihat Open RKTD.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1494"
+    },
+    {
+      "name": "Hihat Open Road Monger.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36232"
+    },
+    {
+      "name": "Hihat Open Robo Hut.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1496"
+    },
+    {
+      "name": "Hihat Open Rolling.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57964"
+    },
+    {
+      "name": "Hihat Open RoomWithAVista MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56320"
+    },
+    {
+      "name": "Hihat Open RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56585"
+    },
+    {
+      "name": "Hihat Open Rub.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39672"
+    },
+    {
+      "name": "Hihat Open Running.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57965"
+    },
+    {
+      "name": "Hihat Open Scorched.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46734"
+    },
+    {
+      "name": "Hihat Open SessionDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56321"
+    },
+    {
+      "name": "Hihat Open SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56586"
+    },
+    {
+      "name": "Hihat Open Shank AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56587"
+    },
+    {
+      "name": "Hihat Open Shank BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55808"
+    },
+    {
+      "name": "Hihat Open Shank BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55809"
+    },
+    {
+      "name": "Hihat Open Shank ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56588"
+    },
+    {
+      "name": "Hihat Open Shank ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56589"
+    },
+    {
+      "name": "Hihat Open Shank CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56590"
+    },
+    {
+      "name": "Hihat Open Shank DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55810"
+    },
+    {
+      "name": "Hihat Open Shank DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56591"
+    },
+    {
+      "name": "Hihat Open Shank LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55811"
+    },
+    {
+      "name": "Hihat Open Shank OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56592"
+    },
+    {
+      "name": "Hihat Open Shank ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55812"
+    },
+    {
+      "name": "Hihat Open Shank RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56593"
+    },
+    {
+      "name": "Hihat Open Shank SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56594"
+    },
+    {
+      "name": "Hihat Open Shank SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56595"
+    },
+    {
+      "name": "Hihat Open Shank StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56596"
+    },
+    {
+      "name": "Hihat Open Shank WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55813"
+    },
+    {
+      "name": "Hihat Open Sharp 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54966"
+    },
+    {
+      "name": "Hihat Open Sharp 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54967"
+    },
+    {
+      "name": "Hihat Open Sharp 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54968"
+    },
+    {
+      "name": "Hihat Open Sharp 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54969"
+    },
+    {
+      "name": "Hihat Open Shuffling.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1498"
+    },
+    {
+      "name": "Hihat Open Side.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1499"
+    },
+    {
+      "name": "Hihat Open Silver.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1500"
+    },
+    {
+      "name": "Hihat Open Slackjaw.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39673"
+    },
+    {
+      "name": "Hihat Open Slackjaw.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1501"
+    },
+    {
+      "name": "Hihat Open Smack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46735"
+    },
+    {
+      "name": "Hihat Open Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37433"
+    },
+    {
+      "name": "Hihat Open Soothed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1502"
+    },
+    {
+      "name": "Hihat Open SP.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1497"
+    },
+    {
+      "name": "Hihat Open SteelyTight MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56322"
+    },
+    {
+      "name": "Hihat Open SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56597"
+    },
+    {
+      "name": "Hihat Open Stick Hit West Coast Band.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1503"
+    },
+    {
+      "name": "Hihat Open Stick Tip Hard 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1504"
+    },
+    {
+      "name": "Hihat Open Stick Tip Hard 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1505"
+    },
+    {
+      "name": "Hihat Open Stick Tip Soft 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1506"
+    },
+    {
+      "name": "Hihat Open Stick Tip Soft 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1507"
+    },
+    {
+      "name": "Hihat Open Stick Tip Yester Years.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1508"
+    },
+    {
+      "name": "Hihat Open Stick Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1509"
+    },
+    {
+      "name": "Hihat Open Stick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1510"
+    },
+    {
+      "name": "Hihat Open StudioBasic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56323"
+    },
+    {
+      "name": "Hihat Open StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56598"
+    },
+    {
+      "name": "Hihat Open Super.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1511"
+    },
+    {
+      "name": "Hihat Open Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46736"
+    },
+    {
+      "name": "Hihat Open Thin Analogue.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1512"
+    },
+    {
+      "name": "Hihat Open Tokyo 1 Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48329"
+    },
+    {
+      "name": "Hihat Open Tokyo 2 Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48330"
+    },
+    {
+      "name": "Hihat Open Tokyo 3 Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48331"
+    },
+    {
+      "name": "Hihat Open Tokyo 4 Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48332"
+    },
+    {
+      "name": "Hihat Open Tokyo 5 Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48333"
+    },
+    {
+      "name": "Hihat Open Tokyo 6 Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48334"
+    },
+    {
+      "name": "Hihat Open Trad.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42324"
+    },
+    {
+      "name": "Hihat Open Trad.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1513"
+    },
+    {
+      "name": "Hihat Open Trax.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46737"
+    },
+    {
+      "name": "Hihat Open Twenty 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46738"
+    },
+    {
+      "name": "HiHat Open Twenty Crystal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42325"
+    },
+    {
+      "name": "Hihat Open Twenty Crystal.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1514"
+    },
+    {
+      "name": "Hihat Open V5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1515"
+    },
+    {
+      "name": "Hihat Open Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46739"
+    },
+    {
+      "name": "Hihat Open Vinyl Alias.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1516"
+    },
+    {
+      "name": "Hihat Open Vinyl DLB 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1517"
+    },
+    {
+      "name": "Hihat Open Vinyl DLF.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1518"
+    },
+    {
+      "name": "Hihat Open Vinyl DLG.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1519"
+    },
+    {
+      "name": "Hihat Open Vinyl Kick.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1520"
+    },
+    {
+      "name": "Hihat Open Vinyl SP 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1521"
+    },
+    {
+      "name": "Hihat Open Vinyl SP 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1522"
+    },
+    {
+      "name": "Hihat Open Virtual Steel.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1523"
+    },
+    {
+      "name": "Hihat Open Wah Soul.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_39674"
+    },
+    {
+      "name": "Hihat Open Wanna.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_1524"
+    },
+    {
+      "name": "Hihat Open WarmAndLow MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55637"
+    },
+    {
+      "name": "Hihat Open WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55814"
+    },
+    {
+      "name": "HIHAT PE TL 14 brush closed.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45889"
+    },
+    {
+      "name": "HIHAT PE TL 14 brush half open 1.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45890"
+    },
+    {
+      "name": "HIHAT PE TL 14 brush half open 2.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45891"
+    },
+    {
+      "name": "HIHAT PE TL 14 brush loose 1.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45892"
+    },
+    {
+      "name": "HIHAT PE TL 14 brush loose 2.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45893"
+    },
+    {
+      "name": "HIHAT PE TL 14 brush open.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45894"
+    },
+    {
+      "name": "HIHAT PE TL 14 brush quarter open.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45895"
+    },
+    {
+      "name": "HIHAT PE TL 14 closed tip less tight.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45896"
+    },
+    {
+      "name": "HIHAT PE TL 14 closed tip tight 1.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45897"
+    },
+    {
+      "name": "HIHAT PE TL 14 open side.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45898"
+    },
+    {
+      "name": "HIHAT PE TL 14 pedal 1.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45899"
+    },
+    {
+      "name": "HIHAT PE TL 14 pedal 2.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45900"
+    },
+    {
+      "name": "HIHAT PE TL 14 side loose.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45901"
+    },
+    {
+      "name": "HIHAT PE TL 14 side open.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45902"
+    },
+    {
+      "name": "HIHAT PE TL 14 side quarter open.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45903"
+    },
+    {
+      "name": "HIHAT PE TW15 closed side tight.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45904"
+    },
+    {
+      "name": "HIHAT PE TW15 closed tip tight.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45905"
+    },
+    {
+      "name": "HIHAT PE TW15 open.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45906"
+    },
+    {
+      "name": "HIHAT PE TW15 side loose.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45907"
+    },
+    {
+      "name": "HIHAT PE TW15 tip loose.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_45908"
+    },
+    {
+      "name": "Hihat PeaceCorp Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46740"
+    },
+    {
+      "name": "Hihat Pedal AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56599"
+    },
+    {
+      "name": "Hihat Pedal BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55815"
+    },
+    {
+      "name": "Hihat Pedal BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56600"
+    },
+    {
+      "name": "Hihat Pedal BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55816"
+    },
+    {
+      "name": "Hihat Pedal ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56601"
+    },
+    {
+      "name": "Hihat Pedal ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56602"
+    },
+    {
+      "name": "Hihat Pedal CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56603"
+    },
+    {
+      "name": "Hihat Pedal DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55817"
+    },
+    {
+      "name": "Hihat Pedal DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55818"
+    },
+    {
+      "name": "Hihat Pedal DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56604"
+    },
+    {
+      "name": "Hihat Pedal LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55819"
+    },
+    {
+      "name": "Hihat Pedal OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56605"
+    },
+    {
+      "name": "Hihat Pedal ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55820"
+    },
+    {
+      "name": "Hihat Pedal RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56606"
+    },
+    {
+      "name": "Hihat Pedal SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56607"
+    },
+    {
+      "name": "Hihat Pedal SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56608"
+    },
+    {
+      "name": "Hihat Pedal StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_56609"
+    },
+    {
+      "name": "Hihat Pedal WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_55821"
+    },
+    {
+      "name": "Hihat Pedal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46741"
+    },
+    {
+      "name": "HiHat PS Twenty 15 - 04.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46742"
+    },
+    {
+      "name": "HiHat PS Twenty 15 - 07.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46743"
+    },
+    {
+      "name": "HiHat PS Twenty 15 - 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46744"
+    },
+    {
+      "name": "Hihat Quick Watcher.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36233"
+    },
+    {
+      "name": "Hihat Repeater Fill.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36234"
+    },
+    {
+      "name": "Hihat Room Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57966"
+    },
+    {
+      "name": "Hihat Shakey High Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37434"
+    },
+    {
+      "name": "Hihat Shakey Low Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37435"
+    },
+    {
+      "name": "Hihat Short Loop Dirty.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36235"
+    },
+    {
+      "name": "Hihat Short Slice.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36236"
+    },
+    {
+      "name": "Hihat Shy Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46745"
+    },
+    {
+      "name": "Hihat Silver Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46746"
+    },
+    {
+      "name": "Hihat SP Metallic Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57967"
+    },
+    {
+      "name": "Hihat SP Metallic Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57968"
+    },
+    {
+      "name": "Hihat Step SP.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57969"
+    },
+    {
+      "name": "Hihat Stereo Noise Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57970"
+    },
+    {
+      "name": "Hihat Sweep Voltage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36237"
+    },
+    {
+      "name": "Hihat Thin Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36238"
+    },
+    {
+      "name": "Hihat Thin Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37436"
+    },
+    {
+      "name": "Hihat Tin Closed Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37437"
+    },
+    {
+      "name": "Hihat Tin Closed Lo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37438"
+    },
+    {
+      "name": "Hihat Tiny Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36239"
+    },
+    {
+      "name": "Hihat Trad.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42326"
+    },
+    {
+      "name": "Hihat Trap Lofi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_36240"
+    },
+    {
+      "name": "Hihat Trash 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57971"
+    },
+    {
+      "name": "Hihat Trash 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57972"
+    },
+    {
+      "name": "Hihat Trash Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37439"
+    },
+    {
+      "name": "Hihat Trash.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_48335"
+    },
+    {
+      "name": "Hihat Trax Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57973"
+    },
+    {
+      "name": "Hihat Trax Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_57974"
+    },
+    {
+      "name": "Hihat Vinyl DLF Closed 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46747"
+    },
+    {
+      "name": "Hihat Vinyl SP Closed 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46748"
+    },
+    {
+      "name": "Hihat Vinyl SP Closed 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46749"
+    },
+    {
+      "name": "Hihat Vinyl SP Closed 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46750"
+    },
+    {
+      "name": "Hihat Vinyl SP Closed 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46751"
+    },
+    {
+      "name": "Hihat Zils High.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_42327"
+    },
+    {
+      "name": "Hihat-606-Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46752"
+    },
+    {
+      "name": "Hihat-606-Combo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46753"
+    },
+    {
+      "name": "Hihat-606-Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46754"
+    },
+    {
+      "name": "Hihat-707-Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46755"
+    },
+    {
+      "name": "Hihat-707-Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46756"
+    },
+    {
+      "name": "Hihat-808-Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46757"
+    },
+    {
+      "name": "Hihat-808-Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46758"
+    },
+    {
+      "name": "Hihat-909-Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46759"
+    },
+    {
+      "name": "Hihat-909-Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46760"
+    },
+    {
+      "name": "Hihat-C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46761"
+    },
+    {
+      "name": "Hihat-LD-Closed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46762"
+    },
+    {
+      "name": "Hihat-LD-Open.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46763"
+    },
+    {
+      "name": "Hihat-SessionDry-Foot-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46764"
+    },
+    {
+      "name": "Hihat-SessionDry-Foot-Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46765"
+    },
+    {
+      "name": "Hihat-SessionDry-Stick-Tip-001-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46766"
+    },
+    {
+      "name": "Hihat-SessionDry-Stick-Tip-001-Medium.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46767"
+    },
+    {
+      "name": "Hihat-SessionDry-Stick-Tip-001-Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46768"
+    },
+    {
+      "name": "Hihat-SessionDry-Stick-Tip-002-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46769"
+    },
+    {
+      "name": "Hihat-SessionDry-Stick-Tip-002-Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46770"
+    },
+    {
+      "name": "Hihat-SessionDry-Stick-Tip-003-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46771"
+    },
+    {
+      "name": "Hihat-SessionDry-Stick-Tip-003-Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46772"
+    },
+    {
+      "name": "Hihat-SessionDry-Stick-Tip-004-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46773"
+    },
+    {
+      "name": "Hihat-SessionDry-Stick-Tip-004-Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46774"
+    },
+    {
+      "name": "Hihat-SessionDry-Stick-Tip-005-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46775"
+    },
+    {
+      "name": "Hihat-SessionDry-Stick-Tip-005-Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46776"
+    },
+    {
+      "name": "Hihat-SessionDry-Stick-Tip-006-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46777"
+    },
+    {
+      "name": "Hihat-SessionDry-Stick-Tip-006-Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46778"
+    },
+    {
+      "name": "Open HH Comb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_37440"
+    },
+    {
+      "name": "OpenHH Acoustified 01.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46779"
+    },
+    {
+      "name": "OpenHH Acoustified 03.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46780"
+    },
+    {
+      "name": "OpenHH Acoustified 05.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46781"
+    },
+    {
+      "name": "OpenHH Acoustified 07.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46782"
+    },
+    {
+      "name": "OpenHH Acoustified 09.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46783"
+    },
+    {
+      "name": "OpenHH Acoustified 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_46784"
+    },
+    {
+      "name": "Shake Delay.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54970"
+    },
+    {
+      "name": "Shaker Analog 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54971"
+    },
+    {
+      "name": "Shaker Natural 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54972"
+    },
+    {
+      "name": "Shaker Natural 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54973"
+    },
+    {
+      "name": "Shaker Sharp 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54974"
+    },
+    {
+      "name": "Shaker Sharp 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54975"
+    },
+    {
+      "name": "Tamb Crash.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Hihat:FileId_54976"
+    }
+  ]
+}

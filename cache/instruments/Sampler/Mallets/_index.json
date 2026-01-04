@@ -1,0 +1,108 @@
+{
+  "path": "Instruments/Sampler/Mallets",
+  "name": "Mallets",
+  "uri": "query:Synths#Sampler:Mallets",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Bedroom Kalimba (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Mallets:FileId_51231"
+    },
+    {
+      "name": "Bellagio.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Mallets:FileId_51232"
+    },
+    {
+      "name": "Bellevue.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Mallets:FileId_51233"
+    },
+    {
+      "name": "Ceramic Dreams.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Mallets:FileId_51234"
+    },
+    {
+      "name": "Ceramic Melodies (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Mallets:FileId_51235"
+    },
+    {
+      "name": "Crystal Big Bowl (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Mallets:FileId_51236"
+    },
+    {
+      "name": "Crystal Pyramid (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Mallets:FileId_51237"
+    },
+    {
+      "name": "Glassimba (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Mallets:FileId_51239"
+    },
+    {
+      "name": "Glassophone (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Mallets:FileId_51240"
+    },
+    {
+      "name": "Morning Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Mallets:FileId_51242"
+    },
+    {
+      "name": "Nostalgic VHS Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Mallets:FileId_3996"
+    },
+    {
+      "name": "Tube CardBoard (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Mallets:FileId_51243"
+    },
+    {
+      "name": "Wavey Bowl.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Mallets:FileId_51244"
+    },
+    {
+      "name": "Zen Bowl.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Mallets:FileId_51245"
+    }
+  ]
+}

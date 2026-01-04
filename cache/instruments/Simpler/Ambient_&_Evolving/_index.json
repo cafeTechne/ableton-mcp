@@ -1,0 +1,262 @@
+{
+  "path": "Instruments/Simpler/Ambient & Evolving",
+  "name": "Ambient & Evolving",
+  "uri": "query:Synths#Simpler:Ambient%20&%20Evolving",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "3RDEYEZ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43213"
+    },
+    {
+      "name": "Ambient Swells.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_5286"
+    },
+    {
+      "name": "Barely Breathable.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_48958"
+    },
+    {
+      "name": "Bowed Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43205"
+    },
+    {
+      "name": "Canyon Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43216"
+    },
+    {
+      "name": "Cyber Angel Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43218"
+    },
+    {
+      "name": "Cylinder.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43219"
+    },
+    {
+      "name": "Drone E-Tanpura Rack.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43262"
+    },
+    {
+      "name": "Duetta Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_5287"
+    },
+    {
+      "name": "Erase Or Stay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43201"
+    },
+    {
+      "name": "Hallow Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43224"
+    },
+    {
+      "name": "Hourglass Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43227"
+    },
+    {
+      "name": "Internal Routing.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43228"
+    },
+    {
+      "name": "Jarble Ambience.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_5288"
+    },
+    {
+      "name": "Multi Drone Machine.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_48967"
+    },
+    {
+      "name": "Night Owl.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_51141"
+    },
+    {
+      "name": "Olivine Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43206"
+    },
+    {
+      "name": "Parsec Breach.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43230"
+    },
+    {
+      "name": "Pelog.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43264"
+    },
+    {
+      "name": "Pipe Organ Octavius.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43202"
+    },
+    {
+      "name": "Pitched Ambience.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_4026"
+    },
+    {
+      "name": "Razor Wire Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43232"
+    },
+    {
+      "name": "Sad Planet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_48970"
+    },
+    {
+      "name": "Seashore Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_4027"
+    },
+    {
+      "name": "Serpentine Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43207"
+    },
+    {
+      "name": "Silent Night Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43234"
+    },
+    {
+      "name": "Solfeggio Mirror Forks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43265"
+    },
+    {
+      "name": "Spaghetti Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43235"
+    },
+    {
+      "name": "Specathedral Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43203"
+    },
+    {
+      "name": "Summer Machine.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_51149"
+    },
+    {
+      "name": "Texture Machine.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_51151"
+    },
+    {
+      "name": "Toxic Atmosphere.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_48976"
+    },
+    {
+      "name": "Turtle Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43236"
+    },
+    {
+      "name": "Whispering Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_51153"
+    },
+    {
+      "name": "XEMF.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43269"
+    },
+    {
+      "name": "XITHER.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Ambient%20&%20Evolving:FileId_43270"
+    }
+  ]
+}

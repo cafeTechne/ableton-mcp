@@ -1,0 +1,59 @@
+{
+  "path": "Instruments/Tension/Strings",
+  "name": "Strings",
+  "uri": "query:Synths#Tension:Strings",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Cello Strings.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Strings:FileId_5136"
+    },
+    {
+      "name": "Ensemble Strings.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Strings:FileId_5137"
+    },
+    {
+      "name": "Feedback Bow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Strings:FileId_3834"
+    },
+    {
+      "name": "Pizz Strings.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Strings:FileId_5138"
+    },
+    {
+      "name": "Strings Quartet.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Strings:FileId_5139"
+    },
+    {
+      "name": "Vintage Strings.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Strings:FileId_5140"
+    },
+    {
+      "name": "Violin Strings.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Strings:FileId_5141"
+    }
+  ]
+}

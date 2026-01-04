@@ -1,0 +1,5309 @@
+{
+  "path": "drums/Drum Hits/Tom",
+  "name": "Tom",
+  "uri": "query:Drums#Drum%20Hits:Tom",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "FLOORTOM PL 1816 finger.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_45959"
+    },
+    {
+      "name": "FLOORTOM SR 1412 finger.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_45960"
+    },
+    {
+      "name": "FLOORTOM SR 1412 JAZZ brush center.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_45961"
+    },
+    {
+      "name": "FLOORTOM SR 1412 JAZZ brush off center.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_45962"
+    },
+    {
+      "name": "FLOORTOM SR 1412 JAZZ stick center.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_45963"
+    },
+    {
+      "name": "FLOORTOM SR 1412 stick center.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_45964"
+    },
+    {
+      "name": "FLOORTOM SR 1612 stick center.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_45965"
+    },
+    {
+      "name": "FLOORTOM SR 1614 finger.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_45966"
+    },
+    {
+      "name": "FLOORTOM SR 1614 stick center.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_45967"
+    },
+    {
+      "name": "FX Perc LoFill Distort.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_48945"
+    },
+    {
+      "name": "Perc Vintage 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_48946"
+    },
+    {
+      "name": "RACKTOM SR 1008 stick center.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_45968"
+    },
+    {
+      "name": "RACKTOM SR 1209 finger.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_45969"
+    },
+    {
+      "name": "RACKTOM SR 1209 JAZZ brush center.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_45970"
+    },
+    {
+      "name": "RACKTOM SR 1209 JAZZ brush off center.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_45971"
+    },
+    {
+      "name": "RACKTOM SR 1209 JAZZ stick center.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_45972"
+    },
+    {
+      "name": "RACKTOM SR 1209 stick center.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_45973"
+    },
+    {
+      "name": "Roto 14 - 23.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47365"
+    },
+    {
+      "name": "Tom 1 Clinical.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47366"
+    },
+    {
+      "name": "Tom 2 Clinical.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47367"
+    },
+    {
+      "name": "Tom 3 Clinical.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47368"
+    },
+    {
+      "name": "Tom 70s MPC 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47372"
+    },
+    {
+      "name": "Tom 70s MPC 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_277"
+    },
+    {
+      "name": "Tom 70s MPC 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47373"
+    },
+    {
+      "name": "Tom 70s MPC 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_278"
+    },
+    {
+      "name": "Tom 70s MPC 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_279"
+    },
+    {
+      "name": "Tom 80s Space Craft 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_290"
+    },
+    {
+      "name": "Tom 80s Space Craft 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_291"
+    },
+    {
+      "name": "Tom 80s Space Craft 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_292"
+    },
+    {
+      "name": "Tom 80s Space Craft 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_293"
+    },
+    {
+      "name": "Tom 90s Heavy Rock 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_312"
+    },
+    {
+      "name": "Tom 90s Heavy Rock 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_313"
+    },
+    {
+      "name": "Tom 90s Heavy Rock 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_314"
+    },
+    {
+      "name": "Tom 90s Heavy Rock 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_315"
+    },
+    {
+      "name": "Tom 505 ASR 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47369"
+    },
+    {
+      "name": "Tom 505 ASR 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_264"
+    },
+    {
+      "name": "Tom 505 ASR 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47370"
+    },
+    {
+      "name": "Tom 505 ASR 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_265"
+    },
+    {
+      "name": "Tom 505 ASR 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_266"
+    },
+    {
+      "name": "Tom 505 Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_267"
+    },
+    {
+      "name": "Tom 505 Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_268"
+    },
+    {
+      "name": "Tom 505 Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_269"
+    },
+    {
+      "name": "Tom 606 Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_270"
+    },
+    {
+      "name": "Tom 606 Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_271"
+    },
+    {
+      "name": "Tom 606 PEQ2 B2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47371"
+    },
+    {
+      "name": "Tom 606 PEQ2 B2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_272"
+    },
+    {
+      "name": "Tom 606 PEQ2 G#3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_273"
+    },
+    {
+      "name": "Tom 707 Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59133"
+    },
+    {
+      "name": "Tom 707 Hi.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_274"
+    },
+    {
+      "name": "Tom 707 Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59134"
+    },
+    {
+      "name": "Tom 707 Low.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_275"
+    },
+    {
+      "name": "Tom 707 Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_276"
+    },
+    {
+      "name": "Tom 707 Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59135"
+    },
+    {
+      "name": "Tom 808 Hi 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59136"
+    },
+    {
+      "name": "Tom 808 Hi 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59137"
+    },
+    {
+      "name": "Tom 808 Hi 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59138"
+    },
+    {
+      "name": "Tom 808 Hi DMX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_280"
+    },
+    {
+      "name": "Tom 808 Hi Durty.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_36381"
+    },
+    {
+      "name": "Tom 808 Hi I.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47374"
+    },
+    {
+      "name": "Tom 808 Hi II.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47375"
+    },
+    {
+      "name": "Tom 808 Hi Onyx.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47376"
+    },
+    {
+      "name": "Tom 808 Hi Shady.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_36382"
+    },
+    {
+      "name": "Tom 808 Hi Short Retro.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47377"
+    },
+    {
+      "name": "Tom 808 Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_281"
+    },
+    {
+      "name": "Tom 808 Lo 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59139"
+    },
+    {
+      "name": "Tom 808 Lo 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59140"
+    },
+    {
+      "name": "Tom 808 Lo 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59141"
+    },
+    {
+      "name": "Tom 808 Lo Hiss.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47378"
+    },
+    {
+      "name": "Tom 808 Lo Onyx.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47379"
+    },
+    {
+      "name": "Tom 808 Lo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47380"
+    },
+    {
+      "name": "Tom 808 Low DMX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_282"
+    },
+    {
+      "name": "Tom 808 Low Durty.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_36383"
+    },
+    {
+      "name": "Tom 808 Low Shady.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_36384"
+    },
+    {
+      "name": "Tom 808 Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_283"
+    },
+    {
+      "name": "Tom 808 Mid 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59142"
+    },
+    {
+      "name": "Tom 808 Mid 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59143"
+    },
+    {
+      "name": "Tom 808 Mid 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59144"
+    },
+    {
+      "name": "Tom 808 Mid DMX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_284"
+    },
+    {
+      "name": "Tom 808 Mid Dub.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47381"
+    },
+    {
+      "name": "Tom 808 Mid Durty.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_36385"
+    },
+    {
+      "name": "Tom 808 Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_285"
+    },
+    {
+      "name": "Tom 808 Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47382"
+    },
+    {
+      "name": "Tom 808 Mid-A Shady.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_36386"
+    },
+    {
+      "name": "Tom 808 Mid-B Shady.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_36387"
+    },
+    {
+      "name": "Tom 808 Muffled Mid Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47383"
+    },
+    {
+      "name": "Tom 808 Muffled Retro.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47384"
+    },
+    {
+      "name": "Tom 808 Muffled Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47385"
+    },
+    {
+      "name": "Tom 808 PEQ 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_286"
+    },
+    {
+      "name": "Tom 808 PEQ 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_287"
+    },
+    {
+      "name": "Tom 808 PEQ 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_288"
+    },
+    {
+      "name": "Tom 808 PEQ 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_289"
+    },
+    {
+      "name": "Tom 909 Hi 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38217"
+    },
+    {
+      "name": "Tom 909 Hi 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_294"
+    },
+    {
+      "name": "Tom 909 Hi 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38218"
+    },
+    {
+      "name": "Tom 909 Hi 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_295"
+    },
+    {
+      "name": "Tom 909 Hi 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_296"
+    },
+    {
+      "name": "Tom 909 Hi K.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_297"
+    },
+    {
+      "name": "Tom 909 Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_298"
+    },
+    {
+      "name": "Tom 909 Lo 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38219"
+    },
+    {
+      "name": "Tom 909 Lo 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38220"
+    },
+    {
+      "name": "Tom 909 Lo 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38221"
+    },
+    {
+      "name": "Tom 909 Lo 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_299"
+    },
+    {
+      "name": "Tom 909 Low Alt.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_300"
+    },
+    {
+      "name": "Tom 909 Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_301"
+    },
+    {
+      "name": "Tom 909 Mid 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38222"
+    },
+    {
+      "name": "Tom 909 Mid 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_302"
+    },
+    {
+      "name": "Tom 909 Mid 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38223"
+    },
+    {
+      "name": "Tom 909 Mid 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_303"
+    },
+    {
+      "name": "Tom 909 Mid 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38224"
+    },
+    {
+      "name": "Tom 909 Mid 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_304"
+    },
+    {
+      "name": "Tom 909 Mid K.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_305"
+    },
+    {
+      "name": "Tom 909 Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_306"
+    },
+    {
+      "name": "Tom 909 Tran 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_307"
+    },
+    {
+      "name": "Tom 909 Tran 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_308"
+    },
+    {
+      "name": "Tom 909 Tran 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_309"
+    },
+    {
+      "name": "Tom 909 Tran 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_310"
+    },
+    {
+      "name": "Tom 909 Tran 5.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_311"
+    },
+    {
+      "name": "Tom Achad High.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_316"
+    },
+    {
+      "name": "Tom Achad Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_317"
+    },
+    {
+      "name": "Tom Achad Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_318"
+    },
+    {
+      "name": "Tom Acoustic Damp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42434"
+    },
+    {
+      "name": "Tom Acoustic Heavy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42435"
+    },
+    {
+      "name": "Tom Acoustic Ring.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42436"
+    },
+    {
+      "name": "Tom Acoustic Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_39813"
+    },
+    {
+      "name": "Tom Acoustic Yakiman 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_319"
+    },
+    {
+      "name": "Tom Acoustic Yakiman 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42437"
+    },
+    {
+      "name": "Tom Acoustic Yakiman 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_320"
+    },
+    {
+      "name": "Tom Acoustic Yakiman 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42438"
+    },
+    {
+      "name": "Tom Acoustified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47388"
+    },
+    {
+      "name": "Tom Acoustified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47389"
+    },
+    {
+      "name": "Tom Acoustified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47390"
+    },
+    {
+      "name": "Tom Acoustified 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47391"
+    },
+    {
+      "name": "Tom Acoustified 06 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47386"
+    },
+    {
+      "name": "Tom Acoustified 08 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47387"
+    },
+    {
+      "name": "Tom Air Lo Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47392"
+    },
+    {
+      "name": "Tom Air Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47393"
+    },
+    {
+      "name": "Tom Analog 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55394"
+    },
+    {
+      "name": "Tom Analog 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55399"
+    },
+    {
+      "name": "Tom Analog 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55400"
+    },
+    {
+      "name": "Tom Analog 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55401"
+    },
+    {
+      "name": "Tom Analog 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55402"
+    },
+    {
+      "name": "Tom Analog 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55403"
+    },
+    {
+      "name": "Tom Analog 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55404"
+    },
+    {
+      "name": "Tom Analog 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55405"
+    },
+    {
+      "name": "Tom Analog 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55406"
+    },
+    {
+      "name": "Tom Analog 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55395"
+    },
+    {
+      "name": "Tom Analog 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55396"
+    },
+    {
+      "name": "Tom Analog 13.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55397"
+    },
+    {
+      "name": "Tom Analog 14.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55398"
+    },
+    {
+      "name": "Tom Analog Drop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_321"
+    },
+    {
+      "name": "Tom Analog Drop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42439"
+    },
+    {
+      "name": "Tom Analog Minischool 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_48947"
+    },
+    {
+      "name": "Tom Analog Preon.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_48948"
+    },
+    {
+      "name": "Tom Analog Static.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42440"
+    },
+    {
+      "name": "Tom B SP 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_322"
+    },
+    {
+      "name": "Tom B SP 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_323"
+    },
+    {
+      "name": "Tom B SP 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_324"
+    },
+    {
+      "name": "Tom B SP 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_325"
+    },
+    {
+      "name": "Tom B SP 5.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_326"
+    },
+    {
+      "name": "Tom B SP 6.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_327"
+    },
+    {
+      "name": "Tom Baby Whale.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_328"
+    },
+    {
+      "name": "Tom Big Slackjaw.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_329"
+    },
+    {
+      "name": "Tom Bit Crush.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_330"
+    },
+    {
+      "name": "Tom Blop Electrified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_331"
+    },
+    {
+      "name": "Tom Blue Room 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_332"
+    },
+    {
+      "name": "Tom Blue Room 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_333"
+    },
+    {
+      "name": "Tom Blue Room 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_334"
+    },
+    {
+      "name": "Tom Blue Room 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_335"
+    },
+    {
+      "name": "Tom Blueprint.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_39814"
+    },
+    {
+      "name": "Tom BlueRoom 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47394"
+    },
+    {
+      "name": "Tom BlueRoom 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47395"
+    },
+    {
+      "name": "Tom BlueRoom 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47396"
+    },
+    {
+      "name": "Tom BlueRoom 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47397"
+    },
+    {
+      "name": "Tom Bluesbreak 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47398"
+    },
+    {
+      "name": "Tom Bluesbreak 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_336"
+    },
+    {
+      "name": "Tom Bluesbreak 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47399"
+    },
+    {
+      "name": "Tom Bluesbreak 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_337"
+    },
+    {
+      "name": "Tom Boing Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47400"
+    },
+    {
+      "name": "Tom Bolly.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_338"
+    },
+    {
+      "name": "Tom Bonk.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_339"
+    },
+    {
+      "name": "Tom Brooklyn.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_39815"
+    },
+    {
+      "name": "Tom Brush Floor BrushSizzle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55660"
+    },
+    {
+      "name": "Tom Brush Floor ClubSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55902"
+    },
+    {
+      "name": "Tom Brush High BrushSizzle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55661"
+    },
+    {
+      "name": "Tom Brush High ClubSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55903"
+    },
+    {
+      "name": "Tom Brush Hit Hard Club Sizzle 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_340"
+    },
+    {
+      "name": "Tom Brush Hit Soft Club Sizzle 14.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_341"
+    },
+    {
+      "name": "Tom Brush Hit Soft Club Sizzle 16.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_342"
+    },
+    {
+      "name": "Tom Brush Low BrushSizzle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55662"
+    },
+    {
+      "name": "Tom Brush Low ClubSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55904"
+    },
+    {
+      "name": "Tom Brush Mid BrushSizzle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55663"
+    },
+    {
+      "name": "Tom Brush Mid ClubSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55905"
+    },
+    {
+      "name": "Tom Bucket.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_343"
+    },
+    {
+      "name": "Tom Buttermilk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_39816"
+    },
+    {
+      "name": "Tom Buzz.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47401"
+    },
+    {
+      "name": "Tom CD 456.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_344"
+    },
+    {
+      "name": "Tom Cheap SP 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_345"
+    },
+    {
+      "name": "Tom Cheap SP 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_346"
+    },
+    {
+      "name": "Tom Classy Hi Punch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47402"
+    },
+    {
+      "name": "Tom Classy Low Punch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47403"
+    },
+    {
+      "name": "Tom Crush Source.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_347"
+    },
+    {
+      "name": "Tom Crush Wah Soul.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_39817"
+    },
+    {
+      "name": "Tom DDD Fatx 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_351"
+    },
+    {
+      "name": "Tom DDD Fatx 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_352"
+    },
+    {
+      "name": "Tom DDD Fatx 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_353"
+    },
+    {
+      "name": "Tom Digi Cute.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_36388"
+    },
+    {
+      "name": "Tom Digi Restrained.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_36389"
+    },
+    {
+      "name": "Tom Digidrum 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55407"
+    },
+    {
+      "name": "Tom Digidrum 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55408"
+    },
+    {
+      "name": "Tom Digidrum 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55409"
+    },
+    {
+      "name": "Tom Digidrum 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55410"
+    },
+    {
+      "name": "Tom Digidrum 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55411"
+    },
+    {
+      "name": "Tom Digidrum 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55412"
+    },
+    {
+      "name": "Tom Digidrum 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55413"
+    },
+    {
+      "name": "Tom Digidrum 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55414"
+    },
+    {
+      "name": "Tom Digital 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_366"
+    },
+    {
+      "name": "Tom Digital 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59145"
+    },
+    {
+      "name": "Tom Digital 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59146"
+    },
+    {
+      "name": "Tom Digital 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59147"
+    },
+    {
+      "name": "Tom Digital Layered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_367"
+    },
+    {
+      "name": "Tom Digital Layered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42441"
+    },
+    {
+      "name": "Tom Digital Preon.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_48949"
+    },
+    {
+      "name": "Tom Digital Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42442"
+    },
+    {
+      "name": "Tom Digital.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38225"
+    },
+    {
+      "name": "Tom Dirty.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_368"
+    },
+    {
+      "name": "Tom DMX Fatso 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47407"
+    },
+    {
+      "name": "Tom DMX Fatso 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_354"
+    },
+    {
+      "name": "Tom DMX Fatso 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47408"
+    },
+    {
+      "name": "Tom DMX Fatso 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_355"
+    },
+    {
+      "name": "Tom DMX Fatso 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47409"
+    },
+    {
+      "name": "Tom DMX Fatso 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_356"
+    },
+    {
+      "name": "Tom DMX Fatso 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47410"
+    },
+    {
+      "name": "Tom DMX Fatso 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_357"
+    },
+    {
+      "name": "Tom DMX Fatso 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47411"
+    },
+    {
+      "name": "Tom DMX Fatso 5.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_358"
+    },
+    {
+      "name": "Tom DMX Fatso 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47412"
+    },
+    {
+      "name": "Tom DMX Fatso 6.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_359"
+    },
+    {
+      "name": "Tom DMX Hi 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_360"
+    },
+    {
+      "name": "Tom DMX Hi 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_361"
+    },
+    {
+      "name": "Tom DMX Hi 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_362"
+    },
+    {
+      "name": "Tom DMX Hi C.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47413"
+    },
+    {
+      "name": "Tom DMX Hi I.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47414"
+    },
+    {
+      "name": "Tom DMX Hi II.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47415"
+    },
+    {
+      "name": "Tom DMX Lo A.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47416"
+    },
+    {
+      "name": "Tom DMX Lo II.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47417"
+    },
+    {
+      "name": "Tom DMX Low 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_363"
+    },
+    {
+      "name": "Tom DMX Low 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_364"
+    },
+    {
+      "name": "Tom DMX Low 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_365"
+    },
+    {
+      "name": "Tom D-ulator Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47404"
+    },
+    {
+      "name": "Tom D-ulator Hi.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_348"
+    },
+    {
+      "name": "Tom D-ulator Lo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47405"
+    },
+    {
+      "name": "Tom D-ulator Lo.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_349"
+    },
+    {
+      "name": "Tom D-ulator Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47406"
+    },
+    {
+      "name": "Tom D-ulator Mid.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_350"
+    },
+    {
+      "name": "Tom E4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_369"
+    },
+    {
+      "name": "Tom E501 Break 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_370"
+    },
+    {
+      "name": "Tom E501 Break 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_371"
+    },
+    {
+      "name": "Tom ED10 Fat 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_372"
+    },
+    {
+      "name": "Tom ED10 Fat 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_373"
+    },
+    {
+      "name": "Tom ED10 Fat 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_374"
+    },
+    {
+      "name": "Tom ED10 Fat 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_375"
+    },
+    {
+      "name": "Tom ED10 Fat 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47418"
+    },
+    {
+      "name": "Tom ED10 Fat 5.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_376"
+    },
+    {
+      "name": "Tom ED10 Fat 6.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_377"
+    },
+    {
+      "name": "Tom Elec High.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38226"
+    },
+    {
+      "name": "Tom Elec Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38227"
+    },
+    {
+      "name": "Tom Electrified 01.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47419"
+    },
+    {
+      "name": "Tom Electrified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47425"
+    },
+    {
+      "name": "Tom Electrified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47430"
+    },
+    {
+      "name": "Tom Electrified 03.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47420"
+    },
+    {
+      "name": "Tom Electrified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47431"
+    },
+    {
+      "name": "Tom Electrified 05.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47421"
+    },
+    {
+      "name": "Tom Electrified 06.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47422"
+    },
+    {
+      "name": "Tom Electrified 08.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47423"
+    },
+    {
+      "name": "Tom Electrified 09.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47424"
+    },
+    {
+      "name": "Tom Electrified 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47426"
+    },
+    {
+      "name": "Tom Electrified 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47427"
+    },
+    {
+      "name": "Tom Electrified 13.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47428"
+    },
+    {
+      "name": "Tom Electrified 15.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47429"
+    },
+    {
+      "name": "Tom Electronic SP 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47432"
+    },
+    {
+      "name": "Tom Electronic SP 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_381"
+    },
+    {
+      "name": "Tom Electronic SP 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_382"
+    },
+    {
+      "name": "Tom Electronic SP 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47433"
+    },
+    {
+      "name": "Tom Electronic SP 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_383"
+    },
+    {
+      "name": "Tom Electronic SP 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_384"
+    },
+    {
+      "name": "Tom Electronic SP 5.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_385"
+    },
+    {
+      "name": "Tom Electronic Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_39818"
+    },
+    {
+      "name": "Tom ER Fenk 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_378"
+    },
+    {
+      "name": "Tom ER Fenk 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_379"
+    },
+    {
+      "name": "Tom ER Fenk 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_380"
+    },
+    {
+      "name": "Tom Fat Down.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38228"
+    },
+    {
+      "name": "Tom Fleet.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_386"
+    },
+    {
+      "name": "Tom Floor AmbientLoudPunch MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56358"
+    },
+    {
+      "name": "Tom Floor AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56727"
+    },
+    {
+      "name": "Tom Floor BigPunchy MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55664"
+    },
+    {
+      "name": "Tom Floor BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55906"
+    },
+    {
+      "name": "Tom Floor BrightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56359"
+    },
+    {
+      "name": "Tom Floor BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56728"
+    },
+    {
+      "name": "Tom Floor BritishVintage MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55665"
+    },
+    {
+      "name": "Tom Floor BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55907"
+    },
+    {
+      "name": "Tom Floor ClassicMuffle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56360"
+    },
+    {
+      "name": "Tom Floor ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56729"
+    },
+    {
+      "name": "Tom Floor ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56730"
+    },
+    {
+      "name": "Tom Floor CopStyle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56361"
+    },
+    {
+      "name": "Tom Floor CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56731"
+    },
+    {
+      "name": "Tom Floor DarkPlateVerb MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55666"
+    },
+    {
+      "name": "Tom Floor DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55908"
+    },
+    {
+      "name": "Tom Floor DeepSnareDynamics MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55667"
+    },
+    {
+      "name": "Tom Floor DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55909"
+    },
+    {
+      "name": "Tom Floor DirectNatural MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56362"
+    },
+    {
+      "name": "Tom Floor DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56732"
+    },
+    {
+      "name": "Tom Floor High BrightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56363"
+    },
+    {
+      "name": "Tom Floor High BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56733"
+    },
+    {
+      "name": "Tom Floor High ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56734"
+    },
+    {
+      "name": "Tom Floor LowLoudSquashed MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55668"
+    },
+    {
+      "name": "Tom Floor LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55910"
+    },
+    {
+      "name": "Tom Floor OldSchool MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56364"
+    },
+    {
+      "name": "Tom Floor OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56735"
+    },
+    {
+      "name": "Tom Floor ResoClassic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55669"
+    },
+    {
+      "name": "Tom Floor ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55911"
+    },
+    {
+      "name": "Tom Floor RoomWithAVista MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56365"
+    },
+    {
+      "name": "Tom Floor RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56736"
+    },
+    {
+      "name": "Tom Floor SessionDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56366"
+    },
+    {
+      "name": "Tom Floor SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56737"
+    },
+    {
+      "name": "Tom Floor SteelyTight MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56367"
+    },
+    {
+      "name": "Tom Floor SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56738"
+    },
+    {
+      "name": "Tom Floor Stick Center.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_387"
+    },
+    {
+      "name": "Tom Floor StudioBasic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56368"
+    },
+    {
+      "name": "Tom Floor StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56739"
+    },
+    {
+      "name": "Tom Floor WarmAndLow MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55670"
+    },
+    {
+      "name": "Tom Floor WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55912"
+    },
+    {
+      "name": "Tom Fly.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_39819"
+    },
+    {
+      "name": "Tom Future Proof.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_388"
+    },
+    {
+      "name": "Tom FX 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55415"
+    },
+    {
+      "name": "Tom FX 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55416"
+    },
+    {
+      "name": "Tom FX 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55417"
+    },
+    {
+      "name": "Tom FX 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55418"
+    },
+    {
+      "name": "Tom FX 5 Pitched.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55419"
+    },
+    {
+      "name": "Tom FX 6 Ring.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55420"
+    },
+    {
+      "name": "Tom FX 7 Rattle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55421"
+    },
+    {
+      "name": "Tom FX High.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_48950"
+    },
+    {
+      "name": "Tom Graded.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_389"
+    },
+    {
+      "name": "Tom Hard Plastic Baskets.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59148"
+    },
+    {
+      "name": "Tom Haskell High.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_390"
+    },
+    {
+      "name": "Tom Haskell Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_391"
+    },
+    {
+      "name": "Tom Hats Canvas.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_39820"
+    },
+    {
+      "name": "Tom Hi 505 Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47434"
+    },
+    {
+      "name": "Tom Hi Acoustic 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38229"
+    },
+    {
+      "name": "Tom Hi Acoustic 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38230"
+    },
+    {
+      "name": "Tom Hi Burned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47435"
+    },
+    {
+      "name": "Tom Hi DMX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59149"
+    },
+    {
+      "name": "Tom Hi EDM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38231"
+    },
+    {
+      "name": "Tom Hi Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47436"
+    },
+    {
+      "name": "Tom Hi Hybrid Sense.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47437"
+    },
+    {
+      "name": "Tom Hi Trax.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59150"
+    },
+    {
+      "name": "Tom Hi Vintage 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38232"
+    },
+    {
+      "name": "Tom Hi Vintage 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38233"
+    },
+    {
+      "name": "Tom High Alley.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_39821"
+    },
+    {
+      "name": "Tom High AmbientLoudPunch MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56369"
+    },
+    {
+      "name": "Tom High AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56740"
+    },
+    {
+      "name": "Tom High BigPunchy MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55671"
+    },
+    {
+      "name": "Tom High BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55913"
+    },
+    {
+      "name": "Tom High BrightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56370"
+    },
+    {
+      "name": "Tom High BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56741"
+    },
+    {
+      "name": "Tom High Bullets.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_392"
+    },
+    {
+      "name": "Tom High ClassicMuffle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56371"
+    },
+    {
+      "name": "Tom High ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56742"
+    },
+    {
+      "name": "Tom High ColdTightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56372"
+    },
+    {
+      "name": "Tom High ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56743"
+    },
+    {
+      "name": "Tom High CopStyle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56373"
+    },
+    {
+      "name": "Tom High CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56744"
+    },
+    {
+      "name": "Tom High DarkPlateVerb MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55672"
+    },
+    {
+      "name": "Tom High DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55914"
+    },
+    {
+      "name": "Tom High DeepSnareDynamics MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55673"
+    },
+    {
+      "name": "Tom High DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55915"
+    },
+    {
+      "name": "Tom High DirectNatural MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56374"
+    },
+    {
+      "name": "Tom High DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56745"
+    },
+    {
+      "name": "Tom High DMX Tonic.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_393"
+    },
+    {
+      "name": "Tom High DMX Vinyl.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42443"
+    },
+    {
+      "name": "Tom High Gen Purpose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_394"
+    },
+    {
+      "name": "Tom High LowLoudSquashed MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55674"
+    },
+    {
+      "name": "Tom High LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55916"
+    },
+    {
+      "name": "Tom High Rough.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_395"
+    },
+    {
+      "name": "Tom High Sage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42444"
+    },
+    {
+      "name": "Tom High SessionDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56375"
+    },
+    {
+      "name": "Tom High SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56746"
+    },
+    {
+      "name": "Tom High SteelyTight MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56376"
+    },
+    {
+      "name": "Tom High SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56747"
+    },
+    {
+      "name": "Tom High StudioBasic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56377"
+    },
+    {
+      "name": "Tom High StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56748"
+    },
+    {
+      "name": "Tom High WarmAndLow MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55675"
+    },
+    {
+      "name": "Tom High WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55917"
+    },
+    {
+      "name": "Tom HighFloor AmbientLoudPunch MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56378"
+    },
+    {
+      "name": "Tom HighFloor AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56749"
+    },
+    {
+      "name": "Tom HighFloor StudioBasic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56379"
+    },
+    {
+      "name": "Tom HighFloor StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56750"
+    },
+    {
+      "name": "Tom High-Mid Gen Purpose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_396"
+    },
+    {
+      "name": "Tom Hybrid Sense.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47438"
+    },
+    {
+      "name": "Tom Hymned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38234"
+    },
+    {
+      "name": "Tom Impact Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47439"
+    },
+    {
+      "name": "Tom Jack Lo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_397"
+    },
+    {
+      "name": "Tom Jack Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_398"
+    },
+    {
+      "name": "Tom Jupiter Mop 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_399"
+    },
+    {
+      "name": "Tom Jupiter Mop 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_400"
+    },
+    {
+      "name": "Tom Jupiter Mop 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_401"
+    },
+    {
+      "name": "Tom Kat.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_39822"
+    },
+    {
+      "name": "Tom Kindified 01.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47440"
+    },
+    {
+      "name": "Tom Kindified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47447"
+    },
+    {
+      "name": "Tom Kindified 03.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47441"
+    },
+    {
+      "name": "Tom Kindified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47448"
+    },
+    {
+      "name": "Tom Kindified 04.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47442"
+    },
+    {
+      "name": "Tom Kindified 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47449"
+    },
+    {
+      "name": "Tom Kindified 08.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47443"
+    },
+    {
+      "name": "Tom Kindified 09.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47444"
+    },
+    {
+      "name": "Tom Kindified 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47445"
+    },
+    {
+      "name": "Tom Kindified 13.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47446"
+    },
+    {
+      "name": "Tom Kindified.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_404"
+    },
+    {
+      "name": "Tom KPR 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_402"
+    },
+    {
+      "name": "Tom KPR 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47450"
+    },
+    {
+      "name": "Tom KPR 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_403"
+    },
+    {
+      "name": "Tom LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_405"
+    },
+    {
+      "name": "Tom LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47451"
+    },
+    {
+      "name": "Tom Likewise High.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_406"
+    },
+    {
+      "name": "Tom Likewise Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_407"
+    },
+    {
+      "name": "Tom Likewise Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_408"
+    },
+    {
+      "name": "Tom Lit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47452"
+    },
+    {
+      "name": "Tom Lo Acoustic 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38235"
+    },
+    {
+      "name": "Tom Lo Acoustic 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38236"
+    },
+    {
+      "name": "Tom Lo Acoustic 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38237"
+    },
+    {
+      "name": "Tom Lo Acoustic 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38238"
+    },
+    {
+      "name": "Tom Lo Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47453"
+    },
+    {
+      "name": "Tom Lo Analog 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38239"
+    },
+    {
+      "name": "Tom Lo Analog 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38240"
+    },
+    {
+      "name": "Tom Lo Attack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59151"
+    },
+    {
+      "name": "Tom Lo Burned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47454"
+    },
+    {
+      "name": "Tom Lo DMX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59152"
+    },
+    {
+      "name": "Tom Lo Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47455"
+    },
+    {
+      "name": "Tom Lo Trax.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59153"
+    },
+    {
+      "name": "Tom Lo Tron.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59154"
+    },
+    {
+      "name": "Tom Lo Vintage 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38241"
+    },
+    {
+      "name": "Tom Low 505 Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47456"
+    },
+    {
+      "name": "Tom Low Alley.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_39823"
+    },
+    {
+      "name": "Tom Low AmbientLoudPunch MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56380"
+    },
+    {
+      "name": "Tom Low AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56751"
+    },
+    {
+      "name": "Tom Low BigPunchy MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55676"
+    },
+    {
+      "name": "Tom Low BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55918"
+    },
+    {
+      "name": "Tom Low BrightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56381"
+    },
+    {
+      "name": "Tom Low BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56752"
+    },
+    {
+      "name": "Tom Low BritishVintage MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55677"
+    },
+    {
+      "name": "Tom Low BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55919"
+    },
+    {
+      "name": "Tom Low Bullets.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_409"
+    },
+    {
+      "name": "Tom Low ClassicMuffle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56382"
+    },
+    {
+      "name": "Tom Low ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56753"
+    },
+    {
+      "name": "Tom Low ColdTightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56383"
+    },
+    {
+      "name": "Tom Low ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56754"
+    },
+    {
+      "name": "Tom Low CopStyle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56384"
+    },
+    {
+      "name": "Tom Low CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56755"
+    },
+    {
+      "name": "Tom Low DarkPlateVerb MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55678"
+    },
+    {
+      "name": "Tom Low DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55920"
+    },
+    {
+      "name": "Tom Low DeepSnareDynamics MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55679"
+    },
+    {
+      "name": "Tom Low DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55921"
+    },
+    {
+      "name": "Tom Low DirectNatural MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56385"
+    },
+    {
+      "name": "Tom Low DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56756"
+    },
+    {
+      "name": "Tom Low DMX Tonic.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_410"
+    },
+    {
+      "name": "Tom Low DMX Vinyl.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42445"
+    },
+    {
+      "name": "Tom Low Dobbs.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_39824"
+    },
+    {
+      "name": "Tom Low Drop Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42446"
+    },
+    {
+      "name": "Tom Low EDM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38242"
+    },
+    {
+      "name": "Tom Low Gen Purpose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_411"
+    },
+    {
+      "name": "Tom Low LowLoudSquashed MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55680"
+    },
+    {
+      "name": "Tom Low LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55922"
+    },
+    {
+      "name": "Tom Low OldSchool MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56386"
+    },
+    {
+      "name": "Tom Low OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56757"
+    },
+    {
+      "name": "Tom Low ResoClassic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55681"
+    },
+    {
+      "name": "Tom Low ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55923"
+    },
+    {
+      "name": "Tom Low RoomWithAVista MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56387"
+    },
+    {
+      "name": "Tom Low RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56758"
+    },
+    {
+      "name": "Tom Low Rough.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_412"
+    },
+    {
+      "name": "Tom Low SessionDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56388"
+    },
+    {
+      "name": "Tom Low SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56759"
+    },
+    {
+      "name": "Tom Low SteelyTight MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56389"
+    },
+    {
+      "name": "Tom Low SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56760"
+    },
+    {
+      "name": "Tom Low StudioBasic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56390"
+    },
+    {
+      "name": "Tom Low StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56761"
+    },
+    {
+      "name": "Tom Low WarmAndLow MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55682"
+    },
+    {
+      "name": "Tom Low WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55924"
+    },
+    {
+      "name": "Tom Low-Mid Gen Purpose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_413"
+    },
+    {
+      "name": "Tom Machine Blip.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_39825"
+    },
+    {
+      "name": "Tom Marching Trade Aid.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_426"
+    },
+    {
+      "name": "Tom Metatom High.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_427"
+    },
+    {
+      "name": "Tom Metatom Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_428"
+    },
+    {
+      "name": "Tom Metatom Mid .aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_429"
+    },
+    {
+      "name": "Tom MG1 Fat 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47457"
+    },
+    {
+      "name": "Tom MG1 Fat 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_414"
+    },
+    {
+      "name": "Tom MG1 Fat 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47458"
+    },
+    {
+      "name": "Tom MG1 Fat 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_415"
+    },
+    {
+      "name": "Tom MG1 Fat 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47459"
+    },
+    {
+      "name": "Tom MG1 Fat 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_416"
+    },
+    {
+      "name": "Tom MG1 Fat 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47460"
+    },
+    {
+      "name": "Tom MG1 Fat 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_417"
+    },
+    {
+      "name": "Tom Mid 505 Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47461"
+    },
+    {
+      "name": "Tom Mid Acoustic 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38243"
+    },
+    {
+      "name": "Tom Mid Acoustic 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38244"
+    },
+    {
+      "name": "Tom Mid Acoustic 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38245"
+    },
+    {
+      "name": "Tom Mid Acoustic 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38246"
+    },
+    {
+      "name": "Tom Mid Acoustic 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38247"
+    },
+    {
+      "name": "Tom Mid Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47462"
+    },
+    {
+      "name": "Tom Mid AmbientLoudPunch MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56391"
+    },
+    {
+      "name": "Tom Mid AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56762"
+    },
+    {
+      "name": "Tom Mid Analog 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38248"
+    },
+    {
+      "name": "Tom Mid Analog 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_430"
+    },
+    {
+      "name": "Tom Mid Analog 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_431"
+    },
+    {
+      "name": "Tom Mid Analog 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38249"
+    },
+    {
+      "name": "Tom Mid Analog 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38250"
+    },
+    {
+      "name": "Tom Mid Analog 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38251"
+    },
+    {
+      "name": "Tom Mid Attack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59155"
+    },
+    {
+      "name": "Tom Mid BigPunchy MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55683"
+    },
+    {
+      "name": "Tom Mid BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55925"
+    },
+    {
+      "name": "Tom Mid BrightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56392"
+    },
+    {
+      "name": "Tom Mid BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56763"
+    },
+    {
+      "name": "Tom Mid BritishVintage MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55684"
+    },
+    {
+      "name": "Tom Mid BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55926"
+    },
+    {
+      "name": "Tom Mid Bullets.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_432"
+    },
+    {
+      "name": "Tom Mid ClassicMuffle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56393"
+    },
+    {
+      "name": "Tom Mid ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56764"
+    },
+    {
+      "name": "Tom Mid ColdTightRoom MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56394"
+    },
+    {
+      "name": "Tom Mid ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56765"
+    },
+    {
+      "name": "Tom Mid CopStyle MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56395"
+    },
+    {
+      "name": "Tom Mid CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56766"
+    },
+    {
+      "name": "Tom Mid DarkPlateVerb MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55685"
+    },
+    {
+      "name": "Tom Mid DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55927"
+    },
+    {
+      "name": "Tom Mid DeepSnareDynamics MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55686"
+    },
+    {
+      "name": "Tom Mid DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55928"
+    },
+    {
+      "name": "Tom Mid Delay.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_433"
+    },
+    {
+      "name": "Tom Mid DirectNatural MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56396"
+    },
+    {
+      "name": "Tom Mid DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56767"
+    },
+    {
+      "name": "Tom Mid DMX Vinyl.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42447"
+    },
+    {
+      "name": "Tom Mid Dobbs.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_39826"
+    },
+    {
+      "name": "Tom Mid Dobbs.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_434"
+    },
+    {
+      "name": "Tom Mid Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47463"
+    },
+    {
+      "name": "Tom Mid Gretsch 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_435"
+    },
+    {
+      "name": "Tom Mid Gretsch 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_436"
+    },
+    {
+      "name": "Tom Mid LowLoudSquashed MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55687"
+    },
+    {
+      "name": "Tom Mid LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55929"
+    },
+    {
+      "name": "Tom Mid OldSchool MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56397"
+    },
+    {
+      "name": "Tom Mid OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56768"
+    },
+    {
+      "name": "Tom Mid Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47464"
+    },
+    {
+      "name": "Tom Mid ResoClassic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55688"
+    },
+    {
+      "name": "Tom Mid ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55930"
+    },
+    {
+      "name": "Tom Mid RoomWithAVista MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56398"
+    },
+    {
+      "name": "Tom Mid RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56769"
+    },
+    {
+      "name": "Tom Mid Sage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42448"
+    },
+    {
+      "name": "Tom Mid SessionDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56399"
+    },
+    {
+      "name": "Tom Mid SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56770"
+    },
+    {
+      "name": "Tom Mid SteelyTight MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56400"
+    },
+    {
+      "name": "Tom Mid SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56771"
+    },
+    {
+      "name": "Tom Mid StudioBasic MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56401"
+    },
+    {
+      "name": "Tom Mid StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56772"
+    },
+    {
+      "name": "Tom Mid Tron.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59156"
+    },
+    {
+      "name": "Tom Mid Vintage 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38252"
+    },
+    {
+      "name": "Tom Mid Vintage 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38253"
+    },
+    {
+      "name": "Tom Mid Vintage 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38254"
+    },
+    {
+      "name": "Tom Mid Vintage 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38255"
+    },
+    {
+      "name": "Tom Mid Vintage 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38256"
+    },
+    {
+      "name": "Tom Mid Vintage 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38257"
+    },
+    {
+      "name": "Tom Mid Vintage 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38258"
+    },
+    {
+      "name": "Tom Mid Vintage Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42449"
+    },
+    {
+      "name": "Tom Mid WarmAndLow MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55689"
+    },
+    {
+      "name": "Tom Mid WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55931"
+    },
+    {
+      "name": "Tom Mkit Skitter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59157"
+    },
+    {
+      "name": "Tom MKS 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_418"
+    },
+    {
+      "name": "Tom MKS 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_419"
+    },
+    {
+      "name": "Tom MKS 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_420"
+    },
+    {
+      "name": "Tom MKS 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_421"
+    },
+    {
+      "name": "Tom MKS 5.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_422"
+    },
+    {
+      "name": "Tom MKS 6.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_423"
+    },
+    {
+      "name": "Tom MKS 7.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_424"
+    },
+    {
+      "name": "Tom MKS 8.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_425"
+    },
+    {
+      "name": "Tom Muffled Plastic Baskets.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59158"
+    },
+    {
+      "name": "Tom Multirod Floor DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56773"
+    },
+    {
+      "name": "Tom Multirod Floor MultirodDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56402"
+    },
+    {
+      "name": "Tom Multirod High DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56774"
+    },
+    {
+      "name": "Tom Multirod High MultirodDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56403"
+    },
+    {
+      "name": "Tom Multirod Low DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56775"
+    },
+    {
+      "name": "Tom Multirod Low MultirodDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56404"
+    },
+    {
+      "name": "Tom Multirod Mid DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56776"
+    },
+    {
+      "name": "Tom Multirod Mid MultirodDry MPE.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_56405"
+    },
+    {
+      "name": "Tom Muted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55422"
+    },
+    {
+      "name": "Tom Noise Impact Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47465"
+    },
+    {
+      "name": "Tom Noise Spring Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47466"
+    },
+    {
+      "name": "Tom Overdrive 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55423"
+    },
+    {
+      "name": "Tom Overdrive 2 Amp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55424"
+    },
+    {
+      "name": "Tom Overdrive 3 Amp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55425"
+    },
+    {
+      "name": "Tom Overdrive 4 Dist.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55426"
+    },
+    {
+      "name": "Tom Overdrive Impact Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47467"
+    },
+    {
+      "name": "Tom Overdrive Impact.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47468"
+    },
+    {
+      "name": "Tom Overdrive Industrial.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47469"
+    },
+    {
+      "name": "Tom Pete.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_437"
+    },
+    {
+      "name": "Tom Phive.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_438"
+    },
+    {
+      "name": "Tom Pluto Mop 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_439"
+    },
+    {
+      "name": "Tom Pluto Mop 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_440"
+    },
+    {
+      "name": "Tom PO Blunt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_48951"
+    },
+    {
+      "name": "Tom PO High.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42450"
+    },
+    {
+      "name": "Tom PO Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42451"
+    },
+    {
+      "name": "Tom PO Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42452"
+    },
+    {
+      "name": "Tom PO Preon.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_48952"
+    },
+    {
+      "name": "Tom PO Pyramid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_48953"
+    },
+    {
+      "name": "Tom PO Zap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_48954"
+    },
+    {
+      "name": "Tom Powered.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_441"
+    },
+    {
+      "name": "Tom ProL Abuse.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_442"
+    },
+    {
+      "name": "Tom Prommer Vinyl 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_443"
+    },
+    {
+      "name": "Tom Prommer Vinyl 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_444"
+    },
+    {
+      "name": "Tom R100 Clean 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_445"
+    },
+    {
+      "name": "Tom R100 Clean 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_446"
+    },
+    {
+      "name": "Tom R100 Electronic 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47470"
+    },
+    {
+      "name": "Tom R100 Electronic 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_447"
+    },
+    {
+      "name": "Tom R100 Electronic 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47471"
+    },
+    {
+      "name": "Tom R100 Electronic 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_448"
+    },
+    {
+      "name": "Tom R100 Electronic 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47472"
+    },
+    {
+      "name": "Tom R100 Electronic 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_449"
+    },
+    {
+      "name": "Tom Rack Stick Center 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_451"
+    },
+    {
+      "name": "Tom Rack Stick Center 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_452"
+    },
+    {
+      "name": "Tom Rack Stick Center 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_453"
+    },
+    {
+      "name": "Tom Radio Rip Lo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_36390"
+    },
+    {
+      "name": "Tom Real SP 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_454"
+    },
+    {
+      "name": "Tom Real SP 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_455"
+    },
+    {
+      "name": "Tom Real Tee Shirt.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_456"
+    },
+    {
+      "name": "Tom Red Ana.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_457"
+    },
+    {
+      "name": "Tom Reg MPC 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_458"
+    },
+    {
+      "name": "Tom Reg MPC 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_459"
+    },
+    {
+      "name": "Tom Reg MPC 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_460"
+    },
+    {
+      "name": "Tom Resonant SP.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59159"
+    },
+    {
+      "name": "Tom Reunion.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_39827"
+    },
+    {
+      "name": "Tom RKTD.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_450"
+    },
+    {
+      "name": "Tom Roto 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47473"
+    },
+    {
+      "name": "Tom Roto 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47474"
+    },
+    {
+      "name": "Tom Roto 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47475"
+    },
+    {
+      "name": "Tom Roto 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47476"
+    },
+    {
+      "name": "Tom Roto 8 Inch 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47477"
+    },
+    {
+      "name": "Tom Roto 8 Inch 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47478"
+    },
+    {
+      "name": "Tom Roto 8 Inch 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47479"
+    },
+    {
+      "name": "Tom Roto 8 Inch 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47480"
+    },
+    {
+      "name": "Tom Roto 8 Inch Plymouth 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_461"
+    },
+    {
+      "name": "Tom Roto 8 Inch Plymouth 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_462"
+    },
+    {
+      "name": "Tom Roto 8 Inch Plymouth 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_463"
+    },
+    {
+      "name": "Tom Roto 8 Inch Plymouth 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_464"
+    },
+    {
+      "name": "Tom Rudebot High Mid.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_465"
+    },
+    {
+      "name": "Tom Rudebot High.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_466"
+    },
+    {
+      "name": "Tom Rudebot Low Mid.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_467"
+    },
+    {
+      "name": "Tom Rudebot Low.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_468"
+    },
+    {
+      "name": "Tom Rudebot Very High.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_469"
+    },
+    {
+      "name": "Tom SciFi Lo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_36391"
+    },
+    {
+      "name": "Tom Shadowed 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47481"
+    },
+    {
+      "name": "Tom Shadowed 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47482"
+    },
+    {
+      "name": "Tom Shadowed 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47483"
+    },
+    {
+      "name": "Tom Shadowed 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47484"
+    },
+    {
+      "name": "Tom sharp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55427"
+    },
+    {
+      "name": "Tom Sister ST.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_476"
+    },
+    {
+      "name": "Tom Slam Dam 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_477"
+    },
+    {
+      "name": "Tom Slam Dam 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_478"
+    },
+    {
+      "name": "Tom Slam Dam 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_479"
+    },
+    {
+      "name": "Tom Slap Kindified.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_480"
+    },
+    {
+      "name": "Tom Soft Plastic Baskets.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59160"
+    },
+    {
+      "name": "Tom SP 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_470"
+    },
+    {
+      "name": "Tom SP 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_471"
+    },
+    {
+      "name": "Tom SP 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_472"
+    },
+    {
+      "name": "Tom SP 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_473"
+    },
+    {
+      "name": "Tom SP 5.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_474"
+    },
+    {
+      "name": "Tom SP 6.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_475"
+    },
+    {
+      "name": "Tom Sp Acoustic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_36392"
+    },
+    {
+      "name": "Tom Stick Hit Hard Bright Room 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_481"
+    },
+    {
+      "name": "Tom Stick Hit Hard Bright Room 16.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_482"
+    },
+    {
+      "name": "Tom Stick Hit Hard British Vintage 14.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_483"
+    },
+    {
+      "name": "Tom Stick Hit Hard British Vintage 16.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_484"
+    },
+    {
+      "name": "Tom Stick Hit Hard British Vintage 18.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_485"
+    },
+    {
+      "name": "Tom Stick Hit Hard Dry Session 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_486"
+    },
+    {
+      "name": "Tom Stick Hit Hard Dry Session 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_487"
+    },
+    {
+      "name": "Tom Stick Hit Hard Dry Session 14.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_488"
+    },
+    {
+      "name": "Tom Stick Hit Hard Dry Session 16.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_489"
+    },
+    {
+      "name": "Tom Stick Hit L Yester Years 08.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_490"
+    },
+    {
+      "name": "Tom Stick Hit L Yester Years 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_491"
+    },
+    {
+      "name": "Tom Stick Hit L Yester Years 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_492"
+    },
+    {
+      "name": "Tom Stick Hit L Yester Years 16.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_493"
+    },
+    {
+      "name": "Tom Stick Hit Soft Dry Session 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_494"
+    },
+    {
+      "name": "Tom Stick Hit Soft Dry Session 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_495"
+    },
+    {
+      "name": "Tom Stick Hit Soft Dry Session 14.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_496"
+    },
+    {
+      "name": "Tom Stick Hit Soft Dry Session 16.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_497"
+    },
+    {
+      "name": "Tom Strike 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55428"
+    },
+    {
+      "name": "Tom Strike 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55429"
+    },
+    {
+      "name": "Tom Strike 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55430"
+    },
+    {
+      "name": "Tom Strike 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_55431"
+    },
+    {
+      "name": "Tom Sun Wash.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42453"
+    },
+    {
+      "name": "Tom Super.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_498"
+    },
+    {
+      "name": "Tom Syn T1 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_499"
+    },
+    {
+      "name": "Tom Syn T1 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_500"
+    },
+    {
+      "name": "Tom Synth Mkit 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59161"
+    },
+    {
+      "name": "Tom Synth Mkit 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59162"
+    },
+    {
+      "name": "Tom Synth Mkit 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59163"
+    },
+    {
+      "name": "Tom Synth Mkit 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59164"
+    },
+    {
+      "name": "Tom Synth Mkit 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59165"
+    },
+    {
+      "name": "Tom Synth Mkit 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59166"
+    },
+    {
+      "name": "Tom Synth Mkit 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59167"
+    },
+    {
+      "name": "Tom Synth Mkit 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59168"
+    },
+    {
+      "name": "Tom Synth Mkit 8.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_501"
+    },
+    {
+      "name": "Tom TL 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_503"
+    },
+    {
+      "name": "Tom TL 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_504"
+    },
+    {
+      "name": "Tom TL 14.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_502"
+    },
+    {
+      "name": "Tom TV Off 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_505"
+    },
+    {
+      "name": "Tom TV Off 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_506"
+    },
+    {
+      "name": "Tom Unsounded.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_507"
+    },
+    {
+      "name": "Tom Unvx Dub.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47485"
+    },
+    {
+      "name": "Tom Various Harbour.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42454"
+    },
+    {
+      "name": "Tom Various Melt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_48955"
+    },
+    {
+      "name": "Tom Various Millimetrik.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_48956"
+    },
+    {
+      "name": "Tom Various Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42455"
+    },
+    {
+      "name": "Tom Various Skitter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59169"
+    },
+    {
+      "name": "Tom Various.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_38259"
+    },
+    {
+      "name": "Tom Various.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_508"
+    },
+    {
+      "name": "Tom Vintage 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59170"
+    },
+    {
+      "name": "Tom Vintage 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59171"
+    },
+    {
+      "name": "Tom Vintage 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59172"
+    },
+    {
+      "name": "Tom Vintage 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59173"
+    },
+    {
+      "name": "Tom Vintage Diatribal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42456"
+    },
+    {
+      "name": "Tom Vintage Late Nite.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_509"
+    },
+    {
+      "name": "Tom Vintage Late Nite.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42457"
+    },
+    {
+      "name": "Tom Vintage Momento.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42458"
+    },
+    {
+      "name": "Tom Vintage Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42459"
+    },
+    {
+      "name": "Tom Vintage Tone.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_39828"
+    },
+    {
+      "name": "Tom Vintage Uluru.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_510"
+    },
+    {
+      "name": "Tom Vintage Uluru.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42460"
+    },
+    {
+      "name": "Tom Vintage Yakiman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_511"
+    },
+    {
+      "name": "Tom Vintage Yakiman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_42461"
+    },
+    {
+      "name": "Tom Vinyl Dirt 60s.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_512"
+    },
+    {
+      "name": "Tom Vinyl Solid Stereo.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_513"
+    },
+    {
+      "name": "Tom Wiggle.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_514"
+    },
+    {
+      "name": "Tom Yam Dam DD 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_515"
+    },
+    {
+      "name": "Tom Yam Dam DD 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_516"
+    },
+    {
+      "name": "Tom Yam Dam DD 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_517"
+    },
+    {
+      "name": "Tom Yam Dam DD 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_518"
+    },
+    {
+      "name": "Tom Zapp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_59174"
+    },
+    {
+      "name": "Tom-606-Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47486"
+    },
+    {
+      "name": "Tom-606-Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47487"
+    },
+    {
+      "name": "Tom-707-Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47488"
+    },
+    {
+      "name": "Tom-707-Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47489"
+    },
+    {
+      "name": "Tom-707-Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47490"
+    },
+    {
+      "name": "Tom-808-Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47491"
+    },
+    {
+      "name": "Tom-808-Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47492"
+    },
+    {
+      "name": "Tom-909-Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47493"
+    },
+    {
+      "name": "Tom-909-Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47494"
+    },
+    {
+      "name": "Tom-909-Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47495"
+    },
+    {
+      "name": "Tom-DMX-Low-c.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47496"
+    },
+    {
+      "name": "Tom-SessionDry10-Stick-Hit-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47497"
+    },
+    {
+      "name": "Tom-SessionDry10-Stick-Hit-Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47498"
+    },
+    {
+      "name": "Tom-SessionDry12-Stick-Hit-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47499"
+    },
+    {
+      "name": "Tom-SessionDry12-Stick-Hit-Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47500"
+    },
+    {
+      "name": "Tom-SessionDry14-Stick-Hit-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47501"
+    },
+    {
+      "name": "Tom-SessionDry16-Stick-Hit-Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Tom:FileId_47502"
+    }
+  ]
+}

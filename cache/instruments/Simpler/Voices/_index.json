@@ -1,0 +1,192 @@
+{
+  "path": "Instruments/Simpler/Voices",
+  "name": "Voices",
+  "uri": "query:Synths#Simpler:Voices",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Basic Beat Box Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61568"
+    },
+    {
+      "name": "Beat Box Gate Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61569"
+    },
+    {
+      "name": "Boom Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61570"
+    },
+    {
+      "name": "Connemara Throat Song.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_49141"
+    },
+    {
+      "name": "Demon Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61571"
+    },
+    {
+      "name": "Digital Pop Veronica (A min).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61550"
+    },
+    {
+      "name": "Driving Choir Male.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_43090"
+    },
+    {
+      "name": "Glowing Choir Female.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_43091"
+    },
+    {
+      "name": "Hocketing Rack Veronica (C Lydian).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61554"
+    },
+    {
+      "name": "Sliced Melodies Fiona & Ave (Root G).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61561"
+    },
+    {
+      "name": "Sliced Melodies Maike & Niklas (Root C).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61562"
+    },
+    {
+      "name": "Sliced Melodies Maike & Philipp (Root A).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61563"
+    },
+    {
+      "name": "Sliced Melodies Maike & Veronica (Root D).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61564"
+    },
+    {
+      "name": "Sliced Melodies Veronica & Ave (Root B).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61565"
+    },
+    {
+      "name": "Sliced Melodies Veronica & Philipp (Root E).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61566"
+    },
+    {
+      "name": "Sliced Melodies Veronica & Philipp (Root F).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61567"
+    },
+    {
+      "name": "Snappy Vowelizer Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61573"
+    },
+    {
+      "name": "Suffocation Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61574"
+    },
+    {
+      "name": "Two Rooms Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61575"
+    },
+    {
+      "name": "Various Rhythm Voices.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61533"
+    },
+    {
+      "name": "Voco+ External Eeh.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_49142"
+    },
+    {
+      "name": "Voco+ Human Full.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61271"
+    },
+    {
+      "name": "Voco+ Human Male.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_43094"
+    },
+    {
+      "name": "Voice Aahs A.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61272"
+    },
+    {
+      "name": "Vowelizer Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61576"
+    },
+    {
+      "name": "Warped Beat Box Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Voices:FileId_61577"
+    }
+  ]
+}

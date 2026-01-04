@@ -1,0 +1,59 @@
+{
+  "path": "midi_effects/Arpeggiator",
+  "name": "Arpeggiator",
+  "uri": "query:MidiFx#Arpeggiator",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "Bach 16th.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Arpeggiator:FileId_4838"
+    },
+    {
+      "name": "Bouncy Chords.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Arpeggiator:FileId_4839"
+    },
+    {
+      "name": "C Major Walk 16th Grooved.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Arpeggiator:FileId_4840"
+    },
+    {
+      "name": "Classic UpDown 8th.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Arpeggiator:FileId_4841"
+    },
+    {
+      "name": "Descending Chords 12th.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Arpeggiator:FileId_4842"
+    },
+    {
+      "name": "Housier Than Thou.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Arpeggiator:FileId_4843"
+    },
+    {
+      "name": "Ubiquitous.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Arpeggiator:FileId_4844"
+    }
+  ]
+}

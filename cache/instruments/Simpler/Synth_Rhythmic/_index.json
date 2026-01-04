@@ -1,0 +1,108 @@
+{
+  "path": "Instruments/Simpler/Synth Rhythmic",
+  "name": "Synth Rhythmic",
+  "uri": "query:Synths#Simpler:Synth%20Rhythmic",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "106 Live Key.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Rhythmic:FileId_43074"
+    },
+    {
+      "name": "A1A Bass Sequencer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Rhythmic:FileId_61226"
+    },
+    {
+      "name": "Bounce Plush Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Rhythmic:FileId_51248"
+    },
+    {
+      "name": "Carpenter's Chase.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Rhythmic:FileId_51249"
+    },
+    {
+      "name": "Clarks Revenge.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Rhythmic:FileId_61235"
+    },
+    {
+      "name": "Euphoric Poly Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Rhythmic:FileId_38433"
+    },
+    {
+      "name": "Flux State.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Rhythmic:FileId_51253"
+    },
+    {
+      "name": "Galaxian Pride.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Rhythmic:FileId_61240"
+    },
+    {
+      "name": "Git Proc Loop.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Rhythmic:FileId_5244"
+    },
+    {
+      "name": "Glitter Box.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Rhythmic:FileId_51254"
+    },
+    {
+      "name": "Love Train Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Rhythmic:FileId_61248"
+    },
+    {
+      "name": "NewYork Escape Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Rhythmic:FileId_61256"
+    },
+    {
+      "name": "SC 30 LFO.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Rhythmic:FileId_61262"
+    },
+    {
+      "name": "Submerged Externals.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Rhythmic:FileId_51347"
+    }
+  ]
+}

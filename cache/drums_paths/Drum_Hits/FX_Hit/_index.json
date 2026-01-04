@@ -1,0 +1,2691 @@
+{
+  "path": "drums/Drum Hits/FX Hit",
+  "name": "FX Hit",
+  "uri": "query:Drums#Drum%20Hits:FX%20Hit",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Alien Warning FX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_42284"
+    },
+    {
+      "name": "Allstate.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37350"
+    },
+    {
+      "name": "Bactor Team.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37351"
+    },
+    {
+      "name": "BB2 FX 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36155"
+    },
+    {
+      "name": "BB2 FX 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36156"
+    },
+    {
+      "name": "BB2 FX 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36157"
+    },
+    {
+      "name": "Belshin.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37352"
+    },
+    {
+      "name": "Blast Doors.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57861"
+    },
+    {
+      "name": "Blendo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37353"
+    },
+    {
+      "name": "Blip Dropped.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_198"
+    },
+    {
+      "name": "Blip Water.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_199"
+    },
+    {
+      "name": "Bomb Tick 101 bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_2568"
+    },
+    {
+      "name": "Bot Trot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57862"
+    },
+    {
+      "name": "Bowed Metal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57863"
+    },
+    {
+      "name": "Bowl Swell B1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_200"
+    },
+    {
+      "name": "Broken Glass.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_201"
+    },
+    {
+      "name": "Bullhorn.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57864"
+    },
+    {
+      "name": "Bus Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57865"
+    },
+    {
+      "name": "Camera Shutter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_202"
+    },
+    {
+      "name": "Cash Register.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_203"
+    },
+    {
+      "name": "Church Organ Ambient.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57866"
+    },
+    {
+      "name": "Clocks SFX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36158"
+    },
+    {
+      "name": "Crackle Ambient.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57867"
+    },
+    {
+      "name": "Crackle SFX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37354"
+    },
+    {
+      "name": "Crystal Jest.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37355"
+    },
+    {
+      "name": "Dead Weeds.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37356"
+    },
+    {
+      "name": "Distant Alarm High.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57868"
+    },
+    {
+      "name": "Distant Alarm Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57869"
+    },
+    {
+      "name": "Dread String F#.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57870"
+    },
+    {
+      "name": "Electronic Rumble.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57871"
+    },
+    {
+      "name": "Escalator Ambient.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57872"
+    },
+    {
+      "name": "Foley Door Lock.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_204"
+    },
+    {
+      "name": "FX Alarm Danger Up.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36159"
+    },
+    {
+      "name": "FX Alien Perc.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1526"
+    },
+    {
+      "name": "FX Alien Warning.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1527"
+    },
+    {
+      "name": "FX Bell Large Hit Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36160"
+    },
+    {
+      "name": "FX Bell Large Hit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36161"
+    },
+    {
+      "name": "FX Bleep Alarm Digital.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1528"
+    },
+    {
+      "name": "FX Bleep High.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1529"
+    },
+    {
+      "name": "FX Blip Perc EDM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1530"
+    },
+    {
+      "name": "FX Blop Hi ER.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1531"
+    },
+    {
+      "name": "FX Blop Low ER.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1532"
+    },
+    {
+      "name": "FX Blop Out.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48229"
+    },
+    {
+      "name": "FX Blop Perc.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1533"
+    },
+    {
+      "name": "FX Blop Techno.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1534"
+    },
+    {
+      "name": "FX Bouncy Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_42285"
+    },
+    {
+      "name": "FX Broken Box.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1535"
+    },
+    {
+      "name": "FX Buffer Fish.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48230"
+    },
+    {
+      "name": "FX Buffer Snake.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48231"
+    },
+    {
+      "name": "FX Buzz Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1536"
+    },
+    {
+      "name": "FX Buzz Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1537"
+    },
+    {
+      "name": "FX Buzz Stutter Runaway.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1538"
+    },
+    {
+      "name": "FX Click Glitch.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1539"
+    },
+    {
+      "name": "FX Corridoor 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54869"
+    },
+    {
+      "name": "FX Corridoor 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54870"
+    },
+    {
+      "name": "FX Corridoor 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54871"
+    },
+    {
+      "name": "FX Crackle 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48232"
+    },
+    {
+      "name": "FX Crackle 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48233"
+    },
+    {
+      "name": "FX Crackle Rest.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48234"
+    },
+    {
+      "name": "FX Crunch Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1540"
+    },
+    {
+      "name": "FX Crunch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48235"
+    },
+    {
+      "name": "FX Digital.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48236"
+    },
+    {
+      "name": "FX Dist Streamed.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1541"
+    },
+    {
+      "name": "FX Door Slam Large.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36162"
+    },
+    {
+      "name": "FX Driven Crunch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_42286"
+    },
+    {
+      "name": "FX Explode.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54872"
+    },
+    {
+      "name": "FX Fly.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_39618"
+    },
+    {
+      "name": "FX Glitch 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48237"
+    },
+    {
+      "name": "FX Glitch 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48238"
+    },
+    {
+      "name": "FX Glitch Melt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48239"
+    },
+    {
+      "name": "FX Glitch Salient.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48240"
+    },
+    {
+      "name": "FX Glitch Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_42287"
+    },
+    {
+      "name": "FX Grind.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54873"
+    },
+    {
+      "name": "FX Guitar Chop C.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1542"
+    },
+    {
+      "name": "FX Hiss 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46554"
+    },
+    {
+      "name": "FX Hiss 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46555"
+    },
+    {
+      "name": "FX Hiss Water.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46556"
+    },
+    {
+      "name": "FX Hit Bouncing Glitch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37357"
+    },
+    {
+      "name": "FX Hit Burned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46557"
+    },
+    {
+      "name": "FX Hit Charred 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46558"
+    },
+    {
+      "name": "FX Hit Charred 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46559"
+    },
+    {
+      "name": "FX Hit Charred 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46560"
+    },
+    {
+      "name": "FX Hit Clap Impact.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37358"
+    },
+    {
+      "name": "FX Hit Flangaz.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37359"
+    },
+    {
+      "name": "FX Hit Grounded 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46561"
+    },
+    {
+      "name": "FX Hit Grounded 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46562"
+    },
+    {
+      "name": "FX Hit Grounded 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46563"
+    },
+    {
+      "name": "FX Hit Grounded 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46564"
+    },
+    {
+      "name": "FX Hit Grounded 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46565"
+    },
+    {
+      "name": "FX Hit Hymned 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46566"
+    },
+    {
+      "name": "FX Hit Hymned 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46570"
+    },
+    {
+      "name": "FX Hit Hymned 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46571"
+    },
+    {
+      "name": "FX Hit Hymned 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46572"
+    },
+    {
+      "name": "FX Hit Hymned 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46573"
+    },
+    {
+      "name": "FX Hit Hymned 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46574"
+    },
+    {
+      "name": "FX Hit Hymned 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46575"
+    },
+    {
+      "name": "FX Hit Hymned 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46576"
+    },
+    {
+      "name": "FX Hit Hymned 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46577"
+    },
+    {
+      "name": "FX Hit Hymned 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46567"
+    },
+    {
+      "name": "FX Hit Hymned 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46568"
+    },
+    {
+      "name": "FX Hit Hymned 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46569"
+    },
+    {
+      "name": "FX Hit Impact Scorched.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46578"
+    },
+    {
+      "name": "FX Hit Impact Unsaned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46579"
+    },
+    {
+      "name": "FX Hit Mechanical Failure.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37360"
+    },
+    {
+      "name": "FX Hit Melodized.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46580"
+    },
+    {
+      "name": "FX Hit Noizecrash.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37361"
+    },
+    {
+      "name": "FX Hit Raged.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46581"
+    },
+    {
+      "name": "FX Hit Scorched.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46582"
+    },
+    {
+      "name": "FX Hit Shut The Door.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_39619"
+    },
+    {
+      "name": "FX Hit Space Grounded.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46583"
+    },
+    {
+      "name": "FX Hit Streamed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46584"
+    },
+    {
+      "name": "FX Hit Synth Grounded.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46585"
+    },
+    {
+      "name": "FX Hit Unsaned 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46586"
+    },
+    {
+      "name": "FX Hit Unsaned 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46587"
+    },
+    {
+      "name": "FX Hit Unsaned 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46588"
+    },
+    {
+      "name": "FX Hit Unsaned 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46589"
+    },
+    {
+      "name": "FX Hit Unsounded.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46590"
+    },
+    {
+      "name": "FX Hit Zap Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46591"
+    },
+    {
+      "name": "FX Hit Zap Unsaned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46592"
+    },
+    {
+      "name": "FX Hit Zap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37362"
+    },
+    {
+      "name": "FX Impact 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54874"
+    },
+    {
+      "name": "FX Impact 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54875"
+    },
+    {
+      "name": "FX Impact 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54876"
+    },
+    {
+      "name": "FX Impact 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54877"
+    },
+    {
+      "name": "FX Impact 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54878"
+    },
+    {
+      "name": "FX Impact 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54879"
+    },
+    {
+      "name": "FX Laser Ball.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48241"
+    },
+    {
+      "name": "FX Laser Dub.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46593"
+    },
+    {
+      "name": "FX Laser Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46594"
+    },
+    {
+      "name": "FX Laser Gun.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48242"
+    },
+    {
+      "name": "FX Laser Hardware.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1543"
+    },
+    {
+      "name": "FX Lazer Enterground.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_39620"
+    },
+    {
+      "name": "FX LoFill Buffer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37363"
+    },
+    {
+      "name": "FX LoFill Glitch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48243"
+    },
+    {
+      "name": "FX Mach 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1544"
+    },
+    {
+      "name": "FX Metallic Charred.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1545"
+    },
+    {
+      "name": "FX Metallic Crash.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54880"
+    },
+    {
+      "name": "FX Metallic Flutter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54881"
+    },
+    {
+      "name": "FX Metallic Unsaned.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1546"
+    },
+    {
+      "name": "FX Motor Windup.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1547"
+    },
+    {
+      "name": "FX Nasax.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37364"
+    },
+    {
+      "name": "FX Noise Clank.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46595"
+    },
+    {
+      "name": "FX Noise Creak Tech Dublyn.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46596"
+    },
+    {
+      "name": "FX Noise Hit Clinical.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46597"
+    },
+    {
+      "name": "FX Noise Hit Dub.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46598"
+    },
+    {
+      "name": "FX Noise Pink MS.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1548"
+    },
+    {
+      "name": "FX Noise Scrape RK.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48244"
+    },
+    {
+      "name": "FX Noise Short.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1549"
+    },
+    {
+      "name": "FX Noise Slap 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46599"
+    },
+    {
+      "name": "FX Noise Slap 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46600"
+    },
+    {
+      "name": "FX Noise Tap 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46601"
+    },
+    {
+      "name": "FX Noise Tap 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46602"
+    },
+    {
+      "name": "FX Noise Vinyl RK Rest 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48245"
+    },
+    {
+      "name": "FX Noise Vinyl RK Rest 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48246"
+    },
+    {
+      "name": "FX Noisefall.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37365"
+    },
+    {
+      "name": "FX Pan Flute Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46603"
+    },
+    {
+      "name": "FX Perc Bounce.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54882"
+    },
+    {
+      "name": "FX Perc Crash 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54883"
+    },
+    {
+      "name": "FX Perc Crash 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54884"
+    },
+    {
+      "name": "FX Perc Crash 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54885"
+    },
+    {
+      "name": "FX Perc Crash Distant.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54886"
+    },
+    {
+      "name": "FX Perc Drop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54887"
+    },
+    {
+      "name": "FX Perc ER 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46604"
+    },
+    {
+      "name": "FX Perc ER 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46605"
+    },
+    {
+      "name": "FX Perc Numerology.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_39621"
+    },
+    {
+      "name": "FX Perc Ricochet.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54888"
+    },
+    {
+      "name": "FX Perc Skitter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57873"
+    },
+    {
+      "name": "FX Pistol Load Click.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36163"
+    },
+    {
+      "name": "FX Punch Unsounded.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1550"
+    },
+    {
+      "name": "FX Record Stop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1551"
+    },
+    {
+      "name": "FX Reverse Glitch.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1552"
+    },
+    {
+      "name": "FX Ring Blipp.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1553"
+    },
+    {
+      "name": "FX Ring ER Fenk.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1554"
+    },
+    {
+      "name": "FX Ring Grav Brake.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1555"
+    },
+    {
+      "name": "FX Ring Home Run.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1556"
+    },
+    {
+      "name": "FX Riser Numerology.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_39622"
+    },
+    {
+      "name": "FX Robot Bleep.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48247"
+    },
+    {
+      "name": "FX Rubber Glitch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48248"
+    },
+    {
+      "name": "FX Scared Robot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48249"
+    },
+    {
+      "name": "FX Scorched Hit.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1557"
+    },
+    {
+      "name": "FX Scrap Vox.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48250"
+    },
+    {
+      "name": "FX Scratch Slackjaw.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1558"
+    },
+    {
+      "name": "FX Scratch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54889"
+    },
+    {
+      "name": "FX Screech Animal Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36164"
+    },
+    {
+      "name": "FX Screech Animal Lo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36165"
+    },
+    {
+      "name": "FX Shaking Alien.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_42288"
+    },
+    {
+      "name": "FX Shatter Fish.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48251"
+    },
+    {
+      "name": "FX Shot Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46606"
+    },
+    {
+      "name": "FX Siren Hazard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37366"
+    },
+    {
+      "name": "FX Siren Raid 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36166"
+    },
+    {
+      "name": "FX Siren Raid 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36167"
+    },
+    {
+      "name": "FX Siren Raid Long Chekov.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46607"
+    },
+    {
+      "name": "FX Siren Wail.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36168"
+    },
+    {
+      "name": "FX Sonar.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54890"
+    },
+    {
+      "name": "FX Sound 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54891"
+    },
+    {
+      "name": "FX Sound 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54893"
+    },
+    {
+      "name": "FX Sound 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54894"
+    },
+    {
+      "name": "FX Sound 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54895"
+    },
+    {
+      "name": "FX Sound 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54896"
+    },
+    {
+      "name": "FX Sound 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54897"
+    },
+    {
+      "name": "FX Sound 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54892"
+    },
+    {
+      "name": "FX SP 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57874"
+    },
+    {
+      "name": "FX SP 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57875"
+    },
+    {
+      "name": "FX SP 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57876"
+    },
+    {
+      "name": "FX Space Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46608"
+    },
+    {
+      "name": "FX Space Talk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_42289"
+    },
+    {
+      "name": "FX Static Noise Dublyn.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46609"
+    },
+    {
+      "name": "FX Static Pop Dublyn.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46610"
+    },
+    {
+      "name": "FX Sub Verb.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1559"
+    },
+    {
+      "name": "FX Sweep Radio.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37367"
+    },
+    {
+      "name": "FX Sweep Shrill Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37368"
+    },
+    {
+      "name": "FX Sweep Vinyl.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_39623"
+    },
+    {
+      "name": "FX Sweeper Otherworldly.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_39624"
+    },
+    {
+      "name": "FX Sweeper Split.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_39625"
+    },
+    {
+      "name": "FX Synth Chord Dmin.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1560"
+    },
+    {
+      "name": "FX Synth Horn Glitch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1561"
+    },
+    {
+      "name": "FX Synth Lofi Chop.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1562"
+    },
+    {
+      "name": "FX Synth Noise Fall.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36169"
+    },
+    {
+      "name": "FX Synth Noise Rise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36170"
+    },
+    {
+      "name": "FX Table Tennis.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_39626"
+    },
+    {
+      "name": "FX Tick Shatter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1563"
+    },
+    {
+      "name": "FX Turn Off TV.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1564"
+    },
+    {
+      "name": "FX Turn On TV.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1565"
+    },
+    {
+      "name": "FX Verb Synth D.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1566"
+    },
+    {
+      "name": "FX Vinyl Bang.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_39627"
+    },
+    {
+      "name": "FX Vinyl Dirt 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46611"
+    },
+    {
+      "name": "FX Vinyl Dirt 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46612"
+    },
+    {
+      "name": "FX Vinyl Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_39628"
+    },
+    {
+      "name": "FX Vocal Chant Backwards What.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36171"
+    },
+    {
+      "name": "FX Vocal Chant Group Hehh.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36172"
+    },
+    {
+      "name": "FX Vocal Chant Group Wahh.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36173"
+    },
+    {
+      "name": "FX Vocal Chant Huff.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36174"
+    },
+    {
+      "name": "FX Vocal Chant Male Eihh.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36175"
+    },
+    {
+      "name": "FX Vocal Chant Single Male Uhh.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36176"
+    },
+    {
+      "name": "FX Vocal Chant Single Wooo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36177"
+    },
+    {
+      "name": "FX Vocal Chop Hey.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36178"
+    },
+    {
+      "name": "FX Vocal Stab.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36179"
+    },
+    {
+      "name": "FX Vocal Yell Male.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36180"
+    },
+    {
+      "name": "FX Vocoder 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57877"
+    },
+    {
+      "name": "FX Vocoder 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1567"
+    },
+    {
+      "name": "FX Vocoder 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57878"
+    },
+    {
+      "name": "FX Vocoder 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1568"
+    },
+    {
+      "name": "FX Vocoder 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57879"
+    },
+    {
+      "name": "FX Vocoder Chord Bbmin.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1569"
+    },
+    {
+      "name": "FX Vocoder Chord Pluck C.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1570"
+    },
+    {
+      "name": "FX Vocoder Robot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1571"
+    },
+    {
+      "name": "FX Vocoder Scrap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57880"
+    },
+    {
+      "name": "FX Vocoder Scratch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1572"
+    },
+    {
+      "name": "FX Warehouse Tail.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46613"
+    },
+    {
+      "name": "FX Whip Digital.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1573"
+    },
+    {
+      "name": "FX Zap 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54898"
+    },
+    {
+      "name": "FX Zap 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54899"
+    },
+    {
+      "name": "FX Zap 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54900"
+    },
+    {
+      "name": "FX Zap 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54901"
+    },
+    {
+      "name": "FX Zap 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54902"
+    },
+    {
+      "name": "FX Zap Drop Vocoder.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1574"
+    },
+    {
+      "name": "FX Zap Lit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46614"
+    },
+    {
+      "name": "FX Zap Ring Long ER Fenk.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1575"
+    },
+    {
+      "name": "FX Zap Ring Short ER Fenk.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1576"
+    },
+    {
+      "name": "FX Zap Vocoder.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1577"
+    },
+    {
+      "name": "FX Zap Wobble Hard.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_1578"
+    },
+    {
+      "name": "FX Zapp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48252"
+    },
+    {
+      "name": "FX Zappah.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48253"
+    },
+    {
+      "name": "FX Zoom 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_54903"
+    },
+    {
+      "name": "Garganelo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37369"
+    },
+    {
+      "name": "Ghost Glitch SP.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48254"
+    },
+    {
+      "name": "Glitch SFX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37370"
+    },
+    {
+      "name": "Guitar Strings FX Sequence.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_2569"
+    },
+    {
+      "name": "Gun Load.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37371"
+    },
+    {
+      "name": "Gunshot FX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_205"
+    },
+    {
+      "name": "Hard Wobble.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57881"
+    },
+    {
+      "name": "Hardware Lazer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57882"
+    },
+    {
+      "name": "Hit 1 Deep Knight.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36181"
+    },
+    {
+      "name": "Hit Prommer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46615"
+    },
+    {
+      "name": "Hum and Hiss Swepdustry 90 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_2570"
+    },
+    {
+      "name": "Impact Current.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_206"
+    },
+    {
+      "name": "Impact Deep Pad 120 bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_207"
+    },
+    {
+      "name": "Impact GE.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_208"
+    },
+    {
+      "name": "Impact Layered Reversed.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_209"
+    },
+    {
+      "name": "Impact Layered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46616"
+    },
+    {
+      "name": "Impact Layered.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_210"
+    },
+    {
+      "name": "Impact Mov Digi.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_211"
+    },
+    {
+      "name": "Impact MovDigi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_46617"
+    },
+    {
+      "name": "Impact RKTD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37372"
+    },
+    {
+      "name": "Impact Shot.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_212"
+    },
+    {
+      "name": "Impact Soft Top.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_213"
+    },
+    {
+      "name": "Increible.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37373"
+    },
+    {
+      "name": "Jeston Takeoff.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37374"
+    },
+    {
+      "name": "Krustos.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37375"
+    },
+    {
+      "name": "Lead Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57883"
+    },
+    {
+      "name": "Licky Rake.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37376"
+    },
+    {
+      "name": "Lift Off SP.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37377"
+    },
+    {
+      "name": "Little Crunch FX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_42290"
+    },
+    {
+      "name": "Lofi Kettle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57884"
+    },
+    {
+      "name": "Lookouts.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37378"
+    },
+    {
+      "name": "Lovejoy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37379"
+    },
+    {
+      "name": "Machine Noise Ambient 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57885"
+    },
+    {
+      "name": "Machine Noise Ambient 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57886"
+    },
+    {
+      "name": "Machine Press SP.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37380"
+    },
+    {
+      "name": "Mirror Voice.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48255"
+    },
+    {
+      "name": "Modular Alert SP.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48256"
+    },
+    {
+      "name": "Mogue Bounce.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37381"
+    },
+    {
+      "name": "Noise Blaze 130 bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_2571"
+    },
+    {
+      "name": "Noise PO Build.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48257"
+    },
+    {
+      "name": "Noise SFX 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37382"
+    },
+    {
+      "name": "Noise SFX 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37383"
+    },
+    {
+      "name": "Omalhy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37384"
+    },
+    {
+      "name": "Onagging.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37385"
+    },
+    {
+      "name": "Perc Abstract 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48258"
+    },
+    {
+      "name": "Perc Abstract FX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48259"
+    },
+    {
+      "name": "Perc Abstract Mangah.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48260"
+    },
+    {
+      "name": "Perc Analog Melt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48261"
+    },
+    {
+      "name": "Perc Blop Speak.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48262"
+    },
+    {
+      "name": "Perc Broken Melt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48263"
+    },
+    {
+      "name": "Perc Broken Tada.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48264"
+    },
+    {
+      "name": "Perc Broken Token 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48265"
+    },
+    {
+      "name": "Perc Broken Token 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48266"
+    },
+    {
+      "name": "Perc Digital Night.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48267"
+    },
+    {
+      "name": "Perc DSP Night.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48268"
+    },
+    {
+      "name": "Perc DSP Speak 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48269"
+    },
+    {
+      "name": "Perc DSP Speak 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48270"
+    },
+    {
+      "name": "Perc Dull Speak.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48271"
+    },
+    {
+      "name": "Perc EDM Fan FX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37386"
+    },
+    {
+      "name": "Perc EDM Woop Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37387"
+    },
+    {
+      "name": "Perc Glitch Speak.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48272"
+    },
+    {
+      "name": "Perc Glitch Token.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48273"
+    },
+    {
+      "name": "Perc Reson Sonar.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48274"
+    },
+    {
+      "name": "Perc Shaper Sonar.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48275"
+    },
+    {
+      "name": "Perc Tube Tada.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48276"
+    },
+    {
+      "name": "Perc Warp Sonar.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48277"
+    },
+    {
+      "name": "Pitch Slide.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57887"
+    },
+    {
+      "name": "Provoked Beast.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57888"
+    },
+    {
+      "name": "Race Car SP.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37388"
+    },
+    {
+      "name": "Rain and Train.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57889"
+    },
+    {
+      "name": "Riser Ambient Chord.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57890"
+    },
+    {
+      "name": "Riser Klic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_214"
+    },
+    {
+      "name": "Riser Noise Gated.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_215"
+    },
+    {
+      "name": "Riser Sine.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_216"
+    },
+    {
+      "name": "Riser Synth.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_217"
+    },
+    {
+      "name": "Riser White Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57891"
+    },
+    {
+      "name": "Riser White Noise.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_218"
+    },
+    {
+      "name": "Scratch Baby.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_2572"
+    },
+    {
+      "name": "Shatter FX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_42291"
+    },
+    {
+      "name": "Sonar Submarine.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_219"
+    },
+    {
+      "name": "Speedracer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37389"
+    },
+    {
+      "name": "Spring Hit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57892"
+    },
+    {
+      "name": "Stylus Scratch.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_220"
+    },
+    {
+      "name": "Sub Smash.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57893"
+    },
+    {
+      "name": "Sweep White Noise Fall.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_221"
+    },
+    {
+      "name": "Swell Rusher.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_222"
+    },
+    {
+      "name": "Swell Short Noise.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_223"
+    },
+    {
+      "name": "Swiper No Swiping.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37390"
+    },
+    {
+      "name": "Swish Downfall Reverse.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36182"
+    },
+    {
+      "name": "Swish Downfall.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_36183"
+    },
+    {
+      "name": "Sword Atmos.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57894"
+    },
+    {
+      "name": "Synth Pulse Fish.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48278"
+    },
+    {
+      "name": "System Breach.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57895"
+    },
+    {
+      "name": "Take Off FX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57896"
+    },
+    {
+      "name": "Tazed and Dazed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37391"
+    },
+    {
+      "name": "Television Airforce Ambient.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57897"
+    },
+    {
+      "name": "Television Crowd Ambient.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57898"
+    },
+    {
+      "name": "Thermin Dee.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37392"
+    },
+    {
+      "name": "Trinity Texas.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37393"
+    },
+    {
+      "name": "Tuning.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37394"
+    },
+    {
+      "name": "Twisted Mids 140 Bpm D.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57899"
+    },
+    {
+      "name": "Vocoder Distort Melt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48279"
+    },
+    {
+      "name": "Vocoder Distort Night.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48280"
+    },
+    {
+      "name": "Vocoder Distort Token.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48281"
+    },
+    {
+      "name": "Vocoder Scrap Metal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48282"
+    },
+    {
+      "name": "Vocoder Scrap Night.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48283"
+    },
+    {
+      "name": "Vocoder Scrap Token.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48284"
+    },
+    {
+      "name": "Vocoder Scrap Uhh Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_42292"
+    },
+    {
+      "name": "Vocoder Scrap Uhh.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_42293"
+    },
+    {
+      "name": "Vocoder Scratch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48285"
+    },
+    {
+      "name": "Vox Vocoder Scrap Sonar.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_48286"
+    },
+    {
+      "name": "Warm Chord.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57900"
+    },
+    {
+      "name": "Whoosh Down Dark.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_224"
+    },
+    {
+      "name": "Wind 1 Ambient.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57901"
+    },
+    {
+      "name": "Wind 2 Ambient.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57902"
+    },
+    {
+      "name": "Wind Chimes.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57903"
+    },
+    {
+      "name": "Wire Shudder.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_225"
+    },
+    {
+      "name": "World Changer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_37395"
+    },
+    {
+      "name": "Wormhole.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit:FileId_57904"
+    }
+  ]
+}

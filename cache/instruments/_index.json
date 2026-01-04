@@ -1,0 +1,164 @@
+{
+  "path": "Instruments",
+  "name": "Instruments",
+  "uri": "query:Synths",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Analog",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog"
+    },
+    {
+      "name": "Bass",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass"
+    },
+    {
+      "name": "Collision",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision"
+    },
+    {
+      "name": "CV Instrument",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#CV%20Instrument"
+    },
+    {
+      "name": "CV Triggers",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#CV%20Triggers"
+    },
+    {
+      "name": "Drift",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift"
+    },
+    {
+      "name": "Drum Rack",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack"
+    },
+    {
+      "name": "Drum Synth",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drum%20Synth"
+    },
+    {
+      "name": "Electric",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Electric"
+    },
+    {
+      "name": "Emit",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Emit"
+    },
+    {
+      "name": "External Instrument",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#External%20Instrument"
+    },
+    {
+      "name": "Impulse",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Impulse"
+    },
+    {
+      "name": "Instrument Rack",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack"
+    },
+    {
+      "name": "Operator",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator"
+    },
+    {
+      "name": "Poli",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli"
+    },
+    {
+      "name": "Sampler",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler"
+    },
+    {
+      "name": "Simpler",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler"
+    },
+    {
+      "name": "Tension",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension"
+    },
+    {
+      "name": "Tree Tone",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Tree%20Tone"
+    },
+    {
+      "name": "Vector FM",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Vector%20FM"
+    },
+    {
+      "name": "Vector Grain",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Vector%20Grain"
+    },
+    {
+      "name": "Wavetable",
+      "is_folder": true,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable"
+    }
+  ]
+}

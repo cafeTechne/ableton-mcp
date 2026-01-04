@@ -1,0 +1,59 @@
+{
+  "path": "Instruments/Bass/Effects",
+  "name": "Effects",
+  "uri": "query:Synths#Bass:Effects",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "1950s.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Effects:FileId_41260"
+    },
+    {
+      "name": "Deck Alarm LFO.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Effects:FileId_41261"
+    },
+    {
+      "name": "Gear Junkie LFO .adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Effects:FileId_41262"
+    },
+    {
+      "name": "RingSing.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Effects:FileId_41263"
+    },
+    {
+      "name": "ShortShot.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Effects:FileId_41264"
+    },
+    {
+      "name": "The Scream.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Effects:FileId_41265"
+    },
+    {
+      "name": "Xperact.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Effects:FileId_41266"
+    }
+  ]
+}

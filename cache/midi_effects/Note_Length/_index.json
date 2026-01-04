@@ -1,0 +1,38 @@
+{
+  "path": "midi_effects/Note Length",
+  "name": "Note Length",
+  "uri": "query:MidiFx#Note%20Length",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "16th Notes.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Note%20Length:FileId_4797"
+    },
+    {
+      "name": "Note Off.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Note%20Length:FileId_4798"
+    },
+    {
+      "name": "Ten Milliseconds.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Note%20Length:FileId_4799"
+    },
+    {
+      "name": "Ten Seconds.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Note%20Length:FileId_4800"
+    }
+  ]
+}

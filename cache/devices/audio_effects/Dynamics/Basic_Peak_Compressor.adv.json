@@ -1,0 +1,274 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Dynamics",
+  "name": "Basic Peak Compressor.adv",
+  "uri": "query:AudioFx#Dynamics:Compressor:FileId_6587",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Threshold",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.8500000238418579,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Ratio",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Expansion Ratio",
+      "min": 1.0,
+      "max": 2.0,
+      "value": 1.149999976158142,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Attack",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.460206001996994,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Release",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.19996516406536102,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Auto Release On/Off",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Output Gain",
+      "min": -36.0,
+      "max": 36.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Makeup",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Dry/Wet",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Model",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Peak",
+        "RMS",
+        "Expand"
+      ],
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "Env Mode",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Lin",
+        "Log"
+      ],
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "Knee",
+      "min": 0.0,
+      "max": 18.0,
+      "value": 6.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "LookAhead",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "0 ms",
+        "1 ms",
+        "10 ms"
+      ],
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "S/C Listen",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "S/C On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 15
+    },
+    {
+      "name": "S/C Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.4000000059604645,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 16
+    },
+    {
+      "name": "S/C Mix",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 17
+    },
+    {
+      "name": "S/C EQ Type",
+      "min": 0.0,
+      "max": 5.0,
+      "value": 5.0,
+      "is_quantized": true,
+      "value_items": [
+        "Low Shelf",
+        "Bell",
+        "High Shelf",
+        "Low pass",
+        "Peak",
+        "High pass"
+      ],
+      "unit": null,
+      "index": 18
+    },
+    {
+      "name": "S/C EQ On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 19
+    },
+    {
+      "name": "S/C EQ Freq",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.3052678406238556,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 20
+    },
+    {
+      "name": "S/C EQ Gain",
+      "min": -15.0,
+      "max": 15.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 21
+    },
+    {
+      "name": "S/C EQ Q",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.40856707096099854,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 22
+    }
+  ]
+}

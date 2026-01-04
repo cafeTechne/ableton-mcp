@@ -1,0 +1,878 @@
+{
+  "path": "Instruments/Wavetable/Synth Keys",
+  "name": "Synth Keys",
+  "uri": "query:Synths#Wavetable:Synth%20Keys",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "12 CC's and Counting.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4953"
+    },
+    {
+      "name": "16 Pennies.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_39934"
+    },
+    {
+      "name": "A Blue Hue.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_61101"
+    },
+    {
+      "name": "A D&W Bell.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59783"
+    },
+    {
+      "name": "A Degree Of Synth.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4954"
+    },
+    {
+      "name": "A Soft Chord.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4955"
+    },
+    {
+      "name": "Aaghra Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4956"
+    },
+    {
+      "name": "Abyss Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_38361"
+    },
+    {
+      "name": "Abyss Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3776"
+    },
+    {
+      "name": "Achilles Bells.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59784"
+    },
+    {
+      "name": "Afterfade Chord.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_61102"
+    },
+    {
+      "name": "Ambiento Bells.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59785"
+    },
+    {
+      "name": "Analog Emulation Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3777"
+    },
+    {
+      "name": "Arctic Shadows.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_38363"
+    },
+    {
+      "name": "Ashburn Funk Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3778"
+    },
+    {
+      "name": "Asure Skies.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4957"
+    },
+    {
+      "name": "Basic Bell Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3779"
+    },
+    {
+      "name": "Basic Electronic Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3780"
+    },
+    {
+      "name": "Basic Teared Down Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3783"
+    },
+    {
+      "name": "Bell Riddence.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59786"
+    },
+    {
+      "name": "Cars In The 80s Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3787"
+    },
+    {
+      "name": "Cathedral Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3788"
+    },
+    {
+      "name": "Change The Table Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4958"
+    },
+    {
+      "name": "Chord Afterfade.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3789"
+    },
+    {
+      "name": "Chord Det Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3790"
+    },
+    {
+      "name": "Chord Dub Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3791"
+    },
+    {
+      "name": "Churchstab.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_38364"
+    },
+    {
+      "name": "Classic Analog Clavinette.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4959"
+    },
+    {
+      "name": "Classic Juno Wave.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4961"
+    },
+    {
+      "name": "Classic JX Wave.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4960"
+    },
+    {
+      "name": "Classified Intelligence.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_49045"
+    },
+    {
+      "name": "Complex Morphed Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3794"
+    },
+    {
+      "name": "Contact Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3795"
+    },
+    {
+      "name": "Copper Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59787"
+    },
+    {
+      "name": "Cosmic Chords.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_49046"
+    },
+    {
+      "name": "Crystal Labyrinth Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4962"
+    },
+    {
+      "name": "D Cell Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_61110"
+    },
+    {
+      "name": "Dark Sky Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3796"
+    },
+    {
+      "name": "Deep H Chord.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_49047"
+    },
+    {
+      "name": "Detuney Sustained Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4963"
+    },
+    {
+      "name": "Drakernian Movement Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_61112"
+    },
+    {
+      "name": "Dulcimore Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4964"
+    },
+    {
+      "name": "Eastern Fifth.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4965"
+    },
+    {
+      "name": "Fashion Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_39935"
+    },
+    {
+      "name": "Festival Organ Drop.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_38365"
+    },
+    {
+      "name": "FM Sequential.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_49049"
+    },
+    {
+      "name": "Fuzzy Plonk.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_49050"
+    },
+    {
+      "name": "GGP.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4966"
+    },
+    {
+      "name": "Ghost Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_49051"
+    },
+    {
+      "name": "Glowing Filaments.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4967"
+    },
+    {
+      "name": "Gold Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4968"
+    },
+    {
+      "name": "Golden Foliage.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59788"
+    },
+    {
+      "name": "Harpsichord Battalion.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_61119"
+    },
+    {
+      "name": "Haunted Minutes.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4969"
+    },
+    {
+      "name": "Helium Blockade.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4970"
+    },
+    {
+      "name": "Here Kitty Kitty.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4971"
+    },
+    {
+      "name": "Hyaline Mentality Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3803"
+    },
+    {
+      "name": "Icing key.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_38366"
+    },
+    {
+      "name": "Industry Boulevard Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_43027"
+    },
+    {
+      "name": "Jamaica Bell Pans.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59789"
+    },
+    {
+      "name": "Juicy Fruit SynBrass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59790"
+    },
+    {
+      "name": "Juno Multi Wave.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4972"
+    },
+    {
+      "name": "Juno Organ Wave.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4973"
+    },
+    {
+      "name": "Koleko Plux Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3804"
+    },
+    {
+      "name": "Light Chord.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_61124"
+    },
+    {
+      "name": "Linear Clouds.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_43029"
+    },
+    {
+      "name": "Lush Roads.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4974"
+    },
+    {
+      "name": "Majesty Glock Bell.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59791"
+    },
+    {
+      "name": "Major Award Stab.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_49053"
+    },
+    {
+      "name": "Mood Swing Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_61129"
+    },
+    {
+      "name": "Moonscape Piano.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4975"
+    },
+    {
+      "name": "Morphed Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_61130"
+    },
+    {
+      "name": "Munster Funk.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4976"
+    },
+    {
+      "name": "Naked Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_43030"
+    },
+    {
+      "name": "Night Fly.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_61131"
+    },
+    {
+      "name": "Noize of Art Flute.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4977"
+    },
+    {
+      "name": "Now Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59792"
+    },
+    {
+      "name": "Oklahoma Corral.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4978"
+    },
+    {
+      "name": "Orbit Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_38368"
+    },
+    {
+      "name": "Orchestral Hit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_61132"
+    },
+    {
+      "name": "Organ Mutations.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3809"
+    },
+    {
+      "name": "Peculiar Galaxy Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3811"
+    },
+    {
+      "name": "Pencil Pop Taps.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_38369"
+    },
+    {
+      "name": "Pewter Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59793"
+    },
+    {
+      "name": "Pizza Go-Go.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4979"
+    },
+    {
+      "name": "Please Pizza Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_39940"
+    },
+    {
+      "name": "Plod Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59794"
+    },
+    {
+      "name": "Poly Filter Pulse.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4980"
+    },
+    {
+      "name": "Poly Filter Saw.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4981"
+    },
+    {
+      "name": "Poly Juno Square.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4982"
+    },
+    {
+      "name": "Poly Pulse Blend.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4983"
+    },
+    {
+      "name": "Poly Sweep Saw.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4984"
+    },
+    {
+      "name": "Poly Sync.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4985"
+    },
+    {
+      "name": "Position Glass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4986"
+    },
+    {
+      "name": "Process Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_39942"
+    },
+    {
+      "name": "Retro Synthicon.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_43034"
+    },
+    {
+      "name": "Rusty Old Chord.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_61136"
+    },
+    {
+      "name": "sAEw.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59795"
+    },
+    {
+      "name": "Saucery.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4987"
+    },
+    {
+      "name": "Sentient Shadows.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4988"
+    },
+    {
+      "name": "Shimmer Chi Town Piano.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_61137"
+    },
+    {
+      "name": "Silver Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4989"
+    },
+    {
+      "name": "Snow Crash.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59796"
+    },
+    {
+      "name": "Solar Flare.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4990"
+    },
+    {
+      "name": "Something Pretty.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_49058"
+    },
+    {
+      "name": "Sponge Cake Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_43035"
+    },
+    {
+      "name": "Subtle Lightwaves.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_43036"
+    },
+    {
+      "name": "Tape Beast Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_3819"
+    },
+    {
+      "name": "Tear Tear.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4991"
+    },
+    {
+      "name": "Tech Chord A.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59797"
+    },
+    {
+      "name": "Tech Chord B.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59798"
+    },
+    {
+      "name": "Tech Chord C.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59799"
+    },
+    {
+      "name": "Tell Me Sumthin' Clav.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4992"
+    },
+    {
+      "name": "Thin Harpsichord.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59800"
+    },
+    {
+      "name": "Tigon Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_38371"
+    },
+    {
+      "name": "Tunnel Vision.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4993"
+    },
+    {
+      "name": "Uplift Transition.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59801"
+    },
+    {
+      "name": "Velocity Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4995"
+    },
+    {
+      "name": "VOSM.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4994"
+    },
+    {
+      "name": "Voyetra Voyage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_43039"
+    },
+    {
+      "name": "Wide Room Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_4996"
+    },
+    {
+      "name": "Widepluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59802"
+    },
+    {
+      "name": "Wobbly Chord.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_59803"
+    },
+    {
+      "name": "Wrectapluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Synth%20Keys:FileId_38372"
+    }
+  ]
+}

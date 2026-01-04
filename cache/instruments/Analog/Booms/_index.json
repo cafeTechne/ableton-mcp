@@ -1,0 +1,17 @@
+{
+  "path": "Instruments/Analog/Booms",
+  "name": "Booms",
+  "uri": "query:Synths#Analog:Booms",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Boom Nation.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Booms:FileId_36612"
+    }
+  ]
+}

@@ -1,0 +1,1326 @@
+{
+  "path": "drums/Drum Hits/Rim",
+  "name": "Rim",
+  "uri": "query:Drums#Drum%20Hits:Rim",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Drum Shell Ocean.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_42380"
+    },
+    {
+      "name": "Rim 3k Sharp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47057"
+    },
+    {
+      "name": "Rim 3k Sharp.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_852"
+    },
+    {
+      "name": "Rim 90s MPC.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47059"
+    },
+    {
+      "name": "Rim 90s MPC.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_862"
+    },
+    {
+      "name": "Rim 505 ASR.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_853"
+    },
+    {
+      "name": "Rim 505.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_854"
+    },
+    {
+      "name": "Rim 707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_58103"
+    },
+    {
+      "name": "Rim 707.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_855"
+    },
+    {
+      "name": "Rim 808 RK.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_42381"
+    },
+    {
+      "name": "Rim 808 SP 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_856"
+    },
+    {
+      "name": "Rim 808 SP 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47058"
+    },
+    {
+      "name": "Rim 808 SP 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_857"
+    },
+    {
+      "name": "Rim 808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_858"
+    },
+    {
+      "name": "Rim 909 SP 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_859"
+    },
+    {
+      "name": "Rim 909 SP 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_860"
+    },
+    {
+      "name": "Rim 909.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_861"
+    },
+    {
+      "name": "Rim Alley.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_39739"
+    },
+    {
+      "name": "Rim BamVim.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47060"
+    },
+    {
+      "name": "Rim BamVim.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_863"
+    },
+    {
+      "name": "Rim Bedroom SP.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_864"
+    },
+    {
+      "name": "Rim Bedroom.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_865"
+    },
+    {
+      "name": "Rim Beej.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_39740"
+    },
+    {
+      "name": "Rim Bipp.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_866"
+    },
+    {
+      "name": "Rim Brass Knuckles.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_39741"
+    },
+    {
+      "name": "Rim Brixton.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_867"
+    },
+    {
+      "name": "Rim Bupp.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_868"
+    },
+    {
+      "name": "Rim C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_869"
+    },
+    {
+      "name": "Rim Canvas.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_39742"
+    },
+    {
+      "name": "Rim Casual Roomy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47061"
+    },
+    {
+      "name": "Rim Cheap 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_870"
+    },
+    {
+      "name": "Rim Cheap 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_871"
+    },
+    {
+      "name": "Rim Chelsea Quick Knock.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47062"
+    },
+    {
+      "name": "Rim Chelsea Quick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47063"
+    },
+    {
+      "name": "Rim Chelsea Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47064"
+    },
+    {
+      "name": "Rim Clap ER.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_872"
+    },
+    {
+      "name": "Rim Classic Deep.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47065"
+    },
+    {
+      "name": "Rim Clean Thin Res.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47066"
+    },
+    {
+      "name": "Rim Clean Thin Res.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_873"
+    },
+    {
+      "name": "Rim D55 Tone 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47067"
+    },
+    {
+      "name": "Rim D55 Tone 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47068"
+    },
+    {
+      "name": "Rim D55 Tone 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47069"
+    },
+    {
+      "name": "Rim D55 Tone 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47070"
+    },
+    {
+      "name": "Rim Dark Canvas.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_39743"
+    },
+    {
+      "name": "Rim Delay Wah Soul.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_39744"
+    },
+    {
+      "name": "Rim Dirty Feel.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_39745"
+    },
+    {
+      "name": "Rim Dirty Feel.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_875"
+    },
+    {
+      "name": "Rim DMX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47071"
+    },
+    {
+      "name": "Rim DMX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_58104"
+    },
+    {
+      "name": "Rim DMX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_874"
+    },
+    {
+      "name": "Rim Dobbs.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_39746"
+    },
+    {
+      "name": "Rim Dobbs.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_876"
+    },
+    {
+      "name": "Rim Doggie.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_877"
+    },
+    {
+      "name": "Rim Drum Machine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_37546"
+    },
+    {
+      "name": "Rim Drum Machine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_878"
+    },
+    {
+      "name": "Rim Dublyn Heavy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47072"
+    },
+    {
+      "name": "Rim Dublyn Teck Crack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47073"
+    },
+    {
+      "name": "Rim Dublyn Whish.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47074"
+    },
+    {
+      "name": "Rim Electronic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_879"
+    },
+    {
+      "name": "Rim Fenk Clap.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_880"
+    },
+    {
+      "name": "Rim Fenk Ring.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_881"
+    },
+    {
+      "name": "Rim Fog.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_48429"
+    },
+    {
+      "name": "Rim Free Floating.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47075"
+    },
+    {
+      "name": "Rim Glitcha.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_883"
+    },
+    {
+      "name": "Rim GR.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_882"
+    },
+    {
+      "name": "Rim Hi Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47076"
+    },
+    {
+      "name": "Rim Huh.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_37547"
+    },
+    {
+      "name": "Rim Hybrid Sense.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47077"
+    },
+    {
+      "name": "Rim Izo Viny.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_884"
+    },
+    {
+      "name": "Rim Large Hall.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_886"
+    },
+    {
+      "name": "Rim Layered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_37548"
+    },
+    {
+      "name": "Rim LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_885"
+    },
+    {
+      "name": "Rim LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47078"
+    },
+    {
+      "name": "Rim Lit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47079"
+    },
+    {
+      "name": "Rim Lo Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47080"
+    },
+    {
+      "name": "Rim Lofi Clack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_887"
+    },
+    {
+      "name": "Rim Lofi Clack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47081"
+    },
+    {
+      "name": "Rim Lofi Thud.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_888"
+    },
+    {
+      "name": "Rim Lofi Thud.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47082"
+    },
+    {
+      "name": "Rim Lofi Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_889"
+    },
+    {
+      "name": "Rim Mid Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47083"
+    },
+    {
+      "name": "Rim Mkit Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_58105"
+    },
+    {
+      "name": "Rim Nectarine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_42382"
+    },
+    {
+      "name": "Rim Paddle Clack.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_890"
+    },
+    {
+      "name": "Rim Piccolo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47084"
+    },
+    {
+      "name": "Rim Plymouth.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_891"
+    },
+    {
+      "name": "Rim Pump It.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_892"
+    },
+    {
+      "name": "Rim Reverse Voltage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_36311"
+    },
+    {
+      "name": "Rim Ring Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47085"
+    },
+    {
+      "name": "Rim Roomy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_39747"
+    },
+    {
+      "name": "Rim Rough Corner.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_39748"
+    },
+    {
+      "name": "Rim Rung.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_893"
+    },
+    {
+      "name": "Rim S1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_894"
+    },
+    {
+      "name": "Rim S5.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_896"
+    },
+    {
+      "name": "Rim S10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_895"
+    },
+    {
+      "name": "Rim Sampled Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_897"
+    },
+    {
+      "name": "Rim Sense.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47086"
+    },
+    {
+      "name": "Rim Shot 505 Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47087"
+    },
+    {
+      "name": "Rim Sidestick Acoustified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47088"
+    },
+    {
+      "name": "Rim Sidestick Acoustified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47089"
+    },
+    {
+      "name": "Rim Sidestick Acoustified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47090"
+    },
+    {
+      "name": "Rim Sidestick Acoustified 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47091"
+    },
+    {
+      "name": "Rim Sidestick Burned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47092"
+    },
+    {
+      "name": "Rim Sidestick Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_37549"
+    },
+    {
+      "name": "Rim Sidestick Damp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47093"
+    },
+    {
+      "name": "Rim Sidestick Direct Injection.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_898"
+    },
+    {
+      "name": "Rim Sidestick Dry Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47094"
+    },
+    {
+      "name": "Rim Sidestick Gen Purpose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_899"
+    },
+    {
+      "name": "Rim Sidestick Hard Bright Room.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_900"
+    },
+    {
+      "name": "Rim Sidestick Hard Dry Session.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_901"
+    },
+    {
+      "name": "Rim Sidestick Kuddy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47095"
+    },
+    {
+      "name": "Rim Sidestick Open.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_902"
+    },
+    {
+      "name": "Rim Sidestick Plymouth.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_903"
+    },
+    {
+      "name": "Rim Sidestick Pop Rock Video.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_904"
+    },
+    {
+      "name": "Rim Sidestick Punch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_905"
+    },
+    {
+      "name": "Rim Sidestick Raged.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_906"
+    },
+    {
+      "name": "Rim Sidestick Shadowed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47096"
+    },
+    {
+      "name": "Rim Sidestick Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_37550"
+    },
+    {
+      "name": "Rim Sidestick Smack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47097"
+    },
+    {
+      "name": "Rim Sidestick Soft Dry Session.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_907"
+    },
+    {
+      "name": "Rim Sidestick Wet Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47098"
+    },
+    {
+      "name": "Rim Sidestick X Snare.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_908"
+    },
+    {
+      "name": "Rim Slackjaw.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_909"
+    },
+    {
+      "name": "Rim Something.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_910"
+    },
+    {
+      "name": "Rim Spring Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_58106"
+    },
+    {
+      "name": "Rim Straight.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_37551"
+    },
+    {
+      "name": "Rim Tangerine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_911"
+    },
+    {
+      "name": "Rim Three Iron.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47099"
+    },
+    {
+      "name": "Rim Three Iron.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_912"
+    },
+    {
+      "name": "Rim Trax.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47100"
+    },
+    {
+      "name": "Rim Trax.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_58107"
+    },
+    {
+      "name": "Rim Vintage DR.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47101"
+    },
+    {
+      "name": "Rim Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_39749"
+    },
+    {
+      "name": "Rim Vinyl 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47102"
+    },
+    {
+      "name": "Rim Vinyl 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_913"
+    },
+    {
+      "name": "Rim Vinyl 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47103"
+    },
+    {
+      "name": "Rim Vinyl 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_914"
+    },
+    {
+      "name": "Rim Voltage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_36312"
+    },
+    {
+      "name": "Rim Way Source.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_39750"
+    },
+    {
+      "name": "Rim Way Source.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_915"
+    },
+    {
+      "name": "Rim Young Blood.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_42383"
+    },
+    {
+      "name": "Rim Zoned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_39751"
+    },
+    {
+      "name": "Rim-707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47104"
+    },
+    {
+      "name": "Rim-808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47105"
+    },
+    {
+      "name": "Rim-909.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47106"
+    },
+    {
+      "name": "Rim-C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47107"
+    },
+    {
+      "name": "Rimshot PL1465.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47108"
+    },
+    {
+      "name": "SideStick Acoustified 09.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47109"
+    },
+    {
+      "name": "SideStick Acoustified 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47110"
+    },
+    {
+      "name": "SideStick Acoustified 13.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47111"
+    },
+    {
+      "name": "SideStick Acoustified 17.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47112"
+    },
+    {
+      "name": "SideStick Acoustified 19.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47113"
+    },
+    {
+      "name": "Sidestick PL1435.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47114"
+    },
+    {
+      "name": "Snap Onyx.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47115"
+    },
+    {
+      "name": "Snare Bright Room Side Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_42384"
+    },
+    {
+      "name": "Snare Sidestick AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_56663"
+    },
+    {
+      "name": "Snare Sidestick BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_55855"
+    },
+    {
+      "name": "Snare Sidestick BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_56664"
+    },
+    {
+      "name": "Snare Sidestick BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_55856"
+    },
+    {
+      "name": "Snare Sidestick ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_56665"
+    },
+    {
+      "name": "Snare Sidestick ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_56666"
+    },
+    {
+      "name": "Snare Sidestick CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_56667"
+    },
+    {
+      "name": "Snare Sidestick DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_55857"
+    },
+    {
+      "name": "Snare Sidestick DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_55858"
+    },
+    {
+      "name": "Snare Sidestick DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_56668"
+    },
+    {
+      "name": "Snare Sidestick LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_55859"
+    },
+    {
+      "name": "Snare Sidestick OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_56669"
+    },
+    {
+      "name": "Snare Sidestick ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_55860"
+    },
+    {
+      "name": "Snare Sidestick RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_56670"
+    },
+    {
+      "name": "Snare Sidestick SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_56671"
+    },
+    {
+      "name": "Snare Sidestick SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_56672"
+    },
+    {
+      "name": "Snare Sidestick StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_56673"
+    },
+    {
+      "name": "Snare Sidestick WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_55861"
+    },
+    {
+      "name": "SNARE_CSTM_1465_BRZ_open_stick_sidestick 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_45207"
+    },
+    {
+      "name": "SNARE_DXN_1360_RGM_open_sidestick 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_45208"
+    },
+    {
+      "name": "SNARE_PL_1465_BRZ_damp #2_stick_rim shot 14-1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_45209"
+    },
+    {
+      "name": "SNARE_PRL_1350_MHY_open_sidestick 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_45210"
+    },
+    {
+      "name": "SNARE_PRL_1490_MHY#2_open_sidestick 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_45211"
+    },
+    {
+      "name": "SNARE_SNR_1470_MPL_damp_stick_sidestick 20-1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_45212"
+    },
+    {
+      "name": "SNARE_YMA_1455_MPL #1_open_stick_sidestick 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_45213"
+    },
+    {
+      "name": "Snare-BrightRoom-Stick-Side-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47116"
+    },
+    {
+      "name": "Stick 909 Onyx.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47117"
+    },
+    {
+      "name": "Stick Clack Swat Echoe.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_36313"
+    },
+    {
+      "name": "Stick DMX Onyx.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47118"
+    },
+    {
+      "name": "Stick Onyx.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47119"
+    },
+    {
+      "name": "Stick Slackjaw.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_39752"
+    },
+    {
+      "name": "Stick Tap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47120"
+    },
+    {
+      "name": "Stick Unv Dub.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Rim:FileId_47121"
+    }
+  ]
+}

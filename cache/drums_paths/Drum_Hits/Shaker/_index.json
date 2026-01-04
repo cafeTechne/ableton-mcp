@@ -1,0 +1,1550 @@
+{
+  "path": "drums/Drum Hits/Shaker",
+  "name": "Shaker",
+  "uri": "query:Drums#Drum%20Hits:Shaker",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "A-Shaker 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47122"
+    },
+    {
+      "name": "Cabasa 1 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50286"
+    },
+    {
+      "name": "Cabasa 1 Long.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50287"
+    },
+    {
+      "name": "Cabasa 1 Short.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50288"
+    },
+    {
+      "name": "Cabasa 2 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50289"
+    },
+    {
+      "name": "Cabasa 2 Long.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50290"
+    },
+    {
+      "name": "Cabasa 2 Short.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50291"
+    },
+    {
+      "name": "Cabasa 3 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50292"
+    },
+    {
+      "name": "Cabasa 3 Long.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50293"
+    },
+    {
+      "name": "Cabasa 3 Short.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50294"
+    },
+    {
+      "name": "Cabasa 4 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50295"
+    },
+    {
+      "name": "Cabasa 4 Long.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50296"
+    },
+    {
+      "name": "Cabasa 4 Short.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50297"
+    },
+    {
+      "name": "Cabasa 60s Vinyl.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47123"
+    },
+    {
+      "name": "Cabasa 60s Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_804"
+    },
+    {
+      "name": "Cabasa 808 Vintage Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47124"
+    },
+    {
+      "name": "Cabasa Chelsea Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47125"
+    },
+    {
+      "name": "Cabasa Filtered Chekov.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_805"
+    },
+    {
+      "name": "Cabasa Filtered Chekov.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47126"
+    },
+    {
+      "name": "Cabasa FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50298"
+    },
+    {
+      "name": "Cabasa Hard Smack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47127"
+    },
+    {
+      "name": "Cabasa LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_806"
+    },
+    {
+      "name": "Cabasa LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58108"
+    },
+    {
+      "name": "Cabasa Long Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47128"
+    },
+    {
+      "name": "Cabasa Long.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50299"
+    },
+    {
+      "name": "Cabasa Loop Double Hit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_36314"
+    },
+    {
+      "name": "Cabasa Medium Rub.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_36315"
+    },
+    {
+      "name": "Cabasa Mid Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47129"
+    },
+    {
+      "name": "Cabasa Noise Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47130"
+    },
+    {
+      "name": "Cabasa Short Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_36316"
+    },
+    {
+      "name": "Cabasa Short Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_807"
+    },
+    {
+      "name": "Cabasa Short.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50300"
+    },
+    {
+      "name": "Cabasa Shrill Medium.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_36317"
+    },
+    {
+      "name": "Cabasa Soft Smack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47131"
+    },
+    {
+      "name": "Cabasa Soft Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47132"
+    },
+    {
+      "name": "Cabasa Trax.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47133"
+    },
+    {
+      "name": "Cabasa Trax.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58109"
+    },
+    {
+      "name": "Cabasa-LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47134"
+    },
+    {
+      "name": "Cabassa SP.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47135"
+    },
+    {
+      "name": "Cabassa SP.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_808"
+    },
+    {
+      "name": "Cabassa Sun Wash.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_42385"
+    },
+    {
+      "name": "Caxixi 1 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50301"
+    },
+    {
+      "name": "Caxixi 1 Hand.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50302"
+    },
+    {
+      "name": "Caxixi 1 Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50303"
+    },
+    {
+      "name": "Caxixi 2 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50304"
+    },
+    {
+      "name": "Caxixi 2 Hand.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50305"
+    },
+    {
+      "name": "Caxixi 2 Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50306"
+    },
+    {
+      "name": "Caxixi 3 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50307"
+    },
+    {
+      "name": "Caxixi 3 Hand.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50308"
+    },
+    {
+      "name": "Caxixi 3 Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50309"
+    },
+    {
+      "name": "Caxixi 4 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50310"
+    },
+    {
+      "name": "Caxixi 4 Hand.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50311"
+    },
+    {
+      "name": "Caxixi 4 Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50312"
+    },
+    {
+      "name": "Caxixi 5 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50313"
+    },
+    {
+      "name": "Caxixi 5 Hand.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50314"
+    },
+    {
+      "name": "Caxixi 5 Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50315"
+    },
+    {
+      "name": "Caxixi 6 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50316"
+    },
+    {
+      "name": "Caxixi 6 Hand.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50317"
+    },
+    {
+      "name": "Caxixi 6 Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50318"
+    },
+    {
+      "name": "Caxixi 7 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50319"
+    },
+    {
+      "name": "Caxixi 7 Hand.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50320"
+    },
+    {
+      "name": "Caxixi 7 Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50321"
+    },
+    {
+      "name": "Caxixi 8 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50322"
+    },
+    {
+      "name": "Caxixi 8 Hand.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50323"
+    },
+    {
+      "name": "Caxixi 8 Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50324"
+    },
+    {
+      "name": "Egg Shaker.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58110"
+    },
+    {
+      "name": "Maracas 3 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50325"
+    },
+    {
+      "name": "Maracas 3.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50326"
+    },
+    {
+      "name": "Maracas 4 FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50327"
+    },
+    {
+      "name": "Maracas 4.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50328"
+    },
+    {
+      "name": "Maracas 808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58111"
+    },
+    {
+      "name": "Maracas 808.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_809"
+    },
+    {
+      "name": "Maracas A FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50329"
+    },
+    {
+      "name": "Maracas A.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50330"
+    },
+    {
+      "name": "Maracas FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50331"
+    },
+    {
+      "name": "Maracas.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50332"
+    },
+    {
+      "name": "Maracas-808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47136"
+    },
+    {
+      "name": "Perc Shake RKTD1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_48430"
+    },
+    {
+      "name": "Perc Shaker K2L.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_36318"
+    },
+    {
+      "name": "Shake Cabasa Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_810"
+    },
+    {
+      "name": "Shake Deep Fried.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_811"
+    },
+    {
+      "name": "Shake Delay.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_812"
+    },
+    {
+      "name": "Shake Dirty Ruzzle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_36319"
+    },
+    {
+      "name": "Shake Maracas Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_813"
+    },
+    {
+      "name": "Shake Maracas Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_814"
+    },
+    {
+      "name": "Shake Shakeur.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_815"
+    },
+    {
+      "name": "Shake Shakeur.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47137"
+    },
+    {
+      "name": "Shake-Cabasa Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47138"
+    },
+    {
+      "name": "SHAKER 1 -  8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45258"
+    },
+    {
+      "name": "SHAKER 1 -  9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45259"
+    },
+    {
+      "name": "SHAKER 1 -  13.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45252"
+    },
+    {
+      "name": "SHAKER 1 -  15.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45253"
+    },
+    {
+      "name": "SHAKER 1 -  17.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45254"
+    },
+    {
+      "name": "SHAKER 1 -  23.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45255"
+    },
+    {
+      "name": "SHAKER 1 -  24.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45256"
+    },
+    {
+      "name": "SHAKER 1 -  27.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45257"
+    },
+    {
+      "name": "Shaker 1.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50333"
+    },
+    {
+      "name": "SHAKER 1a.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45927"
+    },
+    {
+      "name": "SHAKER 1b.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45928"
+    },
+    {
+      "name": "SHAKER 2 - 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45261"
+    },
+    {
+      "name": "SHAKER 2 - 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45262"
+    },
+    {
+      "name": "SHAKER 2 - 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45260"
+    },
+    {
+      "name": "Shaker 2.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50334"
+    },
+    {
+      "name": "SHAKER 2.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45929"
+    },
+    {
+      "name": "SHAKER 3 - 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45266"
+    },
+    {
+      "name": "SHAKER 3 - 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45263"
+    },
+    {
+      "name": "SHAKER 3 - 35.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45264"
+    },
+    {
+      "name": "SHAKER 3 - 38.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45265"
+    },
+    {
+      "name": "Shaker 3 Beads.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_36320"
+    },
+    {
+      "name": "Shaker 3.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50335"
+    },
+    {
+      "name": "SHAKER 3.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_45930"
+    },
+    {
+      "name": "Shaker 4.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50336"
+    },
+    {
+      "name": "Shaker 5.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50337"
+    },
+    {
+      "name": "Shaker 6.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50338"
+    },
+    {
+      "name": "Shaker 007.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_816"
+    },
+    {
+      "name": "Shaker 7.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50339"
+    },
+    {
+      "name": "Shaker 8.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_50340"
+    },
+    {
+      "name": "Shaker 011.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_817"
+    },
+    {
+      "name": "Shaker 013.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_818"
+    },
+    {
+      "name": "Shaker 70s MPC.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_819"
+    },
+    {
+      "name": "Shaker 808 Reviv.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_820"
+    },
+    {
+      "name": "Shaker A1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_821"
+    },
+    {
+      "name": "Shaker Acoustic 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_37552"
+    },
+    {
+      "name": "Shaker Acoustic 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_37553"
+    },
+    {
+      "name": "Shaker Acoustic 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_37554"
+    },
+    {
+      "name": "Shaker Acoustic 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_37555"
+    },
+    {
+      "name": "Shaker Acoustic Melt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_48431"
+    },
+    {
+      "name": "Shaker Acoustic Night.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_48432"
+    },
+    {
+      "name": "Shaker Acoustic Preon.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_48433"
+    },
+    {
+      "name": "Shaker Acoustic Step 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58112"
+    },
+    {
+      "name": "Shaker Acoustic Step 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58113"
+    },
+    {
+      "name": "Shaker Acoustic Step 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_822"
+    },
+    {
+      "name": "Shaker Acoustic Step 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58114"
+    },
+    {
+      "name": "Shaker Acoustic Step 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58115"
+    },
+    {
+      "name": "Shaker Acoustic Step 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58116"
+    },
+    {
+      "name": "Shaker Acoustified 06.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47139"
+    },
+    {
+      "name": "Shaker Acoustified 07.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47140"
+    },
+    {
+      "name": "Shaker Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_823"
+    },
+    {
+      "name": "Shaker AlienFash.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47141"
+    },
+    {
+      "name": "Shaker AlienFash.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_824"
+    },
+    {
+      "name": "Shaker Bang.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_39753"
+    },
+    {
+      "name": "Shaker Blueprint.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_39754"
+    },
+    {
+      "name": "Shaker Build.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_37556"
+    },
+    {
+      "name": "Shaker Build.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_825"
+    },
+    {
+      "name": "Shaker Cabasa Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_42386"
+    },
+    {
+      "name": "Shaker Chelsea Quick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47142"
+    },
+    {
+      "name": "Shaker Delay Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47143"
+    },
+    {
+      "name": "Shaker DMX Vinyl.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_826"
+    },
+    {
+      "name": "Shaker DMX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47144"
+    },
+    {
+      "name": "Shaker DMX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58117"
+    },
+    {
+      "name": "Shaker DMX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_827"
+    },
+    {
+      "name": "Shaker Drop.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_828"
+    },
+    {
+      "name": "Shaker EDM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_37557"
+    },
+    {
+      "name": "Shaker Egg.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_829"
+    },
+    {
+      "name": "Shaker Electrified 01.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47145"
+    },
+    {
+      "name": "Shaker Electrified 03.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47146"
+    },
+    {
+      "name": "Shaker Electrified 06.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_830"
+    },
+    {
+      "name": "Shaker Electrified 06.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47147"
+    },
+    {
+      "name": "Shaker Electrified 07.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47148"
+    },
+    {
+      "name": "Shaker Electrified 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47149"
+    },
+    {
+      "name": "Shaker Electronic Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47150"
+    },
+    {
+      "name": "Shaker Flared Out.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_48434"
+    },
+    {
+      "name": "Shaker Fly.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_39755"
+    },
+    {
+      "name": "Shaker Gotcha.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_39756"
+    },
+    {
+      "name": "Shaker GrooveShadow.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_831"
+    },
+    {
+      "name": "Shaker Hand Angry.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_39757"
+    },
+    {
+      "name": "Shaker Hi Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47151"
+    },
+    {
+      "name": "Shaker Ironman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_39758"
+    },
+    {
+      "name": "Shaker Ironman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_832"
+    },
+    {
+      "name": "Shaker Jagged Glass.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58118"
+    },
+    {
+      "name": "Shaker Jiggy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_39759"
+    },
+    {
+      "name": "Shaker Large Scratch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_36321"
+    },
+    {
+      "name": "Shaker Live Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_833"
+    },
+    {
+      "name": "Shaker Lo Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47152"
+    },
+    {
+      "name": "Shaker Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_834"
+    },
+    {
+      "name": "Shaker Mkit Sample 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58119"
+    },
+    {
+      "name": "Shaker Mkit Sample 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58120"
+    },
+    {
+      "name": "Shaker Mkit Sample 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58121"
+    },
+    {
+      "name": "Shaker Mkit Sample 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58122"
+    },
+    {
+      "name": "Shaker Mkit Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58123"
+    },
+    {
+      "name": "Shaker Nobody.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_835"
+    },
+    {
+      "name": "Shaker Noise 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_37558"
+    },
+    {
+      "name": "Shaker Noise 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_37559"
+    },
+    {
+      "name": "Shaker Noise 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_836"
+    },
+    {
+      "name": "Shaker Noise 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_37560"
+    },
+    {
+      "name": "Shaker Noise 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_837"
+    },
+    {
+      "name": "Shaker Noise Sonar.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_48435"
+    },
+    {
+      "name": "Shaker Noise Step 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_838"
+    },
+    {
+      "name": "Shaker Noise Step 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58124"
+    },
+    {
+      "name": "Shaker Noise Step 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58125"
+    },
+    {
+      "name": "Shaker Noise Step 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58126"
+    },
+    {
+      "name": "Shaker Noise Step 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_58127"
+    },
+    {
+      "name": "Shaker PCM Fish.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_48436"
+    },
+    {
+      "name": "Shaker Pete.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_839"
+    },
+    {
+      "name": "Shaker Prommer Vinyl.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47153"
+    },
+    {
+      "name": "Shaker Prommer Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_840"
+    },
+    {
+      "name": "Shaker Rattle SP.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_841"
+    },
+    {
+      "name": "Shaker Rattle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_42387"
+    },
+    {
+      "name": "Shaker Reverb Electrified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47154"
+    },
+    {
+      "name": "Shaker Road Monger.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_36322"
+    },
+    {
+      "name": "Shaker Sad.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_39760"
+    },
+    {
+      "name": "Shaker Sad.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_842"
+    },
+    {
+      "name": "Shaker Sally.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_39761"
+    },
+    {
+      "name": "Shaker Seed Drop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_42388"
+    },
+    {
+      "name": "Shaker SeedPodBangle.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_843"
+    },
+    {
+      "name": "Shaker Sense.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47155"
+    },
+    {
+      "name": "Shaker Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_844"
+    },
+    {
+      "name": "Shaker Source.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_845"
+    },
+    {
+      "name": "Shaker Streets.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_39762"
+    },
+    {
+      "name": "Shaker Tamb Layer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_36323"
+    },
+    {
+      "name": "Shaker Tambo Layer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47156"
+    },
+    {
+      "name": "Shaker Tap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47157"
+    },
+    {
+      "name": "Shaker Trill Light.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_36324"
+    },
+    {
+      "name": "Shaker Vinyl 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_846"
+    },
+    {
+      "name": "Shaker Vinyl 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_847"
+    },
+    {
+      "name": "Shaker Vinyl 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_848"
+    },
+    {
+      "name": "Shaker Vinyl 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_849"
+    },
+    {
+      "name": "Shaker Vinyl 5.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_850"
+    },
+    {
+      "name": "Shaker Zoned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_39763"
+    },
+    {
+      "name": "Tambo Jagged Glass.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Shaker:FileId_47158"
+    }
+  ]
+}

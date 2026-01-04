@@ -1,0 +1,59 @@
+{
+  "path": "Instruments/Drum Rack",
+  "name": "Drum Rack",
+  "uri": "query:Synths#Drum%20Rack",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "Ambient & Evolving",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drum%20Rack:Ambient%20&%20Evolving"
+    },
+    {
+      "name": "Effects",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drum%20Rack:Effects"
+    },
+    {
+      "name": "Experimental",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drum%20Rack:Experimental"
+    },
+    {
+      "name": "Guitar & Plucked",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drum%20Rack:Guitar%20&%20Plucked"
+    },
+    {
+      "name": "Pad",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drum%20Rack:Pad"
+    },
+    {
+      "name": "Strings",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drum%20Rack:Strings"
+    },
+    {
+      "name": "Voices",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Synths#Drum%20Rack:Voices"
+    }
+  ]
+}

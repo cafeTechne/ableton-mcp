@@ -1,0 +1,283 @@
+{
+  "path": "Instruments/Sampler/Bass",
+  "name": "Bass",
+  "uri": "query:Synths#Sampler:Bass",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Acid Meltdown Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_5346"
+    },
+    {
+      "name": "Ambient Encounters Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_5347"
+    },
+    {
+      "name": "Analogue Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_5348"
+    },
+    {
+      "name": "Anomalocaris.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_43197"
+    },
+    {
+      "name": "BazzHouz.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_59186"
+    },
+    {
+      "name": "Big Bumble Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_36631"
+    },
+    {
+      "name": "Big Modules Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_5349"
+    },
+    {
+      "name": "Byte Sized Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_5350"
+    },
+    {
+      "name": "Clean Reese.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_59189"
+    },
+    {
+      "name": "Clip Houz.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_59190"
+    },
+    {
+      "name": "Contour Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_51103"
+    },
+    {
+      "name": "Creatures.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_51105"
+    },
+    {
+      "name": "Electric Bass Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_49472"
+    },
+    {
+      "name": "Electric Bass Palm.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_49473"
+    },
+    {
+      "name": "Electric Bass Slap.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_49474"
+    },
+    {
+      "name": "Electric Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_49475"
+    },
+    {
+      "name": "Fine Pulse Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_5351"
+    },
+    {
+      "name": "Fretless Bass Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_49476"
+    },
+    {
+      "name": "Fretless Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_49477"
+    },
+    {
+      "name": "Glide Square Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_5352"
+    },
+    {
+      "name": "Good Old Vintage Phat Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_5353"
+    },
+    {
+      "name": "Infected Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_5354"
+    },
+    {
+      "name": "LostScene.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_51112"
+    },
+    {
+      "name": "Machine Punk Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_5355"
+    },
+    {
+      "name": "Machine Whirr Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_51113"
+    },
+    {
+      "name": "Mamas Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_5356"
+    },
+    {
+      "name": "Mini 1 OSC Reso Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_5357"
+    },
+    {
+      "name": "Mini 2 OSC LFO Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_5358"
+    },
+    {
+      "name": "Mini Wobble Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_5359"
+    },
+    {
+      "name": "Mod Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_5360"
+    },
+    {
+      "name": "Pixelated Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_4100"
+    },
+    {
+      "name": "Pulse Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_5361"
+    },
+    {
+      "name": "ReeseWobble.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_59209"
+    },
+    {
+      "name": "Saw Filtered Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_5362"
+    },
+    {
+      "name": "Sine Wobble.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_59215"
+    },
+    {
+      "name": "Singularity Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_51119"
+    },
+    {
+      "name": "Violent Reese.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_59221"
+    },
+    {
+      "name": "Watch The World.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_51122"
+    },
+    {
+      "name": "Wobhouse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Bass:FileId_59223"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "path": "Instruments/Drift/Brass",
+  "name": "Brass",
+  "uri": "query:Synths#Drift:Brass",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Moody Fanfare.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Brass:FileId_4055"
+    },
+    {
+      "name": "Woozy Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Brass:FileId_4058"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "path": "midi_effects/Envelope MIDI",
+  "name": "Envelope MIDI",
+  "uri": "query:MidiFx#Envelope%20MIDI",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "Fast Attack.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Envelope%20MIDI:FileId_4818"
+    },
+    {
+      "name": "Fast Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Envelope%20MIDI:FileId_4819"
+    },
+    {
+      "name": "Impact Echo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Envelope%20MIDI:FileId_4820"
+    },
+    {
+      "name": "Slow ADSR.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Envelope%20MIDI:FileId_4821"
+    },
+    {
+      "name": "Slow Climb Sweeper.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Envelope%20MIDI:FileId_4822"
+    }
+  ]
+}

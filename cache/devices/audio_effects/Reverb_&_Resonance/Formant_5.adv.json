@@ -1,0 +1,269 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Reverb_&_Resonance",
+  "name": "Formant +5",
+  "uri": "query:AudioFx#Reverb%20&%20Resonance:Vocoder:FileId_5928",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Lower Filter Band",
+      "min": 1.3010300397872925,
+      "max": 3.301029920578003,
+      "value": 2.269779920578003,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Upper Filter Band",
+      "min": 2.301029920578003,
+      "max": 4.255272388458252,
+      "value": 4.133132457733154,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Formant Shift",
+      "min": -36.0,
+      "max": 36.0,
+      "value": 5.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Filter Bandwidth",
+      "min": 0.10000000149011612,
+      "max": 2.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Precise/Retro",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Gate Threshold",
+      "min": -60.0,
+      "max": 12.0,
+      "value": -60.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Output Level",
+      "min": -24.0,
+      "max": 24.0,
+      "value": 12.375,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Attack Time",
+      "min": 0.0,
+      "max": 3.0,
+      "value": 1.4047619104385376,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Release Time",
+      "min": 1.0,
+      "max": 4.477121353149414,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Unvoiced Sensitivity",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5859375,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "Unvoiced Speed",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Fast",
+        "Slow"
+      ],
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "Unvoiced Level",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0294698427060212e-07,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "Enhance",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "Mono/Stereo",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Mono",
+        "Stereo",
+        "L/R"
+      ],
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "Dry/Wet",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 15
+    },
+    {
+      "name": "Envelope Depth",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 16
+    },
+    {
+      "name": "Noise Rate",
+      "min": 2.0,
+      "max": 4.301030158996582,
+      "value": 4.301030158996582,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 17
+    },
+    {
+      "name": "Noise Crackle",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 18
+    },
+    {
+      "name": "Lower Pitch Detection",
+      "min": 1.4771212339401245,
+      "max": 2.477121353149414,
+      "value": 1.9458712339401245,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 19
+    },
+    {
+      "name": "Upper Pitch Detection",
+      "min": 2.477121353149414,
+      "max": 3.477121353149414,
+      "value": 2.672433853149414,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 20
+    },
+    {
+      "name": "Oscillator Pitch",
+      "min": -36.0,
+      "max": 36.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 21
+    },
+    {
+      "name": "Oscillator Waveform",
+      "min": 0.0,
+      "max": 3.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Saw",
+        "Pulse10",
+        "Pulse25",
+        "Pulse48"
+      ],
+      "unit": null,
+      "index": 22
+    },
+    {
+      "name": "Ext. In Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.4000000059604645,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 23
+    }
+  ]
+}

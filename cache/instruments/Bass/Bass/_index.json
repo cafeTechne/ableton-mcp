@@ -1,0 +1,283 @@
+{
+  "path": "Instruments/Bass/Bass",
+  "name": "Bass",
+  "uri": "query:Synths#Bass:Bass",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "6th Gear Plantation.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41224"
+    },
+    {
+      "name": "Buffer Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41225"
+    },
+    {
+      "name": "Chemistry Fail.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41226"
+    },
+    {
+      "name": "Classic Synth Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41227"
+    },
+    {
+      "name": "Coffeecup.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41228"
+    },
+    {
+      "name": "Dark and Brash.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41229"
+    },
+    {
+      "name": "Dubop Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41230"
+    },
+    {
+      "name": "Fall Out Shelter.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41231"
+    },
+    {
+      "name": "Fill The Groove.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41232"
+    },
+    {
+      "name": "Funkline vol2.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41233"
+    },
+    {
+      "name": "Grinder Dunk.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41234"
+    },
+    {
+      "name": "Lead-in.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41235"
+    },
+    {
+      "name": "Model D Citizen.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41236"
+    },
+    {
+      "name": "Muesli.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41237"
+    },
+    {
+      "name": "Notcha.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41238"
+    },
+    {
+      "name": "Pencil Pusher.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41239"
+    },
+    {
+      "name": "Phatti.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41240"
+    },
+    {
+      "name": "Pignose Bass Punch.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41241"
+    },
+    {
+      "name": "Pocket Rocket.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41242"
+    },
+    {
+      "name": "Rail Grinder.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41243"
+    },
+    {
+      "name": "Retro Odyssey.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41244"
+    },
+    {
+      "name": "Reverse Wink.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41245"
+    },
+    {
+      "name": "Rezzo Collider.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41246"
+    },
+    {
+      "name": "Rogues.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41247"
+    },
+    {
+      "name": "Roller MINI.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41248"
+    },
+    {
+      "name": "Sequence Tapper.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41249"
+    },
+    {
+      "name": "Space Drone Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41452"
+    },
+    {
+      "name": "Sponge Feelz.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41250"
+    },
+    {
+      "name": "Stadium Funk.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41453"
+    },
+    {
+      "name": "Step Off Growl.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41251"
+    },
+    {
+      "name": "Sub Bass Drone.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41252"
+    },
+    {
+      "name": "SubEsque Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41253"
+    },
+    {
+      "name": "Thick Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41254"
+    },
+    {
+      "name": "Twofold.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41255"
+    },
+    {
+      "name": "Uncanny Fifth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41454"
+    },
+    {
+      "name": "Velocity Sponge.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41256"
+    },
+    {
+      "name": "Volcanic Rupture.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41257"
+    },
+    {
+      "name": "Vowel Explosion.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41258"
+    },
+    {
+      "name": "Wavebass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Bass:FileId_41259"
+    }
+  ]
+}

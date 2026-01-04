@@ -1,0 +1,24 @@
+{
+  "path": "Instruments/Simpler/Booms",
+  "name": "Booms",
+  "uri": "query:Synths#Simpler:Booms",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "2-Way Boom Drive.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Booms:FileId_36609"
+    },
+    {
+      "name": "2-Way Boom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Booms:FileId_36610"
+    }
+  ]
+}

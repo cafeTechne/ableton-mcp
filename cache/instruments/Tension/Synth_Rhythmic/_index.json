@@ -1,0 +1,59 @@
+{
+  "path": "Instruments/Tension/Synth Rhythmic",
+  "name": "Synth Rhythmic",
+  "uri": "query:Synths#Tension:Synth%20Rhythmic",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Basic Pluck Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Rhythmic:FileId_3702"
+    },
+    {
+      "name": "Flying over Factories.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Rhythmic:FileId_55525"
+    },
+    {
+      "name": "In Suspension.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Rhythmic:FileId_51255"
+    },
+    {
+      "name": "NewYork Escape Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Rhythmic:FileId_61256"
+    },
+    {
+      "name": "Pulsing LoFi Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Rhythmic:FileId_3717"
+    },
+    {
+      "name": "Space Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Rhythmic:FileId_3727"
+    },
+    {
+      "name": "String-Ting Arpeggio Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Rhythmic:FileId_43088"
+    }
+  ]
+}

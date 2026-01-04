@@ -1,0 +1,17 @@
+{
+  "path": "Instruments/Electric/Synth Rhythmic",
+  "name": "Synth Rhythmic",
+  "uri": "query:Synths#Electric:Synth%20Rhythmic",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Spirit Bell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Electric:Synth%20Rhythmic:FileId_43087"
+    }
+  ]
+}

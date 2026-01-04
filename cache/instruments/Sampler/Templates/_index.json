@@ -1,0 +1,38 @@
+{
+  "path": "Instruments/Sampler/Templates",
+  "name": "Templates",
+  "uri": "query:Synths#Sampler:Templates",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Drum One Shot Template.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Templates:FileId_5290"
+    },
+    {
+      "name": "Mono Bass with Glide Template.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Templates:FileId_5291"
+    },
+    {
+      "name": "Slow Pad with Filter Sweep Template.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Templates:FileId_5292"
+    },
+    {
+      "name": "Vintage Bass Filter Sweep Template.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Templates:FileId_5293"
+    }
+  ]
+}

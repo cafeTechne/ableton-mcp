@@ -1,0 +1,255 @@
+{
+  "path": "Instruments/Wavetable/Mallets",
+  "name": "Mallets",
+  "uri": "query:Synths#Wavetable:Mallets",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "A Brief History of Chime.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_5011"
+    },
+    {
+      "name": "Ambient Element.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_5012"
+    },
+    {
+      "name": "Arctic Shadows.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_43011"
+    },
+    {
+      "name": "Basic Analog Chime.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_3981"
+    },
+    {
+      "name": "Basic Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_3982"
+    },
+    {
+      "name": "Bell and Swell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_3987"
+    },
+    {
+      "name": "Bell Degrees.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_5013"
+    },
+    {
+      "name": "Bell Prelude.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_5014"
+    },
+    {
+      "name": "Bellagio.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_51232"
+    },
+    {
+      "name": "Bellevue.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_51233"
+    },
+    {
+      "name": "Ceramic Dreams.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_51234"
+    },
+    {
+      "name": "Changing Rate Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_54488"
+    },
+    {
+      "name": "Crockhausen.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_5015"
+    },
+    {
+      "name": "Curved Kalimba.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_59778"
+    },
+    {
+      "name": "Cycle Chimes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_3989"
+    },
+    {
+      "name": "Fake Phone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_3992"
+    },
+    {
+      "name": "Fear Gong.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_3993"
+    },
+    {
+      "name": "Fizz Bells.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_5016"
+    },
+    {
+      "name": "Flexibell.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_5017"
+    },
+    {
+      "name": "Frantasia.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_5018"
+    },
+    {
+      "name": "Glinting Echoes.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_5019"
+    },
+    {
+      "name": "Hang Drum Festival.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_5020"
+    },
+    {
+      "name": "Island Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_3994"
+    },
+    {
+      "name": "Jarhead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_54490"
+    },
+    {
+      "name": "Largesse Chime.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_59779"
+    },
+    {
+      "name": "Morning Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_51242"
+    },
+    {
+      "name": "Oldbellz.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_39916"
+    },
+    {
+      "name": "Orbit Mallets.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_3998"
+    },
+    {
+      "name": "Plastic Toy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_4000"
+    },
+    {
+      "name": "Rich Mallet.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_59780"
+    },
+    {
+      "name": "Roompop.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_59781"
+    },
+    {
+      "name": "Small Jars.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_59782"
+    },
+    {
+      "name": "Strumboli.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_54492"
+    },
+    {
+      "name": "Talk Talk Bells.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_5021"
+    },
+    {
+      "name": "Toy Marimba.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Mallets:FileId_5022"
+    }
+  ]
+}

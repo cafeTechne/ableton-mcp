@@ -1,0 +1,210 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Delay_&_Loop",
+  "name": "Fill In The Gaps.adv",
+  "uri": "query:AudioFx#Delay%20&%20Loop:Beat%20Repeat:FileId_6638",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Chance",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Interval",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 3.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Offset",
+      "min": 0.0,
+      "max": 15.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Grid",
+      "min": 0.0,
+      "max": 15.0,
+      "value": 8.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Block Triplets",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Variation",
+      "min": 0.0,
+      "max": 10.0,
+      "value": 4.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Variation Type",
+      "min": 0.0,
+      "max": 4.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Trigger",
+        "1/4",
+        "1/8",
+        "1/16",
+        "Auto"
+      ],
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Gate",
+      "min": 0.0,
+      "max": 18.0,
+      "value": 18.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Decay",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.7086614370346069,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Pitch Decay",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.913385808467865,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "Pitch",
+      "min": 0.0,
+      "max": 12.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "Mix Type",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Mix",
+        "Ins",
+        "Gate"
+      ],
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "Volume",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.8500000238418579,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "Filter On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "Filter Freq",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5568181872367859,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 15
+    },
+    {
+      "name": "Filter Width",
+      "min": 0.5,
+      "max": 9.0,
+      "value": 2.625,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 16
+    },
+    {
+      "name": "Repeat",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 17
+    }
+  ]
+}

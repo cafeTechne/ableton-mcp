@@ -1,0 +1,38 @@
+{
+  "path": "Instruments/Drum Rack/Strings",
+  "name": "Strings",
+  "uri": "query:Synths#Drum%20Rack:Strings",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Cello Phrases C Major (120 bpm).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Strings:FileId_51172"
+    },
+    {
+      "name": "Cello Phrases C Minor (120 bpm).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Strings:FileId_51173"
+    },
+    {
+      "name": "Cello Phrases G Major (120 bpm).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Strings:FileId_51174"
+    },
+    {
+      "name": "Cello Phrases G Minor (120 bpm).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Strings:FileId_51175"
+    }
+  ]
+}

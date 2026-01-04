@@ -1,0 +1,9 @@
+{
+  "path": "Instruments/External Instrument",
+  "name": "External Instrument",
+  "uri": "query:Synths#External%20Instrument",
+  "is_folder": false,
+  "is_device": true,
+  "is_loadable": true,
+  "items": []
+}

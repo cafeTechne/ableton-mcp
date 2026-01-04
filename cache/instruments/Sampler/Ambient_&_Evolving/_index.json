@@ -1,0 +1,283 @@
+{
+  "path": "Instruments/Sampler/Ambient & Evolving",
+  "name": "Ambient & Evolving",
+  "uri": "query:Synths#Sampler:Ambient%20&%20Evolving",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Ambient Feeling.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_5364"
+    },
+    {
+      "name": "Ambiente Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_5365"
+    },
+    {
+      "name": "Anomalocaris.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_43197"
+    },
+    {
+      "name": "Arcocymb Ambience (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51124"
+    },
+    {
+      "name": "Arcocymb Ensemble (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51125"
+    },
+    {
+      "name": "Backed Darkness (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51126"
+    },
+    {
+      "name": "Chill Outzone.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_5366"
+    },
+    {
+      "name": "Corporeal Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51127"
+    },
+    {
+      "name": "Dark One.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_5367"
+    },
+    {
+      "name": "Deep Background Blender.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51128"
+    },
+    {
+      "name": "Dissonant Grain Atmos.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51129"
+    },
+    {
+      "name": "Downstairs Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_5368"
+    },
+    {
+      "name": "Dragging Metallic Rods.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51130"
+    },
+    {
+      "name": "Field Recording Selector.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51131"
+    },
+    {
+      "name": "Forest Fear Train (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51132"
+    },
+    {
+      "name": "Galactic Fear (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51133"
+    },
+    {
+      "name": "Granular Blender.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51135"
+    },
+    {
+      "name": "Granulised Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51136"
+    },
+    {
+      "name": "Gravity Tube Dust (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51137"
+    },
+    {
+      "name": "Independence Day.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_5369"
+    },
+    {
+      "name": "Ion Storm (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51138"
+    },
+    {
+      "name": "Metallic Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51139"
+    },
+    {
+      "name": "Night Crickets.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51140"
+    },
+    {
+      "name": "Nuclear Storm (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51142"
+    },
+    {
+      "name": "Phantasm Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_5370"
+    },
+    {
+      "name": "Pitched Ambiente.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_5371"
+    },
+    {
+      "name": "Prophets.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_43231"
+    },
+    {
+      "name": "Radiowaves Selector.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51143"
+    },
+    {
+      "name": "Resonant Cymbals.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51144"
+    },
+    {
+      "name": "Soft Industry.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_5372"
+    },
+    {
+      "name": "Spectral Spiders.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51146"
+    },
+    {
+      "name": "Spectral Transmission (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51147"
+    },
+    {
+      "name": "Steel Shards.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51148"
+    },
+    {
+      "name": "Sundder Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51150"
+    },
+    {
+      "name": "Textural Machine.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_4029"
+    },
+    {
+      "name": "Tranquility at Sea.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_48977"
+    },
+    {
+      "name": "Whistling Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51154"
+    },
+    {
+      "name": "Wind Harp Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_51155"
+    },
+    {
+      "name": "XARP.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Ambient%20&%20Evolving:FileId_43268"
+    }
+  ]
+}

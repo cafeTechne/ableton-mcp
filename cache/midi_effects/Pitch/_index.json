@@ -1,0 +1,31 @@
+{
+  "path": "midi_effects/Pitch",
+  "name": "Pitch",
+  "uri": "query:MidiFx#Pitch",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "- 12.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Pitch:FileId_4796"
+    },
+    {
+      "name": "+ 12.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Pitch:FileId_4794"
+    },
+    {
+      "name": "+ 24.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Pitch:FileId_4795"
+    }
+  ]
+}

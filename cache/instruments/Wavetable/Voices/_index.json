@@ -1,0 +1,73 @@
+{
+  "path": "Instruments/Wavetable/Voices",
+  "name": "Voices",
+  "uri": "query:Synths#Wavetable:Voices",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Ancient Conversation.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Voices:FileId_51158"
+    },
+    {
+      "name": "Formant Choir.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Voices:FileId_51162"
+    },
+    {
+      "name": "Galaxy Voices Philipp & Fiona.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Voices:FileId_61499"
+    },
+    {
+      "name": "Hybrid Minds.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Voices:FileId_61521"
+    },
+    {
+      "name": "Meditations Chromatic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Voices:FileId_61523"
+    },
+    {
+      "name": "Reverse Choir.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Voices:FileId_43092"
+    },
+    {
+      "name": "Soft Choir.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Voices:FileId_43093"
+    },
+    {
+      "name": "Space Float Ave & Veronica.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Voices:FileId_61503"
+    },
+    {
+      "name": "Wyoming Pad Niklas & Maike.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Voices:FileId_61505"
+    }
+  ]
+}

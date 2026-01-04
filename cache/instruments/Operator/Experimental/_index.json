@@ -1,0 +1,73 @@
+{
+  "path": "Instruments/Operator/Experimental",
+  "name": "Experimental",
+  "uri": "query:Synths#Operator:Experimental",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Binaural Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Experimental:FileId_43214"
+    },
+    {
+      "name": "Distant Thunder FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Experimental:FileId_43220"
+    },
+    {
+      "name": "Eighth-Tone-Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Experimental:FileId_43263"
+    },
+    {
+      "name": "Golden Gate Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Experimental:FileId_43223"
+    },
+    {
+      "name": "MPE Machine Noise.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Experimental:FileId_43239"
+    },
+    {
+      "name": "Pelog.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Experimental:FileId_43264"
+    },
+    {
+      "name": "Shoegazer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Experimental:FileId_43233"
+    },
+    {
+      "name": "Solfeggio Mirror Gongs.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Experimental:FileId_43266"
+    },
+    {
+      "name": "X3RKABA.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Experimental:FileId_43267"
+    }
+  ]
+}

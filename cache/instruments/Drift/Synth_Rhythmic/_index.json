@@ -1,0 +1,38 @@
+{
+  "path": "Instruments/Drift/Synth Rhythmic",
+  "name": "Synth Rhythmic",
+  "uri": "query:Synths#Drift:Synth%20Rhythmic",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Glitch Sequence.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Rhythmic:FileId_3711"
+    },
+    {
+      "name": "Lightest Night Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Rhythmic:FileId_3712"
+    },
+    {
+      "name": "Mouse Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Rhythmic:FileId_3713"
+    },
+    {
+      "name": "Trippy Drops Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Rhythmic:FileId_3729"
+    }
+  ]
+}

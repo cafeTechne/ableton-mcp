@@ -1,0 +1,542 @@
+{
+  "path": "Sounds/MPE Sounds",
+  "name": "MPE Sounds",
+  "uri": "query:Sounds#MPE%20Sounds",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "MPE Airy Pad & Sub.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3967"
+    },
+    {
+      "name": "MPE Alder Waldgeist.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4045"
+    },
+    {
+      "name": "MPE Bower Close.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4032"
+    },
+    {
+      "name": "MPE Cello Bow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3843"
+    },
+    {
+      "name": "MPE Con Amore Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3968"
+    },
+    {
+      "name": "MPE Creep Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3870"
+    },
+    {
+      "name": "MPE Dark Cinema Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3969"
+    },
+    {
+      "name": "MPE Dream Grain Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4033"
+    },
+    {
+      "name": "MPE Dub String.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4015"
+    },
+    {
+      "name": "MPE Dulcimatica.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4016"
+    },
+    {
+      "name": "MPE Dusty Memory Organette.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3823"
+    },
+    {
+      "name": "MPE Erosion (Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_36737"
+    },
+    {
+      "name": "MPE Erosion (Slide & Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_36738"
+    },
+    {
+      "name": "MPE Erosion (Slide) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_36739"
+    },
+    {
+      "name": "MPE Evil Underneath.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3824"
+    },
+    {
+      "name": "MPE Feedback Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_43238"
+    },
+    {
+      "name": "MPE FM Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3733"
+    },
+    {
+      "name": "MPE FM Land.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3825"
+    },
+    {
+      "name": "MPE Ghost Choir Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3970"
+    },
+    {
+      "name": "MPE Ghost Rave Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4117"
+    },
+    {
+      "name": "MPE Ghost Ship Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3971"
+    },
+    {
+      "name": "MPE Glacial (Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_59326"
+    },
+    {
+      "name": "MPE Glacial (Slide & Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_59327"
+    },
+    {
+      "name": "MPE Glacial (Slide) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_59328"
+    },
+    {
+      "name": "MPE Gravity.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3972"
+    },
+    {
+      "name": "MPE Hall of Mirrors.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_43260"
+    },
+    {
+      "name": "MPE Her Desher Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4118"
+    },
+    {
+      "name": "MPE Inside Angel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4034"
+    },
+    {
+      "name": "MPE Intimate (Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_36740"
+    },
+    {
+      "name": "MPE Intimate (Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_59329"
+    },
+    {
+      "name": "MPE Intimate (Slide & Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_36741"
+    },
+    {
+      "name": "MPE Intimate (Slide & Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_59330"
+    },
+    {
+      "name": "MPE Intimate (Slide) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_36742"
+    },
+    {
+      "name": "MPE Intimate (Slide) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_59331"
+    },
+    {
+      "name": "MPE Level Ives Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3734"
+    },
+    {
+      "name": "MPE Luna Dreaming.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4060"
+    },
+    {
+      "name": "MPE Machine Noise.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_43239"
+    },
+    {
+      "name": "MPE Mahogany Rose Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3826"
+    },
+    {
+      "name": "MPE Metallic Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3735"
+    },
+    {
+      "name": "MPE Misty Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4004"
+    },
+    {
+      "name": "MPE Monomorph.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3827"
+    },
+    {
+      "name": "MPE Mountain Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4017"
+    },
+    {
+      "name": "MPE Objectivism Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4035"
+    },
+    {
+      "name": "MPE Pearlescent Tides Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3973"
+    },
+    {
+      "name": "MPE Polypulse Pressure.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3736"
+    },
+    {
+      "name": "MPE Power Plant Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3974"
+    },
+    {
+      "name": "MPE Reese Shape.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4119"
+    },
+    {
+      "name": "MPE Reese Throat.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4120"
+    },
+    {
+      "name": "MPE Sci-Fi Flicks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4046"
+    },
+    {
+      "name": "MPE Screamer Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4121"
+    },
+    {
+      "name": "MPE Sine Pressure.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3828"
+    },
+    {
+      "name": "MPE Single Coil Thumb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4018"
+    },
+    {
+      "name": "MPE Sinus Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_43261"
+    },
+    {
+      "name": "MPE Slide Orchestrator.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3975"
+    },
+    {
+      "name": "MPE Slide Pluck FM.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3871"
+    },
+    {
+      "name": "MPE Slide Swarmer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4047"
+    },
+    {
+      "name": "MPE Smeary Plucks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3872"
+    },
+    {
+      "name": "MPE Source Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4122"
+    },
+    {
+      "name": "MPE Spectral (Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_59332"
+    },
+    {
+      "name": "MPE Spectral (Slide & Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_59333"
+    },
+    {
+      "name": "MPE Spectral (Slide) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_59334"
+    },
+    {
+      "name": "MPE Spieluhr.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3737"
+    },
+    {
+      "name": "MPE Standup Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3773"
+    },
+    {
+      "name": "MPE Subtle Wobble Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4123"
+    },
+    {
+      "name": "MPE Synth Bow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3844"
+    },
+    {
+      "name": "MPE Synth Pipe Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3829"
+    },
+    {
+      "name": "MPE Thunder Drum.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_4048"
+    },
+    {
+      "name": "MPE Toxic Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3774"
+    },
+    {
+      "name": "MPE Velocity Grain.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3830"
+    },
+    {
+      "name": "MPE Velvet Robe.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3976"
+    },
+    {
+      "name": "MPE Vibrato (Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_36743"
+    },
+    {
+      "name": "MPE Vibrato (Slide & Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_36744"
+    },
+    {
+      "name": "MPE Vibrato (Slide) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_36745"
+    },
+    {
+      "name": "MPE Warping Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3845"
+    },
+    {
+      "name": "MPE Water Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_43240"
+    },
+    {
+      "name": "MPE Windwhistle Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#MPE%20Sounds:FileId_3977"
+    }
+  ]
+}

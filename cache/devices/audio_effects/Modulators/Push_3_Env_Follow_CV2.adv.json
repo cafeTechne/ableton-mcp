@@ -1,0 +1,197 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Modulators",
+  "name": "Push 3 Env Follow CV2",
+  "uri": "query:AudioFx#Modulators:CV%20Envelope%20Follower:Performance%20&%20DJ:FileId_41569",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Delay",
+      "min": 0.0,
+      "max": 500.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Delay",
+      "min": 0.0,
+      "max": 6.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "0",
+        "1/32",
+        "1/16",
+        "1/8",
+        "1/4",
+        "1/2",
+        "1"
+      ],
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Fall",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Gain",
+      "min": -70.0,
+      "max": 30.0,
+      "value": -19.971267700195312,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Max",
+      "min": -100.0,
+      "max": 100.0,
+      "value": 100.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Min",
+      "min": -100.0,
+      "max": 100.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Rise",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Trig Mode",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Gate",
+        "Trigger",
+        "Ping"
+      ],
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Invert",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Normal",
+        "Inverted"
+      ],
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Thresh",
+      "min": -60.0,
+      "max": 0.0,
+      "value": -52.515594482421875,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "CV To",
+      "min": 0.0,
+      "max": 12.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "No Output",
+        "CV 1L",
+        "CV 1R",
+        "CV 2L",
+        "CV 2R",
+        "ADAT 1",
+        "ADAT 2",
+        "ADAT 3",
+        "ADAT 4",
+        "ADAT 5",
+        "ADAT 6",
+        "ADAT 7",
+        "ADAT 8"
+      ],
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "Trigger To",
+      "min": 0.0,
+      "max": 12.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "No Output",
+        "CV 1L",
+        "CV 1R",
+        "CV 2L",
+        "CV 2R",
+        "ADAT 1",
+        "ADAT 2",
+        "ADAT 3",
+        "ADAT 4",
+        "ADAT 5",
+        "ADAT 6",
+        "ADAT 7",
+        "ADAT 8"
+      ],
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "Delay Mode",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Free",
+        "Sync"
+      ],
+      "unit": null,
+      "index": 13
+    }
+  ]
+}

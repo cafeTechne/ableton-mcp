@@ -1,0 +1,45 @@
+{
+  "path": "Instruments/Collision/Bass",
+  "name": "Bass",
+  "uri": "query:Synths#Collision:Bass",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Bass Grit.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Bass:FileId_59633"
+    },
+    {
+      "name": "Detuned Lark.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Bass:FileId_59634"
+    },
+    {
+      "name": "Electric Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Bass:FileId_59635"
+    },
+    {
+      "name": "PVC Pipe Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Bass:FileId_48990"
+    },
+    {
+      "name": "Tube Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Bass:FileId_59636"
+    }
+  ]
+}

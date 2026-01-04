@@ -1,0 +1,138 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Delay_&_Loop",
+  "name": "Reverse 1 Bar.adv",
+  "uri": "query:AudioFx#Delay%20&%20Loop:Looper:FileId_6154",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "State",
+      "min": 0.0,
+      "max": 3.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Stop",
+        "Record",
+        "Play",
+        "Overdub"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Feedback",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Reverse",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Monitor",
+      "min": 0.0,
+      "max": 3.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Always",
+        "Never",
+        "Rec/OVR",
+        "Rec/OVR/Stop"
+      ],
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Speed",
+      "min": -36.0,
+      "max": 36.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Quantization",
+      "min": 0.0,
+      "max": 14.0,
+      "value": 6.0,
+      "is_quantized": true,
+      "value_items": [
+        "Global",
+        "None",
+        "8 Bars",
+        "4 Bars",
+        "2 Bars",
+        "1 Bar",
+        "1/2",
+        "1/2T",
+        "1/4",
+        "1/4T",
+        "1/8",
+        "1/8T",
+        "1/16",
+        "1/16T",
+        "1/32"
+      ],
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Song Control",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "None",
+        "Start Song",
+        "Start & Stop Song"
+      ],
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Tempo Control",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 2.0,
+      "is_quantized": true,
+      "value_items": [
+        "None",
+        "Follow song tempo",
+        "Set & Follow song tempo"
+      ],
+      "unit": null,
+      "index": 8
+    }
+  ]
+}

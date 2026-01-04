@@ -1,0 +1,586 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Reverb_&_Resonance",
+  "name": "Vocal Pop Hall",
+  "uri": "query:AudioFx#Reverb%20&%20Resonance:Hybrid%20Reverb:Hall:FileId_6290",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "P.Dly Sync",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "P.Dly Time",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.2142857313156128,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "P.Dly 16th",
+      "min": 0.0,
+      "max": 16.0,
+      "value": 2.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "P.Dly Fb Time",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.09375,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "P.Dly Fb 16th",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Algo Type",
+      "min": 0.0,
+      "max": 4.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Dark Hall",
+        "Quartz",
+        "Shimmer",
+        "Tides",
+        "Prism"
+      ],
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Algo Delay",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0937500074505806,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Freeze",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Freeze In",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Decay",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.33125680685043335,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "Size",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.8730158805847168,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "Damping",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.2063492089509964,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "Diffusion",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "Modulation",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.640625,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "DH Shape",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.6746031641960144,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 15
+    },
+    {
+      "name": "DH BassMult",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.3492063581943512,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 16
+    },
+    {
+      "name": "DH Bass X",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.734375,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 17
+    },
+    {
+      "name": "Sh Shimmer",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 18
+    },
+    {
+      "name": "Sh Pitch Shift",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 19
+    },
+    {
+      "name": "Ti Tide",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 20
+    },
+    {
+      "name": "Ti Rate",
+      "min": 0.0,
+      "max": 29.0,
+      "value": 22.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 21
+    },
+    {
+      "name": "Ti Waveform",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 22
+    },
+    {
+      "name": "Ti Phase",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 23
+    },
+    {
+      "name": "Qz Low Damp",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 24
+    },
+    {
+      "name": "Qz Distance",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 25
+    },
+    {
+      "name": "Pr High Mult",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5885919332504272,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 26
+    },
+    {
+      "name": "Pr Low Mult",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5885919332504272,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 27
+    },
+    {
+      "name": "Pr X Over",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.2644551396369934,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 28
+    },
+    {
+      "name": "Pr Sixth",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 29
+    },
+    {
+      "name": "Pr Seventh",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 30
+    },
+    {
+      "name": "EQ On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 31
+    },
+    {
+      "name": "EQ Pre Algo",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 32
+    },
+    {
+      "name": "EQ Low Type",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Cut",
+        "Shelf"
+      ],
+      "unit": null,
+      "index": 33
+    },
+    {
+      "name": "EQ Low Freq",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.16532258689403534,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 34
+    },
+    {
+      "name": "EQ Low Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5777778029441833,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 35
+    },
+    {
+      "name": "EQ Low Slope",
+      "min": 0.0,
+      "max": 9.0,
+      "value": 4.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 36
+    },
+    {
+      "name": "EQ P1 Freq",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.2822580635547638,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 37
+    },
+    {
+      "name": "EQ P1 Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.6592592597007751,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 38
+    },
+    {
+      "name": "EQ P1 Q",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.15566839277744293,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 39
+    },
+    {
+      "name": "EQ P2 Freq",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.6895161271095276,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 40
+    },
+    {
+      "name": "EQ P2 Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.6666666865348816,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 41
+    },
+    {
+      "name": "EQ P2 Q",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.15566839277744293,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 42
+    },
+    {
+      "name": "EQ High Type",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Cut",
+        "Shelf"
+      ],
+      "unit": null,
+      "index": 43
+    },
+    {
+      "name": "EQ High Freq",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.961693525314331,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 44
+    },
+    {
+      "name": "EQ High Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.6000000238418579,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 45
+    },
+    {
+      "name": "EQ High Slope",
+      "min": 0.0,
+      "max": 9.0,
+      "value": 5.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 46
+    },
+    {
+      "name": "Send Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 47
+    },
+    {
+      "name": "Routing",
+      "min": 0.0,
+      "max": 3.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Serial",
+        "Parallel",
+        "Algorithm",
+        "Convolution"
+      ],
+      "unit": null,
+      "index": 48
+    },
+    {
+      "name": "Blend",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.6904761791229248,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 49
+    },
+    {
+      "name": "Vintage",
+      "min": 0.0,
+      "max": 4.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 50
+    },
+    {
+      "name": "Width",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.9285714030265808,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 51
+    },
+    {
+      "name": "Bass Mono",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 52
+    },
+    {
+      "name": "Dry/Wet",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 53
+    }
+  ]
+}

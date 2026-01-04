@@ -1,0 +1,80 @@
+{
+  "path": "Instruments/Drift/Guitar & Plucked",
+  "name": "Guitar & Plucked",
+  "uri": "query:Synths#Drift:Guitar%20&%20Plucked",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Big Floor Stab.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Guitar%20&%20Plucked:FileId_5774"
+    },
+    {
+      "name": "Chirp Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Guitar%20&%20Plucked:FileId_5775"
+    },
+    {
+      "name": "Chord Key Stabs.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Guitar%20&%20Plucked:FileId_3849"
+    },
+    {
+      "name": "FM Four Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Guitar%20&%20Plucked:FileId_5776"
+    },
+    {
+      "name": "Glacial Tolerance.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Guitar%20&%20Plucked:FileId_5777"
+    },
+    {
+      "name": "House Stab.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Guitar%20&%20Plucked:FileId_3855"
+    },
+    {
+      "name": "Membrane Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Guitar%20&%20Plucked:FileId_3858"
+    },
+    {
+      "name": "Trinidad Plucks.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Guitar%20&%20Plucked:FileId_5778"
+    },
+    {
+      "name": "Tube Lead Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Guitar%20&%20Plucked:FileId_3867"
+    },
+    {
+      "name": "Zonk Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Guitar%20&%20Plucked:FileId_5779"
+    }
+  ]
+}

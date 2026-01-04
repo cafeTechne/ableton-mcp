@@ -1,0 +1,73 @@
+{
+  "path": "Instruments/Drum Synth",
+  "name": "Drum Synth",
+  "uri": "query:Synths#Drum%20Synth",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "DS Clang",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Synth:DS%20Clang"
+    },
+    {
+      "name": "DS Clap",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Synth:DS%20Clap"
+    },
+    {
+      "name": "DS Cymbal",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Synth:DS%20Cymbal"
+    },
+    {
+      "name": "DS FM",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Synth:DS%20FM"
+    },
+    {
+      "name": "DS HH",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Synth:DS%20HH"
+    },
+    {
+      "name": "DS Kick",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Synth:DS%20Kick"
+    },
+    {
+      "name": "DS Sampler",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Synth:DS%20Sampler"
+    },
+    {
+      "name": "DS Snare",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Synth:DS%20Snare"
+    },
+    {
+      "name": "DS Tom",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Synth:DS%20Tom"
+    }
+  ]
+}

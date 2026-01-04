@@ -1,0 +1,31 @@
+{
+  "path": "midi_effects/MIDI Effect Rack/Experimental",
+  "name": "Experimental",
+  "uri": "query:MidiFx#MIDI%20Effect%20Rack:Experimental",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Chord Echo Variations.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Experimental:FileId_3697"
+    },
+    {
+      "name": "One Note Twist.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Experimental:FileId_3698"
+    },
+    {
+      "name": "Scale Driver.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Experimental:FileId_3699"
+    }
+  ]
+}

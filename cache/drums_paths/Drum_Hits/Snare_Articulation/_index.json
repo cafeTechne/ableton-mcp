@@ -1,0 +1,353 @@
+{
+  "path": "drums/Drum Hits/Snare Articulation",
+  "name": "Snare Articulation",
+  "uri": "query:Drums#Drum%20Hits:Snare%20Articulation",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Snare Brush Brushing b ClubSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55877"
+    },
+    {
+      "name": "Snare Brush Brushing ClubSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55878"
+    },
+    {
+      "name": "Snare Press a BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55879"
+    },
+    {
+      "name": "Snare Press a ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56696"
+    },
+    {
+      "name": "Snare Press AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56697"
+    },
+    {
+      "name": "Snare Press b AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56698"
+    },
+    {
+      "name": "Snare Press b BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55880"
+    },
+    {
+      "name": "Snare Press b BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56699"
+    },
+    {
+      "name": "Snare Press b BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55881"
+    },
+    {
+      "name": "Snare Press b ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56700"
+    },
+    {
+      "name": "Snare Press b ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56701"
+    },
+    {
+      "name": "Snare Press b CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56702"
+    },
+    {
+      "name": "Snare Press b DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55882"
+    },
+    {
+      "name": "Snare Press b DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55883"
+    },
+    {
+      "name": "Snare Press b DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56703"
+    },
+    {
+      "name": "Snare Press b LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55884"
+    },
+    {
+      "name": "Snare Press b OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56704"
+    },
+    {
+      "name": "Snare Press b ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55885"
+    },
+    {
+      "name": "Snare Press b RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56705"
+    },
+    {
+      "name": "Snare Press b SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56706"
+    },
+    {
+      "name": "Snare Press b SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56707"
+    },
+    {
+      "name": "Snare Press b StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56708"
+    },
+    {
+      "name": "Snare Press b WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55886"
+    },
+    {
+      "name": "Snare Press BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56709"
+    },
+    {
+      "name": "Snare Press BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55887"
+    },
+    {
+      "name": "Snare Press c AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56710"
+    },
+    {
+      "name": "Snare Press c BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56711"
+    },
+    {
+      "name": "Snare Press c ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56712"
+    },
+    {
+      "name": "Snare Press c ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56713"
+    },
+    {
+      "name": "Snare Press c CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56714"
+    },
+    {
+      "name": "Snare Press c DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55888"
+    },
+    {
+      "name": "Snare Press c LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55889"
+    },
+    {
+      "name": "Snare Press c OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56715"
+    },
+    {
+      "name": "Snare Press c StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56716"
+    },
+    {
+      "name": "Snare Press c WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55890"
+    },
+    {
+      "name": "Snare Press ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56717"
+    },
+    {
+      "name": "Snare Press CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56718"
+    },
+    {
+      "name": "Snare Press DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55891"
+    },
+    {
+      "name": "Snare Press DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55892"
+    },
+    {
+      "name": "Snare Press DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56719"
+    },
+    {
+      "name": "Snare Press LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55893"
+    },
+    {
+      "name": "Snare Press OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56720"
+    },
+    {
+      "name": "Snare Press ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55894"
+    },
+    {
+      "name": "Snare Press RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56721"
+    },
+    {
+      "name": "Snare Press SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56722"
+    },
+    {
+      "name": "Snare Press SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56723"
+    },
+    {
+      "name": "Snare Press StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_56724"
+    },
+    {
+      "name": "Snare Press WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_55895"
+    },
+    {
+      "name": "SNARE_MX_1455_STL_open_stick_side stick SFX   12-1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation:FileId_45503"
+    }
+  ]
+}

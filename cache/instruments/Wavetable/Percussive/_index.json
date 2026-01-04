@@ -1,0 +1,115 @@
+{
+  "path": "Instruments/Wavetable/Percussive",
+  "name": "Percussive",
+  "uri": "query:Synths#Wavetable:Percussive",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Bass Bubbles.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Percussive:FileId_49035"
+    },
+    {
+      "name": "Bunker Kick.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Percussive:FileId_5002"
+    },
+    {
+      "name": "Coelostat.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Percussive:FileId_49037"
+    },
+    {
+      "name": "Deep 16.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Percussive:FileId_55487"
+    },
+    {
+      "name": "Deep Kick.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Percussive:FileId_55488"
+    },
+    {
+      "name": "Faint Object.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Percussive:FileId_49038"
+    },
+    {
+      "name": "Fluffy zap.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Percussive:FileId_5003"
+    },
+    {
+      "name": "Kicky Tom.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Percussive:FileId_5004"
+    },
+    {
+      "name": "Pingfifth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Percussive:FileId_38358"
+    },
+    {
+      "name": "Pop and Split.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Percussive:FileId_55494"
+    },
+    {
+      "name": "Specific Hat.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Percussive:FileId_5005"
+    },
+    {
+      "name": "Throb Kick.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Percussive:FileId_5006"
+    },
+    {
+      "name": "Tom Yum.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Percussive:FileId_5007"
+    },
+    {
+      "name": "Tronic Snare.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Percussive:FileId_5008"
+    },
+    {
+      "name": "Turgid Kick.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Percussive:FileId_5009"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "path": "Instruments/Tension/Synth Lead",
+  "name": "Synth Lead",
+  "uri": "query:Synths#Tension:Synth%20Lead",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Computer Music.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Lead:FileId_59744"
+    },
+    {
+      "name": "Funky Wah Clav.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Lead:FileId_54506"
+    },
+    {
+      "name": "Moon Lights.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Lead:FileId_43045"
+    },
+    {
+      "name": "Pipe Delay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Lead:FileId_43049"
+    },
+    {
+      "name": "Prest On Gold.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Lead:FileId_59745"
+    },
+    {
+      "name": "Tension Crunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Lead:FileId_61176"
+    },
+    {
+      "name": "Thrashing Sus 2.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Lead:FileId_54512"
+    },
+    {
+      "name": "Upper Perc.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Synth%20Lead:FileId_49084"
+    }
+  ]
+}

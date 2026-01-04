@@ -1,0 +1,283 @@
+{
+  "path": "Instruments/Instrument Rack/Experimental",
+  "name": "Experimental",
+  "uri": "query:Synths#Instrument%20Rack:Experimental",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "3RDEYEZ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43213"
+    },
+    {
+      "name": "Binaural Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43214"
+    },
+    {
+      "name": "Buzzsaw Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43215"
+    },
+    {
+      "name": "Canyon Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43216"
+    },
+    {
+      "name": "Chime Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43217"
+    },
+    {
+      "name": "Cyber Angel Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43218"
+    },
+    {
+      "name": "Cylinder.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43219"
+    },
+    {
+      "name": "Distant Thunder FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43220"
+    },
+    {
+      "name": "Double Dawn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43221"
+    },
+    {
+      "name": "Eighth-Tone-Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43263"
+    },
+    {
+      "name": "Forgotten Gong FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43222"
+    },
+    {
+      "name": "Goldelse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43208"
+    },
+    {
+      "name": "Golden Gate Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43223"
+    },
+    {
+      "name": "Hallow Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43224"
+    },
+    {
+      "name": "Haunted Voltage FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43225"
+    },
+    {
+      "name": "Heavy Air.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43226"
+    },
+    {
+      "name": "Hourglass Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43227"
+    },
+    {
+      "name": "Internal Routing.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43228"
+    },
+    {
+      "name": "Machine from 2077.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43210"
+    },
+    {
+      "name": "MPE Feedback Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43238"
+    },
+    {
+      "name": "MPE Machine Noise.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43239"
+    },
+    {
+      "name": "MPE Water Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43240"
+    },
+    {
+      "name": "Nasty Noise Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43229"
+    },
+    {
+      "name": "Parsec Breach.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43230"
+    },
+    {
+      "name": "Petrol-Driven Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43211"
+    },
+    {
+      "name": "Prophets.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43231"
+    },
+    {
+      "name": "Razor Wire Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43232"
+    },
+    {
+      "name": "Shoegazer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43233"
+    },
+    {
+      "name": "Silent Night Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43234"
+    },
+    {
+      "name": "Skies Below.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43212"
+    },
+    {
+      "name": "Solfeggio Mirror Forks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43265"
+    },
+    {
+      "name": "Solfeggio Mirror Gongs.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43266"
+    },
+    {
+      "name": "Spaghetti Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43235"
+    },
+    {
+      "name": "Turtle Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43236"
+    },
+    {
+      "name": "Vortex Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43237"
+    },
+    {
+      "name": "X3RKABA.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43267"
+    },
+    {
+      "name": "XARP.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43268"
+    },
+    {
+      "name": "XEMF.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43269"
+    },
+    {
+      "name": "XITHER.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Experimental:FileId_43270"
+    }
+  ]
+}

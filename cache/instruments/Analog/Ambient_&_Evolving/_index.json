@@ -1,0 +1,59 @@
+{
+  "path": "Instruments/Analog/Ambient & Evolving",
+  "name": "Ambient & Evolving",
+  "uri": "query:Synths#Analog:Ambient%20&%20Evolving",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Ahab Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Ambient%20&%20Evolving:FileId_43196"
+    },
+    {
+      "name": "Ambient Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Ambient%20&%20Evolving:FileId_61048"
+    },
+    {
+      "name": "Cognizance.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Ambient%20&%20Evolving:FileId_54478"
+    },
+    {
+      "name": "Dark Art Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Ambient%20&%20Evolving:FileId_43200"
+    },
+    {
+      "name": "In The Shell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Ambient%20&%20Evolving:FileId_48965"
+    },
+    {
+      "name": "Soothing Minor 11.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Ambient%20&%20Evolving:FileId_54481"
+    },
+    {
+      "name": "White Light.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Ambient%20&%20Evolving:FileId_61052"
+    }
+  ]
+}

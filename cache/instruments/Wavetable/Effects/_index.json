@@ -1,0 +1,360 @@
+{
+  "path": "Instruments/Wavetable/Effects",
+  "name": "Effects",
+  "uri": "query:Synths#Wavetable:Effects",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Accelerating Harmonics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_51304"
+    },
+    {
+      "name": "Airplane Wave.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5032"
+    },
+    {
+      "name": "Alien Cesarian.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5033"
+    },
+    {
+      "name": "Bellyfeel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_38334"
+    },
+    {
+      "name": "Bit Bite.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_49003"
+    },
+    {
+      "name": "Cletterling.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5034"
+    },
+    {
+      "name": "Complex Zipper FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_4037"
+    },
+    {
+      "name": "Darknet.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5035"
+    },
+    {
+      "name": "Dead City FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_4038"
+    },
+    {
+      "name": "Digi Race.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5036"
+    },
+    {
+      "name": "Dive Drama.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_49009"
+    },
+    {
+      "name": "Drop In Temperature.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_59772"
+    },
+    {
+      "name": "ENCOM Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_4039"
+    },
+    {
+      "name": "Enjoy the Show FX.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5037"
+    },
+    {
+      "name": "Exacto Effect.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_38337"
+    },
+    {
+      "name": "Fixed Luck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_55464"
+    },
+    {
+      "name": "Ghostly Mirror.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5038"
+    },
+    {
+      "name": "Glowstick SFX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_4040"
+    },
+    {
+      "name": "Grim Engine.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_49012"
+    },
+    {
+      "name": "Head Trip.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5039"
+    },
+    {
+      "name": "Hurt Move Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_49014"
+    },
+    {
+      "name": "Hyper Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_4041"
+    },
+    {
+      "name": "Kick Drum FuzzJump.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5040"
+    },
+    {
+      "name": "Killer Beez.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_51307"
+    },
+    {
+      "name": "Missle Drop.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_59773"
+    },
+    {
+      "name": "Puff Kick D.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_59774"
+    },
+    {
+      "name": "Pulse Drone Beeper.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_51310"
+    },
+    {
+      "name": "Radio Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_49018"
+    },
+    {
+      "name": "Rain On The Servers.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_4042"
+    },
+    {
+      "name": "Rave Signal.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_4043"
+    },
+    {
+      "name": "Rise Up.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_59775"
+    },
+    {
+      "name": "Riser Section 8.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5041"
+    },
+    {
+      "name": "Riser Windup Light.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5042"
+    },
+    {
+      "name": "Rize Gate Me.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_38344"
+    },
+    {
+      "name": "Robert's Theorem.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5043"
+    },
+    {
+      "name": "Rubbery Flick.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5044"
+    },
+    {
+      "name": "Scan Thru.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5045"
+    },
+    {
+      "name": "Sizzle Down.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_59776"
+    },
+    {
+      "name": "Sky Spy.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5046"
+    },
+    {
+      "name": "Stutter Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_49023"
+    },
+    {
+      "name": "Suckit Effect.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_38349"
+    },
+    {
+      "name": "Target Acquired.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5047"
+    },
+    {
+      "name": "Tenebrous Ramp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_38350"
+    },
+    {
+      "name": "The Day The Earth Shrunk.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5048"
+    },
+    {
+      "name": "Top Quark.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5049"
+    },
+    {
+      "name": "Transit Traveler.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_49025"
+    },
+    {
+      "name": "Turntable Brake.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5050"
+    },
+    {
+      "name": "Wait For It.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5051"
+    },
+    {
+      "name": "Warehouse Shivers.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_5052"
+    },
+    {
+      "name": "Zardoz FX.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Effects:FileId_59777"
+    }
+  ]
+}

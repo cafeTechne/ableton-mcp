@@ -1,0 +1,52 @@
+{
+  "path": "Instruments/Tension/Pad",
+  "name": "Pad",
+  "uri": "query:Synths#Tension:Pad",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Moving Filter Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Pad:FileId_5128"
+    },
+    {
+      "name": "Phaserina.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Pad:FileId_59746"
+    },
+    {
+      "name": "Random Rhythm Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Pad:FileId_5129"
+    },
+    {
+      "name": "SoundScape Generator.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Pad:FileId_59747"
+    },
+    {
+      "name": "Stringswell.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Pad:FileId_59748"
+    },
+    {
+      "name": "Wow Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Pad:FileId_5130"
+    }
+  ]
+}

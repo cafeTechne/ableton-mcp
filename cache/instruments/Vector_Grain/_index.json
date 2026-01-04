@@ -1,0 +1,9 @@
+{
+  "path": "Instruments/Vector Grain",
+  "name": "Vector Grain",
+  "uri": "query:Synths#Vector%20Grain",
+  "is_folder": false,
+  "is_device": true,
+  "is_loadable": true,
+  "items": []
+}

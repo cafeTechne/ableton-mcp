@@ -1,0 +1,192 @@
+{
+  "path": "Instruments/Simpler/Mallets",
+  "name": "Mallets",
+  "uri": "query:Synths#Simpler:Mallets",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Acme Bell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_36604"
+    },
+    {
+      "name": "Crotales.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53939"
+    },
+    {
+      "name": "Ennio's Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_51238"
+    },
+    {
+      "name": "FlamGlock.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_49029"
+    },
+    {
+      "name": "Glockenspiel Brass Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53940"
+    },
+    {
+      "name": "Glockenspiel Brass Rolls.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53941"
+    },
+    {
+      "name": "Glockenspiel Plastic Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53942"
+    },
+    {
+      "name": "Glockenspiel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53943"
+    },
+    {
+      "name": "Kalimba Atk.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_61098"
+    },
+    {
+      "name": "Marimba Cloth Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53944"
+    },
+    {
+      "name": "Marimba Rubber Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53945"
+    },
+    {
+      "name": "Marimba Rubber Rolls.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53946"
+    },
+    {
+      "name": "Marimba.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53947"
+    },
+    {
+      "name": "Milky Way Bottleneck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_51241"
+    },
+    {
+      "name": "Sad Bell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_49033"
+    },
+    {
+      "name": "Suspended Cymbal Mallet Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53948"
+    },
+    {
+      "name": "Suspended Cymbal Mallet Rolls.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53949"
+    },
+    {
+      "name": "Suspended Cymbal Stick Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53950"
+    },
+    {
+      "name": "Timpani.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53951"
+    },
+    {
+      "name": "Tubular Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53952"
+    },
+    {
+      "name": "Vibraphone Bowed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53953"
+    },
+    {
+      "name": "Vibraphone Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53954"
+    },
+    {
+      "name": "Vibraphone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53955"
+    },
+    {
+      "name": "Xylophone Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53956"
+    },
+    {
+      "name": "Xylophone Rolls.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53957"
+    },
+    {
+      "name": "Xylophone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Mallets:FileId_53958"
+    }
+  ]
+}

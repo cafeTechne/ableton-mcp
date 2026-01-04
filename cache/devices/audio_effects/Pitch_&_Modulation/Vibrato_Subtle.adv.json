@@ -1,0 +1,161 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Pitch_&_Modulation",
+  "name": "Vibrato Subtle.adv",
+  "uri": "query:AudioFx#Pitch%20&%20Modulation:Chorus-Ensemble:FileId_6610",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Mode",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 2.0,
+      "is_quantized": true,
+      "value_items": [
+        "Classic",
+        "Ensemble",
+        "Vibrato"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Shape",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Rate",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5079365372657776,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Amount",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.1190476194024086,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Feedback",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.2460317462682724,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "FB Inv",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Offset",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "HPF Enabled",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "HPF Freq",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.2841779887676239,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Width",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "Warmth",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.2539682686328888,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.7071067690849304,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "Dry/Wet",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.7460317611694336,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 13
+    }
+  ]
+}

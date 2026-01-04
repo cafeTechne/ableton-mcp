@@ -1,0 +1,87 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Drive_&_Color",
+  "name": "Bright Small Box.adv",
+  "uri": "query:AudioFx#Drive%20&%20Color:Cabinet:FileId_6629",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Cabinet Type",
+      "min": 0.0,
+      "max": 4.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "1x12",
+        "2x12",
+        "4x12",
+        "4x10",
+        "4x10 Bass"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Microphone Type",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Condenser",
+        "Dynamic"
+      ],
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Microphone Position",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Near On-Axis",
+        "Near Off-Axis",
+        "Far"
+      ],
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Dual Mono",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Dry/Wet",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.4523809552192688,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    }
+  ]
+}

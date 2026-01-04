@@ -1,0 +1,3769 @@
+{
+  "path": "drums",
+  "name": "Drums",
+  "uri": "query:Drums",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Drum Hits",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits"
+    },
+    {
+      "name": "Drum Rack",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Rack"
+    },
+    {
+      "name": "3RDEYEZ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_43213"
+    },
+    {
+      "name": "24_7 Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46065"
+    },
+    {
+      "name": "32 Pad Kit Jazz.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44165"
+    },
+    {
+      "name": "32 Pad Kit Rock.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44166"
+    },
+    {
+      "name": "32 Pad Kit Special.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44167"
+    },
+    {
+      "name": "64 Pad Finger Snare LBB.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44168"
+    },
+    {
+      "name": "64 Pad Finger Snare SSC.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44169"
+    },
+    {
+      "name": "64 Pad Kit Jazz.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44170"
+    },
+    {
+      "name": "64 Pad Kit Rock.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44171"
+    },
+    {
+      "name": "64 Pad Kit Special.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44172"
+    },
+    {
+      "name": "64 Pads Dub Techno Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46066"
+    },
+    {
+      "name": "64 Pads Penelope Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46067"
+    },
+    {
+      "name": "106 Typhoon Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46064"
+    },
+    {
+      "name": "212 Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38906"
+    },
+    {
+      "name": "505 Classic Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46041"
+    },
+    {
+      "name": "505 Core Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4194"
+    },
+    {
+      "name": "606 Core Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4195"
+    },
+    {
+      "name": "606 Excalibur Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46042"
+    },
+    {
+      "name": "707 Cannibals Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46043"
+    },
+    {
+      "name": "707 Core Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4196"
+    },
+    {
+      "name": "707 Flight Time Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46044"
+    },
+    {
+      "name": "707 Funky Beans Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46045"
+    },
+    {
+      "name": "707 Rok With-U Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46046"
+    },
+    {
+      "name": "808 Aristocrat Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46047"
+    },
+    {
+      "name": "808 Boom Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35586"
+    },
+    {
+      "name": "808 Core Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4197"
+    },
+    {
+      "name": "808 Depth Charger Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46048"
+    },
+    {
+      "name": "808 Fairweather Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46049"
+    },
+    {
+      "name": "808 Medussa Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46050"
+    },
+    {
+      "name": "808 Startup Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46051"
+    },
+    {
+      "name": "808 Status Quo Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46052"
+    },
+    {
+      "name": "909 Core Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4198"
+    },
+    {
+      "name": "909 Flavour Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46053"
+    },
+    {
+      "name": "Abuse Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46068"
+    },
+    {
+      "name": "Abyss Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35587"
+    },
+    {
+      "name": "Acoustic Australia Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41692"
+    },
+    {
+      "name": "Acoustic Guitar Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51056"
+    },
+    {
+      "name": "Activation Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46069"
+    },
+    {
+      "name": "Acuff Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4204"
+    },
+    {
+      "name": "Aero Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57314"
+    },
+    {
+      "name": "AG Techno Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4160"
+    },
+    {
+      "name": "Agile Shot Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35588"
+    },
+    {
+      "name": "Air Tight Rack Veronica (Root E).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61549"
+    },
+    {
+      "name": "Akustichord Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4129"
+    },
+    {
+      "name": "Alarma Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54592"
+    },
+    {
+      "name": "Alert Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4130"
+    },
+    {
+      "name": "All Nighter Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46070"
+    },
+    {
+      "name": "Allee Gate Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38907"
+    },
+    {
+      "name": "Alley Kat Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38908"
+    },
+    {
+      "name": "Altered Kit 1.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44149"
+    },
+    {
+      "name": "Altered Kit 2.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44150"
+    },
+    {
+      "name": "Altered Kit 3.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44151"
+    },
+    {
+      "name": "Analog Face Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51057"
+    },
+    {
+      "name": "Animal Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46071"
+    },
+    {
+      "name": "Animals Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41693"
+    },
+    {
+      "name": "Apollo Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46072"
+    },
+    {
+      "name": "Arizona Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46030"
+    },
+    {
+      "name": "Around The Corner Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38909"
+    },
+    {
+      "name": "AstroPlayne Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46073"
+    },
+    {
+      "name": "Atom Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4131"
+    },
+    {
+      "name": "Auto Theft Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36911"
+    },
+    {
+      "name": "Azimuth Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35589"
+    },
+    {
+      "name": "Bang On Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46074"
+    },
+    {
+      "name": "Bang Ya Head Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38910"
+    },
+    {
+      "name": "Bark Park Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57315"
+    },
+    {
+      "name": "Basic Beat Box Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61568"
+    },
+    {
+      "name": "Bass Slides and Noise.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_49486"
+    },
+    {
+      "name": "Battu Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4132"
+    },
+    {
+      "name": "BayTonal Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57316"
+    },
+    {
+      "name": "Beastly Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4161"
+    },
+    {
+      "name": "Beat Box Gate Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61569"
+    },
+    {
+      "name": "Bells & Triangle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50462"
+    },
+    {
+      "name": "Beta Fish Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47871"
+    },
+    {
+      "name": "Big Break Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36912"
+    },
+    {
+      "name": "Big Room Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36913"
+    },
+    {
+      "name": "Big Sun Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41694"
+    },
+    {
+      "name": "Big Tune Fish Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57317"
+    },
+    {
+      "name": "Bins and Barrels Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51058"
+    },
+    {
+      "name": "Blowin Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57318"
+    },
+    {
+      "name": "Blueprint Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38911"
+    },
+    {
+      "name": "Bongo A.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50463"
+    },
+    {
+      "name": "Bongo B.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50464"
+    },
+    {
+      "name": "Bonzo Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35590"
+    },
+    {
+      "name": "Boom Bap Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4133"
+    },
+    {
+      "name": "Boom Butter Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38912"
+    },
+    {
+      "name": "Boom Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61570"
+    },
+    {
+      "name": "Borella Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46031"
+    },
+    {
+      "name": "Borja Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4162"
+    },
+    {
+      "name": "Bossa Nova.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50109"
+    },
+    {
+      "name": "Bow Road Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57319"
+    },
+    {
+      "name": "Bowed Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_43205"
+    },
+    {
+      "name": "Brand New Beats Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41695"
+    },
+    {
+      "name": "Branded Beef Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54593"
+    },
+    {
+      "name": "Break Lab Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46075"
+    },
+    {
+      "name": "Buttermilk Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38913"
+    },
+    {
+      "name": "C78 Bullet Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46054"
+    },
+    {
+      "name": "C78 Core Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4199"
+    },
+    {
+      "name": "C78 Substance Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46055"
+    },
+    {
+      "name": "Cabasa.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50465"
+    },
+    {
+      "name": "Candler Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35591"
+    },
+    {
+      "name": "Canopolis Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47872"
+    },
+    {
+      "name": "Canvas Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38914"
+    },
+    {
+      "name": "Capital Punishment.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54293"
+    },
+    {
+      "name": "Carbon Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46120"
+    },
+    {
+      "name": "Carbonized Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46121"
+    },
+    {
+      "name": "Cashon Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4163"
+    },
+    {
+      "name": "Castle Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35592"
+    },
+    {
+      "name": "Caxixi.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50466"
+    },
+    {
+      "name": "Cello Impacts.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51059"
+    },
+    {
+      "name": "Cello Phrases C Major (120 bpm).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51172"
+    },
+    {
+      "name": "Cello Phrases C Minor (120 bpm).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51173"
+    },
+    {
+      "name": "Cello Phrases G Major (120 bpm).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51174"
+    },
+    {
+      "name": "Cello Phrases G Minor (120 bpm).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51175"
+    },
+    {
+      "name": "Chants & Stabs Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35593"
+    },
+    {
+      "name": "Chaotic Clinic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54294"
+    },
+    {
+      "name": "Chekov Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46076"
+    },
+    {
+      "name": "Chelsea Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46077"
+    },
+    {
+      "name": "Chicago Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46078"
+    },
+    {
+      "name": "Chimes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50467"
+    },
+    {
+      "name": "Chromatone Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4134"
+    },
+    {
+      "name": "Circle Of Truth Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51060"
+    },
+    {
+      "name": "Clinical Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46079"
+    },
+    {
+      "name": "Clint West Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4135"
+    },
+    {
+      "name": "Clubber Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36914"
+    },
+    {
+      "name": "Collective Species Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41696"
+    },
+    {
+      "name": "Colombia.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50110"
+    },
+    {
+      "name": "Combined Rack Fiona & Ave (Root A).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61536"
+    },
+    {
+      "name": "Combined Rack Fiona & Maike (Root D).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61537"
+    },
+    {
+      "name": "Combined Rack Fiona (Root A).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61538"
+    },
+    {
+      "name": "Combined Rack Issara & Fiona (Root A).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61539"
+    },
+    {
+      "name": "Combined Rack Maike (Root D).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61540"
+    },
+    {
+      "name": "Combined Rack Maike (Root F).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61541"
+    },
+    {
+      "name": "Combined Rack Niklas (Root G).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61542"
+    },
+    {
+      "name": "Combined Rack Philipp (Root C).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61543"
+    },
+    {
+      "name": "Combined Rack Veronica (Root B).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61544"
+    },
+    {
+      "name": "Combined Rack Veronica (Root E).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61545"
+    },
+    {
+      "name": "Conga A.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50468"
+    },
+    {
+      "name": "Conga B.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50469"
+    },
+    {
+      "name": "Conga C.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50470"
+    },
+    {
+      "name": "Cooked Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35594"
+    },
+    {
+      "name": "Coping Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54594"
+    },
+    {
+      "name": "Coral Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4136"
+    },
+    {
+      "name": "Corvaire Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4205"
+    },
+    {
+      "name": "Cosine Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46080"
+    },
+    {
+      "name": "Count In Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4137"
+    },
+    {
+      "name": "Crackin Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46081"
+    },
+    {
+      "name": "Crisp Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4164"
+    },
+    {
+      "name": "Crossroads Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46082"
+    },
+    {
+      "name": "Crushed Ice Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4165"
+    },
+    {
+      "name": "Crystal Clear Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4138"
+    },
+    {
+      "name": "Cyber Angel Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_43218"
+    },
+    {
+      "name": "Cymbals.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50471"
+    },
+    {
+      "name": "Cyndal Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46032"
+    },
+    {
+      "name": "D55 Essence Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46056"
+    },
+    {
+      "name": "D55 Lifeline Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46057"
+    },
+    {
+      "name": "Dance Faction Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36915"
+    },
+    {
+      "name": "Dancehall 80s Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4167"
+    },
+    {
+      "name": "Datai Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4168"
+    },
+    {
+      "name": "Dear Ribane Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57320"
+    },
+    {
+      "name": "Deep Knight Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35595"
+    },
+    {
+      "name": "Delicate Chaos Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57321"
+    },
+    {
+      "name": "Demon Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61571"
+    },
+    {
+      "name": "Diatribal Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41697"
+    },
+    {
+      "name": "Digi Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35596"
+    },
+    {
+      "name": "Digital Pop Veronica (A min).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61550"
+    },
+    {
+      "name": "Disco Arcade Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46083"
+    },
+    {
+      "name": "Distorted Future Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47873"
+    },
+    {
+      "name": "Diz Night Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36916"
+    },
+    {
+      "name": "DMX Admission Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46058"
+    },
+    {
+      "name": "DMX Core Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4200"
+    },
+    {
+      "name": "DMX Tightdope Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46059"
+    },
+    {
+      "name": "Dobbs Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38915"
+    },
+    {
+      "name": "Doom Drums Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51061"
+    },
+    {
+      "name": "Dreams Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35597"
+    },
+    {
+      "name": "Driller Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4139"
+    },
+    {
+      "name": "Drone E-Tanpura Rack.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_43262"
+    },
+    {
+      "name": "Drum Machine Selector Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4125"
+    },
+    {
+      "name": "Drum Niche.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54295"
+    },
+    {
+      "name": "Drum Visions.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54296"
+    },
+    {
+      "name": "Dry Session Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4206"
+    },
+    {
+      "name": "DS Drum Rack.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4166"
+    },
+    {
+      "name": "Dubfloor Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54595"
+    },
+    {
+      "name": "Dublyn Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46084"
+    },
+    {
+      "name": "Durty Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35598"
+    },
+    {
+      "name": "EFX Cymbals.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44173"
+    },
+    {
+      "name": "EFX Hand Snare.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44174"
+    },
+    {
+      "name": "EFX Hihat.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44175"
+    },
+    {
+      "name": "EFX Small Cymbals.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44176"
+    },
+    {
+      "name": "Eggs of Satan Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51062"
+    },
+    {
+      "name": "Elektrafyde Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46085"
+    },
+    {
+      "name": "Emergency Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36917"
+    },
+    {
+      "name": "Emperor Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46086"
+    },
+    {
+      "name": "Equinox Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35599"
+    },
+    {
+      "name": "ER Core Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4201"
+    },
+    {
+      "name": "ER1 Powderhouse Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46060"
+    },
+    {
+      "name": "Expo Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41698"
+    },
+    {
+      "name": "Exposed Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46033"
+    },
+    {
+      "name": "Expression Rack Issara (Root A).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61551"
+    },
+    {
+      "name": "Fabrik Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57322"
+    },
+    {
+      "name": "Face Melt Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47874"
+    },
+    {
+      "name": "Factwerk Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54596"
+    },
+    {
+      "name": "Fairfax Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46087"
+    },
+    {
+      "name": "FAT Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44152"
+    },
+    {
+      "name": "Fear Pressure Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57323"
+    },
+    {
+      "name": "Feat Pete Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4140"
+    },
+    {
+      "name": "Feel Right Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41699"
+    },
+    {
+      "name": "Fiona & Humphrey (A min).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61546"
+    },
+    {
+      "name": "Flared Out Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47875"
+    },
+    {
+      "name": "Flares Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4169"
+    },
+    {
+      "name": "Flexible Rhythms.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54297"
+    },
+    {
+      "name": "Floriel Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36918"
+    },
+    {
+      "name": "Flutter Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57324"
+    },
+    {
+      "name": "Fly Situation Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38916"
+    },
+    {
+      "name": "FM Melody Rack Philipp (Root C).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61552"
+    },
+    {
+      "name": "Fog Juice Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36919"
+    },
+    {
+      "name": "Foley & Real Drum Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51063"
+    },
+    {
+      "name": "Formaggio 1 Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4141"
+    },
+    {
+      "name": "Formaggio 2 Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4142"
+    },
+    {
+      "name": "Four AM Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4143"
+    },
+    {
+      "name": "Freeside Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57325"
+    },
+    {
+      "name": "Full Lotus Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38917"
+    },
+    {
+      "name": "Funky Tekno Tribe.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54298"
+    },
+    {
+      "name": "Garage Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4170"
+    },
+    {
+      "name": "Gen Purpose Kit 1.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44153"
+    },
+    {
+      "name": "Gen Purpose Kit 2.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44154"
+    },
+    {
+      "name": "Gen Purpose Kit 3.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44155"
+    },
+    {
+      "name": "Gen Purpose Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4207"
+    },
+    {
+      "name": "Genome Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54597"
+    },
+    {
+      "name": "Get Fresh Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46088"
+    },
+    {
+      "name": "Give & Take Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41700"
+    },
+    {
+      "name": "Glacial Tundra Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51064"
+    },
+    {
+      "name": "Glas Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4171"
+    },
+    {
+      "name": "Glass Automaton (Root A).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61553"
+    },
+    {
+      "name": "Glide Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4208"
+    },
+    {
+      "name": "Golden Era Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46089"
+    },
+    {
+      "name": "Gotta Feel Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35600"
+    },
+    {
+      "name": "Grain Slap Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4144"
+    },
+    {
+      "name": "GrainBeams Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46122"
+    },
+    {
+      "name": "GranularStretch Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46123"
+    },
+    {
+      "name": "Gravity Werks Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51065"
+    },
+    {
+      "name": "Grit Life KIt.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4172"
+    },
+    {
+      "name": "Guitar Effects and Noise.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_49487"
+    },
+    {
+      "name": "Guitar Slides.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_49488"
+    },
+    {
+      "name": "Halfstep Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4173"
+    },
+    {
+      "name": "Hand Drums Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46034"
+    },
+    {
+      "name": "Harbour Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41701"
+    },
+    {
+      "name": "Head Smack Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46090"
+    },
+    {
+      "name": "Heritage Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4145"
+    },
+    {
+      "name": "High Rider Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54598"
+    },
+    {
+      "name": "High Rise Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38918"
+    },
+    {
+      "name": "Highway Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41702"
+    },
+    {
+      "name": "Hilda Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46091"
+    },
+    {
+      "name": "Hocketing Rack Veronica (C Lydian).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61554"
+    },
+    {
+      "name": "Hot Rod Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4174"
+    },
+    {
+      "name": "Hyperion Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57326"
+    },
+    {
+      "name": "Ichor Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4175"
+    },
+    {
+      "name": "Impact Grip Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51066"
+    },
+    {
+      "name": "Inside a Piano Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51067"
+    },
+    {
+      "name": "Internal Routing.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_43228"
+    },
+    {
+      "name": "Ironman Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4146"
+    },
+    {
+      "name": "Jackman Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54599"
+    },
+    {
+      "name": "Jarble Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4176"
+    },
+    {
+      "name": "Jazz Brush Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44156"
+    },
+    {
+      "name": "Jazz Soft Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44157"
+    },
+    {
+      "name": "Jiggy With It Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38919"
+    },
+    {
+      "name": "Jive Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57327"
+    },
+    {
+      "name": "Junipero Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54600"
+    },
+    {
+      "name": "Keys 2 Love Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35601"
+    },
+    {
+      "name": "Kimbo Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46092"
+    },
+    {
+      "name": "Kindle Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46093"
+    },
+    {
+      "name": "Kingsway Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38920"
+    },
+    {
+      "name": "Kinky Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4177"
+    },
+    {
+      "name": "Kit-AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56789"
+    },
+    {
+      "name": "Kit-BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_55940"
+    },
+    {
+      "name": "Kit-BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56790"
+    },
+    {
+      "name": "Kit-BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_55941"
+    },
+    {
+      "name": "Kit-BrushSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_55942"
+    },
+    {
+      "name": "Kit-ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56791"
+    },
+    {
+      "name": "Kit-ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56792"
+    },
+    {
+      "name": "Kit-CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56793"
+    },
+    {
+      "name": "Kit-DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_55943"
+    },
+    {
+      "name": "Kit-DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_55944"
+    },
+    {
+      "name": "Kit-DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56794"
+    },
+    {
+      "name": "Kit-LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_55945"
+    },
+    {
+      "name": "Kit-MultirodDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56795"
+    },
+    {
+      "name": "Kit-OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56796"
+    },
+    {
+      "name": "Kit-ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_55946"
+    },
+    {
+      "name": "Kit-RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56797"
+    },
+    {
+      "name": "Kit-SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56798"
+    },
+    {
+      "name": "Kit-SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56799"
+    },
+    {
+      "name": "Kit-StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56800"
+    },
+    {
+      "name": "Kit-WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_55947"
+    },
+    {
+      "name": "Klyde Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46094"
+    },
+    {
+      "name": "Krillion Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54601"
+    },
+    {
+      "name": "Kuddy Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46035"
+    },
+    {
+      "name": "Laid Back Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46095"
+    },
+    {
+      "name": "Landlourdes Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46096"
+    },
+    {
+      "name": "Largeness Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46124"
+    },
+    {
+      "name": "Late Nite Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4178"
+    },
+    {
+      "name": "Latin Fusion.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50111"
+    },
+    {
+      "name": "Latin Pop.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50112"
+    },
+    {
+      "name": "LD Blowout Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46061"
+    },
+    {
+      "name": "LD Core Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4202"
+    },
+    {
+      "name": "Lit Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46097"
+    },
+    {
+      "name": "Litmus Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46098"
+    },
+    {
+      "name": "Lo-Fi Tech Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4179"
+    },
+    {
+      "name": "Luminous Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46099"
+    },
+    {
+      "name": "Lycra Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4180"
+    },
+    {
+      "name": "Machine Speak Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47876"
+    },
+    {
+      "name": "Mad Mollusc Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4183"
+    },
+    {
+      "name": "Mad Mollusc Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57328"
+    },
+    {
+      "name": "Mafia District Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36920"
+    },
+    {
+      "name": "Main Frame Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46100"
+    },
+    {
+      "name": "Main Room Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54602"
+    },
+    {
+      "name": "Maker Glitch Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47877"
+    },
+    {
+      "name": "Mammoth Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51068"
+    },
+    {
+      "name": "Mangah Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47878"
+    },
+    {
+      "name": "Matter Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57329"
+    },
+    {
+      "name": "Maxi Lachs Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57330"
+    },
+    {
+      "name": "Meaty Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46125"
+    },
+    {
+      "name": "Mega Vox Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36921"
+    },
+    {
+      "name": "Memphis Studio Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46036"
+    },
+    {
+      "name": "Metal Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46126"
+    },
+    {
+      "name": "Metal Work Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54603"
+    },
+    {
+      "name": "Miami Heat Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36922"
+    },
+    {
+      "name": "Miami Night Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36923"
+    },
+    {
+      "name": "Micro Tuna Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57331"
+    },
+    {
+      "name": "Midnight Rider Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46101"
+    },
+    {
+      "name": "Millimetrik Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47879"
+    },
+    {
+      "name": "Minimal Notions Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54604"
+    },
+    {
+      "name": "Minimum Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46127"
+    },
+    {
+      "name": "Miramar Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35602"
+    },
+    {
+      "name": "Mixed Overseas Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46062"
+    },
+    {
+      "name": "Mixsitter Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46128"
+    },
+    {
+      "name": "Mod Hop.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54299"
+    },
+    {
+      "name": "Momento Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41703"
+    },
+    {
+      "name": "Momentum Conservation.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54300"
+    },
+    {
+      "name": "Monuments Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35603"
+    },
+    {
+      "name": "Moonlight Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38921"
+    },
+    {
+      "name": "Moscow UHF Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46102"
+    },
+    {
+      "name": "Move Up Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38922"
+    },
+    {
+      "name": "MPE Analog Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4181"
+    },
+    {
+      "name": "MPE Kit-AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56777"
+    },
+    {
+      "name": "MPE Kit-BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_55932"
+    },
+    {
+      "name": "MPE Kit-BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56778"
+    },
+    {
+      "name": "MPE Kit-BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_55933"
+    },
+    {
+      "name": "MPE Kit-BrushSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_55934"
+    },
+    {
+      "name": "MPE Kit-ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56779"
+    },
+    {
+      "name": "MPE Kit-ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56780"
+    },
+    {
+      "name": "MPE Kit-CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56781"
+    },
+    {
+      "name": "MPE Kit-DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_55935"
+    },
+    {
+      "name": "MPE Kit-DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_55936"
+    },
+    {
+      "name": "MPE Kit-DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56782"
+    },
+    {
+      "name": "MPE Kit-LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_55937"
+    },
+    {
+      "name": "MPE Kit-MultirodDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56783"
+    },
+    {
+      "name": "MPE Kit-OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56784"
+    },
+    {
+      "name": "MPE Kit-ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_55938"
+    },
+    {
+      "name": "MPE Kit-RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56785"
+    },
+    {
+      "name": "MPE Kit-SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56786"
+    },
+    {
+      "name": "MPE Kit-SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56787"
+    },
+    {
+      "name": "MPE Kit-StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_56788"
+    },
+    {
+      "name": "MPE Kit-WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_55939"
+    },
+    {
+      "name": "MPE Synth Lab Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4182"
+    },
+    {
+      "name": "Mt Dill Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4184"
+    },
+    {
+      "name": "Muddy Drums Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51069"
+    },
+    {
+      "name": "Muttkaster Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46103"
+    },
+    {
+      "name": "Nectarine Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41704"
+    },
+    {
+      "name": "Neon Sneaker Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36924"
+    },
+    {
+      "name": "Neurothmic Steps.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41458"
+    },
+    {
+      "name": "Night Hub Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47880"
+    },
+    {
+      "name": "Night Shade Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57332"
+    },
+    {
+      "name": "Nightly Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41705"
+    },
+    {
+      "name": "No School Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46104"
+    },
+    {
+      "name": "Numerology Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38923"
+    },
+    {
+      "name": "Ocean Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41706"
+    },
+    {
+      "name": "Odd Loops Niklas (Root G).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61555"
+    },
+    {
+      "name": "Olivine Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_43206"
+    },
+    {
+      "name": "One Function Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54605"
+    },
+    {
+      "name": "One Hit Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46105"
+    },
+    {
+      "name": "Onomatopoeia Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47881"
+    },
+    {
+      "name": "Onyx Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46106"
+    },
+    {
+      "name": "OP 808 Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46129"
+    },
+    {
+      "name": "OP Percussion Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46130"
+    },
+    {
+      "name": "Ozark Glitter Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57333"
+    },
+    {
+      "name": "Pan Sonar Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47882"
+    },
+    {
+      "name": "Paradise Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35604"
+    },
+    {
+      "name": "Peace Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38924"
+    },
+    {
+      "name": "Pelog.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_43264"
+    },
+    {
+      "name": "Percussion Core Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4209"
+    },
+    {
+      "name": "Percussion Spirit Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4210"
+    },
+    {
+      "name": "Pho Soup Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57334"
+    },
+    {
+      "name": "Piccolo Kit 1.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44158"
+    },
+    {
+      "name": "Piccolo Kit 2.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44159"
+    },
+    {
+      "name": "Pico Dilly Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57335"
+    },
+    {
+      "name": "Pioneer Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_43252"
+    },
+    {
+      "name": "Pitchy Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46131"
+    },
+    {
+      "name": "Playful Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54606"
+    },
+    {
+      "name": "Plena.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50113"
+    },
+    {
+      "name": "Plucked Harp Effects.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51309"
+    },
+    {
+      "name": "Plymouth Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4211"
+    },
+    {
+      "name": "Plymouth Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46037"
+    },
+    {
+      "name": "Poisonous.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54301"
+    },
+    {
+      "name": "Power Cords Niklas (Root G).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61556"
+    },
+    {
+      "name": "Powered Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46107"
+    },
+    {
+      "name": "Predication Plasma Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51070"
+    },
+    {
+      "name": "Preon Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47883"
+    },
+    {
+      "name": "Prepared Piano Effects.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51071"
+    },
+    {
+      "name": "Probably House.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54302"
+    },
+    {
+      "name": "Product Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4185"
+    },
+    {
+      "name": "Proto-Clash Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41707"
+    },
+    {
+      "name": "Psycho Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35605"
+    },
+    {
+      "name": "Push 3 Four Triggers.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41570"
+    },
+    {
+      "name": "Quark Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4186"
+    },
+    {
+      "name": "Raicho Kakumei Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47884"
+    },
+    {
+      "name": "Razor Wire Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_43232"
+    },
+    {
+      "name": "RejuviNation Retro Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46063"
+    },
+    {
+      "name": "Rest Pattern Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47885"
+    },
+    {
+      "name": "Resurrection Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46108"
+    },
+    {
+      "name": "Riddim Rager Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4147"
+    },
+    {
+      "name": "Right Side Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46109"
+    },
+    {
+      "name": "Riot Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36925"
+    },
+    {
+      "name": "Road Monger Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35606"
+    },
+    {
+      "name": "Robot Parts Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47886"
+    },
+    {
+      "name": "Rock Kit 1.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44160"
+    },
+    {
+      "name": "Rock Kit 2.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44161"
+    },
+    {
+      "name": "Rock Wit Me Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35607"
+    },
+    {
+      "name": "Rockhaven Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46038"
+    },
+    {
+      "name": "Rollin Breaks Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57336"
+    },
+    {
+      "name": "Roto Kit 1.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44162"
+    },
+    {
+      "name": "Roto Kit 2.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44163"
+    },
+    {
+      "name": "Sad Drama Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54607"
+    },
+    {
+      "name": "Safe House Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38925"
+    },
+    {
+      "name": "Sage Reef Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41708"
+    },
+    {
+      "name": "Salient Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47887"
+    },
+    {
+      "name": "ScatterLope Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46110"
+    },
+    {
+      "name": "Scrap Metal Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51072"
+    },
+    {
+      "name": "Selectah Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4148"
+    },
+    {
+      "name": "Selector Kit Clean.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4126"
+    },
+    {
+      "name": "SELECTOR Kit Magma.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46111"
+    },
+    {
+      "name": "SELECTOR Kit Producer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46112"
+    },
+    {
+      "name": "Selector Kit Warm.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4127"
+    },
+    {
+      "name": "Sense 7 Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46039"
+    },
+    {
+      "name": "Sensor Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36926"
+    },
+    {
+      "name": "Sensor Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4187"
+    },
+    {
+      "name": "Service Module Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47888"
+    },
+    {
+      "name": "Shady Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35608"
+    },
+    {
+      "name": "Shaker & Maracas.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50472"
+    },
+    {
+      "name": "Shifted Rhythms Fiona (Root D).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61557"
+    },
+    {
+      "name": "Shimmer Rack Veronica (Root B).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61558"
+    },
+    {
+      "name": "Ship Noise Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51073"
+    },
+    {
+      "name": "Silent Night Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_43234"
+    },
+    {
+      "name": "Slackjaw Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4149"
+    },
+    {
+      "name": "Slappers Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46113"
+    },
+    {
+      "name": "Slow Trap Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36927"
+    },
+    {
+      "name": "Snake Paw Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47889"
+    },
+    {
+      "name": "Snappy Vowelizer Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61573"
+    },
+    {
+      "name": "So Future Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4188"
+    },
+    {
+      "name": "Sol Hard Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57337"
+    },
+    {
+      "name": "Solfeggio Mirror Forks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_43265"
+    },
+    {
+      "name": "Solfeggio Mirror Gongs.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_43266"
+    },
+    {
+      "name": "Source Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4150"
+    },
+    {
+      "name": "Splash Mountain Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36928"
+    },
+    {
+      "name": "Stark Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4151"
+    },
+    {
+      "name": "Stratus Rise Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4189"
+    },
+    {
+      "name": "Street Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35609"
+    },
+    {
+      "name": "Street Mind Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4152"
+    },
+    {
+      "name": "Streets Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38926"
+    },
+    {
+      "name": "Subtle Electronics Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4190"
+    },
+    {
+      "name": "Suffocation Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61574"
+    },
+    {
+      "name": "Sun Wash Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41709"
+    },
+    {
+      "name": "Sunday Morning Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54608"
+    },
+    {
+      "name": "Surdo Cuica Whistle Snap.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50473"
+    },
+    {
+      "name": "Svensk House Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36929"
+    },
+    {
+      "name": "Swan Song Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4153"
+    },
+    {
+      "name": "Sweep Surveillance Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51074"
+    },
+    {
+      "name": "Swingers.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54303"
+    },
+    {
+      "name": "Synth Pulses.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47890"
+    },
+    {
+      "name": "Tada Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47891"
+    },
+    {
+      "name": "Takeover Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35610"
+    },
+    {
+      "name": "Tambourin.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50474"
+    },
+    {
+      "name": "Taxi Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4154"
+    },
+    {
+      "name": "Technical Glitch Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47892"
+    },
+    {
+      "name": "That Feel Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4155"
+    },
+    {
+      "name": "Thicket Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4156"
+    },
+    {
+      "name": "Timbales A.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50475"
+    },
+    {
+      "name": "Timbales B.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50476"
+    },
+    {
+      "name": "Timbales C.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50477"
+    },
+    {
+      "name": "Timbuktu Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46040"
+    },
+    {
+      "name": "Timefold Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46114"
+    },
+    {
+      "name": "Token Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47893"
+    },
+    {
+      "name": "Tokyo Glitch Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47894"
+    },
+    {
+      "name": "Tokyo Sound Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_47895"
+    },
+    {
+      "name": "Tomorrow Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54609"
+    },
+    {
+      "name": "Towel Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_44164"
+    },
+    {
+      "name": "Trancil Exit Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4191"
+    },
+    {
+      "name": "Trancil Exit Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57338"
+    },
+    {
+      "name": "TraPERATOR Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46132"
+    },
+    {
+      "name": "Two Rooms Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61575"
+    },
+    {
+      "name": "Two Way Velocity (G-flat Maj Pentatonic).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61559"
+    },
+    {
+      "name": "Uluru Sky Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41710"
+    },
+    {
+      "name": "Undercurrent Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46115"
+    },
+    {
+      "name": "Underground Rush Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_36930"
+    },
+    {
+      "name": "Underwater Swords Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_54610"
+    },
+    {
+      "name": "Velocity Cords Niklas (Root G).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61560"
+    },
+    {
+      "name": "Veronica & Humphrey (B maj).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61547"
+    },
+    {
+      "name": "Veronica & Humphrey (D min).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61548"
+    },
+    {
+      "name": "Vibin Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46116"
+    },
+    {
+      "name": "Vibrance Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4157"
+    },
+    {
+      "name": "Vintage Madman Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38927"
+    },
+    {
+      "name": "Voltage Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35611"
+    },
+    {
+      "name": "Vowelizer Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61576"
+    },
+    {
+      "name": "Wah Soul Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38928"
+    },
+    {
+      "name": "Wanderlust Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46117"
+    },
+    {
+      "name": "Warehouse Stutter Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4158"
+    },
+    {
+      "name": "Warped Beat Box Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_61577"
+    },
+    {
+      "name": "Watcher Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_35612"
+    },
+    {
+      "name": "Wayman Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41711"
+    },
+    {
+      "name": "West Outer Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46118"
+    },
+    {
+      "name": "Western Australia Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41712"
+    },
+    {
+      "name": "White Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46133"
+    },
+    {
+      "name": "Wicked Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46134"
+    },
+    {
+      "name": "Wild 'n' Free Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41713"
+    },
+    {
+      "name": "Wood A.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50478"
+    },
+    {
+      "name": "Wood B.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_50479"
+    },
+    {
+      "name": "Wood Drip Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_51075"
+    },
+    {
+      "name": "Wood Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46135"
+    },
+    {
+      "name": "Wrong Sided Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46119"
+    },
+    {
+      "name": "X3RKABA.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_43267"
+    },
+    {
+      "name": "XEMF.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_43269"
+    },
+    {
+      "name": "XITHER.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_43270"
+    },
+    {
+      "name": "Yakiman Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_4192"
+    },
+    {
+      "name": "Yellow Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_46136"
+    },
+    {
+      "name": "Young Blood Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_41714"
+    },
+    {
+      "name": "Youngstar Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_57339"
+    },
+    {
+      "name": "Zoned Kit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#FileId_38929"
+    }
+  ]
+}

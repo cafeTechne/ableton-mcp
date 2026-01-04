@@ -1,0 +1,65 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Drive_&_Color",
+  "name": "Wide and Dirty.adv",
+  "uri": "query:AudioFx#Drive%20&%20Color:Erosion:FileId_6369",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Mode",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Noise",
+        "Wide Noise",
+        "Sine"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Frequency",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.05839415267109871,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Amount",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.9310345649719238,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Width",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    }
+  ]
+}

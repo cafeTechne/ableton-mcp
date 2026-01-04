@@ -1,0 +1,402 @@
+{
+  "path": "Instruments/Simpler/Bass",
+  "name": "Bass",
+  "uri": "query:Synths#Simpler:Bass",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "101 Essential Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_61053"
+    },
+    {
+      "name": "101 Live Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_38298"
+    },
+    {
+      "name": "106 Essential.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_61055"
+    },
+    {
+      "name": "Aqua Wobble.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_36629"
+    },
+    {
+      "name": "B Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_5272"
+    },
+    {
+      "name": "B Seven Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_5273"
+    },
+    {
+      "name": "Bass Pad Cicadas.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_51100"
+    },
+    {
+      "name": "Bass Wave Selector.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_59185"
+    },
+    {
+      "name": "Big Cat Snarl.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_36632"
+    },
+    {
+      "name": "Bit Growl Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_5274"
+    },
+    {
+      "name": "Bootsy Mutron Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_36634"
+    },
+    {
+      "name": "Deep System Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_38308"
+    },
+    {
+      "name": "Dune Buggy Sub.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_59193"
+    },
+    {
+      "name": "Ekoplanet Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_36640"
+    },
+    {
+      "name": "Eminent Threat.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_61061"
+    },
+    {
+      "name": "Empire Bass Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_61062"
+    },
+    {
+      "name": "Erase Or Stay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_43201"
+    },
+    {
+      "name": "Essential Octave Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_61063"
+    },
+    {
+      "name": "Fat Fingers SynBass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_36641"
+    },
+    {
+      "name": "Fetta Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_36642"
+    },
+    {
+      "name": "Gonzo Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_61065"
+    },
+    {
+      "name": "Hard Target.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_38313"
+    },
+    {
+      "name": "Iron Hand Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_36645"
+    },
+    {
+      "name": "Jarble Disto Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_4095"
+    },
+    {
+      "name": "JX Chorus Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_5275"
+    },
+    {
+      "name": "Legend Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_61068"
+    },
+    {
+      "name": "Madre Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_61071"
+    },
+    {
+      "name": "Mini 1 OSC Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_5276"
+    },
+    {
+      "name": "Mini 2 OSC Solo Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_5277"
+    },
+    {
+      "name": "Mini 3 OSC Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_5278"
+    },
+    {
+      "name": "Mini 3 OSC Xectro Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_5279"
+    },
+    {
+      "name": "Moug House Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_38318"
+    },
+    {
+      "name": "Muugy Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_5280"
+    },
+    {
+      "name": "OC Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_42987"
+    },
+    {
+      "name": "Octave Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_38320"
+    },
+    {
+      "name": "Piano Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_5281"
+    },
+    {
+      "name": "Pipe Organ Octavius.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_43202"
+    },
+    {
+      "name": "Rave Class Stab.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_59208"
+    },
+    {
+      "name": "Razor Stubble Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_36651"
+    },
+    {
+      "name": "Sigman Biggar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_59213"
+    },
+    {
+      "name": "Sigman Casana.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_48991"
+    },
+    {
+      "name": "Sonix LFO Pilawa.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_48992"
+    },
+    {
+      "name": "Specathedral Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_43203"
+    },
+    {
+      "name": "Stadium Bass Selector.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_38325"
+    },
+    {
+      "name": "Sub 808 Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_5282"
+    },
+    {
+      "name": "Sub Octave Bass Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_61077"
+    },
+    {
+      "name": "Submerged Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_36656"
+    },
+    {
+      "name": "Swoon Live Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_55457"
+    },
+    {
+      "name": "Tumaque Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_59219"
+    },
+    {
+      "name": "Twin Bass Selector.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_59220"
+    },
+    {
+      "name": "Upright Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_5283"
+    },
+    {
+      "name": "UprightBs 1.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_42996"
+    },
+    {
+      "name": "Venture Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_38329"
+    },
+    {
+      "name": "Wonk Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_5284"
+    },
+    {
+      "name": "Wooley Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_61082"
+    },
+    {
+      "name": "Zero Hour Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Bass:FileId_61084"
+    }
+  ]
+}

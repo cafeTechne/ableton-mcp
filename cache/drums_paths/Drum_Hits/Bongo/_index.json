@@ -1,0 +1,367 @@
+{
+  "path": "drums/Drum Hits/Bongo",
+  "name": "Bongo",
+  "uri": "query:Drums#Drum%20Hits:Bongo",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Bongo 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_57827"
+    },
+    {
+      "name": "Bongo 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_57828"
+    },
+    {
+      "name": "Bongo A H Flam 1F.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50151"
+    },
+    {
+      "name": "Bongo A H Flam 3F.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50152"
+    },
+    {
+      "name": "Bongo A H Heel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50153"
+    },
+    {
+      "name": "Bongo A H Open 1F.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50154"
+    },
+    {
+      "name": "Bongo A H Open 3F.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50155"
+    },
+    {
+      "name": "Bongo A H Rim.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50156"
+    },
+    {
+      "name": "Bongo A H Slap.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50157"
+    },
+    {
+      "name": "Bongo A H Tip.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50158"
+    },
+    {
+      "name": "Bongo A L Flam 1F.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50159"
+    },
+    {
+      "name": "Bongo A L Flam 3F.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50160"
+    },
+    {
+      "name": "Bongo A L Heel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50161"
+    },
+    {
+      "name": "Bongo A L Open 1F.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50162"
+    },
+    {
+      "name": "Bongo A L Open 3F.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50163"
+    },
+    {
+      "name": "Bongo A L Rim.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50164"
+    },
+    {
+      "name": "Bongo A L Slap.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50165"
+    },
+    {
+      "name": "Bongo A L Tip.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50166"
+    },
+    {
+      "name": "Bongo B H Flam 1F.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50167"
+    },
+    {
+      "name": "Bongo B H Flam 3F.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50168"
+    },
+    {
+      "name": "Bongo B H Heel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50169"
+    },
+    {
+      "name": "Bongo B H Open 1F.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50170"
+    },
+    {
+      "name": "Bongo B H Open 3F.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50171"
+    },
+    {
+      "name": "Bongo B H Rim.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50172"
+    },
+    {
+      "name": "Bongo B H Slap.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50173"
+    },
+    {
+      "name": "Bongo B H Tip.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50174"
+    },
+    {
+      "name": "Bongo B L Flam 1F.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50175"
+    },
+    {
+      "name": "Bongo B L Flam 3F.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50176"
+    },
+    {
+      "name": "Bongo B L Heel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50177"
+    },
+    {
+      "name": "Bongo B L Open 1F.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50178"
+    },
+    {
+      "name": "Bongo B L Open 3F.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50179"
+    },
+    {
+      "name": "Bongo B L Rim.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50180"
+    },
+    {
+      "name": "Bongo B L Slap.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50181"
+    },
+    {
+      "name": "Bongo B L Tip.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_50182"
+    },
+    {
+      "name": "Bongo C78 Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_1812"
+    },
+    {
+      "name": "Bongo C78 Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_1813"
+    },
+    {
+      "name": "Bongo Chop.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_1814"
+    },
+    {
+      "name": "Bongo EDM.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_1815"
+    },
+    {
+      "name": "Bongo Flam.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_57829"
+    },
+    {
+      "name": "Bongo High Open Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_1816"
+    },
+    {
+      "name": "Bongo High Open Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_1817"
+    },
+    {
+      "name": "Bongo High Open-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_46349"
+    },
+    {
+      "name": "Bongo Low Open Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_1818"
+    },
+    {
+      "name": "Bongo Low Open Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_1819"
+    },
+    {
+      "name": "Bongo Low Open-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_46350"
+    },
+    {
+      "name": "Bongo Rough.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_46351"
+    },
+    {
+      "name": "Bongo Shy and Dry.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_1820"
+    },
+    {
+      "name": "Bongo Shy and Dry.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_46352"
+    },
+    {
+      "name": "Bongo-C78-Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_46353"
+    },
+    {
+      "name": "Bongo-C78-Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_46354"
+    },
+    {
+      "name": "Perc Bongo K2L.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Bongo:FileId_36073"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "path": "Instruments/Emit",
+  "name": "Emit",
+  "uri": "query:Synths#Emit",
+  "is_folder": false,
+  "is_device": true,
+  "is_loadable": true,
+  "items": []
+}

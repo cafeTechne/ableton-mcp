@@ -1,0 +1,115 @@
+{
+  "path": "midi_effects/Chord",
+  "name": "Chord",
+  "uri": "query:MidiFx#Chord",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "Debusian.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Chord:FileId_4823"
+    },
+    {
+      "name": "Einfach Schoen.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Chord:FileId_4824"
+    },
+    {
+      "name": "Eternal Sunshine.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Chord:FileId_4825"
+    },
+    {
+      "name": "Fifth Chord.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Chord:FileId_4826"
+    },
+    {
+      "name": "Film Noir.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Chord:FileId_4827"
+    },
+    {
+      "name": "Fourth Chord.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Chord:FileId_4828"
+    },
+    {
+      "name": "Grandiosa.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Chord:FileId_4829"
+    },
+    {
+      "name": "House for to go.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Chord:FileId_4830"
+    },
+    {
+      "name": "Jazz for Dummies.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Chord:FileId_4831"
+    },
+    {
+      "name": "Ligetian.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Chord:FileId_4832"
+    },
+    {
+      "name": "Major 7 Chord.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Chord:FileId_4833"
+    },
+    {
+      "name": "Major Chord.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Chord:FileId_4834"
+    },
+    {
+      "name": "Major Tom.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Chord:FileId_4835"
+    },
+    {
+      "name": "MinorTim.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Chord:FileId_4836"
+    },
+    {
+      "name": "Zukunft Futur.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Chord:FileId_4837"
+    }
+  ]
+}

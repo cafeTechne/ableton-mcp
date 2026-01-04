@@ -1,0 +1,143 @@
+{
+  "path": "Instruments/Sampler/Effects",
+  "name": "Effects",
+  "uri": "query:Synths#Sampler:Effects",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "50s Slide Rules (C3-D#4).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_51303"
+    },
+    {
+      "name": "Alien Invasion (C3-D#4).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_51305"
+    },
+    {
+      "name": "Beam Patrol.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_51306"
+    },
+    {
+      "name": "Click And Finer Cuts.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_5330"
+    },
+    {
+      "name": "Click Noise.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_5331"
+    },
+    {
+      "name": "Cnarz FX.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_5332"
+    },
+    {
+      "name": "Klickering Lead Modern.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_5333"
+    },
+    {
+      "name": "LoFi Voodoo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_5334"
+    },
+    {
+      "name": "LoFi Warp Drone.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_5335"
+    },
+    {
+      "name": "Plock Blip.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_5336"
+    },
+    {
+      "name": "Reso Clicks.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_5337"
+    },
+    {
+      "name": "Saw Percussion.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_5338"
+    },
+    {
+      "name": "Space FlicFlac.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_5339"
+    },
+    {
+      "name": "Strange Beats 1.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_5340"
+    },
+    {
+      "name": "Strange Beats 2.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_5341"
+    },
+    {
+      "name": "Strange Space Beats.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_5342"
+    },
+    {
+      "name": "Supershort Blip.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_5343"
+    },
+    {
+      "name": "Tube ZenBoard.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_51312"
+    },
+    {
+      "name": "Zirp Sync Noiseloop.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Effects:FileId_5344"
+    }
+  ]
+}

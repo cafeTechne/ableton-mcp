@@ -1,0 +1,59 @@
+{
+  "path": "Instruments/Operator/Winds",
+  "name": "Winds",
+  "uri": "query:Synths#Operator:Winds",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Flute Basic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Winds:FileId_5374"
+    },
+    {
+      "name": "Flute Double.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Winds:FileId_5375"
+    },
+    {
+      "name": "Flute Hard.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Winds:FileId_5376"
+    },
+    {
+      "name": "Flute Mellow.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Winds:FileId_5377"
+    },
+    {
+      "name": "Ocarina Basic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Winds:FileId_5378"
+    },
+    {
+      "name": "Pan Flute Basic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Winds:FileId_5379"
+    },
+    {
+      "name": "Whistler Winds.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Winds:FileId_5380"
+    }
+  ]
+}

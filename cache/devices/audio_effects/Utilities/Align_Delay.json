@@ -1,0 +1,174 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Utilities",
+  "name": "Align Delay",
+  "uri": "query:AudioFx#Utilities:Align%20Delay",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Celsius",
+      "min": -20.0,
+      "max": 60.0,
+      "value": 36.56854248046875,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "DistUnit",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "m",
+        "ft"
+      ],
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Fahrenheit",
+      "min": -4.0,
+      "max": 140.0,
+      "value": 97.82337951660156,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Left Feet",
+      "min": 0.0,
+      "max": 328.0799865722656,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Left meter",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Left ms",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Delay L Smp",
+      "min": 0.0,
+      "max": 200.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Link L/R",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Right Feet",
+      "min": 0.0,
+      "max": 328.0799865722656,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Right meter",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "Right ms",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "Delay R smp",
+      "min": 0.0,
+      "max": 200.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "TempUnit",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "C",
+        "F"
+      ],
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "Mode",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Time",
+        "Samples",
+        "Distance"
+      ],
+      "unit": null,
+      "index": 14
+    }
+  ]
+}

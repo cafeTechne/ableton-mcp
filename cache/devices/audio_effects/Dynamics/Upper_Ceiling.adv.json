@@ -1,0 +1,91 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Dynamics",
+  "name": "Upper Ceiling",
+  "uri": "query:AudioFx#Dynamics:Limiter:FileId_6162",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Gain",
+      "min": -24.0,
+      "max": 24.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Ceiling",
+      "min": -24.0,
+      "max": 0.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Release time",
+      "min": -2.0,
+      "max": 3.477121353149414,
+      "value": -0.6089850664138794,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Auto",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Link Channels",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Lookahead",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "1.5 ms",
+        "3 ms",
+        "6 ms"
+      ],
+      "unit": null,
+      "index": 6
+    }
+  ]
+}

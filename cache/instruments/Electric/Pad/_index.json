@@ -1,0 +1,52 @@
+{
+  "path": "Instruments/Electric/Pad",
+  "name": "Pad",
+  "uri": "query:Synths#Electric:Pad",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "AtmosPad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Electric:Pad:FileId_61187"
+    },
+    {
+      "name": "Layered Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Electric:Pad:FileId_61208"
+    },
+    {
+      "name": "Light Sweep Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Electric:Pad:FileId_43059"
+    },
+    {
+      "name": "Neo Soul Glide Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Electric:Pad:FileId_39991"
+    },
+    {
+      "name": "Quarantine Qeys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Electric:Pad:FileId_51217"
+    },
+    {
+      "name": "Vocal Coalition Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Electric:Pad:FileId_61223"
+    }
+  ]
+}

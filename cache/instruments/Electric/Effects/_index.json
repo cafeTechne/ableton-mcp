@@ -1,0 +1,17 @@
+{
+  "path": "Instruments/Electric/Effects",
+  "name": "Effects",
+  "uri": "query:Synths#Electric:Effects",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Accelerating Harmonics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Electric:Effects:FileId_51304"
+    }
+  ]
+}

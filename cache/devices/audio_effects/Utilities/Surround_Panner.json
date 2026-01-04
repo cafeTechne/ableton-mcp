@@ -1,0 +1,101 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Utilities",
+  "name": "Surround Panner",
+  "uri": "query:AudioFx#Utilities:Surround%20Panner",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Center",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 50.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Focus",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 50.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Rotation",
+      "min": -180.0,
+      "max": 180.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Smooth",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 20.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "SpeakerPos",
+      "min": 0.0,
+      "max": 8.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "4-Room",
+        "4-Circle",
+        "4-Center",
+        "6-Room",
+        "6-Circle",
+        "6-Center",
+        "8-Room",
+        "8-Circle",
+        "8-Center"
+      ],
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "X-Axis",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Y-Axis",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    }
+  ]
+}

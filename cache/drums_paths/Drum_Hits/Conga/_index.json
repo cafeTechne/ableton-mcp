@@ -1,0 +1,990 @@
+{
+  "path": "drums/Drum Hits/Conga",
+  "name": "Conga",
+  "uri": "query:Drums#Drum%20Hits:Conga",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "A-Conga Hi Slap 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46424"
+    },
+    {
+      "name": "A-Conga Low Slap 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46425"
+    },
+    {
+      "name": "Conga 70s 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1697"
+    },
+    {
+      "name": "Conga 70s 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1698"
+    },
+    {
+      "name": "Conga 808 Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1699"
+    },
+    {
+      "name": "Conga 808 Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1700"
+    },
+    {
+      "name": "Conga 808 Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1701"
+    },
+    {
+      "name": "Conga A Flam Mt.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50183"
+    },
+    {
+      "name": "Conga A Flam Opn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50184"
+    },
+    {
+      "name": "Conga A Heel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50185"
+    },
+    {
+      "name": "Conga A Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50186"
+    },
+    {
+      "name": "Conga A Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50187"
+    },
+    {
+      "name": "Conga A Slap Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50188"
+    },
+    {
+      "name": "Conga A Slap Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50189"
+    },
+    {
+      "name": "Conga A Tip.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50190"
+    },
+    {
+      "name": "Conga Acoustified Hi.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1702"
+    },
+    {
+      "name": "Conga Acoustified Low.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1703"
+    },
+    {
+      "name": "Conga Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1704"
+    },
+    {
+      "name": "Conga B Flam Mt.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50191"
+    },
+    {
+      "name": "Conga B Flam Opn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50192"
+    },
+    {
+      "name": "Conga B Heel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50193"
+    },
+    {
+      "name": "Conga B Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50194"
+    },
+    {
+      "name": "Conga B Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50195"
+    },
+    {
+      "name": "Conga B Slap Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50196"
+    },
+    {
+      "name": "Conga B Slap Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50197"
+    },
+    {
+      "name": "Conga B Tip.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50198"
+    },
+    {
+      "name": "Conga C Flam Mt.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50199"
+    },
+    {
+      "name": "Conga C Flam Opn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50200"
+    },
+    {
+      "name": "Conga C Heel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50201"
+    },
+    {
+      "name": "Conga C Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50202"
+    },
+    {
+      "name": "Conga C Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50203"
+    },
+    {
+      "name": "Conga C Slap Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50204"
+    },
+    {
+      "name": "Conga C Slap Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50205"
+    },
+    {
+      "name": "Conga C Tip.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50206"
+    },
+    {
+      "name": "Conga C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1705"
+    },
+    {
+      "name": "Conga Chop 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1706"
+    },
+    {
+      "name": "Conga Chop 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1707"
+    },
+    {
+      "name": "Conga Conopolis.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_48222"
+    },
+    {
+      "name": "Conga Dry.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_57855"
+    },
+    {
+      "name": "Conga Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1708"
+    },
+    {
+      "name": "Conga Hi 505 Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46426"
+    },
+    {
+      "name": "Conga Hi 505.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1709"
+    },
+    {
+      "name": "Conga Hi 808 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46427"
+    },
+    {
+      "name": "Conga Hi 808 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46428"
+    },
+    {
+      "name": "Conga Hi 808 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46429"
+    },
+    {
+      "name": "Conga Hi LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46430"
+    },
+    {
+      "name": "Conga Hi Muted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1710"
+    },
+    {
+      "name": "Conga Hi Slap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1711"
+    },
+    {
+      "name": "Conga Hi Smack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1712"
+    },
+    {
+      "name": "Conga Hi Smack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46431"
+    },
+    {
+      "name": "Conga High Zoned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_39603"
+    },
+    {
+      "name": "Conga Hit 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_42276"
+    },
+    {
+      "name": "Conga Hit 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_42277"
+    },
+    {
+      "name": "Conga LD 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1713"
+    },
+    {
+      "name": "Conga LD 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1714"
+    },
+    {
+      "name": "Conga LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46432"
+    },
+    {
+      "name": "Conga Lo 808 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46433"
+    },
+    {
+      "name": "Conga Lo 808 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46434"
+    },
+    {
+      "name": "Conga Lo Smack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46435"
+    },
+    {
+      "name": "Conga Low 505 Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46436"
+    },
+    {
+      "name": "Conga Low 505.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1715"
+    },
+    {
+      "name": "Conga Low Ring 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1716"
+    },
+    {
+      "name": "Conga Low Ring 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1717"
+    },
+    {
+      "name": "Conga Low Slap 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1718"
+    },
+    {
+      "name": "Conga Low Slap 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1719"
+    },
+    {
+      "name": "Conga Low Zoned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_39604"
+    },
+    {
+      "name": "Conga Medium.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1720"
+    },
+    {
+      "name": "Conga Mid 808 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46437"
+    },
+    {
+      "name": "Conga Mid 808 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46438"
+    },
+    {
+      "name": "Conga Mid 808 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46439"
+    },
+    {
+      "name": "Conga Mid 808 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46440"
+    },
+    {
+      "name": "Conga Modem.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_57856"
+    },
+    {
+      "name": "Conga Muted Smack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46441"
+    },
+    {
+      "name": "Conga Open Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1721"
+    },
+    {
+      "name": "Conga Open Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1722"
+    },
+    {
+      "name": "Conga Open-Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46442"
+    },
+    {
+      "name": "Conga Pete.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1723"
+    },
+    {
+      "name": "Conga Pitched SP.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_57857"
+    },
+    {
+      "name": "Conga Pitched SP.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1724"
+    },
+    {
+      "name": "Conga Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1725"
+    },
+    {
+      "name": "Conga Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1726"
+    },
+    {
+      "name": "Conga Weed Killa 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1727"
+    },
+    {
+      "name": "Conga Weed Killa 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1728"
+    },
+    {
+      "name": "Conga Weed Killa 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_1729"
+    },
+    {
+      "name": "Conga-808-Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46443"
+    },
+    {
+      "name": "Conga-808-Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46445"
+    },
+    {
+      "name": "Conga-808-Lower.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46446"
+    },
+    {
+      "name": "Conga-808-Low-Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46444"
+    },
+    {
+      "name": "Conga-808-Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46447"
+    },
+    {
+      "name": "Conga-C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46448"
+    },
+    {
+      "name": "Congas Lide 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_42278"
+    },
+    {
+      "name": "Congas Lide 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_42279"
+    },
+    {
+      "name": "Perc Acoustified 10 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_46449"
+    },
+    {
+      "name": "Quinto A Flam Mt.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50207"
+    },
+    {
+      "name": "Quinto A Flam Opn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50208"
+    },
+    {
+      "name": "Quinto A Heel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50209"
+    },
+    {
+      "name": "Quinto A Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50210"
+    },
+    {
+      "name": "Quinto A Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50211"
+    },
+    {
+      "name": "Quinto A Slap Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50212"
+    },
+    {
+      "name": "Quinto A Slap Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50213"
+    },
+    {
+      "name": "Quinto A Tip.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50214"
+    },
+    {
+      "name": "Quinto B Flam Mt.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50215"
+    },
+    {
+      "name": "Quinto B Flam Opn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50216"
+    },
+    {
+      "name": "Quinto B Heel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50217"
+    },
+    {
+      "name": "Quinto B Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50218"
+    },
+    {
+      "name": "Quinto B Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50219"
+    },
+    {
+      "name": "Quinto B Slap Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50220"
+    },
+    {
+      "name": "Quinto B Slap Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50221"
+    },
+    {
+      "name": "Quinto B Tip.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50222"
+    },
+    {
+      "name": "Quinto C Flam Mt.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50223"
+    },
+    {
+      "name": "Quinto C Flam Opn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50224"
+    },
+    {
+      "name": "Quinto C Heel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50225"
+    },
+    {
+      "name": "Quinto C Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50226"
+    },
+    {
+      "name": "Quinto C Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50227"
+    },
+    {
+      "name": "Quinto C Slap Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50228"
+    },
+    {
+      "name": "Quinto C Slap Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50229"
+    },
+    {
+      "name": "Quinto C Tip.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50230"
+    },
+    {
+      "name": "Tumba A Flam Mt.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50231"
+    },
+    {
+      "name": "Tumba A Flam Opn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50232"
+    },
+    {
+      "name": "Tumba A Heel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50233"
+    },
+    {
+      "name": "Tumba A Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50234"
+    },
+    {
+      "name": "Tumba A Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50235"
+    },
+    {
+      "name": "Tumba A Slap Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50236"
+    },
+    {
+      "name": "Tumba A Slap.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50237"
+    },
+    {
+      "name": "Tumba A Tip.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50238"
+    },
+    {
+      "name": "Tumba B Flam Mt.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50239"
+    },
+    {
+      "name": "Tumba B Flam Opn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50240"
+    },
+    {
+      "name": "Tumba B Heel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50241"
+    },
+    {
+      "name": "Tumba B Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50242"
+    },
+    {
+      "name": "Tumba B Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50243"
+    },
+    {
+      "name": "Tumba B Slap Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50244"
+    },
+    {
+      "name": "Tumba B Slap.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50245"
+    },
+    {
+      "name": "Tumba B Tip.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50246"
+    },
+    {
+      "name": "Tumba C Flam Opn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50247"
+    },
+    {
+      "name": "Tumba C Slide 1.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50248"
+    },
+    {
+      "name": "Tumba C Slide 2.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50249"
+    },
+    {
+      "name": "Tumba C Slide 3.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50250"
+    },
+    {
+      "name": "Tumba C Sub Hit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50251"
+    },
+    {
+      "name": "Tumba C Sub Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50252"
+    },
+    {
+      "name": "Tumba C Sub Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Conga:FileId_50253"
+    }
+  ]
+}

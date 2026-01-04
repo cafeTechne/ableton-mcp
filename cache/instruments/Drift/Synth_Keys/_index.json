@@ -1,0 +1,192 @@
+{
+  "path": "Instruments/Drift/Synth Keys",
+  "name": "Synth Keys",
+  "uri": "query:Synths#Drift:Synth%20Keys",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Arcade Split.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_5757"
+    },
+    {
+      "name": "Atlas Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_5758"
+    },
+    {
+      "name": "Basic Trip Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_3784"
+    },
+    {
+      "name": "Broken Token.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_3785"
+    },
+    {
+      "name": "Delta Polylogue.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_5759"
+    },
+    {
+      "name": "Faded Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_3798"
+    },
+    {
+      "name": "Fez Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_3799"
+    },
+    {
+      "name": "Floom.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_5760"
+    },
+    {
+      "name": "Fluttering North.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_3800"
+    },
+    {
+      "name": "Galleon Pianola.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_3802"
+    },
+    {
+      "name": "Gentle Sixty.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_5761"
+    },
+    {
+      "name": "Keynell.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_5762"
+    },
+    {
+      "name": "La String Machine.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_5763"
+    },
+    {
+      "name": "Night Crystal.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_3806"
+    },
+    {
+      "name": "Numan Keystrike.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_5764"
+    },
+    {
+      "name": "OK Corral Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_3807"
+    },
+    {
+      "name": "Orange Sky Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_3808"
+    },
+    {
+      "name": "Orbit Ray.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_5765"
+    },
+    {
+      "name": "Phase Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_3812"
+    },
+    {
+      "name": "Primaneve Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_3813"
+    },
+    {
+      "name": "Retro Bell Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_5766"
+    },
+    {
+      "name": "Rezowire.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_3814"
+    },
+    {
+      "name": "Shapemod Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_3815"
+    },
+    {
+      "name": "Slip Sliding.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_5767"
+    },
+    {
+      "name": "Stars Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_3817"
+    },
+    {
+      "name": "Tiny Echoes.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Synth%20Keys:FileId_5768"
+    }
+  ]
+}

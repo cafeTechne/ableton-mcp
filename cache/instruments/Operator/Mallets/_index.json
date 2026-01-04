@@ -1,0 +1,402 @@
+{
+  "path": "Instruments/Operator/Mallets",
+  "name": "Mallets",
+  "uri": "query:Synths#Operator:Mallets",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "A Squeaky Bell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_36603"
+    },
+    {
+      "name": "Basic Brushed Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_3984"
+    },
+    {
+      "name": "Basic FM Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_3985"
+    },
+    {
+      "name": "Bell Variations.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_3986"
+    },
+    {
+      "name": "Bells Brushed Hits.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5568"
+    },
+    {
+      "name": "Bells Classic Basic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5569"
+    },
+    {
+      "name": "Bells Classic Bright.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5570"
+    },
+    {
+      "name": "Bells Classic Muffled.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5571"
+    },
+    {
+      "name": "Bells Damped.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5572"
+    },
+    {
+      "name": "Bells Fifths.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5574"
+    },
+    {
+      "name": "Bells FM Simple.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5573"
+    },
+    {
+      "name": "Bells Leslie.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5575"
+    },
+    {
+      "name": "Bells Noisy Attack.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5576"
+    },
+    {
+      "name": "Bells Pitch Mod.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5577"
+    },
+    {
+      "name": "Bells Plain Octaves.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5578"
+    },
+    {
+      "name": "Bells Rattling.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5579"
+    },
+    {
+      "name": "Bells Sun.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5580"
+    },
+    {
+      "name": "Bells Tinkle Dry.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5581"
+    },
+    {
+      "name": "Bells Tinkle Fine.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5582"
+    },
+    {
+      "name": "Bells Tinkle Noisy.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5583"
+    },
+    {
+      "name": "Bells Tinkle Rich.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5584"
+    },
+    {
+      "name": "Bells Tinkle Toy.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5585"
+    },
+    {
+      "name": "Bells Vibrant.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5586"
+    },
+    {
+      "name": "Belzebub.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_54487"
+    },
+    {
+      "name": "Big Benjamin.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_36605"
+    },
+    {
+      "name": "Dahrkring.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_36606"
+    },
+    {
+      "name": "Dilla Marimba.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_39913"
+    },
+    {
+      "name": "Dixxon Carillon.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_61097"
+    },
+    {
+      "name": "Drakebell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_36607"
+    },
+    {
+      "name": "Dreamy Bell.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_59686"
+    },
+    {
+      "name": "Dulce Delay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_43013"
+    },
+    {
+      "name": "Glockenspiel Tremolo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5587"
+    },
+    {
+      "name": "Iwashi.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_49030"
+    },
+    {
+      "name": "Kalimba Plastic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5588"
+    },
+    {
+      "name": "LoFi FM EP.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_39914"
+    },
+    {
+      "name": "Maki.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_49031"
+    },
+    {
+      "name": "Mallet Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_39915"
+    },
+    {
+      "name": "Marimba Long.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5589"
+    },
+    {
+      "name": "Marimba Plastic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5590"
+    },
+    {
+      "name": "Marimba Wood.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5591"
+    },
+    {
+      "name": "Masago.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_49032"
+    },
+    {
+      "name": "Metallic Dynamic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5592"
+    },
+    {
+      "name": "Metallic Hit.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5593"
+    },
+    {
+      "name": "Non-Jazz Chime Synth.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_59687"
+    },
+    {
+      "name": "Nostalgic VHS Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_3996"
+    },
+    {
+      "name": "Obelisk Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_3997"
+    },
+    {
+      "name": "Outland Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_3999"
+    },
+    {
+      "name": "PS Bell.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_59688"
+    },
+    {
+      "name": "Sequential Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_54491"
+    },
+    {
+      "name": "Tin Bowl.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5594"
+    },
+    {
+      "name": "Tip Toes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_61100"
+    },
+    {
+      "name": "Tubular Bells.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5595"
+    },
+    {
+      "name": "Vibes Pure.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5596"
+    },
+    {
+      "name": "Vibraphone Plastic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5597"
+    },
+    {
+      "name": "Wineglass High Pass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_5598"
+    },
+    {
+      "name": "Work Stringbell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Mallets:FileId_36608"
+    }
+  ]
+}

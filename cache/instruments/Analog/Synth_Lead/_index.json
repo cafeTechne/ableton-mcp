@@ -1,0 +1,682 @@
+{
+  "path": "Instruments/Analog/Synth Lead",
+  "name": "Synth Lead",
+  "uri": "query:Synths#Analog:Synth%20Lead",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "4 OSC.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61142"
+    },
+    {
+      "name": "Acid Age.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_49064"
+    },
+    {
+      "name": "Acid Machine.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_55498"
+    },
+    {
+      "name": "Anthem.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38374"
+    },
+    {
+      "name": "Ascii Chords.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_55499"
+    },
+    {
+      "name": "Asynchronous Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38375"
+    },
+    {
+      "name": "At Your Door Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39950"
+    },
+    {
+      "name": "Automotive Poly.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_59609"
+    },
+    {
+      "name": "Badass Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_3739"
+    },
+    {
+      "name": "Big Bro Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38377"
+    },
+    {
+      "name": "Big Lead Stab.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_36670"
+    },
+    {
+      "name": "Big Saw Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61144"
+    },
+    {
+      "name": "Big Smack Pad Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_36671"
+    },
+    {
+      "name": "Buck Jones Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39954"
+    },
+    {
+      "name": "Carlos Gets Tripped.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_59610"
+    },
+    {
+      "name": "Chipped.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38381"
+    },
+    {
+      "name": "Chocolate Sundae Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39955"
+    },
+    {
+      "name": "Clubber Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38383"
+    },
+    {
+      "name": "Complex Rotor Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_3747"
+    },
+    {
+      "name": "Creeper Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38384"
+    },
+    {
+      "name": "Day Float.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_55504"
+    },
+    {
+      "name": "Deep Space.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_51315"
+    },
+    {
+      "name": "Delicate Drama.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38385"
+    },
+    {
+      "name": "Diabolical Reso.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_55505"
+    },
+    {
+      "name": "Dirty Funk Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39956"
+    },
+    {
+      "name": "Dorian the Great.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_59259"
+    },
+    {
+      "name": "Dual OSC Buzz Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5873"
+    },
+    {
+      "name": "Dual OSC Muted Sweep Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5874"
+    },
+    {
+      "name": "Dual OSC Sync Bright Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5875"
+    },
+    {
+      "name": "Duck Power.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39957"
+    },
+    {
+      "name": "Duned Out Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39958"
+    },
+    {
+      "name": "Evoe Sweep.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61147"
+    },
+    {
+      "name": "Fat OSC Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61148"
+    },
+    {
+      "name": "Fire Breath Bass Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61149"
+    },
+    {
+      "name": "Fourths Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5876"
+    },
+    {
+      "name": "Full Force Saw.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61150"
+    },
+    {
+      "name": "Funk Synth 1.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39960"
+    },
+    {
+      "name": "Funk Synth 2.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39961"
+    },
+    {
+      "name": "GlassyChord.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_59264"
+    },
+    {
+      "name": "Grey Panel Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39965"
+    },
+    {
+      "name": "Hands Up Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_49070"
+    },
+    {
+      "name": "Herbie Funk Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39968"
+    },
+    {
+      "name": "Hesitation.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_54507"
+    },
+    {
+      "name": "Hold For Funk.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_59611"
+    },
+    {
+      "name": "Instinct Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_36674"
+    },
+    {
+      "name": "Intermix Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61152"
+    },
+    {
+      "name": "Juiced Saws.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38390"
+    },
+    {
+      "name": "Lead On The Road.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61154"
+    },
+    {
+      "name": "Lead Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_36675"
+    },
+    {
+      "name": "Light Flow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61156"
+    },
+    {
+      "name": "Like A Jungle Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39971"
+    },
+    {
+      "name": "Lit Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_36676"
+    },
+    {
+      "name": "Metalic Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5877"
+    },
+    {
+      "name": "Minor 7 Deep.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61158"
+    },
+    {
+      "name": "Minor 7 Lush.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61159"
+    },
+    {
+      "name": "Minor Metal.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_55512"
+    },
+    {
+      "name": "Moon Lights.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_43045"
+    },
+    {
+      "name": "Nasal Mod Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5878"
+    },
+    {
+      "name": "Other Worlds.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_43048"
+    },
+    {
+      "name": "Paisley Prophet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61163"
+    },
+    {
+      "name": "Pan Alarma.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_59269"
+    },
+    {
+      "name": "Pluck Stab.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38402"
+    },
+    {
+      "name": "Puffy K Bass Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_59612"
+    },
+    {
+      "name": "Pulse Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_49078"
+    },
+    {
+      "name": "Punctual.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_49079"
+    },
+    {
+      "name": "Purple Tension.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_36681"
+    },
+    {
+      "name": "Roundabout Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_59613"
+    },
+    {
+      "name": "Rusty Space.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_59270"
+    },
+    {
+      "name": "S&H Pluck Slow Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5879"
+    },
+    {
+      "name": "Saw Detune Sync Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5880"
+    },
+    {
+      "name": "Saw Punch.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_59614"
+    },
+    {
+      "name": "Say It Bass Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_36683"
+    },
+    {
+      "name": "SciFi Lobby.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61167"
+    },
+    {
+      "name": "Semi Tune Stadium.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38406"
+    },
+    {
+      "name": "SH Funk Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39975"
+    },
+    {
+      "name": "Skyline Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_55517"
+    },
+    {
+      "name": "Smak Attack Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61168"
+    },
+    {
+      "name": "Smooth Ride.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39977"
+    },
+    {
+      "name": "Snarky Stab.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_59615"
+    },
+    {
+      "name": "Square Pulser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61170"
+    },
+    {
+      "name": "Square Sync Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5881"
+    },
+    {
+      "name": "Stop The Lights.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_51326"
+    },
+    {
+      "name": "Sun Set.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_59272"
+    },
+    {
+      "name": "Sweet Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_3765"
+    },
+    {
+      "name": "Sync Pulser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61173"
+    },
+    {
+      "name": "Sync Star.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61174"
+    },
+    {
+      "name": "Synth Echo Fifth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_59273"
+    },
+    {
+      "name": "Terminal Connect.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38411"
+    },
+    {
+      "name": "The Learning Filter.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_59616"
+    },
+    {
+      "name": "Throaty Blip.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38412"
+    },
+    {
+      "name": "Transcending Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38415"
+    },
+    {
+      "name": "Uni-Sun.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61178"
+    },
+    {
+      "name": "Verse Able Dub.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_55522"
+    },
+    {
+      "name": "Vintage Brood Solo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_59617"
+    },
+    {
+      "name": "Wide Poly Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_43053"
+    },
+    {
+      "name": "Wood Panel Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39983"
+    }
+  ]
+}

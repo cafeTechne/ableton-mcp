@@ -1,0 +1,234 @@
+{
+  "path": "Instruments/Analog/Effects",
+  "name": "Effects",
+  "uri": "query:Synths#Analog:Effects",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Air Raid Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_36614"
+    },
+    {
+      "name": "Beam Me Down.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_49002"
+    },
+    {
+      "name": "Cirrus Ascend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_49005"
+    },
+    {
+      "name": "Dark Metalic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_49007"
+    },
+    {
+      "name": "Double Tap Laser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_36615"
+    },
+    {
+      "name": "Freak Out.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_59224"
+    },
+    {
+      "name": "Keda.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_49015"
+    },
+    {
+      "name": "Laser Battle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_61089"
+    },
+    {
+      "name": "Max Descend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_38339"
+    },
+    {
+      "name": "Metal Impact Delay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_61090"
+    },
+    {
+      "name": "Movie Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_5897"
+    },
+    {
+      "name": "Oblivion Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_42998"
+    },
+    {
+      "name": "Overtones.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_5898"
+    },
+    {
+      "name": "Oxide FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_55468"
+    },
+    {
+      "name": "Particle Flow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_49017"
+    },
+    {
+      "name": "Pulse Ascend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_38340"
+    },
+    {
+      "name": "Pulse Descend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_38341"
+    },
+    {
+      "name": "Rhythmic Iron.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_5899"
+    },
+    {
+      "name": "S&H Games.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_5900"
+    },
+    {
+      "name": "Saw Spiral.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_61091"
+    },
+    {
+      "name": "Saw Struck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_61092"
+    },
+    {
+      "name": "Sci Fi Raze.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_38346"
+    },
+    {
+      "name": "Shutter Games.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_5901"
+    },
+    {
+      "name": "Spheres.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_49022"
+    },
+    {
+      "name": "Student Saws.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_61093"
+    },
+    {
+      "name": "Swish Ascend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_36616"
+    },
+    {
+      "name": "Swish Ascending.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_61094"
+    },
+    {
+      "name": "Swish Descend Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_43000"
+    },
+    {
+      "name": "Swish Downfall.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_36617"
+    },
+    {
+      "name": "Wide Air Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_61095"
+    },
+    {
+      "name": "Ye Olde Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_38352"
+    },
+    {
+      "name": "Zap.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Effects:FileId_5902"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "path": "Instruments/Simpler/Guitar & Plucked",
+  "name": "Guitar & Plucked",
+  "uri": "query:Synths#Simpler:Guitar%20&%20Plucked",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Bowed Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Guitar%20&%20Plucked:FileId_43205"
+    },
+    {
+      "name": "Olivine Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Guitar%20&%20Plucked:FileId_43206"
+    },
+    {
+      "name": "Serpentine Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Guitar%20&%20Plucked:FileId_43207"
+    }
+  ]
+}

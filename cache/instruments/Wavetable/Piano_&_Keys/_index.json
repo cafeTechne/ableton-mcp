@@ -1,0 +1,136 @@
+{
+  "path": "Instruments/Wavetable/Piano & Keys",
+  "name": "Piano & Keys",
+  "uri": "query:Synths#Wavetable:Piano%20&%20Keys",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Clav Variations.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_3876"
+    },
+    {
+      "name": "E-Piano Light.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_3882"
+    },
+    {
+      "name": "Flatliner Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_43019"
+    },
+    {
+      "name": "Floor Boards of Nostalgia.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_51087"
+    },
+    {
+      "name": "FM Piano Classic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_3889"
+    },
+    {
+      "name": "FM Piano Detuned.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_4998"
+    },
+    {
+      "name": "Graceful Keys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_51089"
+    },
+    {
+      "name": "Occasional Chord.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_54498"
+    },
+    {
+      "name": "Orchid Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_43021"
+    },
+    {
+      "name": "Organ Angry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_3892"
+    },
+    {
+      "name": "Organ House.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_3894"
+    },
+    {
+      "name": "Organ Nylon Drawbars.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_4999"
+    },
+    {
+      "name": "Organ Plus Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_3895"
+    },
+    {
+      "name": "Organ Retro Harmonic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_5000"
+    },
+    {
+      "name": "Organ Rough.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_3896"
+    },
+    {
+      "name": "Organ Transistor Series.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_3897"
+    },
+    {
+      "name": "Reflection.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_51094"
+    },
+    {
+      "name": "Sinenoise Notes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Piano%20&%20Keys:FileId_51095"
+    }
+  ]
+}

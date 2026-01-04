@@ -1,0 +1,59 @@
+{
+  "path": "midi_effects/MPE Control",
+  "name": "MPE Control",
+  "uri": "query:MidiFx#MPE%20Control",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "Force Relative Slide.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MPE%20Control:FileId_4811"
+    },
+    {
+      "name": "MPE Off.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MPE%20Control:FileId_4812"
+    },
+    {
+      "name": "MPE to MIDI.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MPE%20Control:FileId_4813"
+    },
+    {
+      "name": "Note PB 25.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MPE%20Control:FileId_4814"
+    },
+    {
+      "name": "Note PB 50.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MPE%20Control:FileId_4815"
+    },
+    {
+      "name": "Note PB Off.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MPE%20Control:FileId_4816"
+    },
+    {
+      "name": "Pressure and Slide Invert.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MPE%20Control:FileId_4817"
+    }
+  ]
+}

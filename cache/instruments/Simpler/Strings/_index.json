@@ -1,0 +1,318 @@
+{
+  "path": "Instruments/Simpler/Strings",
+  "name": "Strings",
+  "uri": "query:Synths#Simpler:Strings",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Cello Phrases C Major (120 bpm).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_51172"
+    },
+    {
+      "name": "Cello Phrases C Minor (120 bpm).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_51173"
+    },
+    {
+      "name": "Cello Phrases G Major (120 bpm).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_51174"
+    },
+    {
+      "name": "Cello Phrases G Minor (120 bpm).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_51175"
+    },
+    {
+      "name": "Cello Section Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54009"
+    },
+    {
+      "name": "Cello Section Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54010"
+    },
+    {
+      "name": "Cello Section Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54011"
+    },
+    {
+      "name": "Cello Section.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54012"
+    },
+    {
+      "name": "Cello Section_update.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54013"
+    },
+    {
+      "name": "Cello Solo Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54014"
+    },
+    {
+      "name": "Cello Solo Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54015"
+    },
+    {
+      "name": "Cello Solo Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54016"
+    },
+    {
+      "name": "Cello Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54017"
+    },
+    {
+      "name": "Double Bass Section Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54018"
+    },
+    {
+      "name": "Double Bass Section Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54019"
+    },
+    {
+      "name": "Double Bass Section Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54020"
+    },
+    {
+      "name": "Double Bass Section.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54021"
+    },
+    {
+      "name": "Double Bass Solo Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54022"
+    },
+    {
+      "name": "Double Bass Solo Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54023"
+    },
+    {
+      "name": "Double Bass Solo Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54024"
+    },
+    {
+      "name": "Double Bass Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54025"
+    },
+    {
+      "name": "Limbo Call.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_51183"
+    },
+    {
+      "name": "Solemn Wash.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_51188"
+    },
+    {
+      "name": "Strings Ensemble Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54026"
+    },
+    {
+      "name": "Strings Ensemble Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54027"
+    },
+    {
+      "name": "Strings Ensemble Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54028"
+    },
+    {
+      "name": "Strings Ensemble Tremolo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54029"
+    },
+    {
+      "name": "Strings Ensemble.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54030"
+    },
+    {
+      "name": "Viola Section Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54031"
+    },
+    {
+      "name": "Viola Section Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54032"
+    },
+    {
+      "name": "Viola Section Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54033"
+    },
+    {
+      "name": "Viola Section.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54034"
+    },
+    {
+      "name": "Viola Solo Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54035"
+    },
+    {
+      "name": "Viola Solo Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54036"
+    },
+    {
+      "name": "Viola Solo Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54037"
+    },
+    {
+      "name": "Viola Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54038"
+    },
+    {
+      "name": "Violin Section Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54039"
+    },
+    {
+      "name": "Violin Section Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54040"
+    },
+    {
+      "name": "Violin Section Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54041"
+    },
+    {
+      "name": "Violin Section.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54042"
+    },
+    {
+      "name": "Violin Solo Legato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54043"
+    },
+    {
+      "name": "Violin Solo Pizzicato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54044"
+    },
+    {
+      "name": "Violin Solo Staccato.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54045"
+    },
+    {
+      "name": "Violin Solo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Strings:FileId_54046"
+    }
+  ]
+}

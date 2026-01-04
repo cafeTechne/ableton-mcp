@@ -1,0 +1,80 @@
+{
+  "path": "Instruments/Analog/Piano & Keys",
+  "name": "Piano & Keys",
+  "uri": "query:Synths#Analog:Piano%20&%20Keys",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "E-Piano Muted Pure.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Piano%20&%20Keys:FileId_5891"
+    },
+    {
+      "name": "Gospel Bars.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Piano%20&%20Keys:FileId_36623"
+    },
+    {
+      "name": "Grand Piano Lost Ship.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Piano%20&%20Keys:FileId_49313"
+    },
+    {
+      "name": "Nocturne Le Pris.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Piano%20&%20Keys:FileId_59251"
+    },
+    {
+      "name": "Organ Church Slow.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Piano%20&%20Keys:FileId_5892"
+    },
+    {
+      "name": "Organ Octaves Slow.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Piano%20&%20Keys:FileId_5893"
+    },
+    {
+      "name": "Organ Percussive.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Piano%20&%20Keys:FileId_5894"
+    },
+    {
+      "name": "Organ Vibrato.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Piano%20&%20Keys:FileId_5895"
+    },
+    {
+      "name": "Turn To Dust.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Piano%20&%20Keys:FileId_39931"
+    },
+    {
+      "name": "Twisted Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Piano%20&%20Keys:FileId_39932"
+    }
+  ]
+}

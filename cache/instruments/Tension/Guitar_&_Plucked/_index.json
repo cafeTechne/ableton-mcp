@@ -1,0 +1,451 @@
+{
+  "path": "Instruments/Tension/Guitar & Plucked",
+  "name": "Guitar & Plucked",
+  "uri": "query:Synths#Tension:Guitar%20&%20Plucked",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "12 String Chorus Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5160"
+    },
+    {
+      "name": "Banjo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5161"
+    },
+    {
+      "name": "Basic Flange Harp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_4006"
+    },
+    {
+      "name": "Basic Guzheng.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_4007"
+    },
+    {
+      "name": "Basic Nylon Concerto Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_4008"
+    },
+    {
+      "name": "Basic Shamisen.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_4009"
+    },
+    {
+      "name": "Blood Pick.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_43002"
+    },
+    {
+      "name": "Chord Bouncing.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5162"
+    },
+    {
+      "name": "Clean Basic Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5163"
+    },
+    {
+      "name": "Clean Bright Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5164"
+    },
+    {
+      "name": "Clean Chorus Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5165"
+    },
+    {
+      "name": "Dense Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_43004"
+    },
+    {
+      "name": "Drive Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_43005"
+    },
+    {
+      "name": "Eastern Harp 1.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5166"
+    },
+    {
+      "name": "Eastern Harp 2.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5167"
+    },
+    {
+      "name": "Electric Nylon Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5168"
+    },
+    {
+      "name": "Guitar Multi String.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_59734"
+    },
+    {
+      "name": "Guitar Plucker.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_43007"
+    },
+    {
+      "name": "Hard Picked Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5169"
+    },
+    {
+      "name": "Harmonics Unpitched.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5170"
+    },
+    {
+      "name": "Harp Release.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5171"
+    },
+    {
+      "name": "Harp Short.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5172"
+    },
+    {
+      "name": "Harp Soft.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5173"
+    },
+    {
+      "name": "Ionosphere Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_4011"
+    },
+    {
+      "name": "Jazz Basic Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5174"
+    },
+    {
+      "name": "Jazz Bright Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5175"
+    },
+    {
+      "name": "Jazz Soft Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5176"
+    },
+    {
+      "name": "Koto.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5177"
+    },
+    {
+      "name": "Lift Delay Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_3857"
+    },
+    {
+      "name": "Light String Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_59735"
+    },
+    {
+      "name": "Metal Arp Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5178"
+    },
+    {
+      "name": "Metal Reso Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5179"
+    },
+    {
+      "name": "Mute Snap Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5180"
+    },
+    {
+      "name": "New Age String.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5181"
+    },
+    {
+      "name": "Nice Harp.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5182"
+    },
+    {
+      "name": "Nylon Basic Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5183"
+    },
+    {
+      "name": "Nylon Flamenco Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5184"
+    },
+    {
+      "name": "Nylon Mute Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5185"
+    },
+    {
+      "name": "Nylon Old Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5186"
+    },
+    {
+      "name": "Oscillation Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_4012"
+    },
+    {
+      "name": "Palm Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_4013"
+    },
+    {
+      "name": "Pick Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_59736"
+    },
+    {
+      "name": "Pipe Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_43008"
+    },
+    {
+      "name": "Pizzicato.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5187"
+    },
+    {
+      "name": "Reggae Chords Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5188"
+    },
+    {
+      "name": "Reverse Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5189"
+    },
+    {
+      "name": "Shamisen.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5190"
+    },
+    {
+      "name": "Single Coil Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5191"
+    },
+    {
+      "name": "Sitar Basic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5192"
+    },
+    {
+      "name": "Sitar Delay.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5193"
+    },
+    {
+      "name": "Sitar Far.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5194"
+    },
+    {
+      "name": "Square Harp.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5195"
+    },
+    {
+      "name": "Steel Basic Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5196"
+    },
+    {
+      "name": "Steel Direct Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5197"
+    },
+    {
+      "name": "Steel Picked Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5198"
+    },
+    {
+      "name": "Stiffpluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_59737"
+    },
+    {
+      "name": "Strat Bright Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5199"
+    },
+    {
+      "name": "Strat Hollow Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5200"
+    },
+    {
+      "name": "Strat Muted Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5201"
+    },
+    {
+      "name": "Strum Harp Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_59738"
+    },
+    {
+      "name": "Tarang.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5202"
+    },
+    {
+      "name": "Tenacious Tension.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_59739"
+    },
+    {
+      "name": "Zheng.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Guitar%20&%20Plucked:FileId_5203"
+    }
+  ]
+}

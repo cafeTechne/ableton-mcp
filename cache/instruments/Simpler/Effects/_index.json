@@ -1,0 +1,94 @@
+{
+  "path": "Instruments/Simpler/Effects",
+  "name": "Effects",
+  "uri": "query:Synths#Simpler:Effects",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Chimes Finger Down.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Effects:FileId_5266"
+    },
+    {
+      "name": "Cycle Clicker.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Effects:FileId_49006"
+    },
+    {
+      "name": "Hum Tunnel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Effects:FileId_49013"
+    },
+    {
+      "name": "Metallo Shake.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Effects:FileId_5267"
+    },
+    {
+      "name": "OC Bank FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Effects:FileId_49016"
+    },
+    {
+      "name": "Plucked Harp Effects.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Effects:FileId_51309"
+    },
+    {
+      "name": "Rasp Inside.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Effects:FileId_49019"
+    },
+    {
+      "name": "Rhyt Mo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Effects:FileId_5268"
+    },
+    {
+      "name": "Supersine.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Effects:FileId_5269"
+    },
+    {
+      "name": "The Jaguar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Effects:FileId_49024"
+    },
+    {
+      "name": "Vinyl Siren.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Effects:FileId_5270"
+    },
+    {
+      "name": "Whistling Theremin.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Effects:FileId_49026"
+    }
+  ]
+}

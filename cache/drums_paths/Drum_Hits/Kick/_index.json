@@ -1,0 +1,5568 @@
+{
+  "path": "drums/Drum Hits/Kick",
+  "name": "Kick",
+  "uri": "query:Drums#Drum%20Hits:Kick",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "E-Kick 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46785"
+    },
+    {
+      "name": "Hybrid Sound.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42328"
+    },
+    {
+      "name": "Kick 1 K2L.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36241"
+    },
+    {
+      "name": "Kick 2 K2L.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36242"
+    },
+    {
+      "name": "Kick 3k Deep.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46792"
+    },
+    {
+      "name": "Kick 007.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1015"
+    },
+    {
+      "name": "Kick 18 Inch Distant.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46786"
+    },
+    {
+      "name": "Kick 18 Inch Overhead.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46787"
+    },
+    {
+      "name": "Kick 20 Inch Overhead.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46788"
+    },
+    {
+      "name": "KICK 20 Plastic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_45033"
+    },
+    {
+      "name": "KICK 20.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_45034"
+    },
+    {
+      "name": "Kick 22 Inch Beater.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46789"
+    },
+    {
+      "name": "Kick 24 Inch Inside.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46790"
+    },
+    {
+      "name": "Kick 24 Inch Outside.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46791"
+    },
+    {
+      "name": "Kick 45 Vinyl 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46793"
+    },
+    {
+      "name": "Kick 49 Hz.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1016"
+    },
+    {
+      "name": "Kick 70s 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46794"
+    },
+    {
+      "name": "Kick 70s 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1023"
+    },
+    {
+      "name": "Kick 70s 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1024"
+    },
+    {
+      "name": "Kick 70s 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46795"
+    },
+    {
+      "name": "Kick 70s 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1025"
+    },
+    {
+      "name": "Kick 70s 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1026"
+    },
+    {
+      "name": "Kick 80s Space Craft 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1036"
+    },
+    {
+      "name": "Kick 80s Space Craft 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1037"
+    },
+    {
+      "name": "Kick 80sSpaceCraft 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46814"
+    },
+    {
+      "name": "Kick 90s 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1042"
+    },
+    {
+      "name": "Kick 90s 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1043"
+    },
+    {
+      "name": "Kick 90s 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1044"
+    },
+    {
+      "name": "Kick 212.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39675"
+    },
+    {
+      "name": "Kick 505 ASR.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1017"
+    },
+    {
+      "name": "Kick 505 S-Layer 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57975"
+    },
+    {
+      "name": "Kick 505 S-Layer 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57976"
+    },
+    {
+      "name": "Kick 505.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1018"
+    },
+    {
+      "name": "Kick 606 Mod.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57977"
+    },
+    {
+      "name": "Kick 606 Mod.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1019"
+    },
+    {
+      "name": "Kick 606.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57978"
+    },
+    {
+      "name": "Kick 606.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1020"
+    },
+    {
+      "name": "Kick 707 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1021"
+    },
+    {
+      "name": "Kick 707 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1022"
+    },
+    {
+      "name": "Kick 808 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1027"
+    },
+    {
+      "name": "Kick 808 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1028"
+    },
+    {
+      "name": "Kick 808 Boom Eb.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1029"
+    },
+    {
+      "name": "Kick 808 Boom Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46796"
+    },
+    {
+      "name": "Kick 808 Boom Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46797"
+    },
+    {
+      "name": "Kick 808 Boom Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46798"
+    },
+    {
+      "name": "Kick 808 Boom Onyx.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46799"
+    },
+    {
+      "name": "Kick 808 Boom Tone Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46800"
+    },
+    {
+      "name": "Kick 808 Click Layer.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1030"
+    },
+    {
+      "name": "Kick 808 Close Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46801"
+    },
+    {
+      "name": "Kick 808 DMX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1031"
+    },
+    {
+      "name": "Kick 808 Huge.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1032"
+    },
+    {
+      "name": "Kick 808 Long and Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48336"
+    },
+    {
+      "name": "Kick 808 Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46802"
+    },
+    {
+      "name": "Kick 808 Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48337"
+    },
+    {
+      "name": "Kick 808 Muffled Lo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36243"
+    },
+    {
+      "name": "Kick 808 Overdrive.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36244"
+    },
+    {
+      "name": "Kick 808 Overdriven.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37441"
+    },
+    {
+      "name": "Kick 808 Reverse Thud.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1033"
+    },
+    {
+      "name": "Kick 808 Sub 212.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39676"
+    },
+    {
+      "name": "Kick 808 Sub Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36245"
+    },
+    {
+      "name": "Kick 808 Sub Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36246"
+    },
+    {
+      "name": "Kick 808 Sub Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36247"
+    },
+    {
+      "name": "Kick 808 Sub Wah Soul.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39677"
+    },
+    {
+      "name": "Kick 808 Thud.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46803"
+    },
+    {
+      "name": "Kick 808 Thud.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1034"
+    },
+    {
+      "name": "Kick 808 Tone 1 Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46804"
+    },
+    {
+      "name": "Kick 808 Tone 1 Med 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46805"
+    },
+    {
+      "name": "Kick 808 Tone 1 Med 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46806"
+    },
+    {
+      "name": "Kick 808 Tone 1 Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46807"
+    },
+    {
+      "name": "Kick 808 Tone 3 Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46808"
+    },
+    {
+      "name": "Kick 808 Tone 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46809"
+    },
+    {
+      "name": "Kick 808 Tone 5 Long 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46810"
+    },
+    {
+      "name": "Kick 808 Tone 5 Long 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46811"
+    },
+    {
+      "name": "Kick 808 Tone 5 Med.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46812"
+    },
+    {
+      "name": "Kick 808 Tone 5 Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46813"
+    },
+    {
+      "name": "Kick 808 Tone.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1035"
+    },
+    {
+      "name": "Kick 909 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1038"
+    },
+    {
+      "name": "Kick 909 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1039"
+    },
+    {
+      "name": "Kick 909 Air.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46815"
+    },
+    {
+      "name": "Kick 909 Click Layer.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1040"
+    },
+    {
+      "name": "Kick 909 Multi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57979"
+    },
+    {
+      "name": "Kick 909 Prommer.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1041"
+    },
+    {
+      "name": "Kick 909 Tune 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57980"
+    },
+    {
+      "name": "Kick 909 Tune 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57981"
+    },
+    {
+      "name": "Kick 909 Tune 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57982"
+    },
+    {
+      "name": "Kick Acid House RK.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48338"
+    },
+    {
+      "name": "Kick Acoustic Canvas.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39678"
+    },
+    {
+      "name": "Kick Acoustified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46818"
+    },
+    {
+      "name": "Kick Acoustified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46823"
+    },
+    {
+      "name": "Kick Acoustified 03 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46816"
+    },
+    {
+      "name": "Kick Acoustified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46824"
+    },
+    {
+      "name": "Kick Acoustified 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46825"
+    },
+    {
+      "name": "Kick Acoustified 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46826"
+    },
+    {
+      "name": "Kick Acoustified 06 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46817"
+    },
+    {
+      "name": "Kick Acoustified 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46827"
+    },
+    {
+      "name": "Kick Acoustified 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46828"
+    },
+    {
+      "name": "Kick Acoustified 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46829"
+    },
+    {
+      "name": "Kick Acoustified 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46830"
+    },
+    {
+      "name": "Kick Acoustified 10 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46819"
+    },
+    {
+      "name": "Kick Acoustified 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46820"
+    },
+    {
+      "name": "Kick Acoustified 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46821"
+    },
+    {
+      "name": "Kick Acoustified 12 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46822"
+    },
+    {
+      "name": "Kick Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46831"
+    },
+    {
+      "name": "Kick Agile Shot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36248"
+    },
+    {
+      "name": "Kick Air Hit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46832"
+    },
+    {
+      "name": "Kick Alien 808 Loop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36249"
+    },
+    {
+      "name": "Kick Alien Fash.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1045"
+    },
+    {
+      "name": "Kick Alien Spawn 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1046"
+    },
+    {
+      "name": "Kick Alien Spawn 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1047"
+    },
+    {
+      "name": "Kick Alien Spawn 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1048"
+    },
+    {
+      "name": "Kick AlienFash.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46833"
+    },
+    {
+      "name": "Kick Allee.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39679"
+    },
+    {
+      "name": "Kick Alpha.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57983"
+    },
+    {
+      "name": "Kick Amazon.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37442"
+    },
+    {
+      "name": "Kick Analog 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37443"
+    },
+    {
+      "name": "Kick Analog 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1049"
+    },
+    {
+      "name": "Kick Analog 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54977"
+    },
+    {
+      "name": "Kick Analog 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37444"
+    },
+    {
+      "name": "Kick Analog 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1050"
+    },
+    {
+      "name": "Kick Analog 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54988"
+    },
+    {
+      "name": "Kick Analog 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37445"
+    },
+    {
+      "name": "Kick Analog 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54992"
+    },
+    {
+      "name": "Kick Analog 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37446"
+    },
+    {
+      "name": "Kick Analog 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54993"
+    },
+    {
+      "name": "Kick Analog 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37447"
+    },
+    {
+      "name": "Kick Analog 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54994"
+    },
+    {
+      "name": "Kick Analog 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37448"
+    },
+    {
+      "name": "Kick Analog 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54995"
+    },
+    {
+      "name": "Kick Analog 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54996"
+    },
+    {
+      "name": "Kick Analog 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54997"
+    },
+    {
+      "name": "Kick Analog 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54998"
+    },
+    {
+      "name": "Kick Analog 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54978"
+    },
+    {
+      "name": "Kick Analog 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54979"
+    },
+    {
+      "name": "Kick Analog 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54980"
+    },
+    {
+      "name": "Kick Analog 13.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54981"
+    },
+    {
+      "name": "Kick Analog 14.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54982"
+    },
+    {
+      "name": "Kick Analog 15.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54983"
+    },
+    {
+      "name": "Kick Analog 16.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54984"
+    },
+    {
+      "name": "Kick Analog 17.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54985"
+    },
+    {
+      "name": "Kick Analog 18.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54986"
+    },
+    {
+      "name": "Kick Analog 19.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54987"
+    },
+    {
+      "name": "Kick Analog 20.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54989"
+    },
+    {
+      "name": "Kick Analog 21.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54990"
+    },
+    {
+      "name": "Kick Analog 22.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54991"
+    },
+    {
+      "name": "Kick Analog Fish.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48339"
+    },
+    {
+      "name": "Kick Analog Glitch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48340"
+    },
+    {
+      "name": "Kick Analog Millimetrik 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48341"
+    },
+    {
+      "name": "Kick Analog Millimetrik 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48342"
+    },
+    {
+      "name": "Kick Analog Night.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48343"
+    },
+    {
+      "name": "Kick Analog Preon.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48344"
+    },
+    {
+      "name": "Kick Analog Skitter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1051"
+    },
+    {
+      "name": "Kick Analog Skitter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57984"
+    },
+    {
+      "name": "Kick Analog Step.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57985"
+    },
+    {
+      "name": "Kick Analog Tada.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48345"
+    },
+    {
+      "name": "Kick and Hat TD1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48346"
+    },
+    {
+      "name": "Kick Armor 808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36250"
+    },
+    {
+      "name": "Kick Azimuth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36251"
+    },
+    {
+      "name": "Kick Bam Vin.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1052"
+    },
+    {
+      "name": "Kick Bang.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39680"
+    },
+    {
+      "name": "Kick Bass 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37449"
+    },
+    {
+      "name": "Kick Bass 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37450"
+    },
+    {
+      "name": "Kick Bass 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57986"
+    },
+    {
+      "name": "Kick Bass Drum 505 Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46834"
+    },
+    {
+      "name": "Kick Bass Fish.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48347"
+    },
+    {
+      "name": "Kick Bass Goes Up.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57987"
+    },
+    {
+      "name": "Kick Bass Subby.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57988"
+    },
+    {
+      "name": "Kick Bass.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42329"
+    },
+    {
+      "name": "Kick Beat Rest.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48348"
+    },
+    {
+      "name": "Kick Beat.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1053"
+    },
+    {
+      "name": "Kick Beat.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57989"
+    },
+    {
+      "name": "Kick Beats.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1054"
+    },
+    {
+      "name": "Kick Bell Wah Soul.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39681"
+    },
+    {
+      "name": "Kick Bends.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42330"
+    },
+    {
+      "name": "Kick Beyon.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57990"
+    },
+    {
+      "name": "Kick Bghn.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1055"
+    },
+    {
+      "name": "Kick Big Sine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46835"
+    },
+    {
+      "name": "Kick Big Sine.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1056"
+    },
+    {
+      "name": "Kick Black Bread.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1057"
+    },
+    {
+      "name": "Kick Black Hole 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1058"
+    },
+    {
+      "name": "Kick Black Hole 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1059"
+    },
+    {
+      "name": "Kick Blue Room.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1060"
+    },
+    {
+      "name": "Kick BlueRoom.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46836"
+    },
+    {
+      "name": "Kick Bluesbreak.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46837"
+    },
+    {
+      "name": "Kick Bluesbreak.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1061"
+    },
+    {
+      "name": "Kick Blunt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37451"
+    },
+    {
+      "name": "Kick Blunt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46838"
+    },
+    {
+      "name": "Kick Blunt.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1062"
+    },
+    {
+      "name": "Kick Bonk.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1063"
+    },
+    {
+      "name": "Kick Boom Drop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46839"
+    },
+    {
+      "name": "Kick Boom Overdrive.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46840"
+    },
+    {
+      "name": "Kick Boom Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46841"
+    },
+    {
+      "name": "Kick Boot.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1064"
+    },
+    {
+      "name": "Kick Booty.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39682"
+    },
+    {
+      "name": "Kick Boss Full.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36252"
+    },
+    {
+      "name": "Kick Boxed Rest.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48349"
+    },
+    {
+      "name": "Kick Boxed Speak.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48350"
+    },
+    {
+      "name": "Kick Boxed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48351"
+    },
+    {
+      "name": "Kick Boxer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48352"
+    },
+    {
+      "name": "Kick Bricks.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1065"
+    },
+    {
+      "name": "Kick Build 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37452"
+    },
+    {
+      "name": "Kick Build 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37453"
+    },
+    {
+      "name": "Kick Build 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37454"
+    },
+    {
+      "name": "Kick Build 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37455"
+    },
+    {
+      "name": "Kick Build 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1066"
+    },
+    {
+      "name": "Kick Build 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37456"
+    },
+    {
+      "name": "Kick Build Chopped.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37457"
+    },
+    {
+      "name": "Kick Bull.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1067"
+    },
+    {
+      "name": "Kick Burned 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46842"
+    },
+    {
+      "name": "Kick Burned 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46843"
+    },
+    {
+      "name": "Kick Burned 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46844"
+    },
+    {
+      "name": "Kick Burned Ring.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1068"
+    },
+    {
+      "name": "Kick Burned.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1069"
+    },
+    {
+      "name": "Kick Burst 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37458"
+    },
+    {
+      "name": "Kick Burst 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1070"
+    },
+    {
+      "name": "Kick Burst 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37459"
+    },
+    {
+      "name": "Kick Burst 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1071"
+    },
+    {
+      "name": "Kick Burst 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1072"
+    },
+    {
+      "name": "Kick Burst.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42331"
+    },
+    {
+      "name": "Kick Buss Ride.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1073"
+    },
+    {
+      "name": "Kick Butter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39683"
+    },
+    {
+      "name": "Kick Buttermilk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39684"
+    },
+    {
+      "name": "Kick Buzzy Bang.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46845"
+    },
+    {
+      "name": "Kick Buzzy Bang.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1074"
+    },
+    {
+      "name": "Kick C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1075"
+    },
+    {
+      "name": "Kick C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48353"
+    },
+    {
+      "name": "Kick Canopolis.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48354"
+    },
+    {
+      "name": "Kick Canvas.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39685"
+    },
+    {
+      "name": "Kick Chatt.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1076"
+    },
+    {
+      "name": "Kick Chelsea Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46846"
+    },
+    {
+      "name": "Kick Cigs.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1077"
+    },
+    {
+      "name": "Kick Classic Blueprint.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39686"
+    },
+    {
+      "name": "Kick Click Layer 909.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46847"
+    },
+    {
+      "name": "Kick Click Layer Real Drum.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1078"
+    },
+    {
+      "name": "Kick Code 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1079"
+    },
+    {
+      "name": "Kick Code 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37460"
+    },
+    {
+      "name": "Kick Code 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37461"
+    },
+    {
+      "name": "Kick Code Skitter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57991"
+    },
+    {
+      "name": "Kick Code Sonar.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48355"
+    },
+    {
+      "name": "Kick Code Step.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57992"
+    },
+    {
+      "name": "Kick Conga Weback.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1080"
+    },
+    {
+      "name": "Kick Constant.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1081"
+    },
+    {
+      "name": "Kick Cooked.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36253"
+    },
+    {
+      "name": "Kick Corner.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39687"
+    },
+    {
+      "name": "Kick Crackin.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46848"
+    },
+    {
+      "name": "Kick Creh.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1082"
+    },
+    {
+      "name": "Kick Crush Master.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1083"
+    },
+    {
+      "name": "Kick D55 Tone 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46849"
+    },
+    {
+      "name": "Kick D55 Tone 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46850"
+    },
+    {
+      "name": "Kick D55 Tone 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46851"
+    },
+    {
+      "name": "Kick D55 Tone 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46852"
+    },
+    {
+      "name": "Kick D55 Tone.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48356"
+    },
+    {
+      "name": "Kick Damage 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57993"
+    },
+    {
+      "name": "Kick Damage 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57994"
+    },
+    {
+      "name": "Kick Damage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37462"
+    },
+    {
+      "name": "Kick Dark.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1088"
+    },
+    {
+      "name": "Kick Deep 3k.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1089"
+    },
+    {
+      "name": "Kick Deep Knight.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36254"
+    },
+    {
+      "name": "Kick Delite 22 Outside.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46853"
+    },
+    {
+      "name": "Kick Dense.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39688"
+    },
+    {
+      "name": "Kick Dirt Distortion.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1090"
+    },
+    {
+      "name": "Kick Dirt Lange.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1091"
+    },
+    {
+      "name": "Kick Dirty Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36255"
+    },
+    {
+      "name": "Kick Dirty Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36256"
+    },
+    {
+      "name": "Kick Dirty.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46854"
+    },
+    {
+      "name": "Kick Disco Mars.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1092"
+    },
+    {
+      "name": "Kick dist flutter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_54999"
+    },
+    {
+      "name": "Kick dist sharp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55000"
+    },
+    {
+      "name": "Kick Dist.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55001"
+    },
+    {
+      "name": "Kick Distort.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42332"
+    },
+    {
+      "name": "Kick Distorted Canopolis.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48357"
+    },
+    {
+      "name": "Kick Distorted RK Night.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48358"
+    },
+    {
+      "name": "Kick Distorted RK Salient.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48359"
+    },
+    {
+      "name": "Kick Distorted RK.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1093"
+    },
+    {
+      "name": "Kick Distorted RK.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48360"
+    },
+    {
+      "name": "Kick Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1094"
+    },
+    {
+      "name": "Kick Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46855"
+    },
+    {
+      "name": "Kick Dizzy.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1095"
+    },
+    {
+      "name": "Kick DM Chop.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1084"
+    },
+    {
+      "name": "Kick DM Distorted.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1085"
+    },
+    {
+      "name": "Kick DMX Resam.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1086"
+    },
+    {
+      "name": "Kick DMX Right.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42333"
+    },
+    {
+      "name": "Kick DMX SP 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57995"
+    },
+    {
+      "name": "Kick DMX SP 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57996"
+    },
+    {
+      "name": "Kick DMX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46856"
+    },
+    {
+      "name": "Kick DMX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1087"
+    },
+    {
+      "name": "Kick Dobbs.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39689"
+    },
+    {
+      "name": "Kick Doctor M.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1096"
+    },
+    {
+      "name": "Kick Doom Dungeon.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1097"
+    },
+    {
+      "name": "Kick Door.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1098"
+    },
+    {
+      "name": "Kick Driven 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55002"
+    },
+    {
+      "name": "Kick Driven 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55003"
+    },
+    {
+      "name": "Kick Driven 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55004"
+    },
+    {
+      "name": "Kick Driven 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55005"
+    },
+    {
+      "name": "Kick Drum Case Nightly 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42334"
+    },
+    {
+      "name": "Kick Drum Case Nightly 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42335"
+    },
+    {
+      "name": "Kick Drum Case Quark.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1099"
+    },
+    {
+      "name": "Kick Drum Case Yakiman.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1100"
+    },
+    {
+      "name": "KICK Drum Case.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_45909"
+    },
+    {
+      "name": "Kick Dry Wood.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36257"
+    },
+    {
+      "name": "Kick Dub.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46857"
+    },
+    {
+      "name": "Kick Dublyn Tech Round.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46858"
+    },
+    {
+      "name": "Kick Dump.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1101"
+    },
+    {
+      "name": "Kick Durty.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36258"
+    },
+    {
+      "name": "Kick Dusty Clinical.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46859"
+    },
+    {
+      "name": "Kick Dusty Saloon.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46860"
+    },
+    {
+      "name": "Kick EDM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37463"
+    },
+    {
+      "name": "Kick Electrified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46861"
+    },
+    {
+      "name": "Kick Electronic 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1104"
+    },
+    {
+      "name": "Kick Electronic 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1105"
+    },
+    {
+      "name": "Kick Endorphin.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1106"
+    },
+    {
+      "name": "Kick ER Fenk 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1102"
+    },
+    {
+      "name": "Kick ER Fenk 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1103"
+    },
+    {
+      "name": "Kick Fat Matt Break.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1108"
+    },
+    {
+      "name": "Kick Feel.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1109"
+    },
+    {
+      "name": "Kick Felt BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55822"
+    },
+    {
+      "name": "Kick Felt BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55823"
+    },
+    {
+      "name": "Kick Felt ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_56610"
+    },
+    {
+      "name": "Kick Felt ClubSizzle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55824"
+    },
+    {
+      "name": "Kick Felt ColdTightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_56611"
+    },
+    {
+      "name": "Kick Felt DirectNatural.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_56612"
+    },
+    {
+      "name": "Kick Felt DryAcoustic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_56613"
+    },
+    {
+      "name": "Kick Felt Hard Dry Session.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1110"
+    },
+    {
+      "name": "Kick Felt Hard Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1111"
+    },
+    {
+      "name": "Kick Felt Low BigPunchy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55825"
+    },
+    {
+      "name": "Kick Felt Low BritishVintage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55826"
+    },
+    {
+      "name": "Kick Felt Low ClassicMuffle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_56614"
+    },
+    {
+      "name": "Kick Felt Low OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_56615"
+    },
+    {
+      "name": "Kick Felt Low ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55827"
+    },
+    {
+      "name": "Kick Felt Low WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55828"
+    },
+    {
+      "name": "Kick Felt LowLoudSquashed.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55829"
+    },
+    {
+      "name": "Kick Felt OldSchool.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_56616"
+    },
+    {
+      "name": "Kick Felt ResoClassic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55830"
+    },
+    {
+      "name": "Kick Felt SessionDry.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_56617"
+    },
+    {
+      "name": "Kick Felt Soft Dry Session.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1112"
+    },
+    {
+      "name": "Kick Felt SteelyTight.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_56618"
+    },
+    {
+      "name": "Kick Felt WarmAndLow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55831"
+    },
+    {
+      "name": "Kick Felt Yester Years.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1113"
+    },
+    {
+      "name": "Kick Fenk Disto.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57997"
+    },
+    {
+      "name": "Kick Fenk Drive.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46862"
+    },
+    {
+      "name": "Kick Fenk Ring.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57998"
+    },
+    {
+      "name": "Kick Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46863"
+    },
+    {
+      "name": "Kick Firm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39690"
+    },
+    {
+      "name": "Kick Flabby.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1114"
+    },
+    {
+      "name": "Kick Flared Out.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48361"
+    },
+    {
+      "name": "Kick Flat Cardboard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36259"
+    },
+    {
+      "name": "Kick Flutter 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55006"
+    },
+    {
+      "name": "Kick FM Bass.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1107"
+    },
+    {
+      "name": "Kick FM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42336"
+    },
+    {
+      "name": "Kick Foot 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37464"
+    },
+    {
+      "name": "Kick Foot 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37465"
+    },
+    {
+      "name": "Kick Foot 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37466"
+    },
+    {
+      "name": "Kick Foot 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37467"
+    },
+    {
+      "name": "Kick Foot 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37468"
+    },
+    {
+      "name": "Kick Foot 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37469"
+    },
+    {
+      "name": "Kick Foot 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37470"
+    },
+    {
+      "name": "Kick Foot 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37471"
+    },
+    {
+      "name": "Kick Foot Late Nite.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1115"
+    },
+    {
+      "name": "Kick Foot Late Nite.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42337"
+    },
+    {
+      "name": "Kick Foot Sun.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42338"
+    },
+    {
+      "name": "Kick Frogger Dust.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46864"
+    },
+    {
+      "name": "Kick Frogger Hat.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46865"
+    },
+    {
+      "name": "Kick Funky Moon 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1116"
+    },
+    {
+      "name": "Kick Funky Moon 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1117"
+    },
+    {
+      "name": "Kick Future Proof.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1118"
+    },
+    {
+      "name": "Kick FutureProof.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46866"
+    },
+    {
+      "name": "Kick Gambling.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1119"
+    },
+    {
+      "name": "Kick Garage.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1120"
+    },
+    {
+      "name": "Kick Gentle Sine Slope.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46867"
+    },
+    {
+      "name": "Kick Grit.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1121"
+    },
+    {
+      "name": "Kick Grounded.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46868"
+    },
+    {
+      "name": "Kick Grumpy Gong.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36260"
+    },
+    {
+      "name": "Kick Hard Vapour.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1122"
+    },
+    {
+      "name": "Kick Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_57999"
+    },
+    {
+      "name": "Kick Hat Bang.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39691"
+    },
+    {
+      "name": "Kick Hat Feel.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39692"
+    },
+    {
+      "name": "Kick Hat Feel.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1123"
+    },
+    {
+      "name": "Kick Hat Ironman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39693"
+    },
+    {
+      "name": "Kick Hat Ironman.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1124"
+    },
+    {
+      "name": "Kick Heavy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1125"
+    },
+    {
+      "name": "Kick Hed Deck.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1126"
+    },
+    {
+      "name": "Kick Hi AST.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46869"
+    },
+    {
+      "name": "Kick Hi Burned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46870"
+    },
+    {
+      "name": "Kick Hi Drum Case.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46871"
+    },
+    {
+      "name": "Kick Hi Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46872"
+    },
+    {
+      "name": "Kick High Boots.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39694"
+    },
+    {
+      "name": "Kick Highway.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42339"
+    },
+    {
+      "name": "Kick Horsen.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1127"
+    },
+    {
+      "name": "Kick Hundred.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1128"
+    },
+    {
+      "name": "Kick Hybrid Sense.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46873"
+    },
+    {
+      "name": "Kick Hymned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46874"
+    },
+    {
+      "name": "Kick Impact 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37472"
+    },
+    {
+      "name": "Kick Impact 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37473"
+    },
+    {
+      "name": "Kick Impact 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37474"
+    },
+    {
+      "name": "Kick Impact 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37475"
+    },
+    {
+      "name": "Kick Impact 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37476"
+    },
+    {
+      "name": "Kick Impact 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37477"
+    },
+    {
+      "name": "Kick Impact Industrial.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46875"
+    },
+    {
+      "name": "Kick Impact Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46876"
+    },
+    {
+      "name": "Kick Impact.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48362"
+    },
+    {
+      "name": "Kick In The Room.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46877"
+    },
+    {
+      "name": "Kick In The Room.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1129"
+    },
+    {
+      "name": "Kick Ironman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39695"
+    },
+    {
+      "name": "Kick Ironman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1130"
+    },
+    {
+      "name": "Kick Jazz 8.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1131"
+    },
+    {
+      "name": "Kick Jiggy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39696"
+    },
+    {
+      "name": "Kick Jungle SP 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1132"
+    },
+    {
+      "name": "Kick Jungle SP 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1133"
+    },
+    {
+      "name": "Kick Kickem.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37478"
+    },
+    {
+      "name": "Kick Kindified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46878"
+    },
+    {
+      "name": "Kick Kindified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46879"
+    },
+    {
+      "name": "Kick Kindified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46880"
+    },
+    {
+      "name": "Kick Kindified 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46881"
+    },
+    {
+      "name": "Kick Kindified 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46882"
+    },
+    {
+      "name": "Kick Kindified 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46883"
+    },
+    {
+      "name": "Kick Kindified 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46884"
+    },
+    {
+      "name": "Kick Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46885"
+    },
+    {
+      "name": "Kick Layered Boss.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1136"
+    },
+    {
+      "name": "Kick Layered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46886"
+    },
+    {
+      "name": "Kick Layered.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1137"
+    },
+    {
+      "name": "Kick Lazers.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1138"
+    },
+    {
+      "name": "KICK LD 2416 MPL Deep Fat open plastic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_45910"
+    },
+    {
+      "name": "Kick LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1134"
+    },
+    {
+      "name": "Kick LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46887"
+    },
+    {
+      "name": "Kick LDW 24 PZM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46888"
+    },
+    {
+      "name": "Kick LDW Plymouth.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1135"
+    },
+    {
+      "name": "Kick Leaner.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58000"
+    },
+    {
+      "name": "Kick Leaner.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1139"
+    },
+    {
+      "name": "Kick Lo AST.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46889"
+    },
+    {
+      "name": "Kick Lo Burned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46890"
+    },
+    {
+      "name": "Kick Lo Drum Case.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46891"
+    },
+    {
+      "name": "Kick Low Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55007"
+    },
+    {
+      "name": "Kick Machine 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37479"
+    },
+    {
+      "name": "Kick Machine 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37480"
+    },
+    {
+      "name": "Kick Machine 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37481"
+    },
+    {
+      "name": "Kick Machine 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1140"
+    },
+    {
+      "name": "Kick Machine 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37482"
+    },
+    {
+      "name": "Kick Machine Fat.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42340"
+    },
+    {
+      "name": "Kick Machine Loose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1141"
+    },
+    {
+      "name": "Kick Machine Loose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42341"
+    },
+    {
+      "name": "Kick Machine Tight.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42342"
+    },
+    {
+      "name": "Kick Machine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48363"
+    },
+    {
+      "name": "Kick Mainz.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1142"
+    },
+    {
+      "name": "Kick Marching Drum.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1143"
+    },
+    {
+      "name": "Kick Maschine 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58001"
+    },
+    {
+      "name": "Kick Maschine 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58002"
+    },
+    {
+      "name": "Kick Mellow Beater.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36261"
+    },
+    {
+      "name": "Kick Melodized.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46892"
+    },
+    {
+      "name": "Kick Micronoi.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1144"
+    },
+    {
+      "name": "Kick Mkit Sample 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58003"
+    },
+    {
+      "name": "Kick Mkit Sample 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58007"
+    },
+    {
+      "name": "Kick Mkit Sample 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58008"
+    },
+    {
+      "name": "Kick Mkit Sample 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58009"
+    },
+    {
+      "name": "Kick Mkit Sample 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58010"
+    },
+    {
+      "name": "Kick Mkit Sample 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58011"
+    },
+    {
+      "name": "Kick Mkit Sample 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58012"
+    },
+    {
+      "name": "Kick Mkit Sample 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58013"
+    },
+    {
+      "name": "Kick Mkit Sample 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58014"
+    },
+    {
+      "name": "Kick Mkit Sample 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58004"
+    },
+    {
+      "name": "Kick Mkit Sample 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58005"
+    },
+    {
+      "name": "Kick Mkit Sample 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58006"
+    },
+    {
+      "name": "Kick Mkit Synth 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58015"
+    },
+    {
+      "name": "Kick Mkit Synth 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58018"
+    },
+    {
+      "name": "Kick Mkit Synth 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58019"
+    },
+    {
+      "name": "Kick Mkit Synth 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58020"
+    },
+    {
+      "name": "Kick Mkit Synth 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58021"
+    },
+    {
+      "name": "Kick Mkit Synth 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58022"
+    },
+    {
+      "name": "Kick Mkit Synth 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58023"
+    },
+    {
+      "name": "Kick Mkit Synth 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58024"
+    },
+    {
+      "name": "Kick Mkit Synth 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58016"
+    },
+    {
+      "name": "Kick Mkit Synth 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58017"
+    },
+    {
+      "name": "Kick Mkit Synth Tonal .aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58025"
+    },
+    {
+      "name": "Kick Moldy.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1145"
+    },
+    {
+      "name": "Kick Mood Board.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1146"
+    },
+    {
+      "name": "Kick Move.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39697"
+    },
+    {
+      "name": "Kick Muffled Blueprint.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39698"
+    },
+    {
+      "name": "Kick Muffled Feel.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1147"
+    },
+    {
+      "name": "Kick Nebula 808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36262"
+    },
+    {
+      "name": "Kick Nebula Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36263"
+    },
+    {
+      "name": "Kick Noise Bump.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46893"
+    },
+    {
+      "name": "Kick Noise Dub 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46894"
+    },
+    {
+      "name": "Kick Noise Dub 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46895"
+    },
+    {
+      "name": "Kick Noise Explosion Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46896"
+    },
+    {
+      "name": "Kick Noise Explosion Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46897"
+    },
+    {
+      "name": "Kick Noise Filter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46898"
+    },
+    {
+      "name": "Kick Noise Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46899"
+    },
+    {
+      "name": "Kick Noise Overdrive.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46900"
+    },
+    {
+      "name": "Kick Noise Quick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46901"
+    },
+    {
+      "name": "Kick Noise Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46902"
+    },
+    {
+      "name": "Kick Noise Small.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46903"
+    },
+    {
+      "name": "Kick Noise Smash.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46904"
+    },
+    {
+      "name": "Kick Noise Sonic Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46905"
+    },
+    {
+      "name": "Kick Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46906"
+    },
+    {
+      "name": "Kick Numerology.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39699"
+    },
+    {
+      "name": "Kick Numerology.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1148"
+    },
+    {
+      "name": "Kick Old Tool.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1149"
+    },
+    {
+      "name": "Kick Outside.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46907"
+    },
+    {
+      "name": "Kick Overdrive 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46908"
+    },
+    {
+      "name": "Kick Overdrive 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46909"
+    },
+    {
+      "name": "Kick Overdrive 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46910"
+    },
+    {
+      "name": "Kick Overdrive 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46911"
+    },
+    {
+      "name": "Kick Overdrive Amp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55008"
+    },
+    {
+      "name": "Kick Overdrive Impact Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46912"
+    },
+    {
+      "name": "Kick Overdrive Impact.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46913"
+    },
+    {
+      "name": "Kick Overdrive Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46914"
+    },
+    {
+      "name": "Kick Overdrive Sharp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55009"
+    },
+    {
+      "name": "Kick Overdrive Siner.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46915"
+    },
+    {
+      "name": "Kick Overdrive Siner.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1150"
+    },
+    {
+      "name": "Kick Overdrive Tail.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55010"
+    },
+    {
+      "name": "Kick Overdrop.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1151"
+    },
+    {
+      "name": "Kick Partial 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58026"
+    },
+    {
+      "name": "Kick Partial 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1153"
+    },
+    {
+      "name": "Kick Partial 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58027"
+    },
+    {
+      "name": "Kick Partial 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58028"
+    },
+    {
+      "name": "Kick Partial Fish 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48364"
+    },
+    {
+      "name": "Kick Partial Fish 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48365"
+    },
+    {
+      "name": "Kick Partial Mangah.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48366"
+    },
+    {
+      "name": "Kick Peace.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39700"
+    },
+    {
+      "name": "Kick Perc LoFill Glitch Token.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48367"
+    },
+    {
+      "name": "Kick Pesozoan.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1154"
+    },
+    {
+      "name": "Kick Pete.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1155"
+    },
+    {
+      "name": "Kick PL 18 PZM.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46916"
+    },
+    {
+      "name": "KICK PL 1818 MHY open felt.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_45911"
+    },
+    {
+      "name": "Kick Plastic 90s Heavy Rock.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1156"
+    },
+    {
+      "name": "Kick Plastic AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_56619"
+    },
+    {
+      "name": "Kick Plastic BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_56620"
+    },
+    {
+      "name": "Kick Plastic CopStyle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_56621"
+    },
+    {
+      "name": "Kick Plastic DarkPlateVerb.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55832"
+    },
+    {
+      "name": "Kick Plastic DeepSnareDynamics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55833"
+    },
+    {
+      "name": "Kick Plastic Hard Bright Room.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1157"
+    },
+    {
+      "name": "Kick Plastic Low AmbientLoudPunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_56622"
+    },
+    {
+      "name": "Kick Plastic Low BrightRoom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_56623"
+    },
+    {
+      "name": "Kick Plastic Open Mid Tuned.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1158"
+    },
+    {
+      "name": "Kick Plastic Soft Bright Room.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1159"
+    },
+    {
+      "name": "Kick Plastic StudioBasic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_56624"
+    },
+    {
+      "name": "Kick Pop Small.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36264"
+    },
+    {
+      "name": "Kick Popped Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1160"
+    },
+    {
+      "name": "Kick Post Flash.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1161"
+    },
+    {
+      "name": "Kick Powered 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46917"
+    },
+    {
+      "name": "Kick Powered 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46918"
+    },
+    {
+      "name": "Kick Powered 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46919"
+    },
+    {
+      "name": "Kick Pseudo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42343"
+    },
+    {
+      "name": "Kick PT Vinyl.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46920"
+    },
+    {
+      "name": "Kick PT Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1152"
+    },
+    {
+      "name": "Kick Punch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1162"
+    },
+    {
+      "name": "Kick Puncher.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36265"
+    },
+    {
+      "name": "Kick Push It.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1163"
+    },
+    {
+      "name": "Kick Rattle Machine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37483"
+    },
+    {
+      "name": "Kick Rattle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1164"
+    },
+    {
+      "name": "Kick Rattle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42344"
+    },
+    {
+      "name": "Kick Real Sun Wash.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42345"
+    },
+    {
+      "name": "Kick Reentry.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1165"
+    },
+    {
+      "name": "Kick Remo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1166"
+    },
+    {
+      "name": "Kick Rerubbed Punch.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1167"
+    },
+    {
+      "name": "Kick Resobully.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1168"
+    },
+    {
+      "name": "KICK Resonator Sub.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_45912"
+    },
+    {
+      "name": "Kick Reverb Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46921"
+    },
+    {
+      "name": "Kick Reverb Peace.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39701"
+    },
+    {
+      "name": "Kick Reverse Bghn.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1169"
+    },
+    {
+      "name": "Kick Ring Click Fenk.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1170"
+    },
+    {
+      "name": "Kick Ring ER.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1171"
+    },
+    {
+      "name": "Kick Ring Fenk Drive.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46922"
+    },
+    {
+      "name": "Kick Ring Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46923"
+    },
+    {
+      "name": "Kick Ring Master.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1172"
+    },
+    {
+      "name": "Kick Rise Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39702"
+    },
+    {
+      "name": "Kick RKTD 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37484"
+    },
+    {
+      "name": "Kick RKTD 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37485"
+    },
+    {
+      "name": "Kick RKTD 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37486"
+    },
+    {
+      "name": "Kick Road Monger.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36266"
+    },
+    {
+      "name": "Kick Robot Beat.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48368"
+    },
+    {
+      "name": "Kick Rock MPC.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1173"
+    },
+    {
+      "name": "Kick Room Bang.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39703"
+    },
+    {
+      "name": "Kick Room Bang.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1174"
+    },
+    {
+      "name": "Kick Room Flutter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55011"
+    },
+    {
+      "name": "KICK ROTO 18.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_45913"
+    },
+    {
+      "name": "Kick Roto.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42346"
+    },
+    {
+      "name": "Kick Rounded Impact.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1175"
+    },
+    {
+      "name": "Kick Ruff Bass.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48369"
+    },
+    {
+      "name": "Kick Rumble Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46924"
+    },
+    {
+      "name": "Kick S2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1176"
+    },
+    {
+      "name": "Kick Scratch 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55012"
+    },
+    {
+      "name": "Kick Seeing Daisies.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1178"
+    },
+    {
+      "name": "Kick Shadow.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1179"
+    },
+    {
+      "name": "Kick Shaper Pyramid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48370"
+    },
+    {
+      "name": "Kick Sharp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55013"
+    },
+    {
+      "name": "Kick Shoreline.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1180"
+    },
+    {
+      "name": "Kick Short and Prune.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1183"
+    },
+    {
+      "name": "Kick Short and Solid 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1184"
+    },
+    {
+      "name": "Kick Short and Solid 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1185"
+    },
+    {
+      "name": "Kick Short Breath.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1181"
+    },
+    {
+      "name": "Kick Short Burp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46925"
+    },
+    {
+      "name": "Kick Short Solid Blau.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1182"
+    },
+    {
+      "name": "Kick Simple Tone.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1186"
+    },
+    {
+      "name": "Kick Simply Molded.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39704"
+    },
+    {
+      "name": "Kick Sine Me Up.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1187"
+    },
+    {
+      "name": "Kick Sine Slope Gentle.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1188"
+    },
+    {
+      "name": "Kick Sine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1189"
+    },
+    {
+      "name": "Kick Skin Fat.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42347"
+    },
+    {
+      "name": "Kick Skin Loose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1190"
+    },
+    {
+      "name": "Kick Skin Loose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42348"
+    },
+    {
+      "name": "Kick Skin Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42349"
+    },
+    {
+      "name": "Kick Skin Skitter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58030"
+    },
+    {
+      "name": "Kick Skin Stage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1191"
+    },
+    {
+      "name": "Kick Skin Step.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1192"
+    },
+    {
+      "name": "Kick Skin Step.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58031"
+    },
+    {
+      "name": "Kick Slackjaw.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1193"
+    },
+    {
+      "name": "Kick Slam SP 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1194"
+    },
+    {
+      "name": "Kick Slam SP 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1195"
+    },
+    {
+      "name": "Kick Slappy Noise.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1196"
+    },
+    {
+      "name": "Kick Slappy.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1197"
+    },
+    {
+      "name": "Kick S-Layer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58029"
+    },
+    {
+      "name": "Kick Slow.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1198"
+    },
+    {
+      "name": "Kick Smack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46926"
+    },
+    {
+      "name": "Kick Smacky.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1199"
+    },
+    {
+      "name": "Kick Smooth Punt.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1200"
+    },
+    {
+      "name": "Kick Snare Chop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48371"
+    },
+    {
+      "name": "Kick Soap Box Slap.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1201"
+    },
+    {
+      "name": "Kick Sob.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39705"
+    },
+    {
+      "name": "Kick Solid 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37487"
+    },
+    {
+      "name": "Kick Solid 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37488"
+    },
+    {
+      "name": "Kick Solid 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37489"
+    },
+    {
+      "name": "Kick Solid Jazz.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1202"
+    },
+    {
+      "name": "Kick Solid Metal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1203"
+    },
+    {
+      "name": "Kick Solid Metal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42350"
+    },
+    {
+      "name": "Kick Solid Pillow Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36267"
+    },
+    {
+      "name": "Kick Solid Round.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36268"
+    },
+    {
+      "name": "Kick Solid Thud.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36269"
+    },
+    {
+      "name": "Kick Solid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48372"
+    },
+    {
+      "name": "Kick Solid.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1204"
+    },
+    {
+      "name": "Kick Source.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1205"
+    },
+    {
+      "name": "Kick Space Man Cig.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1206"
+    },
+    {
+      "name": "Kick Spacey.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1207"
+    },
+    {
+      "name": "KICK SR 2017 MPL Mid Tune open felt.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_45914"
+    },
+    {
+      "name": "KICK SR 2217 MPL Gen Purpose burried plastic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_45915"
+    },
+    {
+      "name": "KICK SR 2217 MPL Hi Damp open felt.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_45916"
+    },
+    {
+      "name": "KICK SR 2217 MPL Tight Attack open plastic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_45917"
+    },
+    {
+      "name": "Kick Stalker Breath.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36270"
+    },
+    {
+      "name": "Kick Stereo Fool 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1208"
+    },
+    {
+      "name": "Kick Stereo Fool 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1209"
+    },
+    {
+      "name": "Kick Stereo Hare.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1210"
+    },
+    {
+      "name": "Kick Stomp Lit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46927"
+    },
+    {
+      "name": "Kick Stompy Chimes.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36271"
+    },
+    {
+      "name": "Kick Streets.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39706"
+    },
+    {
+      "name": "Kick Strong Build.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1211"
+    },
+    {
+      "name": "Kick Sub 808 Boom Layer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36272"
+    },
+    {
+      "name": "Kick Sub 808 Long A1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46928"
+    },
+    {
+      "name": "Kick Sub 808 Long A1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1212"
+    },
+    {
+      "name": "Kick Sub 808 Long C1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1213"
+    },
+    {
+      "name": "Kick Sub 909 Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46929"
+    },
+    {
+      "name": "Kick Sub 909 Long.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1214"
+    },
+    {
+      "name": "Kick Sub Butter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39707"
+    },
+    {
+      "name": "Kick Sub Canvas.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39708"
+    },
+    {
+      "name": "Kick Sub Doumbek.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42351"
+    },
+    {
+      "name": "Kick Sub Drone Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36273"
+    },
+    {
+      "name": "Kick Sub Grumpy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36274"
+    },
+    {
+      "name": "Kick Sub Jiggy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39709"
+    },
+    {
+      "name": "Kick Sub Killer Note.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36275"
+    },
+    {
+      "name": "Kick Sub Killer Note.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46930"
+    },
+    {
+      "name": "Kick Sub Move.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39710"
+    },
+    {
+      "name": "Kick Sub Numerology.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39711"
+    },
+    {
+      "name": "Kick Sub Roomy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1215"
+    },
+    {
+      "name": "Kick Sub Shine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39712"
+    },
+    {
+      "name": "Kick Sub Shine.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1216"
+    },
+    {
+      "name": "Kick Sub Tone Bonzo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36276"
+    },
+    {
+      "name": "Kick Sub Tone Double Hit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36277"
+    },
+    {
+      "name": "Kick Sub Tone Overdrive 01.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36278"
+    },
+    {
+      "name": "Kick Sub Tone Overdrive 02.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36279"
+    },
+    {
+      "name": "Kick Sub Wah Soul.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39713"
+    },
+    {
+      "name": "Kick Sub Wah Soul.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1217"
+    },
+    {
+      "name": "Kick SW Tom.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1177"
+    },
+    {
+      "name": "Kick Sweet.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39714"
+    },
+    {
+      "name": "Kick Synth Deep.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42352"
+    },
+    {
+      "name": "Kick Synth Melt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48373"
+    },
+    {
+      "name": "Kick Synth Mkit Synth.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1218"
+    },
+    {
+      "name": "Kick Synth Token 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48374"
+    },
+    {
+      "name": "Kick Synth Token 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48375"
+    },
+    {
+      "name": "Kick Synth Tonal Mkit.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1219"
+    },
+    {
+      "name": "Kick Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37490"
+    },
+    {
+      "name": "Kick Tailed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1221"
+    },
+    {
+      "name": "Kick The Duke.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1222"
+    },
+    {
+      "name": "Kick Thud Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36280"
+    },
+    {
+      "name": "Kick Thud Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36281"
+    },
+    {
+      "name": "Kick Thud Mix.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42353"
+    },
+    {
+      "name": "Kick Thud Mix.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1223"
+    },
+    {
+      "name": "Kick Thud Trap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36282"
+    },
+    {
+      "name": "Kick Thud Trap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46931"
+    },
+    {
+      "name": "Kick Thud.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1224"
+    },
+    {
+      "name": "Kick Thump 02.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55014"
+    },
+    {
+      "name": "Kick Thump Amp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55015"
+    },
+    {
+      "name": "Kick Thump Flutter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55016"
+    },
+    {
+      "name": "Kick Thump FX 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55017"
+    },
+    {
+      "name": "Kick Thump FX 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55018"
+    },
+    {
+      "name": "Kick Thump Hard Chekov.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46932"
+    },
+    {
+      "name": "Kick Thump Res.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55019"
+    },
+    {
+      "name": "Kick Thump.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55020"
+    },
+    {
+      "name": "Kick Thunk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46933"
+    },
+    {
+      "name": "Kick Tight Gen Purpose.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1225"
+    },
+    {
+      "name": "Kick Tiny Bot 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1226"
+    },
+    {
+      "name": "Kick Tiny Bot 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1227"
+    },
+    {
+      "name": "Kick Titan.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58032"
+    },
+    {
+      "name": "Kick Titan.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1228"
+    },
+    {
+      "name": "Kick TL.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39715"
+    },
+    {
+      "name": "Kick TL.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1220"
+    },
+    {
+      "name": "Kick Tokyo 1 Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48376"
+    },
+    {
+      "name": "Kick Tokyo 2 Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48377"
+    },
+    {
+      "name": "Kick Tokyo Minimal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48378"
+    },
+    {
+      "name": "Kick Tokyo Vinyl.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_48379"
+    },
+    {
+      "name": "Kick Top 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55021"
+    },
+    {
+      "name": "Kick Top 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55023"
+    },
+    {
+      "name": "Kick Top 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55024"
+    },
+    {
+      "name": "Kick Top 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55025"
+    },
+    {
+      "name": "Kick Top 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55026"
+    },
+    {
+      "name": "Kick Top 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55027"
+    },
+    {
+      "name": "Kick Top 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55028"
+    },
+    {
+      "name": "Kick Top 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55029"
+    },
+    {
+      "name": "Kick Top 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55030"
+    },
+    {
+      "name": "Kick Top 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55022"
+    },
+    {
+      "name": "Kick Topaz.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46934"
+    },
+    {
+      "name": "Kick Topaz.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1229"
+    },
+    {
+      "name": "Kick Trap Thud.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36283"
+    },
+    {
+      "name": "Kick Trax.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46935"
+    },
+    {
+      "name": "Kick Trax.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_58033"
+    },
+    {
+      "name": "Kick Trim Down.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1230"
+    },
+    {
+      "name": "Kick Tube 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37491"
+    },
+    {
+      "name": "Kick Tube 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37492"
+    },
+    {
+      "name": "Kick Tube 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37493"
+    },
+    {
+      "name": "Kick Tube Thud Filter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46936"
+    },
+    {
+      "name": "Kick Tube Thud.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46937"
+    },
+    {
+      "name": "Kick Tunnel.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39716"
+    },
+    {
+      "name": "Kick Two Pack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39717"
+    },
+    {
+      "name": "Kick V2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1231"
+    },
+    {
+      "name": "Kick Verb 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55031"
+    },
+    {
+      "name": "Kick Verb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_55032"
+    },
+    {
+      "name": "Kick Victor.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1232"
+    },
+    {
+      "name": "Kick Vinyl 45 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1233"
+    },
+    {
+      "name": "Kick Vinyl 45 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1234"
+    },
+    {
+      "name": "Kick Vinyl 70s.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1235"
+    },
+    {
+      "name": "Kick Vinyl 80s UK Disco.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1236"
+    },
+    {
+      "name": "Kick Vinyl 80s.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1237"
+    },
+    {
+      "name": "Kick Vinyl DLA 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46938"
+    },
+    {
+      "name": "Kick Vinyl DLA 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1238"
+    },
+    {
+      "name": "Kick Vinyl DLA 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1239"
+    },
+    {
+      "name": "Kick Vinyl DLB.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1240"
+    },
+    {
+      "name": "Kick Vinyl DLC.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1241"
+    },
+    {
+      "name": "Kick Vinyl DLD 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1242"
+    },
+    {
+      "name": "Kick Vinyl DLD 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1243"
+    },
+    {
+      "name": "Kick Vinyl DLD 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1244"
+    },
+    {
+      "name": "Kick Vinyl DLD 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1245"
+    },
+    {
+      "name": "Kick Vinyl DLJ 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1246"
+    },
+    {
+      "name": "Kick Vinyl DLJ 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1247"
+    },
+    {
+      "name": "Kick Vinyl DLJ 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1248"
+    },
+    {
+      "name": "Kick Vinyl DLJ 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1249"
+    },
+    {
+      "name": "Kick Vinyl MPC.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1250"
+    },
+    {
+      "name": "Kick Vinyl Prommer.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1251"
+    },
+    {
+      "name": "Kick Vinyl SP 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1252"
+    },
+    {
+      "name": "Kick Vinyl SP 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1255"
+    },
+    {
+      "name": "Kick Vinyl SP 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1256"
+    },
+    {
+      "name": "Kick Vinyl SP 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1257"
+    },
+    {
+      "name": "Kick Vinyl SP 5.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1258"
+    },
+    {
+      "name": "Kick Vinyl SP 6.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1259"
+    },
+    {
+      "name": "Kick Vinyl SP 7.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1260"
+    },
+    {
+      "name": "Kick Vinyl SP 8.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1261"
+    },
+    {
+      "name": "Kick Vinyl SP 9.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1262"
+    },
+    {
+      "name": "Kick Vinyl SP 10.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1253"
+    },
+    {
+      "name": "Kick Vinyl SP 11.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1254"
+    },
+    {
+      "name": "Kick Vinyl SP.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1263"
+    },
+    {
+      "name": "Kick Vinyl Sub.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1264"
+    },
+    {
+      "name": "Kick Volt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1265"
+    },
+    {
+      "name": "Kick Wah Soul.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39718"
+    },
+    {
+      "name": "Kick Wanderlust Field Drum.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46939"
+    },
+    {
+      "name": "Kick Whim.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1266"
+    },
+    {
+      "name": "Kick Wide Electrified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46940"
+    },
+    {
+      "name": "Kick Wild.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42354"
+    },
+    {
+      "name": "Kick Wolomp.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1267"
+    },
+    {
+      "name": "Kick Woo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39719"
+    },
+    {
+      "name": "Kick Wood Low RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_56625"
+    },
+    {
+      "name": "Kick Wood RoomWithAVista.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_56626"
+    },
+    {
+      "name": "Kick Wood.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1268"
+    },
+    {
+      "name": "Kick Xtra Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46941"
+    },
+    {
+      "name": "Kick XYXY.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_1269"
+    },
+    {
+      "name": "Kick Young Blood.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_42355"
+    },
+    {
+      "name": "Kick Zoned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_39720"
+    },
+    {
+      "name": "Kick-606.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46943"
+    },
+    {
+      "name": "Kick-606-Mod.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46942"
+    },
+    {
+      "name": "Kick-707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46945"
+    },
+    {
+      "name": "Kick-707-b.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46944"
+    },
+    {
+      "name": "Kick-808-Tone6-q.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46946"
+    },
+    {
+      "name": "Kick-909.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46947"
+    },
+    {
+      "name": "Kick-C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46948"
+    },
+    {
+      "name": "Kickdrum Acid House.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37494"
+    },
+    {
+      "name": "Kick-SessionDry-Felt-Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46949"
+    },
+    {
+      "name": "Kick-SessionDry-Felt-Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_46950"
+    },
+    {
+      "name": "RK Distorted Kick 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_37495"
+    },
+    {
+      "name": "Sub Agile Shot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36284"
+    },
+    {
+      "name": "Sub Deep Knight.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Kick:FileId_36285"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "path": "Instruments/Collision/Synth Rhythmic",
+  "name": "Synth Rhythmic",
+  "uri": "query:Synths#Collision:Synth%20Rhythmic",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Bounce Along.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Rhythmic:FileId_49113"
+    },
+    {
+      "name": "Bounce Along.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Rhythmic:FileId_59277"
+    },
+    {
+      "name": "Chunk-a-Lot.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Rhythmic:FileId_61234"
+    },
+    {
+      "name": "Dark Ambience.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Rhythmic:FileId_49117"
+    },
+    {
+      "name": "Gamelan Chimes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Rhythmic:FileId_61241"
+    },
+    {
+      "name": "Hold it now.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Rhythmic:FileId_59658"
+    },
+    {
+      "name": "Pitter Patter.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Rhythmic:FileId_49131"
+    },
+    {
+      "name": "Rhythmic Oshima Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Rhythmic:FileId_3721"
+    },
+    {
+      "name": "Rolling Hi Tech Perc.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Rhythmic:FileId_3723"
+    },
+    {
+      "name": "Run For Cover.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Rhythmic:FileId_59659"
+    },
+    {
+      "name": "Shake & Bake.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Rhythmic:FileId_49134"
+    },
+    {
+      "name": "Shiver Shake.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Rhythmic:FileId_59283"
+    },
+    {
+      "name": "Venus Smiles.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Rhythmic:FileId_49139"
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "count": 53,
+  "items": [
+    {
+      "name": "OttoBott Lead Bass.adg",
+      "uri": "query:Synths#Analog:Bass:FileId_39896",
+      "path": "Instruments/Analog/Bass/OttoBott Lead Bass.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Asynchronous Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38375",
+      "path": "Instruments/Analog/Synth Lead/Asynchronous Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "At Your Door Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39950",
+      "path": "Instruments/Analog/Synth Lead/At Your Door Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Badass Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_3739",
+      "path": "Instruments/Analog/Synth Lead/Badass Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Big Bro Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38377",
+      "path": "Instruments/Analog/Synth Lead/Big Bro Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Big Lead Stab.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_36670",
+      "path": "Instruments/Analog/Synth Lead/Big Lead Stab.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Big Saw Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61144",
+      "path": "Instruments/Analog/Synth Lead/Big Saw Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Big Smack Pad Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_36671",
+      "path": "Instruments/Analog/Synth Lead/Big Smack Pad Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Buck Jones Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39954",
+      "path": "Instruments/Analog/Synth Lead/Buck Jones Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Clubber Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38383",
+      "path": "Instruments/Analog/Synth Lead/Clubber Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Complex Rotor Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_3747",
+      "path": "Instruments/Analog/Synth Lead/Complex Rotor Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Creeper Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38384",
+      "path": "Instruments/Analog/Synth Lead/Creeper Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Dirty Funk Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39956",
+      "path": "Instruments/Analog/Synth Lead/Dirty Funk Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Dual OSC Buzz Lead.adv",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5873",
+      "path": "Instruments/Analog/Synth Lead/Dual OSC Buzz Lead.adv",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Dual OSC Muted Sweep Lead.adv",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5874",
+      "path": "Instruments/Analog/Synth Lead/Dual OSC Muted Sweep Lead.adv",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Dual OSC Sync Bright Lead.adv",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5875",
+      "path": "Instruments/Analog/Synth Lead/Dual OSC Sync Bright Lead.adv",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Duned Out Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39958",
+      "path": "Instruments/Analog/Synth Lead/Duned Out Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Fat OSC Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61148",
+      "path": "Instruments/Analog/Synth Lead/Fat OSC Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Fire Breath Bass Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61149",
+      "path": "Instruments/Analog/Synth Lead/Fire Breath Bass Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Fourths Lead.adv",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5876",
+      "path": "Instruments/Analog/Synth Lead/Fourths Lead.adv",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Herbie Funk Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39968",
+      "path": "Instruments/Analog/Synth Lead/Herbie Funk Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Instinct Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_36674",
+      "path": "Instruments/Analog/Synth Lead/Instinct Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Intermix Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61152",
+      "path": "Instruments/Analog/Synth Lead/Intermix Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Lead On The Road.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61154",
+      "path": "Instruments/Analog/Synth Lead/Lead On The Road.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Lead Organ.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_36675",
+      "path": "Instruments/Analog/Synth Lead/Lead Organ.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Like A Jungle Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39971",
+      "path": "Instruments/Analog/Synth Lead/Like A Jungle Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Lit Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_36676",
+      "path": "Instruments/Analog/Synth Lead/Lit Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Metalic Lead.adv",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5877",
+      "path": "Instruments/Analog/Synth Lead/Metalic Lead.adv",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Nasal Mod Lead.adv",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5878",
+      "path": "Instruments/Analog/Synth Lead/Nasal Mod Lead.adv",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Puffy K Bass Lead.adv",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_59612",
+      "path": "Instruments/Analog/Synth Lead/Puffy K Bass Lead.adv",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Roundabout Lead.adv",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_59613",
+      "path": "Instruments/Analog/Synth Lead/Roundabout Lead.adv",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "S&H Pluck Slow Lead.adv",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5879",
+      "path": "Instruments/Analog/Synth Lead/S&H Pluck Slow Lead.adv",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Saw Detune Sync Lead.adv",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5880",
+      "path": "Instruments/Analog/Synth Lead/Saw Detune Sync Lead.adv",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Say It Bass Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_36683",
+      "path": "Instruments/Analog/Synth Lead/Say It Bass Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "SH Funk Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39975",
+      "path": "Instruments/Analog/Synth Lead/SH Funk Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Smak Attack Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_61168",
+      "path": "Instruments/Analog/Synth Lead/Smak Attack Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Square Sync Lead.adv",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_5881",
+      "path": "Instruments/Analog/Synth Lead/Square Sync Lead.adv",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Sweet Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_3765",
+      "path": "Instruments/Analog/Synth Lead/Sweet Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Transcending Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_38415",
+      "path": "Instruments/Analog/Synth Lead/Transcending Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Wood Panel Lead.adg",
+      "uri": "query:Synths#Analog:Synth%20Lead:FileId_39983",
+      "path": "Instruments/Analog/Synth Lead/Wood Panel Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Lead-in.adv",
+      "uri": "query:Synths#Bass:Bass:FileId_41235",
+      "path": "Instruments/Bass/Bass/Lead-in.adv",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Pinch Allowance Lead.adv",
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41284",
+      "path": "Instruments/Bass/Synth Lead/Pinch Allowance Lead.adv",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Screech Lead Bass.adg",
+      "uri": "query:Synths#Drift:Bass:FileId_4105",
+      "path": "Instruments/Drift/Bass/Screech Lead Bass.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Tube Lead Pluck.adg",
+      "uri": "query:Synths#Drift:Guitar%20&%20Plucked:FileId_3867",
+      "path": "Instruments/Drift/Guitar & Plucked/Tube Lead Pluck.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Filtered Sync Lead.adg",
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_3750",
+      "path": "Instruments/Drift/Synth Lead/Filtered Sync Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Freak Bounce Lead.adg",
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_3753",
+      "path": "Instruments/Drift/Synth Lead/Freak Bounce Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Homebound Lead.adg",
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_3754",
+      "path": "Instruments/Drift/Synth Lead/Homebound Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Hubus Lead.adv",
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_5753",
+      "path": "Instruments/Drift/Synth Lead/Hubus Lead.adv",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Kentucky Lead.adv",
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_5754",
+      "path": "Instruments/Drift/Synth Lead/Kentucky Lead.adv",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Noise Sweep Lead.adg",
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_3756",
+      "path": "Instruments/Drift/Synth Lead/Noise Sweep Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Sparkle Lead.adg",
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_3762",
+      "path": "Instruments/Drift/Synth Lead/Sparkle Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "UK Siren Lead.adg",
+      "uri": "query:Synths#Drift:Synth%20Lead:FileId_3771",
+      "path": "Instruments/Drift/Synth Lead/UK Siren Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    },
+    {
+      "name": "Crash Pad Bass Lead.adg",
+      "uri": "query:Synths#Instrument%20Rack:Bass:FileId_55441",
+      "path": "Instruments/Instrument Rack/Bass/Crash Pad Bass Lead.adg",
+      "is_device": false,
+      "category": "instruments"
+    }
+  ]
+}

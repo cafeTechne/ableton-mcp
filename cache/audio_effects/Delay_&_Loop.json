@@ -1,0 +1,1300 @@
+{
+  "count": 185,
+  "items": [
+    {
+      "name": "Beat Repeat",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Beat%20Repeat",
+      "path": "Audio Effects/Delay & Loop/Beat Repeat",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Delay",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay",
+      "path": "Audio Effects/Delay & Loop/Delay",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Echo",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo",
+      "path": "Audio Effects/Delay & Loop/Echo",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Filter Delay",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Filter%20Delay",
+      "path": "Audio Effects/Delay & Loop/Filter Delay",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Gated Delay",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Gated%20Delay",
+      "path": "Audio Effects/Delay & Loop/Gated Delay",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Grain Delay",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay",
+      "path": "Audio Effects/Delay & Loop/Grain Delay",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Looper",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Looper",
+      "path": "Audio Effects/Delay & Loop/Looper",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "PitchLoop89",
+      "uri": "query:AudioFx#Delay%20&%20Loop:PitchLoop89",
+      "path": "Audio Effects/Delay & Loop/PitchLoop89",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Spectral Time",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Spectral%20Time",
+      "path": "Audio Effects/Delay & Loop/Spectral Time",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vector Delay",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay",
+      "path": "Audio Effects/Delay & Loop/Vector Delay",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Airpusher.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Beat%20Repeat:FileId_6634",
+      "path": "Audio Effects/Delay & Loop/Beat Repeat/Airpusher.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Brain Dance.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Beat%20Repeat:FileId_6635",
+      "path": "Audio Effects/Delay & Loop/Beat Repeat/Brain Dance.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Chopping Block.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Beat%20Repeat:FileId_6636",
+      "path": "Audio Effects/Delay & Loop/Beat Repeat/Chopping Block.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Deconstruct.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Beat%20Repeat:FileId_6637",
+      "path": "Audio Effects/Delay & Loop/Beat Repeat/Deconstruct.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Fill In The Gaps.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Beat%20Repeat:FileId_6638",
+      "path": "Audio Effects/Delay & Loop/Beat Repeat/Fill In The Gaps.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Insect.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Beat%20Repeat:FileId_6639",
+      "path": "Audio Effects/Delay & Loop/Beat Repeat/Insect.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Microfillz.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Beat%20Repeat:FileId_6640",
+      "path": "Audio Effects/Delay & Loop/Beat Repeat/Microfillz.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Repeight.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Beat%20Repeat:FileId_6641",
+      "path": "Audio Effects/Delay & Loop/Beat Repeat/Repeight.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Robo Voice.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Beat%20Repeat:FileId_6642",
+      "path": "Audio Effects/Delay & Loop/Beat Repeat/Robo Voice.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Semisubtle.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Beat%20Repeat:FileId_6643",
+      "path": "Audio Effects/Delay & Loop/Beat Repeat/Semisubtle.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Slap Back.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Beat%20Repeat:FileId_6644",
+      "path": "Audio Effects/Delay & Loop/Beat Repeat/Slap Back.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Squishy.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Beat%20Repeat:FileId_6645",
+      "path": "Audio Effects/Delay & Loop/Beat Repeat/Squishy.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vocal Fun.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Beat%20Repeat:FileId_6646",
+      "path": "Audio Effects/Delay & Loop/Beat Repeat/Vocal Fun.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Ambidel.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Filter%20Delay:FileId_6347",
+      "path": "Audio Effects/Delay & Loop/Filter Delay/Ambidel.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Complex 5.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Filter%20Delay:FileId_6348",
+      "path": "Audio Effects/Delay & Loop/Filter Delay/Complex 5.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dezent.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Filter%20Delay:FileId_6349",
+      "path": "Audio Effects/Delay & Loop/Filter Delay/Dezent.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Go Mid.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Filter%20Delay:FileId_6350",
+      "path": "Audio Effects/Delay & Loop/Filter Delay/Go Mid.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Loopo.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Filter%20Delay:FileId_6351",
+      "path": "Audio Effects/Delay & Loop/Filter Delay/Loopo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Moving 3.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Filter%20Delay:FileId_6353",
+      "path": "Audio Effects/Delay & Loop/Filter Delay/Moving 3.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Moving 3-5-6.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Filter%20Delay:FileId_6352",
+      "path": "Audio Effects/Delay & Loop/Filter Delay/Moving 3-5-6.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Repetitor II.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Filter%20Delay:FileId_6354",
+      "path": "Audio Effects/Delay & Loop/Filter Delay/Repetitor II.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Repetitor.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Filter%20Delay:FileId_6355",
+      "path": "Audio Effects/Delay & Loop/Filter Delay/Repetitor.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Short.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Filter%20Delay:FileId_6356",
+      "path": "Audio Effects/Delay & Loop/Filter Delay/Short.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Simple Filter 1.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Filter%20Delay:FileId_6357",
+      "path": "Audio Effects/Delay & Loop/Filter Delay/Simple Filter 1.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Simple Filter 3.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Filter%20Delay:FileId_6358",
+      "path": "Audio Effects/Delay & Loop/Filter Delay/Simple Filter 3.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Simple Filter 5.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Filter%20Delay:FileId_6359",
+      "path": "Audio Effects/Delay & Loop/Filter Delay/Simple Filter 5.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Stereoflex.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Filter%20Delay:FileId_6360",
+      "path": "Audio Effects/Delay & Loop/Filter Delay/Stereoflex.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Wanderer.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Filter%20Delay:FileId_6361",
+      "path": "Audio Effects/Delay & Loop/Filter Delay/Wanderer.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Cut It.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Gated%20Delay:FileId_41174",
+      "path": "Audio Effects/Delay & Loop/Gated Delay/Cut It.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Echo Valley.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Gated%20Delay:FileId_41175",
+      "path": "Audio Effects/Delay & Loop/Gated Delay/Echo Valley.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Euclidean Reverse.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Gated%20Delay:FileId_41176",
+      "path": "Audio Effects/Delay & Loop/Gated Delay/Euclidean Reverse.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Five Takes.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Gated%20Delay:FileId_41177",
+      "path": "Audio Effects/Delay & Loop/Gated Delay/Five Takes.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Nervous.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Gated%20Delay:FileId_41178",
+      "path": "Audio Effects/Delay & Loop/Gated Delay/Nervous.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Remix-D.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Gated%20Delay:FileId_41179",
+      "path": "Audio Effects/Delay & Loop/Gated Delay/Remix-D.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Repeat Please.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Gated%20Delay:FileId_41180",
+      "path": "Audio Effects/Delay & Loop/Gated Delay/Repeat Please.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Reverso 2.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Gated%20Delay:FileId_41181",
+      "path": "Audio Effects/Delay & Loop/Gated Delay/Reverso 2.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Reverso 8.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Gated%20Delay:FileId_41182",
+      "path": "Audio Effects/Delay & Loop/Gated Delay/Reverso 8.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Sputter Edit.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Gated%20Delay:FileId_41183",
+      "path": "Audio Effects/Delay & Loop/Gated Delay/Sputter Edit.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Subtle Affection.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Gated%20Delay:FileId_41184",
+      "path": "Audio Effects/Delay & Loop/Gated Delay/Subtle Affection.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Take Seven.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Gated%20Delay:FileId_41185",
+      "path": "Audio Effects/Delay & Loop/Gated Delay/Take Seven.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Ascent.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6307",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Ascent.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Borg.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6308",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Borg.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bubbles.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6309",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Bubbles.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drive High.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6310",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Drive High.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drive Low.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6311",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Drive Low.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum Electrifier.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6312",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Drum Electrifier.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Five.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6313",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Five.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Grains.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6314",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Grains.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Kick Toner.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6315",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Kick Toner.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Low Feedback.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6316",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Low Feedback.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Low Tone Flutter.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6317",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Low Tone Flutter.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Minor Third Down.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6318",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Minor Third Down.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Minor Third Up.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6319",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Minor Third Up.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Quartertones.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6320",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Quartertones.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Rubberband.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6321",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Rubberband.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Rumble.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6322",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Rumble.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Rush.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6323",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Rush.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Tubby.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6324",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Tubby.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Wirrness.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Grain%20Delay:FileId_6325",
+      "path": "Audio Effects/Delay & Loop/Grain Delay/Wirrness.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "1 Bar Phrase.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Looper:FileId_6149",
+      "path": "Audio Effects/Delay & Loop/Looper/1 Bar Phrase.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "2 Bar Phrase.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Looper:FileId_6151",
+      "path": "Audio Effects/Delay & Loop/Looper/2 Bar Phrase.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "4 Bar Phrase.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Looper:FileId_6152",
+      "path": "Audio Effects/Delay & Loop/Looper/4 Bar Phrase.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "8 Bar Phrase.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Looper:FileId_6153",
+      "path": "Audio Effects/Delay & Loop/Looper/8 Bar Phrase.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "16 Bar Phrase.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Looper:FileId_6150",
+      "path": "Audio Effects/Delay & Loop/Looper/16 Bar Phrase.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Reverse 1 Bar.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Looper:FileId_6154",
+      "path": "Audio Effects/Delay & Loop/Looper/Reverse 1 Bar.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Delay Downshift.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Spectral%20Time:FileId_5961",
+      "path": "Audio Effects/Delay & Loop/Spectral Time/Delay Downshift.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Delay Reso Glitch.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Spectral%20Time:FileId_5962",
+      "path": "Audio Effects/Delay & Loop/Spectral Time/Delay Reso Glitch.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Delay Spray.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Spectral%20Time:FileId_5963",
+      "path": "Audio Effects/Delay & Loop/Spectral Time/Delay Spray.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Freezer Fading.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Spectral%20Time:FileId_5964",
+      "path": "Audio Effects/Delay & Loop/Spectral Time/Freezer Fading.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Pitch Trails.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Spectral%20Time:FileId_5965",
+      "path": "Audio Effects/Delay & Loop/Spectral Time/Pitch Trails.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Stereo Flyby.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Spectral%20Time:FileId_5966",
+      "path": "Audio Effects/Delay & Loop/Spectral Time/Stereo Flyby.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Disharmonics.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Ambient%20Spaces:FileId_6552",
+      "path": "Audio Effects/Delay & Loop/Delay/Ambient Spaces/Disharmonics.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Full Range Spatial.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Ambient%20Spaces:FileId_6553",
+      "path": "Audio Effects/Delay & Loop/Delay/Ambient Spaces/Full Range Spatial.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Harmonics.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Ambient%20Spaces:FileId_6554",
+      "path": "Audio Effects/Delay & Loop/Delay/Ambient Spaces/Harmonics.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Hi Buzz.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Ambient%20Spaces:FileId_6555",
+      "path": "Audio Effects/Delay & Loop/Delay/Ambient Spaces/Hi Buzz.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Pan Left.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Ambient%20Spaces:FileId_6556",
+      "path": "Audio Effects/Delay & Loop/Delay/Ambient Spaces/Pan Left.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Pan Right.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Ambient%20Spaces:FileId_6557",
+      "path": "Audio Effects/Delay & Loop/Delay/Ambient Spaces/Pan Right.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Robot.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Ambient%20Spaces:FileId_6558",
+      "path": "Audio Effects/Delay & Loop/Delay/Ambient Spaces/Robot.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dotted Eighth Note.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Clean%20Delay:FileId_6539",
+      "path": "Audio Effects/Delay & Loop/Delay/Clean Delay/Dotted Eighth Note.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dotted Quarter Note.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Clean%20Delay:FileId_6540",
+      "path": "Audio Effects/Delay & Loop/Delay/Clean Delay/Dotted Quarter Note.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Eighth Note.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Clean%20Delay:FileId_6541",
+      "path": "Audio Effects/Delay & Loop/Delay/Clean Delay/Eighth Note.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Groove.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Clean%20Delay:FileId_6542",
+      "path": "Audio Effects/Delay & Loop/Delay/Clean Delay/Groove.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "High.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Clean%20Delay:FileId_6543",
+      "path": "Audio Effects/Delay & Loop/Delay/Clean Delay/High.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Longest Ping Pong.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Clean%20Delay:FileId_6544",
+      "path": "Audio Effects/Delay & Loop/Delay/Clean Delay/Longest Ping Pong.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Ping.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Clean%20Delay:FileId_6545",
+      "path": "Audio Effects/Delay & Loop/Delay/Clean Delay/Ping.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Pong.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Clean%20Delay:FileId_6546",
+      "path": "Audio Effects/Delay & Loop/Delay/Clean Delay/Pong.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Quarter Note.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Clean%20Delay:FileId_6547",
+      "path": "Audio Effects/Delay & Loop/Delay/Clean Delay/Quarter Note.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Sixteenth Note.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Clean%20Delay:FileId_6548",
+      "path": "Audio Effects/Delay & Loop/Delay/Clean Delay/Sixteenth Note.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Slight Slap.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Clean%20Delay:FileId_6549",
+      "path": "Audio Effects/Delay & Loop/Delay/Clean Delay/Slight Slap.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Uneven Two Beat.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Clean%20Delay:FileId_6550",
+      "path": "Audio Effects/Delay & Loop/Delay/Clean Delay/Uneven Two Beat.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Chopped Delay.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Modulated%20Delay:FileId_6533",
+      "path": "Audio Effects/Delay & Loop/Delay/Modulated Delay/Chopped Delay.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Fake Phaser.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Modulated%20Delay:FileId_6534",
+      "path": "Audio Effects/Delay & Loop/Delay/Modulated Delay/Fake Phaser.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Glitch Delay.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Modulated%20Delay:FileId_6535",
+      "path": "Audio Effects/Delay & Loop/Delay/Modulated Delay/Glitch Delay.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Simple Chorus.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Modulated%20Delay:FileId_6536",
+      "path": "Audio Effects/Delay & Loop/Delay/Modulated Delay/Simple Chorus.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Simple Flanger.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Modulated%20Delay:FileId_6537",
+      "path": "Audio Effects/Delay & Loop/Delay/Modulated Delay/Simple Flanger.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Flutter.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Vintage%20Delay:FileId_6530",
+      "path": "Audio Effects/Delay & Loop/Delay/Vintage Delay/Flutter.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Sloppy Delay.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Delay:Vintage%20Delay:FileId_6531",
+      "path": "Audio Effects/Delay & Loop/Delay/Vintage Delay/Sloppy Delay.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Diffused Long Cascades.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Ambient%20Spaces:FileId_6419",
+      "path": "Audio Effects/Delay & Loop/Echo/Ambient Spaces/Diffused Long Cascades.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Distant.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Ambient%20Spaces:FileId_6420",
+      "path": "Audio Effects/Delay & Loop/Echo/Ambient Spaces/Distant.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Downwards.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Ambient%20Spaces:FileId_6421",
+      "path": "Audio Effects/Delay & Loop/Echo/Ambient Spaces/Downwards.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Ethereal Canyon.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Ambient%20Spaces:FileId_6422",
+      "path": "Audio Effects/Delay & Loop/Echo/Ambient Spaces/Ethereal Canyon.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Filter Flutter Analog .adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Ambient%20Spaces:FileId_6423",
+      "path": "Audio Effects/Delay & Loop/Echo/Ambient Spaces/Filter Flutter Analog .adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Nostalgia.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Ambient%20Spaces:FileId_6424",
+      "path": "Audio Effects/Delay & Loop/Echo/Ambient Spaces/Nostalgia.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Set back in Space.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Ambient%20Spaces:FileId_6425",
+      "path": "Audio Effects/Delay & Loop/Echo/Ambient Spaces/Set back in Space.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Shimmery.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Ambient%20Spaces:FileId_6426",
+      "path": "Audio Effects/Delay & Loop/Echo/Ambient Spaces/Shimmery.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "8DotBall.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Clean%20Delay:FileId_6406",
+      "path": "Audio Effects/Delay & Loop/Echo/Clean Delay/8DotBall.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dark Pillow Tap.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Clean%20Delay:FileId_6407",
+      "path": "Audio Effects/Delay & Loop/Echo/Clean Delay/Dark Pillow Tap.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Digital Edge Ping Pong.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Clean%20Delay:FileId_6408",
+      "path": "Audio Effects/Delay & Loop/Echo/Clean Delay/Digital Edge Ping Pong.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Digital Pong.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Clean%20Delay:FileId_6409",
+      "path": "Audio Effects/Delay & Loop/Echo/Clean Delay/Digital Pong.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Ensemble Digital.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Clean%20Delay:FileId_6410",
+      "path": "Audio Effects/Delay & Loop/Echo/Clean Delay/Ensemble Digital.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Fake Dub Room.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Clean%20Delay:FileId_6411",
+      "path": "Audio Effects/Delay & Loop/Echo/Clean Delay/Fake Dub Room.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Mid Filter Delay.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Clean%20Delay:FileId_6412",
+      "path": "Audio Effects/Delay & Loop/Echo/Clean Delay/Mid Filter Delay.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Ping Pong Wide.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Clean%20Delay:FileId_6413",
+      "path": "Audio Effects/Delay & Loop/Echo/Clean Delay/Ping Pong Wide.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Simple Long Digi Delay.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Clean%20Delay:FileId_6414",
+      "path": "Audio Effects/Delay & Loop/Echo/Clean Delay/Simple Long Digi Delay.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Slap Filter Mod.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Clean%20Delay:FileId_6415",
+      "path": "Audio Effects/Delay & Loop/Echo/Clean Delay/Slap Filter Mod.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Slapback.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Clean%20Delay:FileId_6416",
+      "path": "Audio Effects/Delay & Loop/Echo/Clean Delay/Slapback.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Time Travel Echo.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Clean%20Delay:FileId_6417",
+      "path": "Audio Effects/Delay & Loop/Echo/Clean Delay/Time Travel Echo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Analog Collapse.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Modulated%20Delay:FileId_6394",
+      "path": "Audio Effects/Delay & Loop/Echo/Modulated Delay/Analog Collapse.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Back Door.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Modulated%20Delay:FileId_6395",
+      "path": "Audio Effects/Delay & Loop/Echo/Modulated Delay/Back Door.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Broken Pipe.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Modulated%20Delay:FileId_6396",
+      "path": "Audio Effects/Delay & Loop/Echo/Modulated Delay/Broken Pipe.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Climbing Flange.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Modulated%20Delay:FileId_6397",
+      "path": "Audio Effects/Delay & Loop/Echo/Modulated Delay/Climbing Flange.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "DrumFlanger.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Modulated%20Delay:FileId_6398",
+      "path": "Audio Effects/Delay & Loop/Echo/Modulated Delay/DrumFlanger.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Flanged Out.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Modulated%20Delay:FileId_6399",
+      "path": "Audio Effects/Delay & Loop/Echo/Modulated Delay/Flanged Out.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "HallMod.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Modulated%20Delay:FileId_6400",
+      "path": "Audio Effects/Delay & Loop/Echo/Modulated Delay/HallMod.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Liqourice Whip.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Modulated%20Delay:FileId_6401",
+      "path": "Audio Effects/Delay & Loop/Echo/Modulated Delay/Liqourice Whip.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Scratchtastic.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Modulated%20Delay:FileId_6402",
+      "path": "Audio Effects/Delay & Loop/Echo/Modulated Delay/Scratchtastic.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "The Unpredictable Spring.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Modulated%20Delay:FileId_6403",
+      "path": "Audio Effects/Delay & Loop/Echo/Modulated Delay/The Unpredictable Spring.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "WhaChorus.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Modulated%20Delay:FileId_6404",
+      "path": "Audio Effects/Delay & Loop/Echo/Modulated Delay/WhaChorus.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "A Bit Tipsy.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Vintage%20Delay:FileId_6376",
+      "path": "Audio Effects/Delay & Loop/Echo/Vintage Delay/A Bit Tipsy.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Analog Triplet Dub.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Vintage%20Delay:FileId_6377",
+      "path": "Audio Effects/Delay & Loop/Echo/Vintage Delay/Analog Triplet Dub.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Clipped Slap Analog .adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Vintage%20Delay:FileId_6378",
+      "path": "Audio Effects/Delay & Loop/Echo/Vintage Delay/Clipped Slap Analog .adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dark Fade Analog.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Vintage%20Delay:FileId_6379",
+      "path": "Audio Effects/Delay & Loop/Echo/Vintage Delay/Dark Fade Analog.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Delay Syndicate.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Vintage%20Delay:FileId_6380",
+      "path": "Audio Effects/Delay & Loop/Echo/Vintage Delay/Delay Syndicate.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dem Ducks.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Vintage%20Delay:FileId_6381",
+      "path": "Audio Effects/Delay & Loop/Echo/Vintage Delay/Dem Ducks.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dub Syndicate.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Vintage%20Delay:FileId_6382",
+      "path": "Audio Effects/Delay & Loop/Echo/Vintage Delay/Dub Syndicate.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Flutter One.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Vintage%20Delay:FileId_6383",
+      "path": "Audio Effects/Delay & Loop/Echo/Vintage Delay/Flutter One.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Gated Splash.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Vintage%20Delay:FileId_6384",
+      "path": "Audio Effects/Delay & Loop/Echo/Vintage Delay/Gated Splash.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "HallowTrip.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Vintage%20Delay:FileId_6385",
+      "path": "Audio Effects/Delay & Loop/Echo/Vintage Delay/HallowTrip.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Hiss Tape Mode.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Vintage%20Delay:FileId_6386",
+      "path": "Audio Effects/Delay & Loop/Echo/Vintage Delay/Hiss Tape Mode.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Long Tape.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Vintage%20Delay:FileId_6387",
+      "path": "Audio Effects/Delay & Loop/Echo/Vintage Delay/Long Tape.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Semi Sync.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Vintage%20Delay:FileId_6388",
+      "path": "Audio Effects/Delay & Loop/Echo/Vintage Delay/Semi Sync.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Smacked.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Vintage%20Delay:FileId_6389",
+      "path": "Audio Effects/Delay & Loop/Echo/Vintage Delay/Smacked.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Tape Reverb Space.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Vintage%20Delay:FileId_6390",
+      "path": "Audio Effects/Delay & Loop/Echo/Vintage Delay/Tape Reverb Space.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Tweezy Tape.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Vintage%20Delay:FileId_6391",
+      "path": "Audio Effects/Delay & Loop/Echo/Vintage Delay/Tweezy Tape.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "TwoAnalogues.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Echo:Vintage%20Delay:FileId_6392",
+      "path": "Audio Effects/Delay & Loop/Echo/Vintage Delay/TwoAnalogues.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Avoid the Weirdo.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49667",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Avoid the Weirdo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Beat Pull.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49668",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Beat Pull.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bird Chatter.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49669",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Bird Chatter.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Chorusy.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49670",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Chorusy.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Constant Glides.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49671",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Constant Glides.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Detuned Trail.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49672",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Detuned Trail.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drone Melody.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49673",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Drone Melody.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Expand Out.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49674",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Expand Out.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Filter Tapping.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49675",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Filter Tapping.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Filter Tapping2.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49676",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Filter Tapping2.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "HiRes Rev Drop.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49677",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/HiRes Rev Drop.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Moving 5ths.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49678",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Moving 5ths.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Nice Reverse.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49679",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Nice Reverse.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Open Sky.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49680",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Open Sky.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Poly Pitch Recycle.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49681",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Poly Pitch Recycle.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Rand Rev Oct Up.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49682",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Rand Rev Oct Up.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "ResoMagnets.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49683",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/ResoMagnets.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Resonant Friends.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49684",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Resonant Friends.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Reverse Ensemble.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49685",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Reverse Ensemble.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Slightly Detuned.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49686",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Slightly Detuned.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Slow Filter.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49687",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Slow Filter.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Static Filter Delay.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49688",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Static Filter Delay.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Static Filter.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49689",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Static Filter.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Static Reverse.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49690",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Static Reverse.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Strange Pitch.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49691",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Strange Pitch.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Transforming Long Glide.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49692",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Transforming Long Glide.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Up Time Down Time.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49693",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Up Time Down Time.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Whistle Delay.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49694",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Whistle Delay.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Wide Drop.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49695",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Wide Drop.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Wide Pulse.adv",
+      "uri": "query:AudioFx#Delay%20&%20Loop:Vector%20Delay:Space:FileId_49696",
+      "path": "Audio Effects/Delay & Loop/Vector Delay/Space/Wide Pulse.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    }
+  ]
+}

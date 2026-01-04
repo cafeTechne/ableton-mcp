@@ -1,0 +1,73 @@
+{
+  "path": "Instruments/Drift/Percussive",
+  "name": "Percussive",
+  "uri": "query:Synths#Drift:Percussive",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Analog Ride.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Percussive:FileId_5786"
+    },
+    {
+      "name": "Analog Tom.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Percussive:FileId_5787"
+    },
+    {
+      "name": "FM Halfstep Clang.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Percussive:FileId_5788"
+    },
+    {
+      "name": "FM Halfstep Sticks.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Percussive:FileId_5789"
+    },
+    {
+      "name": "FM Halfstep Whirr.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Percussive:FileId_5790"
+    },
+    {
+      "name": "Hyper Pot.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Percussive:FileId_3899"
+    },
+    {
+      "name": "Hyper Snare.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Percussive:FileId_3900"
+    },
+    {
+      "name": "Lo-Fi Metal Hit.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Percussive:FileId_5791"
+    },
+    {
+      "name": "Lo-Fi Tech Tom.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Percussive:FileId_5792"
+    }
+  ]
+}

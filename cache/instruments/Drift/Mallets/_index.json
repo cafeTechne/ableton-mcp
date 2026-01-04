@@ -1,0 +1,94 @@
+{
+  "path": "Instruments/Drift/Mallets",
+  "name": "Mallets",
+  "uri": "query:Synths#Drift:Mallets",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Balsam Gamelan.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Mallets:FileId_3980"
+    },
+    {
+      "name": "Bell Wave.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Mallets:FileId_5806"
+    },
+    {
+      "name": "Corrosion Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Mallets:FileId_3988"
+    },
+    {
+      "name": "Dusty Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Mallets:FileId_3990"
+    },
+    {
+      "name": "Echo Bells.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Mallets:FileId_5807"
+    },
+    {
+      "name": "Ethereal Brushed Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Mallets:FileId_3991"
+    },
+    {
+      "name": "Hickory Bells.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Mallets:FileId_5808"
+    },
+    {
+      "name": "Majestic FM Bells.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Mallets:FileId_5809"
+    },
+    {
+      "name": "Metropolis Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Mallets:FileId_3995"
+    },
+    {
+      "name": "Ranger Bells.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Mallets:FileId_5810"
+    },
+    {
+      "name": "Synthetic Xylophone.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Mallets:FileId_5811"
+    },
+    {
+      "name": "Toy Xylophone.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Mallets:FileId_5812"
+    }
+  ]
+}

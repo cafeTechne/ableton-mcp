@@ -1,0 +1,81 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Drive_&_Color",
+  "name": "Overdrive",
+  "uri": "query:AudioFx#Drive%20&%20Color:Overdrive",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Filter Freq",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5372435450553894,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Filter Width",
+      "min": 0.5,
+      "max": 9.0,
+      "value": 6.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Drive",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 50.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Dry/Wet",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 50.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Tone",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 50.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Preserve Dynamics",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 6
+    }
+  ]
+}

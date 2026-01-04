@@ -1,0 +1,52 @@
+{
+  "path": "Instruments/Sampler/Synth Keys",
+  "name": "Synth Keys",
+  "uri": "query:Synths#Sampler:Synth%20Keys",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Classical Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Keys:FileId_5323"
+    },
+    {
+      "name": "Electroflow Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Keys:FileId_5324"
+    },
+    {
+      "name": "Lovely Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Keys:FileId_5325"
+    },
+    {
+      "name": "Metallic Love Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Keys:FileId_5326"
+    },
+    {
+      "name": "Smooth Synth Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Keys:FileId_5327"
+    },
+    {
+      "name": "Tempo Steppe Keys.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Synth%20Keys:FileId_5328"
+    }
+  ]
+}

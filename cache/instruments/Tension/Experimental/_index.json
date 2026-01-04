@@ -1,0 +1,17 @@
+{
+  "path": "Instruments/Tension/Experimental",
+  "name": "Experimental",
+  "uri": "query:Synths#Tension:Experimental",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Buzzsaw Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Experimental:FileId_43215"
+    }
+  ]
+}

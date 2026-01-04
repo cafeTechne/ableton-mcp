@@ -1,0 +1,443 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Reverb_&_Resonance",
+  "name": "Punchy Snare",
+  "uri": "query:AudioFx#Reverb%20&%20Resonance:Corpus:FileId_6580",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Resonance Type",
+      "min": 0.0,
+      "max": 6.0,
+      "value": 3.0,
+      "is_quantized": true,
+      "value_items": [
+        "Beam",
+        "Marimba",
+        "String",
+        "Membrane",
+        "Plate",
+        "Pipe",
+        "Tube"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Resonator Quality",
+      "min": 0.0,
+      "max": 3.0,
+      "value": 3.0,
+      "is_quantized": true,
+      "value_items": [
+        "Eco",
+        "Low",
+        "Med",
+        "High"
+      ],
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Tune",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Transpose",
+      "min": -48.0,
+      "max": 48.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Fine",
+      "min": -50.0,
+      "max": 50.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Spread",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Decay",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5714285969734192,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Material",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Radius",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Brightness",
+      "min": -1.0,
+      "max": 1.0,
+      "value": -0.365079402923584,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "Inharmonics",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.125,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "Opening",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "Ratio",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "Hit",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "Listening L",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.6349206566810608,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 15
+    },
+    {
+      "name": "Listening R",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.7460317611694336,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 16
+    },
+    {
+      "name": "LFO On/Off",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 17
+    },
+    {
+      "name": "LFO Shape",
+      "min": 0.0,
+      "max": 6.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Sine",
+        "Square",
+        "Triangle",
+        "SawUp",
+        "SawDown",
+        "Sample & Hold",
+        "Random Ramp"
+      ],
+      "unit": null,
+      "index": 18
+    },
+    {
+      "name": "LFO Sync",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Free",
+        "Sync"
+      ],
+      "unit": null,
+      "index": 19
+    },
+    {
+      "name": "LFO Rate",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.5,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 20
+    },
+    {
+      "name": "LFO Sync Rate",
+      "min": 0.0,
+      "max": 21.0,
+      "value": 4.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 21
+    },
+    {
+      "name": "LFO Stereo Mode",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Phase",
+        "Spin"
+      ],
+      "unit": null,
+      "index": 22
+    },
+    {
+      "name": "Spin",
+      "min": 0.0,
+      "max": 0.5,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 23
+    },
+    {
+      "name": "Phase",
+      "min": 0.0,
+      "max": 360.0,
+      "value": 180.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 24
+    },
+    {
+      "name": "Offset",
+      "min": 0.0,
+      "max": 360.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 25
+    },
+    {
+      "name": "LFO Amount",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 26
+    },
+    {
+      "name": "Filter On/Off",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 27
+    },
+    {
+      "name": "Mid Freq",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 28
+    },
+    {
+      "name": "Width",
+      "min": 0.5,
+      "max": 9.0,
+      "value": 8.46875,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 29
+    },
+    {
+      "name": "MIDI Frequency",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 30
+    },
+    {
+      "name": "MIDI Mode",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Last",
+        "Low"
+      ],
+      "unit": null,
+      "index": 31
+    },
+    {
+      "name": "PB Range",
+      "min": 0.0,
+      "max": 24.0,
+      "value": 5.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 32
+    },
+    {
+      "name": "Note Off",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 33
+    },
+    {
+      "name": "Off Decay",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 34
+    },
+    {
+      "name": "Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.7539682388305664,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 35
+    },
+    {
+      "name": "Width",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.4841269850730896,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 36
+    },
+    {
+      "name": "Bleed",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 37
+    },
+    {
+      "name": "Dry Wet",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 38
+    }
+  ]
+}

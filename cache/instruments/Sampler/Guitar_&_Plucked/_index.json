@@ -1,0 +1,171 @@
+{
+  "path": "Instruments/Sampler/Guitar & Plucked",
+  "name": "Guitar & Plucked",
+  "uri": "query:Synths#Sampler:Guitar%20&%20Plucked",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Ancient Greek Lyre (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_51284"
+    },
+    {
+      "name": "Battlestar Engine.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_51285"
+    },
+    {
+      "name": "Bell Guitar (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_51286"
+    },
+    {
+      "name": "Duelling Guitars.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_51287"
+    },
+    {
+      "name": "Geosmin Plucks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_51288"
+    },
+    {
+      "name": "Gliss Guitar (Multisampled C1-C4).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_51289"
+    },
+    {
+      "name": "Guitar Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_49489"
+    },
+    {
+      "name": "Guitar Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_49490"
+    },
+    {
+      "name": "Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_49491"
+    },
+    {
+      "name": "Guitar-Chopper Chords.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_49478"
+    },
+    {
+      "name": "Guitar-Dual Amped Crunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_49479"
+    },
+    {
+      "name": "Guitar-Dual Amped Heavy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_49480"
+    },
+    {
+      "name": "Guitar-French Guitar Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_49481"
+    },
+    {
+      "name": "Guitar-Pixelated.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_49482"
+    },
+    {
+      "name": "Guitar-Reverse FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_49483"
+    },
+    {
+      "name": "Guitar-Soft Tremolo Room.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_49484"
+    },
+    {
+      "name": "Guitar-The Kids Are Alright.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_49485"
+    },
+    {
+      "name": "Heavenly Plucks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_51290"
+    },
+    {
+      "name": "House Stab.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_3855"
+    },
+    {
+      "name": "Multipluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_51291"
+    },
+    {
+      "name": "One Note Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_51292"
+    },
+    {
+      "name": "Pizzicato Strings (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_51293"
+    },
+    {
+      "name": "Starry Notes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Guitar%20&%20Plucked:FileId_51294"
+    }
+  ]
+}

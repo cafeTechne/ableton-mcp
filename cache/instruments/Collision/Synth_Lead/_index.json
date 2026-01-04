@@ -1,0 +1,38 @@
+{
+  "path": "Instruments/Collision/Synth Lead",
+  "name": "Synth Lead",
+  "uri": "query:Synths#Collision:Synth%20Lead",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Minor Metal.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Lead:FileId_55512"
+    },
+    {
+      "name": "Mono Collide .adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Lead:FileId_55513"
+    },
+    {
+      "name": "SciFi Lobby.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Lead:FileId_61167"
+    },
+    {
+      "name": "Sonus.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Synth%20Lead:FileId_55518"
+    }
+  ]
+}

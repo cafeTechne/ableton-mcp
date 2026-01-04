@@ -1,0 +1,73 @@
+{
+  "path": "Instruments/Collision/Pad",
+  "name": "Pad",
+  "uri": "query:Synths#Collision:Pad",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Chopin Halloween.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Pad:FileId_61190"
+    },
+    {
+      "name": "Clouds Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Pad:FileId_49091"
+    },
+    {
+      "name": "Epilogue.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Pad:FileId_49096"
+    },
+    {
+      "name": "Fog Of Time Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Pad:FileId_43245"
+    },
+    {
+      "name": "Horizon.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Pad:FileId_43247"
+    },
+    {
+      "name": "Illustra Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Pad:FileId_43057"
+    },
+    {
+      "name": "Light Sweep Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Pad:FileId_43059"
+    },
+    {
+      "name": "Sandman Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Pad:FileId_3944"
+    },
+    {
+      "name": "Vivid Synth Dreams.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Pad:FileId_61222"
+    }
+  ]
+}

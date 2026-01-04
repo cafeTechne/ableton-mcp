@@ -1,0 +1,136 @@
+{
+  "path": "Instruments/Sampler/MPE Sounds",
+  "name": "MPE Sounds",
+  "uri": "query:Synths#Sampler:MPE%20Sounds",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "MPE Erosion (Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_36737"
+    },
+    {
+      "name": "MPE Erosion (Slide & Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_36738"
+    },
+    {
+      "name": "MPE Erosion (Slide) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_36739"
+    },
+    {
+      "name": "MPE Glacial (Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_59326"
+    },
+    {
+      "name": "MPE Glacial (Slide & Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_59327"
+    },
+    {
+      "name": "MPE Glacial (Slide) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_59328"
+    },
+    {
+      "name": "MPE Intimate (Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_36740"
+    },
+    {
+      "name": "MPE Intimate (Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_59329"
+    },
+    {
+      "name": "MPE Intimate (Slide & Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_36741"
+    },
+    {
+      "name": "MPE Intimate (Slide & Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_59330"
+    },
+    {
+      "name": "MPE Intimate (Slide) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_36742"
+    },
+    {
+      "name": "MPE Intimate (Slide) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_59331"
+    },
+    {
+      "name": "MPE Spectral (Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_59332"
+    },
+    {
+      "name": "MPE Spectral (Slide & Pressure) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_59333"
+    },
+    {
+      "name": "MPE Spectral (Slide) - String Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_59334"
+    },
+    {
+      "name": "MPE Vibrato (Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_36743"
+    },
+    {
+      "name": "MPE Vibrato (Slide & Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_36744"
+    },
+    {
+      "name": "MPE Vibrato (Slide) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:MPE%20Sounds:FileId_36745"
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "count": 79,
+  "items": [
+    {
+      "name": "Auto Pan",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Auto%20Pan",
+      "path": "Audio Effects/Pitch & Modulation/Auto Pan",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Chorus-Ensemble",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Chorus-Ensemble",
+      "path": "Audio Effects/Pitch & Modulation/Chorus-Ensemble",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Phaser-Flanger",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Phaser-Flanger",
+      "path": "Audio Effects/Pitch & Modulation/Phaser-Flanger",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Pitch Hack",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Pitch%20Hack",
+      "path": "Audio Effects/Pitch & Modulation/Pitch Hack",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Shifter",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter",
+      "path": "Audio Effects/Pitch & Modulation/Shifter",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Spectral Blur",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Spectral%20Blur",
+      "path": "Audio Effects/Pitch & Modulation/Spectral Blur",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "1to4 Note Contenders.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Auto%20Pan:FileId_6647",
+      "path": "Audio Effects/Pitch & Modulation/Auto Pan/1to4 Note Contenders.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "90 Degrees.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Auto%20Pan:FileId_6648",
+      "path": "Audio Effects/Pitch & Modulation/Auto Pan/90 Degrees.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Around The Head.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Auto%20Pan:FileId_6649",
+      "path": "Audio Effects/Pitch & Modulation/Auto Pan/Around The Head.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Chopper.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Auto%20Pan:FileId_6650",
+      "path": "Audio Effects/Pitch & Modulation/Auto Pan/Chopper.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Copycat.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Auto%20Pan:FileId_6651",
+      "path": "Audio Effects/Pitch & Modulation/Auto Pan/Copycat.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dizziness.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Auto%20Pan:FileId_6652",
+      "path": "Audio Effects/Pitch & Modulation/Auto Pan/Dizziness.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Pan-Asia.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Auto%20Pan:FileId_6653",
+      "path": "Audio Effects/Pitch & Modulation/Auto Pan/Pan-Asia.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Sharing.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Auto%20Pan:FileId_6654",
+      "path": "Audio Effects/Pitch & Modulation/Auto Pan/Sharing.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Shredder.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Auto%20Pan:FileId_6655",
+      "path": "Audio Effects/Pitch & Modulation/Auto Pan/Shredder.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Slow & Steady.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Auto%20Pan:FileId_6656",
+      "path": "Audio Effects/Pitch & Modulation/Auto Pan/Slow & Steady.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Subtle Stereo.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Auto%20Pan:FileId_6657",
+      "path": "Audio Effects/Pitch & Modulation/Auto Pan/Subtle Stereo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Suitcase Auto Pan.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Auto%20Pan:FileId_6658",
+      "path": "Audio Effects/Pitch & Modulation/Auto Pan/Suitcase Auto Pan.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Tremolo.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Auto%20Pan:FileId_6659",
+      "path": "Audio Effects/Pitch & Modulation/Auto Pan/Tremolo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Chorus Bass.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Chorus-Ensemble:FileId_6603",
+      "path": "Audio Effects/Pitch & Modulation/Chorus-Ensemble/Chorus Bass.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Chorus Classic.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Chorus-Ensemble:FileId_6604",
+      "path": "Audio Effects/Pitch & Modulation/Chorus-Ensemble/Chorus Classic.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Chorus Subtle Funk.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Chorus-Ensemble:FileId_6605",
+      "path": "Audio Effects/Pitch & Modulation/Chorus-Ensemble/Chorus Subtle Funk.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Ensemble Deep.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Chorus-Ensemble:FileId_6606",
+      "path": "Audio Effects/Pitch & Modulation/Chorus-Ensemble/Ensemble Deep.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Ensemble Feedback.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Chorus-Ensemble:FileId_6607",
+      "path": "Audio Effects/Pitch & Modulation/Chorus-Ensemble/Ensemble Feedback.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vibrato Kaleidoscope.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Chorus-Ensemble:FileId_6608",
+      "path": "Audio Effects/Pitch & Modulation/Chorus-Ensemble/Vibrato Kaleidoscope.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vibrato Spacial.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Chorus-Ensemble:FileId_6609",
+      "path": "Audio Effects/Pitch & Modulation/Chorus-Ensemble/Vibrato Spacial.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vibrato Subtle.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Chorus-Ensemble:FileId_6610",
+      "path": "Audio Effects/Pitch & Modulation/Chorus-Ensemble/Vibrato Subtle.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Warm Chorale.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Chorus-Ensemble:FileId_6611",
+      "path": "Audio Effects/Pitch & Modulation/Chorus-Ensemble/Warm Chorale.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Warm Ensemble.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Chorus-Ensemble:FileId_6612",
+      "path": "Audio Effects/Pitch & Modulation/Chorus-Ensemble/Warm Ensemble.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Doubler Ether.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Phaser-Flanger:FileId_6107",
+      "path": "Audio Effects/Pitch & Modulation/Phaser-Flanger/Doubler Ether.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Doubler Mirror.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Phaser-Flanger:FileId_6108",
+      "path": "Audio Effects/Pitch & Modulation/Phaser-Flanger/Doubler Mirror.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Doubler Thick.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Phaser-Flanger:FileId_6109",
+      "path": "Audio Effects/Pitch & Modulation/Phaser-Flanger/Doubler Thick.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Flanger Rebound.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Phaser-Flanger:FileId_6110",
+      "path": "Audio Effects/Pitch & Modulation/Phaser-Flanger/Flanger Rebound.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Flanger Spinning.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Phaser-Flanger:FileId_6111",
+      "path": "Audio Effects/Pitch & Modulation/Phaser-Flanger/Flanger Spinning.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Flanger Warm.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Phaser-Flanger:FileId_6112",
+      "path": "Audio Effects/Pitch & Modulation/Phaser-Flanger/Flanger Warm.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Phaser Feedback.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Phaser-Flanger:FileId_6113",
+      "path": "Audio Effects/Pitch & Modulation/Phaser-Flanger/Phaser Feedback.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Phaser Follower.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Phaser-Flanger:FileId_6114",
+      "path": "Audio Effects/Pitch & Modulation/Phaser-Flanger/Phaser Follower.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Phaser Guitar.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Phaser-Flanger:FileId_6115",
+      "path": "Audio Effects/Pitch & Modulation/Phaser-Flanger/Phaser Guitar.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Phaser Particle Alliance.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Phaser-Flanger:FileId_6116",
+      "path": "Audio Effects/Pitch & Modulation/Phaser-Flanger/Phaser Particle Alliance.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "5 Cents Descent.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Pitch%20Hack:FileId_41188",
+      "path": "Audio Effects/Pitch & Modulation/Pitch Hack/5 Cents Descent.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Aerc Move.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Pitch%20Hack:FileId_41189",
+      "path": "Audio Effects/Pitch & Modulation/Pitch Hack/Aerc Move.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Ascension.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Pitch%20Hack:FileId_41190",
+      "path": "Audio Effects/Pitch & Modulation/Pitch Hack/Ascension.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Deep.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Pitch%20Hack:FileId_41191",
+      "path": "Audio Effects/Pitch & Modulation/Pitch Hack/Deep.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Down Spirale.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Pitch%20Hack:FileId_41192",
+      "path": "Audio Effects/Pitch & Modulation/Pitch Hack/Down Spirale.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Octave Stacking.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Pitch%20Hack:FileId_41193",
+      "path": "Audio Effects/Pitch & Modulation/Pitch Hack/Octave Stacking.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Spagetti.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Pitch%20Hack:FileId_41194",
+      "path": "Audio Effects/Pitch & Modulation/Pitch Hack/Spagetti.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Up and Down.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Pitch%20Hack:FileId_41195",
+      "path": "Audio Effects/Pitch & Modulation/Pitch Hack/Up and Down.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Autonomous Photon Ray.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5975",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Autonomous Photon Ray.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Damien.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5977",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Damien.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dirty Tonal.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5978",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Dirty Tonal.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dirty Tremolo.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5979",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Dirty Tremolo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "DTMF.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5976",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/DTMF.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Electric Distortion.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5980",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Electric Distortion.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Mud Slide.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5981",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Mud Slide.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Phasing.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5982",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Phasing.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Race Car.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5983",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Race Car.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Ring.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5984",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Ring.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Scrapulator.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5985",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Scrapulator.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Shifter Flanger.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5986",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Shifter Flanger.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Shifter Tremolo.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5987",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Shifter Tremolo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Slow Motion Drive.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5988",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Slow Motion Drive.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Space Syncopations.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5989",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Space Syncopations.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Spacebirds.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5990",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Spacebirds.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Stereo Vibrato.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5991",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Stereo Vibrato.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Tape Malfunction.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5992",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Tape Malfunction.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Transmission.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5993",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Transmission.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Trillswitch.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5994",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Trillswitch.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Twisted Riser.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5995",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Twisted Riser.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Whammy Nudge.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5996",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Whammy Nudge.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Wibble.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5997",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Wibble.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Wobbly Octave Down.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Shifter:FileId_5998",
+      "path": "Audio Effects/Pitch & Modulation/Shifter/Wobbly Octave Down.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Band Echo.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Spectral%20Blur:FileId_41212",
+      "path": "Audio Effects/Pitch & Modulation/Spectral Blur/Band Echo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Blue Room.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Spectral%20Blur:FileId_41213",
+      "path": "Audio Effects/Pitch & Modulation/Spectral Blur/Blue Room.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dark Room.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Spectral%20Blur:FileId_41214",
+      "path": "Audio Effects/Pitch & Modulation/Spectral Blur/Dark Room.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Red Room.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Spectral%20Blur:FileId_41215",
+      "path": "Audio Effects/Pitch & Modulation/Spectral Blur/Red Room.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Spectral Ambience.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Spectral%20Blur:FileId_41216",
+      "path": "Audio Effects/Pitch & Modulation/Spectral Blur/Spectral Ambience.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Tinnitus.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Spectral%20Blur:FileId_41217",
+      "path": "Audio Effects/Pitch & Modulation/Spectral Blur/Tinnitus.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Tremblement.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Spectral%20Blur:FileId_41218",
+      "path": "Audio Effects/Pitch & Modulation/Spectral Blur/Tremblement.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "White Room.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Spectral%20Blur:FileId_41219",
+      "path": "Audio Effects/Pitch & Modulation/Spectral Blur/White Room.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    }
+  ]
+}

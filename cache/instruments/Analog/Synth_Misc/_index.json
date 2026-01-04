@@ -1,0 +1,31 @@
+{
+  "path": "Instruments/Analog/Synth Misc",
+  "name": "Synth Misc",
+  "uri": "query:Synths#Analog:Synth%20Misc",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Rise Wobble.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Misc:FileId_59618"
+    },
+    {
+      "name": "Short Tube.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Misc:FileId_59619"
+    },
+    {
+      "name": "Vintage Flute.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Misc:FileId_59620"
+    }
+  ]
+}

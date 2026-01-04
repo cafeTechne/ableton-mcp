@@ -1,0 +1,31 @@
+{
+  "path": "Instruments/Collision/Experimental",
+  "name": "Experimental",
+  "uri": "query:Synths#Collision:Experimental",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Chime Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Experimental:FileId_43217"
+    },
+    {
+      "name": "Forgotten Gong FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Experimental:FileId_43222"
+    },
+    {
+      "name": "Heavy Air.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Experimental:FileId_43226"
+    }
+  ]
+}

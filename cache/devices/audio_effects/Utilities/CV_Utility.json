@@ -1,0 +1,207 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Utilities",
+  "name": "CV Utility",
+  "uri": "query:AudioFx#Utilities:CV%20Utility",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Audio In",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Active 1",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Active 2",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Active 3",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "CV Amt 1",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 100.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "CV Amt 2",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 100.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "CV Amt 3",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 100.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "CV 1",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "CV 2",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "CV 3",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "Depth",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 100.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "Max",
+      "min": -100.0,
+      "max": 100.0,
+      "value": 100.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "Min",
+      "min": -100.0,
+      "max": 100.0,
+      "value": -100.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "Offset",
+      "min": -100.0,
+      "max": 100.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "Smooth",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 15
+    },
+    {
+      "name": "CV To",
+      "min": 0.0,
+      "max": 12.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "No Output",
+        "CV 1L",
+        "CV 1R",
+        "CV 2L",
+        "CV 2R",
+        "ADAT 1",
+        "ADAT 2",
+        "ADAT 3",
+        "ADAT 4",
+        "ADAT 5",
+        "ADAT 6",
+        "ADAT 7",
+        "ADAT 8"
+      ],
+      "unit": null,
+      "index": 16
+    }
+  ]
+}

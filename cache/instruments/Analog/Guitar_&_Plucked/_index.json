@@ -1,0 +1,45 @@
+{
+  "path": "Instruments/Analog/Guitar & Plucked",
+  "name": "Guitar & Plucked",
+  "uri": "query:Synths#Analog:Guitar%20&%20Plucked",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Coral Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Guitar%20&%20Plucked:FileId_43003"
+    },
+    {
+      "name": "Prayer Squayer.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Guitar%20&%20Plucked:FileId_59606"
+    },
+    {
+      "name": "String Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Guitar%20&%20Plucked:FileId_59607"
+    },
+    {
+      "name": "Unjazzy Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Guitar%20&%20Plucked:FileId_59608"
+    },
+    {
+      "name": "Uplift Upside.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Guitar%20&%20Plucked:FileId_43010"
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "path": "Instruments/Analog/Synth Rhythmic",
+  "name": "Synth Rhythmic",
+  "uri": "query:Synths#Analog:Synth%20Rhythmic",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Anti Gravity.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_61229"
+    },
+    {
+      "name": "ARP Hatter.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_38431"
+    },
+    {
+      "name": "Arp Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_61230"
+    },
+    {
+      "name": "Ascend Squares.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_61231"
+    },
+    {
+      "name": "Atmostronic Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_61232"
+    },
+    {
+      "name": "Chaos Agent.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_54513"
+    },
+    {
+      "name": "Chaos Driver.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_54514"
+    },
+    {
+      "name": "Crispy 7th.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_54515"
+    },
+    {
+      "name": "Dark Forest Synth Sequence.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_43076"
+    },
+    {
+      "name": "Dog Walker.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_61237"
+    },
+    {
+      "name": "Drum Base.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_49121"
+    },
+    {
+      "name": "Flight Time.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_43077"
+    },
+    {
+      "name": "Heliotropic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_61242"
+    },
+    {
+      "name": "Holding Pattern Seq.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_55526"
+    },
+    {
+      "name": "House Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_61243"
+    },
+    {
+      "name": "Majestic Minions.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_54518"
+    },
+    {
+      "name": "Melodian.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_54520"
+    },
+    {
+      "name": "Mi-Go Down.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_49125"
+    },
+    {
+      "name": "Mod Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_43082"
+    },
+    {
+      "name": "Modular Bass Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_61252"
+    },
+    {
+      "name": "Nein Chords.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_59281"
+    },
+    {
+      "name": "Octave Jumper.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_59628"
+    },
+    {
+      "name": "Past Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_43083"
+    },
+    {
+      "name": "Prodigal Bass Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_61258"
+    },
+    {
+      "name": "PW Sync Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_61259"
+    },
+    {
+      "name": "Runscape.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_43085"
+    },
+    {
+      "name": "SAW It Up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_38440"
+    },
+    {
+      "name": "Saw Plus Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_61261"
+    },
+    {
+      "name": "Sencha Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_3724"
+    },
+    {
+      "name": "Short Circuit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_49135"
+    },
+    {
+      "name": "Silen Chord.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_59284"
+    },
+    {
+      "name": "SQR Arpy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_61264"
+    },
+    {
+      "name": "SQUeggiator.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_38447"
+    },
+    {
+      "name": "Stop Short.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_59629"
+    },
+    {
+      "name": "Sufi Whirling.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_59285"
+    },
+    {
+      "name": "Sumptuous.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_49136"
+    },
+    {
+      "name": "Surfing Stratus.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_38448"
+    },
+    {
+      "name": "Timeless Vault.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_61270"
+    },
+    {
+      "name": "Twins At Sunset.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_51260"
+    },
+    {
+      "name": "Uplift Strings Arp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Synth%20Rhythmic:FileId_3730"
+    }
+  ]
+}

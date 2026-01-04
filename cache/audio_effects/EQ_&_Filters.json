@@ -1,0 +1,754 @@
+{
+  "count": 107,
+  "items": [
+    {
+      "name": "Auto Filter",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter",
+      "path": "Audio Effects/EQ & Filters/Auto Filter",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Channel EQ",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Channel%20EQ",
+      "path": "Audio Effects/EQ & Filters/Channel EQ",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "EQ Eight",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight",
+      "path": "Audio Effects/EQ & Filters/EQ Eight",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "EQ Three",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Three",
+      "path": "Audio Effects/EQ & Filters/EQ Three",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bandpass Spinner.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6661",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Bandpass Spinner.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Beat Mosaic.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6662",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Beat Mosaic.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "BP Spreader.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6660",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/BP Spreader.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Crashing Waves.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6663",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Crashing Waves.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Cut-O-Move H.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6664",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Cut-O-Move H.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Cut-O-Move L.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6665",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Cut-O-Move L.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Elastic Band.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6666",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Elastic Band.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Envelope Down.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6667",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Envelope Down.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Follow me.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6668",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Follow me.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Kick Boom.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6669",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Kick Boom.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Kick Drum Remover.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6670",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Kick Drum Remover.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Nebulo.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6671",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Nebulo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Notch Step.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6672",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Notch Step.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Only the good parts.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6673",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Only the good parts.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Rubber Flooring.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6674",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Rubber Flooring.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Silicon Flooring.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6675",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Silicon Flooring.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Slide Away.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6676",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Slide Away.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Snare Sizzle.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6677",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Snare Sizzle.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Stereo Notch.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6678",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Stereo Notch.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Swirl.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6679",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Swirl.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Thin Mover.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6680",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Thin Mover.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Top Spreader.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6681",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Top Spreader.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Tops Off & Crunch.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6682",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Tops Off & Crunch.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Tranqed.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Auto%20Filter:FileId_6683",
+      "path": "Audio Effects/EQ & Filters/Auto Filter/Tranqed.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Boom Capture.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Channel%20EQ:FileId_6613",
+      "path": "Audio Effects/EQ & Filters/Channel EQ/Boom Capture.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum Loop Smoother.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Channel%20EQ:FileId_6614",
+      "path": "Audio Effects/EQ & Filters/Channel EQ/Drum Loop Smoother.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Heartbeat Kick.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Channel%20EQ:FileId_6615",
+      "path": "Audio Effects/EQ & Filters/Channel EQ/Heartbeat Kick.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Hi End Regulator.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Channel%20EQ:FileId_6616",
+      "path": "Audio Effects/EQ & Filters/Channel EQ/Hi End Regulator.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Hi Hat Boost.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Channel%20EQ:FileId_6617",
+      "path": "Audio Effects/EQ & Filters/Channel EQ/Hi Hat Boost.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Keys Bright.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Channel%20EQ:FileId_6618",
+      "path": "Audio Effects/EQ & Filters/Channel EQ/Keys Bright.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Middle Area.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Channel%20EQ:FileId_6619",
+      "path": "Audio Effects/EQ & Filters/Channel EQ/Middle Area.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Radio 40's.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Channel%20EQ:FileId_6620",
+      "path": "Audio Effects/EQ & Filters/Channel EQ/Radio 40's.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Snare Focus.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Channel%20EQ:FileId_6621",
+      "path": "Audio Effects/EQ & Filters/Channel EQ/Snare Focus.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Upper Middle.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:Channel%20EQ:FileId_6622",
+      "path": "Audio Effects/EQ & Filters/Channel EQ/Upper Middle.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Boost HiHats.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Three:FileId_6427",
+      "path": "Audio Effects/EQ & Filters/EQ Three/Boost HiHats.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Edges.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Three:FileId_6428",
+      "path": "Audio Effects/EQ & Filters/EQ Three/Edges.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Hi.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Three:FileId_6429",
+      "path": "Audio Effects/EQ & Filters/EQ Three/Hi.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Infrasonic.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Three:FileId_6430",
+      "path": "Audio Effects/EQ & Filters/EQ Three/Infrasonic.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Less Low More Mid.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Three:FileId_6431",
+      "path": "Audio Effects/EQ & Filters/EQ Three/Less Low More Mid.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Midnight.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Three:FileId_6432",
+      "path": "Audio Effects/EQ & Filters/EQ Three/Midnight.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Remove.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Three:FileId_6433",
+      "path": "Audio Effects/EQ & Filters/EQ Three/Remove.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Cymbal EQ 1.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Drums:FileId_6486",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Drums/Cymbal EQ 1.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Cymbal EQ 2.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Drums:FileId_6487",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Drums/Cymbal EQ 2.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Floor Tom EQ 1.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Drums:FileId_6488",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Drums/Floor Tom EQ 1.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Floor Tom EQ 2.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Drums:FileId_6489",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Drums/Floor Tom EQ 2.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Hat EQ 1.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Drums:FileId_6490",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Drums/Hat EQ 1.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Hat EQ 2.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Drums:FileId_6491",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Drums/Hat EQ 2.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Kick EQ 1.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Drums:FileId_6492",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Drums/Kick EQ 1.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Kick EQ 2.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Drums:FileId_6493",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Drums/Kick EQ 2.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Kick EQ 3.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Drums:FileId_6494",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Drums/Kick EQ 3.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Kick EQ 4.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Drums:FileId_6495",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Drums/Kick EQ 4.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Rack Tom EQ 1.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Drums:FileId_6496",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Drums/Rack Tom EQ 1.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Rack Tom EQ 2.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Drums:FileId_6497",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Drums/Rack Tom EQ 2.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Snare EQ 1.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Drums:FileId_6498",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Drums/Snare EQ 1.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Snare EQ 2.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Drums:FileId_6499",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Drums/Snare EQ 2.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Snare EQ 3.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Drums:FileId_6500",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Drums/Snare EQ 3.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Center Kill.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Filter:FileId_6468",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Filter/Center Kill.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Cheesy Speaker.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Filter:FileId_6469",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Filter/Cheesy Speaker.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Curved.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Filter:FileId_6470",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Filter/Curved.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Dance Master.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Filter:FileId_6471",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Filter/Dance Master.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Gentle Vintage.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Filter:FileId_6472",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Filter/Gentle Vintage.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "In the Air.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Filter:FileId_6473",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Filter/In the Air.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Lo-Hi Shelf.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Filter:FileId_6474",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Filter/Lo-Hi Shelf.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Loop Aid.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Filter:FileId_6475",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Filter/Loop Aid.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "LowCut.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Filter:FileId_6476",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Filter/LowCut.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Notch 4.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Filter:FileId_6477",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Filter/Notch 4.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Phat Low.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Filter:FileId_6478",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Filter/Phat Low.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Power Book Boost.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Filter:FileId_6479",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Filter/Power Book Boost.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Stereo Effect I.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Filter:FileId_6480",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Filter/Stereo Effect I.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Stereo Effect II.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Filter:FileId_6481",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Filter/Stereo Effect II.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "String and Snap.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Filter:FileId_6482",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Filter/String and Snap.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Ultra High.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Filter:FileId_6483",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Filter/Ultra High.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Xtra Low.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Filter:FileId_6484",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Filter/Xtra Low.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Singing A.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Formant:FileId_6456",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Formant/Singing A.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Singing C.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Formant:FileId_6457",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Formant/Singing C.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Singing E.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Formant:FileId_6458",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Formant/Singing E.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Singing G.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Formant:FileId_6459",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Formant/Singing G.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vocal A.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Formant:FileId_6460",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Formant/Vocal A.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vocal E.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Formant:FileId_6461",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Formant/Vocal E.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vocal I.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Formant:FileId_6462",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Formant/Vocal I.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vocal O.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Formant:FileId_6463",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Formant/Vocal O.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vocal OE.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Formant:FileId_6464",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Formant/Vocal OE.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vocal U.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Formant:FileId_6465",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Formant/Vocal U.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vocal UU.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Formant:FileId_6466",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Formant/Vocal UU.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Acoustic Git EQ 1.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Instrument:FileId_6442",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Instrument/Acoustic Git EQ 1.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Acoustic Git EQ 2.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Instrument:FileId_6443",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Instrument/Acoustic Git EQ 2.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bright Acoustic Guitar.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Instrument:FileId_6444",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Instrument/Bright Acoustic Guitar.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Clear Acoustic Guitar.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Instrument:FileId_6445",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Instrument/Clear Acoustic Guitar.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "E Bass Modern.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Instrument:FileId_6446",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Instrument/E Bass Modern.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "E Bass Vintage.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Instrument:FileId_6447",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Instrument/E Bass Vintage.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Electric Git EQ 1.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Instrument:FileId_6448",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Instrument/Electric Git EQ 1.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Electric Git EQ 2.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Instrument:FileId_6449",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Instrument/Electric Git EQ 2.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Funky E Guitar.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Instrument:FileId_6450",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Instrument/Funky E Guitar.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Piano EQ 1.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Instrument:FileId_6451",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Instrument/Piano EQ 1.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Piano EQ 2.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Instrument:FileId_6452",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Instrument/Piano EQ 2.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Strings EQ 1.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Instrument:FileId_6453",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Instrument/Strings EQ 1.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Strings EQ 2.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Instrument:FileId_6454",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Instrument/Strings EQ 2.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Airy Vocal.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Vocal:FileId_6435",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Vocal/Airy Vocal.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Light Vocal.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Vocal:FileId_6436",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Vocal/Light Vocal.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Remove Mud.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Vocal:FileId_6437",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Vocal/Remove Mud.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Remove Nasal Frequencies.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Vocal:FileId_6438",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Vocal/Remove Nasal Frequencies.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Telephone Vocal.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Vocal:FileId_6439",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Vocal/Telephone Vocal.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vocal Presence.adv",
+      "uri": "query:AudioFx#EQ%20&%20Filters:EQ%20Eight:Vocal:FileId_6440",
+      "path": "Audio Effects/EQ & Filters/EQ Eight/Vocal/Vocal Presence.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    }
+  ]
+}

@@ -1,0 +1,1221 @@
+{
+  "path": "Sounds/Experimental",
+  "name": "Experimental",
+  "uri": "query:Sounds#Experimental",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "1 2 3 4 5 6 7.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49605"
+    },
+    {
+      "name": "2 Points.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49739"
+    },
+    {
+      "name": "3RDEYEZ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43213"
+    },
+    {
+      "name": "360 Toss.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49606"
+    },
+    {
+      "name": "Airy (Press Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49637"
+    },
+    {
+      "name": "Alien Transmission.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49638"
+    },
+    {
+      "name": "Aliensssss.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49740"
+    },
+    {
+      "name": "Alternating.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49639"
+    },
+    {
+      "name": "Atonal.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49607"
+    },
+    {
+      "name": "Baby or Cat.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49697"
+    },
+    {
+      "name": "Back and Forth.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49608"
+    },
+    {
+      "name": "Back2Front.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49609"
+    },
+    {
+      "name": "Beat Stutter.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49741"
+    },
+    {
+      "name": "Bell Freezes.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49610"
+    },
+    {
+      "name": "Binaural Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43214"
+    },
+    {
+      "name": "Breathing Metal.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49640"
+    },
+    {
+      "name": "Broken Beat.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49742"
+    },
+    {
+      "name": "Broken Synth 2 (Press Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49698"
+    },
+    {
+      "name": "Broken Synth.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49699"
+    },
+    {
+      "name": "Brutal Drop.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49700"
+    },
+    {
+      "name": "Brutal Feedback.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49641"
+    },
+    {
+      "name": "Brutal Magnet.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49701"
+    },
+    {
+      "name": "Buzzsaw Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43215"
+    },
+    {
+      "name": "Buzzy Field.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49702"
+    },
+    {
+      "name": "Canyon Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43216"
+    },
+    {
+      "name": "Celebration.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49743"
+    },
+    {
+      "name": "Chill and Low.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49611"
+    },
+    {
+      "name": "Chill Magnets.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49744"
+    },
+    {
+      "name": "Chime Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43217"
+    },
+    {
+      "name": "Clicky Sub.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49642"
+    },
+    {
+      "name": "Cute.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49703"
+    },
+    {
+      "name": "Cyber Angel Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43218"
+    },
+    {
+      "name": "Cylinder.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43219"
+    },
+    {
+      "name": "Deep Dim.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49643"
+    },
+    {
+      "name": "Delicate FB.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49644"
+    },
+    {
+      "name": "Distant Thunder FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43220"
+    },
+    {
+      "name": "Double Dawn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43221"
+    },
+    {
+      "name": "Double Trees.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49645"
+    },
+    {
+      "name": "Downer.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49704"
+    },
+    {
+      "name": "Duo Magnets.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49705"
+    },
+    {
+      "name": "Eighth-Tone-Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43263"
+    },
+    {
+      "name": "Electricute.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49706"
+    },
+    {
+      "name": "Endless Loop.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49707"
+    },
+    {
+      "name": "Fade In.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49708"
+    },
+    {
+      "name": "Feedback Keys (Press Keys).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49646"
+    },
+    {
+      "name": "FF Sections.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49745"
+    },
+    {
+      "name": "Flowfield Beauty (Press Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49709"
+    },
+    {
+      "name": "Follow the Leader.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49710"
+    },
+    {
+      "name": "Forgotten Gong FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43222"
+    },
+    {
+      "name": "Freeze Around.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49612"
+    },
+    {
+      "name": "Funky Rhythm.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49746"
+    },
+    {
+      "name": "Gentle Ambience.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49613"
+    },
+    {
+      "name": "Go Away.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49711"
+    },
+    {
+      "name": "Goldelse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43208"
+    },
+    {
+      "name": "Golden Gate Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43223"
+    },
+    {
+      "name": "Grain Stretch.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49747"
+    },
+    {
+      "name": "Gust.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49647"
+    },
+    {
+      "name": "Hallow Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43224"
+    },
+    {
+      "name": "Happy Flute.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49748"
+    },
+    {
+      "name": "Harmonic Drone Generator",
+      "is_folder": false,
+      "is_device": true,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43209"
+    },
+    {
+      "name": "Haunted Voltage FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43225"
+    },
+    {
+      "name": "Haunting.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49614"
+    },
+    {
+      "name": "Heavy Air.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43226"
+    },
+    {
+      "name": "Hourglass Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43227"
+    },
+    {
+      "name": "In Space.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49749"
+    },
+    {
+      "name": "Interference Transmission.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49712"
+    },
+    {
+      "name": "Internal Routing.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43228"
+    },
+    {
+      "name": "Juggler Pt2.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49615"
+    },
+    {
+      "name": "Juggler.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49616"
+    },
+    {
+      "name": "Jump and Hold.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49617"
+    },
+    {
+      "name": "Key Toss.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49618"
+    },
+    {
+      "name": "Life.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49750"
+    },
+    {
+      "name": "Lofi Beat.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49619"
+    },
+    {
+      "name": "Machine from 2077.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43210"
+    },
+    {
+      "name": "Meow Fart.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49713"
+    },
+    {
+      "name": "Merry Go Round.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49751"
+    },
+    {
+      "name": "More Bells.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49620"
+    },
+    {
+      "name": "More Glitchy Drums.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49752"
+    },
+    {
+      "name": "MPE Feedback Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43238"
+    },
+    {
+      "name": "MPE Machine Noise.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43239"
+    },
+    {
+      "name": "MPE Water Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43240"
+    },
+    {
+      "name": "Multi Force.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49753"
+    },
+    {
+      "name": "Narrow Path.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49621"
+    },
+    {
+      "name": "Nasty Noise Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43229"
+    },
+    {
+      "name": "Neo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49622"
+    },
+    {
+      "name": "Nice Drone.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49648"
+    },
+    {
+      "name": "Noise Mallet (Press Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49649"
+    },
+    {
+      "name": "Octave Looper (Press Keys).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49754"
+    },
+    {
+      "name": "Old Horn Texture.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49623"
+    },
+    {
+      "name": "Old Wind.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49650"
+    },
+    {
+      "name": "Pan Rhythm.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49651"
+    },
+    {
+      "name": "Parsec Breach.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43230"
+    },
+    {
+      "name": "Passive Attraction.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49755"
+    },
+    {
+      "name": "Peaceful.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49756"
+    },
+    {
+      "name": "Pentatonic Wind (Press Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49652"
+    },
+    {
+      "name": "Petrol-Driven Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43211"
+    },
+    {
+      "name": "Poly Synth (Play Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49714"
+    },
+    {
+      "name": "Poly Synth 1 (Play Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49624"
+    },
+    {
+      "name": "Poly Synth 2 (Play Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49715"
+    },
+    {
+      "name": "Poly Synth 2 (Press Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49625"
+    },
+    {
+      "name": "Poly Synth 3 (Play Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49626"
+    },
+    {
+      "name": "Pretty Lofi Drone.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49653"
+    },
+    {
+      "name": "Pretty Pull.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49757"
+    },
+    {
+      "name": "Prophets.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43231"
+    },
+    {
+      "name": "Psst.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49716"
+    },
+    {
+      "name": "Psychotic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49717"
+    },
+    {
+      "name": "Pulsing.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49654"
+    },
+    {
+      "name": "Quadrants.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49627"
+    },
+    {
+      "name": "Quick Spread (Press Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49655"
+    },
+    {
+      "name": "Razor Wire Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43232"
+    },
+    {
+      "name": "Repeat Rates.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49628"
+    },
+    {
+      "name": "Resonant Melody (Press Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49656"
+    },
+    {
+      "name": "Resonant Wind.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49718"
+    },
+    {
+      "name": "Rise (Press Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49657"
+    },
+    {
+      "name": "Robot Cow.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49719"
+    },
+    {
+      "name": "Rotational Player (Press Keys).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49720"
+    },
+    {
+      "name": "Rotational.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49721"
+    },
+    {
+      "name": "Rumble Big.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49722"
+    },
+    {
+      "name": "Rumble.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49723"
+    },
+    {
+      "name": "Shoegazer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43233"
+    },
+    {
+      "name": "Silent Night Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43234"
+    },
+    {
+      "name": "Simple Flowfield.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49724"
+    },
+    {
+      "name": "Simple Move.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49758"
+    },
+    {
+      "name": "Siney.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49725"
+    },
+    {
+      "name": "Singing Trombone.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49759"
+    },
+    {
+      "name": "Sireny.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49658"
+    },
+    {
+      "name": "Skies Below.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43212"
+    },
+    {
+      "name": "Slow Harm.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49726"
+    },
+    {
+      "name": "Slow Motion 2.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49629"
+    },
+    {
+      "name": "Slow Motion.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49630"
+    },
+    {
+      "name": "Slow Scrub.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49631"
+    },
+    {
+      "name": "Slow Spread (Hold Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49659"
+    },
+    {
+      "name": "Slow Travel (Press Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49632"
+    },
+    {
+      "name": "Smile.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49727"
+    },
+    {
+      "name": "Snow Mallet (Press Keys).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49660"
+    },
+    {
+      "name": "Solfeggio Mirror Forks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43265"
+    },
+    {
+      "name": "Solfeggio Mirror Gongs.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43266"
+    },
+    {
+      "name": "Spaghetti Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43235"
+    },
+    {
+      "name": "Static Chain.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49728"
+    },
+    {
+      "name": "Static Chord.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49729"
+    },
+    {
+      "name": "Static FM.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49730"
+    },
+    {
+      "name": "Static Looping.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49760"
+    },
+    {
+      "name": "Static Sine.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49731"
+    },
+    {
+      "name": "Stretch Modulation.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49633"
+    },
+    {
+      "name": "Strum.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49761"
+    },
+    {
+      "name": "Stuck in the Wind.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49732"
+    },
+    {
+      "name": "Swing.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49733"
+    },
+    {
+      "name": "Switch.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49634"
+    },
+    {
+      "name": "Tapping Around.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49661"
+    },
+    {
+      "name": "Tree Tone - Feedback.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49662"
+    },
+    {
+      "name": "Trem.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49663"
+    },
+    {
+      "name": "Turtle Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43236"
+    },
+    {
+      "name": "Twig.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49664"
+    },
+    {
+      "name": "Upper.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49734"
+    },
+    {
+      "name": "Variations.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49635"
+    },
+    {
+      "name": "Vector Grain Feedback.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49762"
+    },
+    {
+      "name": "Vortex Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43237"
+    },
+    {
+      "name": "Walls.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49636"
+    },
+    {
+      "name": "Wandering Ambience.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49763"
+    },
+    {
+      "name": "Watch Out.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49735"
+    },
+    {
+      "name": "Weak Attraction.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49764"
+    },
+    {
+      "name": "Weird Harmony.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49765"
+    },
+    {
+      "name": "Weird Magnets.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49736"
+    },
+    {
+      "name": "Wewewo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49737"
+    },
+    {
+      "name": "Windy Melody (Press Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49665"
+    },
+    {
+      "name": "Windy Transmission.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49666"
+    },
+    {
+      "name": "Wubble.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49738"
+    },
+    {
+      "name": "X3RKABA.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43267"
+    },
+    {
+      "name": "XARP.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43268"
+    },
+    {
+      "name": "XEMF.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43269"
+    },
+    {
+      "name": "XITHER.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_43270"
+    },
+    {
+      "name": "Zero Gravity.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49766"
+    },
+    {
+      "name": "ZigZag Beat.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Experimental:FileId_49767"
+    }
+  ]
+}

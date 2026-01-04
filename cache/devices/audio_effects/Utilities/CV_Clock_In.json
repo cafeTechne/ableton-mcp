@@ -1,0 +1,157 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Utilities",
+  "name": "CV Clock In",
+  "uri": "query:AudioFx#Utilities:CV%20Clock%20In",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Clock",
+      "min": 0.0,
+      "max": 10.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "No Input",
+        "1",
+        "2",
+        "ADAT 1",
+        "ADAT 2",
+        "ADAT 3",
+        "ADAT 4",
+        "ADAT 5",
+        "ADAT 6",
+        "ADAT 7",
+        "ADAT 8"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Transport",
+      "min": 0.0,
+      "max": 10.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "No Input",
+        "1",
+        "2",
+        "ADAT 1",
+        "ADAT 2",
+        "ADAT 3",
+        "ADAT 4",
+        "ADAT 5",
+        "ADAT 6",
+        "ADAT 7",
+        "ADAT 8"
+      ],
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Tempo On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Taps",
+      "min": 0.0,
+      "max": 6.0,
+      "value": 2.0,
+      "is_quantized": true,
+      "value_items": [
+        "4th",
+        "8th",
+        "16ths",
+        "32nd",
+        "24 PPQN",
+        "48 PPQN",
+        "96 PPQN"
+      ],
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Transport On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Transp. Mode",
+      "min": 0.0,
+      "max": 3.0,
+      "value": 2.0,
+      "is_quantized": true,
+      "value_items": [
+        "Play",
+        "Stop",
+        "Toggle",
+        "Gate"
+      ],
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Restart",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Restart",
+        "Resume"
+      ],
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Thresh",
+      "min": 0.009999999776482582,
+      "max": 0.800000011920929,
+      "value": 0.5012877583503723,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Thresh",
+      "min": 0.009999999776482582,
+      "max": 0.800000011920929,
+      "value": 0.5012877583503723,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    }
+  ]
+}

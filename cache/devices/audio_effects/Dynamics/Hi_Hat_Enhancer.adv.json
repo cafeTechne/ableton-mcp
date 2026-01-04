@@ -1,0 +1,210 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Dynamics",
+  "name": "Hi Hat Enhancer",
+  "uri": "query:AudioFx#Dynamics:Re-Enveloper:FileId_41202",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Attack",
+      "min": 0.009999999776482582,
+      "max": 500.0,
+      "value": 6.510654449462891,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Attack",
+      "min": 0.009999999776482582,
+      "max": 500.0,
+      "value": 22.258373260498047,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Attack",
+      "min": 0.009999999776482582,
+      "max": 500.0,
+      "value": 39.37929153442383,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Band A",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "off",
+        "on"
+      ],
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Band B",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "off",
+        "on"
+      ],
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Band C",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "off",
+        "on"
+      ],
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "DryWet",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 50.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Split 1",
+      "min": 10.0,
+      "max": 20000.0,
+      "value": 4241.5234375,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Split 2",
+      "min": 10.0,
+      "max": 20000.0,
+      "value": 11796.798828125,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Vol",
+      "min": -36.0,
+      "max": 36.0,
+      "value": 11.338582992553711,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "Vol",
+      "min": -36.0,
+      "max": 36.0,
+      "value": -5.952755928039551,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "Vol",
+      "min": -36.0,
+      "max": 36.0,
+      "value": 15.874015808105469,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "C/E Fact",
+      "min": -1.0,
+      "max": 1.0,
+      "value": -0.4015747904777527,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "C/E Fact",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "C/E Fact",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.5748031735420227,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 15
+    },
+    {
+      "name": "Release",
+      "min": 0.009999999776482582,
+      "max": 2000.0,
+      "value": 700.786376953125,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 16
+    },
+    {
+      "name": "Release",
+      "min": 0.009999999776482582,
+      "max": 2000.0,
+      "value": 999.9974975585938,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 17
+    },
+    {
+      "name": "Release",
+      "min": 0.009999999776482582,
+      "max": 2000.0,
+      "value": 1125.9810791015625,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 18
+    }
+  ]
+}

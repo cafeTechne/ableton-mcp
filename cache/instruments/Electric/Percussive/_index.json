@@ -1,0 +1,17 @@
+{
+  "path": "Instruments/Electric/Percussive",
+  "name": "Percussive",
+  "uri": "query:Synths#Electric:Percussive",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Marble Rhythms.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Electric:Percussive:FileId_55492"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "path": "Instruments/Drift/Strings",
+  "name": "Strings",
+  "uri": "query:Synths#Drift:Strings",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Darkened Strings.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Strings:FileId_5770"
+    },
+    {
+      "name": "Evangelis Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Strings:FileId_3833"
+    },
+    {
+      "name": "Razor Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Strings:FileId_3838"
+    },
+    {
+      "name": "Slow Roll Strings.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Strings:FileId_5771"
+    },
+    {
+      "name": "Star Dust Strings.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drift:Strings:FileId_5772"
+    }
+  ]
+}

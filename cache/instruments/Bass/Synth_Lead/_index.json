@@ -1,0 +1,241 @@
+{
+  "path": "Instruments/Bass/Synth Lead",
+  "name": "Synth Lead",
+  "uri": "query:Synths#Bass:Synth%20Lead",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Brain Freeze.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41273"
+    },
+    {
+      "name": "Cheese Grader.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41274"
+    },
+    {
+      "name": "Circus Maven.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41275"
+    },
+    {
+      "name": "Crosswire Retro.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41276"
+    },
+    {
+      "name": "Dramatic Fanfare.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41467"
+    },
+    {
+      "name": "Funk-O-rama Solo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41277"
+    },
+    {
+      "name": "Future Blaster.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41278"
+    },
+    {
+      "name": "Harmonix Chatter Box.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41279"
+    },
+    {
+      "name": "Huez Kontrol.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41280"
+    },
+    {
+      "name": "Magma Rattler.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41281"
+    },
+    {
+      "name": "Mini Funk Solo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41282"
+    },
+    {
+      "name": "Neo Hu-Funk.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41283"
+    },
+    {
+      "name": "Pinch Allowance Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41284"
+    },
+    {
+      "name": "Prog Rock Nation.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41285"
+    },
+    {
+      "name": "Punchy Ferguson Solo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41286"
+    },
+    {
+      "name": "Quack Attack.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41287"
+    },
+    {
+      "name": "Quintmania.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41288"
+    },
+    {
+      "name": "Retro Organ.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41289"
+    },
+    {
+      "name": "Sawmill Exit.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41290"
+    },
+    {
+      "name": "Sine Flower.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41291"
+    },
+    {
+      "name": "Slip Funktion.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41292"
+    },
+    {
+      "name": "Square Peg.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41293"
+    },
+    {
+      "name": "Steel Piano.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41294"
+    },
+    {
+      "name": "SuperSync Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41295"
+    },
+    {
+      "name": "Talkbox Solo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41296"
+    },
+    {
+      "name": "Tension Extreme.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41297"
+    },
+    {
+      "name": "Thereminsk.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41298"
+    },
+    {
+      "name": "Try this Angle.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41299"
+    },
+    {
+      "name": "Underwater Phone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41469"
+    },
+    {
+      "name": "Victory Screech.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41300"
+    },
+    {
+      "name": "Vocoder Plucks.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41301"
+    },
+    {
+      "name": "Wake For It.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41302"
+    },
+    {
+      "name": "Y-Files.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Lead:FileId_41303"
+    }
+  ]
+}

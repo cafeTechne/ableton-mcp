@@ -1,0 +1,117 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Pitch_&_Modulation",
+  "name": "White Room",
+  "uri": "query:AudioFx#Pitch%20&%20Modulation:Spectral%20Blur:FileId_41219",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Delay Comp",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Dry / Wet",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 59.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Freq 1",
+      "min": 0.0,
+      "max": 22000.0,
+      "value": 1741.72216796875,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Freq 2",
+      "min": 0.0,
+      "max": 22000.0,
+      "value": 15178.8544921875,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Halo",
+      "min": 0.0,
+      "max": 0.9950000047683716,
+      "value": 0.21838580071926117,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Halo / Freeze",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Halo",
+        "Freeze"
+      ],
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "In / Out",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "In",
+        "Out"
+      ],
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Residual",
+      "min": 0.0,
+      "max": 100.0,
+      "value": 28.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Wet Gain",
+      "min": 0.0,
+      "max": 18.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    }
+  ]
+}

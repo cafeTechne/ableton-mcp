@@ -1,0 +1,136 @@
+{
+  "path": "drums/Drum Hits",
+  "name": "Drum Hits",
+  "uri": "query:Drums#Drum%20Hits",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Bell",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:Bell"
+    },
+    {
+      "name": "Bongo",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:Bongo"
+    },
+    {
+      "name": "Clap",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:Clap"
+    },
+    {
+      "name": "Conga",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:Conga"
+    },
+    {
+      "name": "Cymbal",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:Cymbal"
+    },
+    {
+      "name": "FX Hit",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:FX%20Hit"
+    },
+    {
+      "name": "Hihat",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:Hihat"
+    },
+    {
+      "name": "Kick",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:Kick"
+    },
+    {
+      "name": "Misc Percussion",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion"
+    },
+    {
+      "name": "Ride",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:Ride"
+    },
+    {
+      "name": "Rim",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:Rim"
+    },
+    {
+      "name": "Shaker",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:Shaker"
+    },
+    {
+      "name": "Snare",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:Snare"
+    },
+    {
+      "name": "Snare Articulation",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:Snare%20Articulation"
+    },
+    {
+      "name": "Tambourine",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:Tambourine"
+    },
+    {
+      "name": "Timbales",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:Timbales"
+    },
+    {
+      "name": "Tom",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:Tom"
+    },
+    {
+      "name": "Wood",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:Drums#Drum%20Hits:Wood"
+    }
+  ]
+}

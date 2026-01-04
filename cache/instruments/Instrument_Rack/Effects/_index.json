@@ -1,0 +1,675 @@
+{
+  "path": "Instruments/Instrument Rack/Effects",
+  "name": "Effects",
+  "uri": "query:Synths#Instrument%20Rack:Effects",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "8Bit Lazer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_36613"
+    },
+    {
+      "name": "50s Slide Rules (C3-D#4).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_51303"
+    },
+    {
+      "name": "Accelerating Harmonics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_51304"
+    },
+    {
+      "name": "Air Raid Alarm.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38333"
+    },
+    {
+      "name": "Air Raid Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_36614"
+    },
+    {
+      "name": "Alien Invasion (C3-D#4).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_51305"
+    },
+    {
+      "name": "Beam Me Down.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49002"
+    },
+    {
+      "name": "Beam Patrol.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_51306"
+    },
+    {
+      "name": "Bellyfeel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38334"
+    },
+    {
+      "name": "Bit Bite.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49003"
+    },
+    {
+      "name": "Boinky Saw Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38335"
+    },
+    {
+      "name": "Burnt FX Loop.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49004"
+    },
+    {
+      "name": "Cirrus Ascend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49005"
+    },
+    {
+      "name": "Climbing Operation.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_55461"
+    },
+    {
+      "name": "Complex Zipper FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_4037"
+    },
+    {
+      "name": "Cycle Clicker.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49006"
+    },
+    {
+      "name": "Cylindrical Lobotomy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_55462"
+    },
+    {
+      "name": "Dark Metalic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49007"
+    },
+    {
+      "name": "Dead City FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_4038"
+    },
+    {
+      "name": "Dirty Laser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49008"
+    },
+    {
+      "name": "Dive Dive Dive.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38336"
+    },
+    {
+      "name": "Dive Drama.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49009"
+    },
+    {
+      "name": "Double Tap Laser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_36615"
+    },
+    {
+      "name": "Electrix Circuit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_55463"
+    },
+    {
+      "name": "ENCOM Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_4039"
+    },
+    {
+      "name": "Exacto Effect.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38337"
+    },
+    {
+      "name": "Fifth Spring.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49010"
+    },
+    {
+      "name": "Fixed Luck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_55464"
+    },
+    {
+      "name": "Follow Along.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49011"
+    },
+    {
+      "name": "Freak Out.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_59224"
+    },
+    {
+      "name": "Ghost Whistle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_59225"
+    },
+    {
+      "name": "Glass Tapas.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_55465"
+    },
+    {
+      "name": "Glowstick SFX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_4040"
+    },
+    {
+      "name": "Gnarls Smartly.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_55466"
+    },
+    {
+      "name": "Grim Engine.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49012"
+    },
+    {
+      "name": "Hit and Run.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_59226"
+    },
+    {
+      "name": "Hum Tunnel.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49013"
+    },
+    {
+      "name": "Hurt Move Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49014"
+    },
+    {
+      "name": "Hyper Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_4041"
+    },
+    {
+      "name": "Jet Sweep.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38338"
+    },
+    {
+      "name": "Keda.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49015"
+    },
+    {
+      "name": "Killer Beez.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_51307"
+    },
+    {
+      "name": "Laser Battle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_61089"
+    },
+    {
+      "name": "Max Descend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38339"
+    },
+    {
+      "name": "Metal Delay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_42997"
+    },
+    {
+      "name": "Metal Impact Delay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_61090"
+    },
+    {
+      "name": "Metal Scrape.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_55467"
+    },
+    {
+      "name": "No Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_59227"
+    },
+    {
+      "name": "Noise Rain.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_59228"
+    },
+    {
+      "name": "Oblivion Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_42998"
+    },
+    {
+      "name": "OC Bank FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49016"
+    },
+    {
+      "name": "Oxide FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_55468"
+    },
+    {
+      "name": "Particle Flow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49017"
+    },
+    {
+      "name": "Plinky Plonk.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_51308"
+    },
+    {
+      "name": "Plucked Harp Effects.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_51309"
+    },
+    {
+      "name": "Plucked To Death.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_55469"
+    },
+    {
+      "name": "Power Up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_42999"
+    },
+    {
+      "name": "Pulse Ascend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38340"
+    },
+    {
+      "name": "Pulse Descend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38341"
+    },
+    {
+      "name": "Pulse Drone Beeper.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_51310"
+    },
+    {
+      "name": "Radio Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49018"
+    },
+    {
+      "name": "Rain On The Servers.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_4042"
+    },
+    {
+      "name": "Rasp Inside.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49019"
+    },
+    {
+      "name": "Rave Signal.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_4043"
+    },
+    {
+      "name": "Rave Siren.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38342"
+    },
+    {
+      "name": "Red Alarm.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38343"
+    },
+    {
+      "name": "Rize Gate Me.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38344"
+    },
+    {
+      "name": "Robot Downgrade.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49020"
+    },
+    {
+      "name": "Sad Triangle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_59229"
+    },
+    {
+      "name": "Saw Madness.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38345"
+    },
+    {
+      "name": "Saw Madness.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49021"
+    },
+    {
+      "name": "Saw Spiral.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_61091"
+    },
+    {
+      "name": "Saw Struck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_61092"
+    },
+    {
+      "name": "Sci Fi Raze.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38346"
+    },
+    {
+      "name": "Scratch Academics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38347"
+    },
+    {
+      "name": "Shouting Into Cans.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_51311"
+    },
+    {
+      "name": "Six80Four TapDance.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_59230"
+    },
+    {
+      "name": "Spheres.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49022"
+    },
+    {
+      "name": "Squeee.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38348"
+    },
+    {
+      "name": "Student Saws.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_61093"
+    },
+    {
+      "name": "Stutter Synth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49023"
+    },
+    {
+      "name": "Subs Poppers.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_59231"
+    },
+    {
+      "name": "Suckit Effect.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38349"
+    },
+    {
+      "name": "Swish Ascend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_36616"
+    },
+    {
+      "name": "Swish Ascending.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_61094"
+    },
+    {
+      "name": "Swish Descend Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_43000"
+    },
+    {
+      "name": "Swish Downfall.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_36617"
+    },
+    {
+      "name": "Tenebrous Ramp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38350"
+    },
+    {
+      "name": "The Jaguar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49024"
+    },
+    {
+      "name": "Transit Traveler.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49025"
+    },
+    {
+      "name": "Tube ZenBoard.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_51312"
+    },
+    {
+      "name": "Vice Descend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38351"
+    },
+    {
+      "name": "Whistling Theremin.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_49026"
+    },
+    {
+      "name": "Wide Air Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_61095"
+    },
+    {
+      "name": "Ye Olde Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Instrument%20Rack:Effects:FileId_38352"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "path": "Sounds/Booms",
+  "name": "Booms",
+  "uri": "query:Sounds#Booms",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "2-Way Boom Drive.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Booms:FileId_36609"
+    },
+    {
+      "name": "2-Way Boom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Booms:FileId_36610"
+    },
+    {
+      "name": "3 OP Boom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Booms:FileId_36611"
+    },
+    {
+      "name": "Ballistic Boom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Booms:FileId_39905"
+    },
+    {
+      "name": "Bending Boom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Booms:FileId_39906"
+    },
+    {
+      "name": "Boom Nation.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Booms:FileId_36612"
+    },
+    {
+      "name": "Command Boom Kick.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Booms:FileId_39907"
+    },
+    {
+      "name": "Tunable Boom Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Booms:FileId_39908"
+    }
+  ]
+}

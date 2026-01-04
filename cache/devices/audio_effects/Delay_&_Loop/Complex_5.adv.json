@@ -1,0 +1,415 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Delay_&_Loop",
+  "name": "Complex 5.adv",
+  "uri": "query:AudioFx#Delay%20&%20Loop:Filter%20Delay:FileId_6348",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "1 Input On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "1 Filter On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "1 Filter Freq",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.7272728085517883,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "1 Filter Width",
+      "min": 0.5,
+      "max": 9.0,
+      "value": 3.15625,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "1 Delay Mode",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "1 Beat Delay",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 4.0,
+      "is_quantized": true,
+      "value_items": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "8",
+        "16"
+      ],
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "1 Beat Swing",
+      "min": -0.3330000042915344,
+      "max": 0.3330000042915344,
+      "value": -0.01040625013411045,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "1 Time Delay",
+      "min": 1.0,
+      "max": 999.0,
+      "value": 18.71875,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "1 Feedback",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "1 Pan",
+      "min": -1.0,
+      "max": 1.0,
+      "value": -1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "1 Volume",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.8500000238418579,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "2 Input On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "2 Filter On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 13
+    },
+    {
+      "name": "2 Filter Freq",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.8181818127632141,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 14
+    },
+    {
+      "name": "2 Filter Width",
+      "min": 0.5,
+      "max": 9.0,
+      "value": 4.21875,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 15
+    },
+    {
+      "name": "2 Delay Mode",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 16
+    },
+    {
+      "name": "2 Beat Delay",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 4.0,
+      "is_quantized": true,
+      "value_items": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "8",
+        "16"
+      ],
+      "unit": null,
+      "index": 17
+    },
+    {
+      "name": "2 Beat Swing",
+      "min": -0.3330000042915344,
+      "max": 0.3330000042915344,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 18
+    },
+    {
+      "name": "2 Time Delay",
+      "min": 1.0,
+      "max": 999.0,
+      "value": 64.984375,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 19
+    },
+    {
+      "name": "2 Feedback",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.8333333134651184,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 20
+    },
+    {
+      "name": "2 Pan",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 21
+    },
+    {
+      "name": "2 Volume",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.8571428656578064,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 22
+    },
+    {
+      "name": "3 Input On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 23
+    },
+    {
+      "name": "3 Filter On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 24
+    },
+    {
+      "name": "3 Filter Freq",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.6022727489471436,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 25
+    },
+    {
+      "name": "3 Filter Width",
+      "min": 0.5,
+      "max": 9.0,
+      "value": 4.75,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 26
+    },
+    {
+      "name": "3 Delay Mode",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 27
+    },
+    {
+      "name": "3 Beat Delay",
+      "min": 0.0,
+      "max": 7.0,
+      "value": 4.0,
+      "is_quantized": true,
+      "value_items": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "8",
+        "16"
+      ],
+      "unit": null,
+      "index": 28
+    },
+    {
+      "name": "3 Beat Swing",
+      "min": -0.3330000042915344,
+      "max": 0.3330000042915344,
+      "value": -0.01040625013411045,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 29
+    },
+    {
+      "name": "3 Time Delay",
+      "min": 1.0,
+      "max": 999.0,
+      "value": 31.515625,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 30
+    },
+    {
+      "name": "3 Feedback",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 31
+    },
+    {
+      "name": "3 Pan",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 32
+    },
+    {
+      "name": "3 Volume",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.8500000238418579,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 33
+    },
+    {
+      "name": "Dry",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.8492063283920288,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 34
+    }
+  ]
+}

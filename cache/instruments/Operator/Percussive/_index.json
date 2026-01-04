@@ -1,0 +1,122 @@
+{
+  "path": "Instruments/Operator/Percussive",
+  "name": "Percussive",
+  "uri": "query:Synths#Operator:Percussive",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Circus Tricks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Percussive:FileId_38355"
+    },
+    {
+      "name": "Drums Dirty Kick.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Percussive:FileId_38356"
+    },
+    {
+      "name": "Garage Crisp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Percussive:FileId_59246"
+    },
+    {
+      "name": "Kick Body Byte.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Percussive:FileId_55490"
+    },
+    {
+      "name": "Leatherbell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Percussive:FileId_55491"
+    },
+    {
+      "name": "Low Dirty Kick.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Percussive:FileId_49039"
+    },
+    {
+      "name": "Metalink.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Percussive:FileId_38357"
+    },
+    {
+      "name": "Operator Hihat.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Percussive:FileId_59689"
+    },
+    {
+      "name": "Operator Kick.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Percussive:FileId_59690"
+    },
+    {
+      "name": "Operator Snare.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Percussive:FileId_59691"
+    },
+    {
+      "name": "Reso Organish.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Percussive:FileId_59692"
+    },
+    {
+      "name": "Syntom.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Percussive:FileId_59693"
+    },
+    {
+      "name": "Talaperc.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Percussive:FileId_55496"
+    },
+    {
+      "name": "Tee Are Tom.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Percussive:FileId_59694"
+    },
+    {
+      "name": "Unagi.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Percussive:FileId_49042"
+    },
+    {
+      "name": "Wile West.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Percussive:FileId_59249"
+    }
+  ]
+}

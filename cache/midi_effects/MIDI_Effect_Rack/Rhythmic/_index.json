@@ -1,0 +1,94 @@
+{
+  "path": "midi_effects/MIDI Effect Rack/Rhythmic",
+  "name": "Rhythmic",
+  "uri": "query:MidiFx#MIDI%20Effect%20Rack:Rhythmic",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Arp Autobahn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Rhythmic:FileId_3684"
+    },
+    {
+      "name": "Arp Chance.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Rhythmic:FileId_3685"
+    },
+    {
+      "name": "Arp Chord.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Rhythmic:FileId_3686"
+    },
+    {
+      "name": "Arp Descending Note.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Rhythmic:FileId_3687"
+    },
+    {
+      "name": "Arp Double.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Rhythmic:FileId_3688"
+    },
+    {
+      "name": "Arp Harmony.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Rhythmic:FileId_3689"
+    },
+    {
+      "name": "Arp Progressive.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Rhythmic:FileId_3690"
+    },
+    {
+      "name": "Arp Streets Echo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Rhythmic:FileId_3691"
+    },
+    {
+      "name": "Arp Up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Rhythmic:FileId_3692"
+    },
+    {
+      "name": "Arp Variations.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Rhythmic:FileId_3693"
+    },
+    {
+      "name": "Echo Note Bounce.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Rhythmic:FileId_3694"
+    },
+    {
+      "name": "Echo Single Strum.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Rhythmic:FileId_3695"
+    }
+  ]
+}

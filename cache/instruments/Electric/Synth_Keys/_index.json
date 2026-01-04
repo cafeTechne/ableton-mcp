@@ -1,0 +1,38 @@
+{
+  "path": "Instruments/Electric/Synth Keys",
+  "name": "Synth Keys",
+  "uri": "query:Synths#Electric:Synth%20Keys",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Key Chords.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Electric:Synth%20Keys:FileId_36661"
+    },
+    {
+      "name": "Light Baggage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Electric:Synth%20Keys:FileId_61123"
+    },
+    {
+      "name": "Mellow Tine.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Electric:Synth%20Keys:FileId_49054"
+    },
+    {
+      "name": "Theft By Rhythm (Split).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Electric:Synth%20Keys:FileId_61139"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "path": "Instruments/Simpler/Synth Lead",
+  "name": "Synth Lead",
+  "uri": "query:Synths#Simpler:Synth%20Lead",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "101 Sub Pwm.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_38373"
+    },
+    {
+      "name": "Analog Stab Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_5246"
+    },
+    {
+      "name": "Intagan.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_55509"
+    },
+    {
+      "name": "Kazoo Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_38391"
+    },
+    {
+      "name": "Light Vs Dark Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_51320"
+    },
+    {
+      "name": "Oscar Lausa.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_43047"
+    },
+    {
+      "name": "Pathos Key Ernen.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_38399"
+    },
+    {
+      "name": "Pathos Key Maipuna.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_38400"
+    },
+    {
+      "name": "Pathos Mod Glarus.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_38401"
+    },
+    {
+      "name": "Pathos Synth Strinne.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_61164"
+    },
+    {
+      "name": "Ring Modular Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_5247"
+    },
+    {
+      "name": "Sonix LFO Zapata.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_61169"
+    },
+    {
+      "name": "Soover Lead.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_5248"
+    },
+    {
+      "name": "Square Pw BP.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_55520"
+    },
+    {
+      "name": "Super Soover Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_3764"
+    },
+    {
+      "name": "Ten Point One.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_59274"
+    },
+    {
+      "name": "Twenty Disto 5th.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_49082"
+    },
+    {
+      "name": "Twenty Spartan Saw.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_49083"
+    },
+    {
+      "name": "V Power.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_59275"
+    },
+    {
+      "name": "Windward P5 Lead.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Synth%20Lead:FileId_61179"
+    }
+  ]
+}

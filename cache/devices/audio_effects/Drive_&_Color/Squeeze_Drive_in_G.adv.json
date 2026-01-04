@@ -1,0 +1,161 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Drive_&_Color",
+  "name": "Squeeze & Drive in G.adv",
+  "uri": "query:AudioFx#Drive%20&%20Color:Drum%20Buss:FileId_6526",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Compressor On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Drive",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.7578125,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Drive Type",
+      "min": 0.0,
+      "max": 2.0,
+      "value": 2.0,
+      "is_quantized": true,
+      "value_items": [
+        "Soft",
+        "Medium",
+        "Hard"
+      ],
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Crunch",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.4444444477558136,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 4
+    },
+    {
+      "name": "Damping Freq",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.7894946932792664,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 5
+    },
+    {
+      "name": "Transients",
+      "min": -1.0,
+      "max": 1.0,
+      "value": 0.5555555820465088,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 6
+    },
+    {
+      "name": "Boom Freq",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.4465735852718353,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 7
+    },
+    {
+      "name": "Boom Amt",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.8333333134651184,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 8
+    },
+    {
+      "name": "Boom Decay",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.140625,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 9
+    },
+    {
+      "name": "Boom Audition",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 10
+    },
+    {
+      "name": "Trim",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.484375,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 11
+    },
+    {
+      "name": "Output Gain",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.9249424338340759,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 12
+    },
+    {
+      "name": "Dry/Wet",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 13
+    }
+  ]
+}

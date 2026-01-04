@@ -1,0 +1,234 @@
+{
+  "path": "midi_effects/Bouncy Notes/Experimental",
+  "name": "Experimental",
+  "uri": "query:MidiFx#Bouncy%20Notes:Experimental",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Always Forward (Hold Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49573"
+    },
+    {
+      "name": "AutoJazz (Press Play).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49574"
+    },
+    {
+      "name": "Bass Line Arp.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49575"
+    },
+    {
+      "name": "Beat Accent (Drum Rack).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49576"
+    },
+    {
+      "name": "C Pentatonic Walk up.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49577"
+    },
+    {
+      "name": "Couple Bounce Up.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49578"
+    },
+    {
+      "name": "Diminished Drops (Press Play).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49579"
+    },
+    {
+      "name": "Fast Roll Up.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49580"
+    },
+    {
+      "name": "Filter Drip.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49581"
+    },
+    {
+      "name": "Frozen.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49582"
+    },
+    {
+      "name": "Generative Mibu (Press Play).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49583"
+    },
+    {
+      "name": "Generative Pentatonic (Press Play).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49584"
+    },
+    {
+      "name": "Held Echo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49585"
+    },
+    {
+      "name": "I Didn't Play That.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49586"
+    },
+    {
+      "name": "Low Gravity Delay.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49587"
+    },
+    {
+      "name": "Pentatonic Walk up.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49588"
+    },
+    {
+      "name": "Phrygian Dominant Phrases (Press Play).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49589"
+    },
+    {
+      "name": "Piano Sweep (Hold Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49590"
+    },
+    {
+      "name": "Rain.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49591"
+    },
+    {
+      "name": "Rhythm (Drum Rack).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49592"
+    },
+    {
+      "name": "Short Bounce Delay.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49593"
+    },
+    {
+      "name": "Short Roll.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49594"
+    },
+    {
+      "name": "Short Spray.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49595"
+    },
+    {
+      "name": "Slight Drift (Drum Rack).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49596"
+    },
+    {
+      "name": "Slight Trail.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49597"
+    },
+    {
+      "name": "Slow Bounce Down (Hold Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49598"
+    },
+    {
+      "name": "Slowly Speed Up (Hold Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49599"
+    },
+    {
+      "name": "Speed Up (Hold Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49600"
+    },
+    {
+      "name": "Strange Arp C Maj.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49601"
+    },
+    {
+      "name": "Strange Arp.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49602"
+    },
+    {
+      "name": "Subtle Spread (Hold Keys).adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49603"
+    },
+    {
+      "name": "Where's it Gonna Land.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental:FileId_49604"
+    }
+  ]
+}

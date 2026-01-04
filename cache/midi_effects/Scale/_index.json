@@ -1,0 +1,262 @@
+{
+  "path": "midi_effects/Scale",
+  "name": "Scale",
+  "uri": "query:MidiFx#Scale",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "8-Tone Spanish.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4750"
+    },
+    {
+      "name": "Bhairav.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4751"
+    },
+    {
+      "name": "Dorian #4.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4752"
+    },
+    {
+      "name": "Dorian Mode.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4753"
+    },
+    {
+      "name": "Half-Whole Diminished.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4754"
+    },
+    {
+      "name": "Hirajoshi.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4755"
+    },
+    {
+      "name": "Insen.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4756"
+    },
+    {
+      "name": "Iwato.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4757"
+    },
+    {
+      "name": "Kumoi.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4758"
+    },
+    {
+      "name": "Locrian Mode.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4759"
+    },
+    {
+      "name": "Locrian Super.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4760"
+    },
+    {
+      "name": "Lydian Augmented.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4761"
+    },
+    {
+      "name": "Lydian Dominant.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4762"
+    },
+    {
+      "name": "Lydian Mode.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4763"
+    },
+    {
+      "name": "Major Harmonic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4764"
+    },
+    {
+      "name": "Major Pentatonic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4765"
+    },
+    {
+      "name": "Major.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4766"
+    },
+    {
+      "name": "Messiaen 3.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4767"
+    },
+    {
+      "name": "Messiaen 4.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4768"
+    },
+    {
+      "name": "Messiaen 5.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4769"
+    },
+    {
+      "name": "Messiaen 6.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4770"
+    },
+    {
+      "name": "Messiaen 7.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4771"
+    },
+    {
+      "name": "Minor Blues.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4772"
+    },
+    {
+      "name": "Minor Harmonic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4773"
+    },
+    {
+      "name": "Minor Hungarian.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4774"
+    },
+    {
+      "name": "Minor Melodic Down.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4775"
+    },
+    {
+      "name": "Minor Melodic Up.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4776"
+    },
+    {
+      "name": "Minor Pentatonic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4777"
+    },
+    {
+      "name": "Minor.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4778"
+    },
+    {
+      "name": "Mixolydian Mode.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4779"
+    },
+    {
+      "name": "Pelog Selisir.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4780"
+    },
+    {
+      "name": "Pelog Tembung.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4781"
+    },
+    {
+      "name": "Phrygian Dominant.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4782"
+    },
+    {
+      "name": "Phrygian Mode.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4783"
+    },
+    {
+      "name": "Whole Tone.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4784"
+    },
+    {
+      "name": "Whole-Half Diminished.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Scale:FileId_4785"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "path": "Instruments/Simpler/Pad",
+  "name": "Pad",
+  "uri": "query:Synths#Simpler:Pad",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "101 Live Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_61181"
+    },
+    {
+      "name": "106 Synth Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_61182"
+    },
+    {
+      "name": "Acharia.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_43241"
+    },
+    {
+      "name": "Aroura Pad 1.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_61185"
+    },
+    {
+      "name": "Aroura Pad 2.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_61186"
+    },
+    {
+      "name": "Axis String Cluster.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_61188"
+    },
+    {
+      "name": "Captains Log.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_43243"
+    },
+    {
+      "name": "Chorale Sea.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_61191"
+    },
+    {
+      "name": "Chord Floot Aboot Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_5259"
+    },
+    {
+      "name": "Chord Pacific.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_61192"
+    },
+    {
+      "name": "Contemplation.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_51198"
+    },
+    {
+      "name": "Dark Chord Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_61195"
+    },
+    {
+      "name": "Dark Kingdom Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_61196"
+    },
+    {
+      "name": "Dark Meow Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_61197"
+    },
+    {
+      "name": "Darkness Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_61198"
+    },
+    {
+      "name": "Deep Choral.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_59236"
+    },
+    {
+      "name": "Docking Bay Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_61199"
+    },
+    {
+      "name": "Dream Pretense.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_59238"
+    },
+    {
+      "name": "Drift Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_5260"
+    },
+    {
+      "name": "Dusty Mind.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_43244"
+    },
+    {
+      "name": "Epikure.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_49095"
+    },
+    {
+      "name": "Jarble Ambience Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_5261"
+    },
+    {
+      "name": "Klimper Whistle Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_49101"
+    },
+    {
+      "name": "Larynx Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_61207"
+    },
+    {
+      "name": "Mesothelae.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_43249"
+    },
+    {
+      "name": "Modular Organ Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_5262"
+    },
+    {
+      "name": "Null Coast Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_43063"
+    },
+    {
+      "name": "Orchport Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_43251"
+    },
+    {
+      "name": "Outer Rings Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_61211"
+    },
+    {
+      "name": "Oxygen Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_36699"
+    },
+    {
+      "name": "Pathos Pad Portree.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_43068"
+    },
+    {
+      "name": "Pathos Pad Solva.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_43069"
+    },
+    {
+      "name": "Pathos Pad Vogorno.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_49103"
+    },
+    {
+      "name": "Pathos Pad Zhalda.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_49104"
+    },
+    {
+      "name": "Pioneer Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_43252"
+    },
+    {
+      "name": "PPP Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_5263"
+    },
+    {
+      "name": "Protodonata.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_43253"
+    },
+    {
+      "name": "Roswell Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_36700"
+    },
+    {
+      "name": "Sensor Lights.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_49106"
+    },
+    {
+      "name": "Sonix Pad Weesen.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_43071"
+    },
+    {
+      "name": "Sweeper Saege Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_3955"
+    },
+    {
+      "name": "Thicket Wail Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_3956"
+    },
+    {
+      "name": "Troposphere Farewell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_43258"
+    },
+    {
+      "name": "Troposphere Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_36703"
+    },
+    {
+      "name": "Valley People Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_61221"
+    },
+    {
+      "name": "Warm Bubbly Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Simpler:Pad:FileId_5264"
+    }
+  ]
+}

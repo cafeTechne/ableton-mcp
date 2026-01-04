@@ -1,0 +1,129 @@
+{
+  "path": "Instruments/Collision/Ambient & Evolving",
+  "name": "Ambient & Evolving",
+  "uri": "query:Synths#Collision:Ambient%20&%20Evolving",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Air Of Dread.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Ambient%20&%20Evolving:FileId_5856"
+    },
+    {
+      "name": "Air Of Dread.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Ambient%20&%20Evolving:FileId_59630"
+    },
+    {
+      "name": "Carrolionica.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Ambient%20&%20Evolving:FileId_59631"
+    },
+    {
+      "name": "Chime Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Ambient%20&%20Evolving:FileId_43217"
+    },
+    {
+      "name": "Drone Tapes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Ambient%20&%20Evolving:FileId_55435"
+    },
+    {
+      "name": "Forgotten Gong FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Ambient%20&%20Evolving:FileId_43222"
+    },
+    {
+      "name": "Glass Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Ambient%20&%20Evolving:FileId_4010"
+    },
+    {
+      "name": "Gloaming Atmosphere.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Ambient%20&%20Evolving:FileId_51134"
+    },
+    {
+      "name": "Heavy Air.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Ambient%20&%20Evolving:FileId_43226"
+    },
+    {
+      "name": "High Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Ambient%20&%20Evolving:FileId_5857"
+    },
+    {
+      "name": "Multitude Of Space.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Ambient%20&%20Evolving:FileId_4025"
+    },
+    {
+      "name": "Noisy Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Ambient%20&%20Evolving:FileId_5858"
+    },
+    {
+      "name": "Resonant Tonality.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Ambient%20&%20Evolving:FileId_51145"
+    },
+    {
+      "name": "Slow Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Ambient%20&%20Evolving:FileId_5859"
+    },
+    {
+      "name": "Steampunker.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Ambient%20&%20Evolving:FileId_59632"
+    },
+    {
+      "name": "Tube Resonance.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Ambient%20&%20Evolving:FileId_51152"
+    },
+    {
+      "name": "Virtual Scapes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Ambient%20&%20Evolving:FileId_48980"
+    }
+  ]
+}

@@ -1,0 +1,2341 @@
+{
+  "path": "drums/Drum Hits/Clap",
+  "name": "Clap",
+  "uri": "query:Drums#Drum%20Hits:Clap",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Clap 1 Azimuth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36112"
+    },
+    {
+      "name": "Clap 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54823"
+    },
+    {
+      "name": "Clap 2 Azimuth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36113"
+    },
+    {
+      "name": "Clap 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54824"
+    },
+    {
+      "name": "Clap 3 Azimuth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36114"
+    },
+    {
+      "name": "Clap 505 Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46355"
+    },
+    {
+      "name": "Clap 707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37256"
+    },
+    {
+      "name": "Clap 707.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1731"
+    },
+    {
+      "name": "Clap 808 Dry.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36115"
+    },
+    {
+      "name": "Clap 808 Light Quick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36116"
+    },
+    {
+      "name": "Clap 808 Light Quick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1732"
+    },
+    {
+      "name": "Clap 808 Onyx.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46356"
+    },
+    {
+      "name": "Clap 808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1733"
+    },
+    {
+      "name": "Clap 808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57830"
+    },
+    {
+      "name": "Clap 909.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1734"
+    },
+    {
+      "name": "Clap 909.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57831"
+    },
+    {
+      "name": "Clap Abstract 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57832"
+    },
+    {
+      "name": "Clap Abstract 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57833"
+    },
+    {
+      "name": "Clap Abstract 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1736"
+    },
+    {
+      "name": "Clap Abstract 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57834"
+    },
+    {
+      "name": "Clap Abstract 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57835"
+    },
+    {
+      "name": "Clap Abstract 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57836"
+    },
+    {
+      "name": "Clap Abstract 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57837"
+    },
+    {
+      "name": "Clap Abstract Build.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37257"
+    },
+    {
+      "name": "Clap Abstract Build.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1737"
+    },
+    {
+      "name": "Clap Abstract Melt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_48210"
+    },
+    {
+      "name": "Clap Acoustified 01 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46357"
+    },
+    {
+      "name": "Clap Acoustified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46360"
+    },
+    {
+      "name": "Clap Acoustified 02 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46358"
+    },
+    {
+      "name": "Clap Acoustified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46363"
+    },
+    {
+      "name": "Clap Acoustified 09 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46359"
+    },
+    {
+      "name": "Clap Acoustified 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46361"
+    },
+    {
+      "name": "Clap Acoustified 16 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46362"
+    },
+    {
+      "name": "Clap Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1738"
+    },
+    {
+      "name": "Clap Alley.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39581"
+    },
+    {
+      "name": "Clap Ambience Echo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36117"
+    },
+    {
+      "name": "Clap Analog 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54825"
+    },
+    {
+      "name": "Clap Analog 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54836"
+    },
+    {
+      "name": "Clap Analog 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54845"
+    },
+    {
+      "name": "Clap Analog 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54846"
+    },
+    {
+      "name": "Clap Analog 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54847"
+    },
+    {
+      "name": "Clap Analog 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54848"
+    },
+    {
+      "name": "Clap Analog 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54849"
+    },
+    {
+      "name": "Clap Analog 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54850"
+    },
+    {
+      "name": "Clap Analog 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54826"
+    },
+    {
+      "name": "Clap Analog 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54827"
+    },
+    {
+      "name": "Clap Analog 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54828"
+    },
+    {
+      "name": "Clap Analog 13.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54829"
+    },
+    {
+      "name": "Clap Analog 14.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54830"
+    },
+    {
+      "name": "Clap Analog 15.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54831"
+    },
+    {
+      "name": "Clap Analog 16.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54832"
+    },
+    {
+      "name": "Clap Analog 17.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54833"
+    },
+    {
+      "name": "Clap Analog 18.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54834"
+    },
+    {
+      "name": "Clap Analog 19.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54835"
+    },
+    {
+      "name": "Clap Analog 20.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54837"
+    },
+    {
+      "name": "Clap Analog 21.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54838"
+    },
+    {
+      "name": "Clap Analog 22.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54839"
+    },
+    {
+      "name": "Clap Analog 23.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54840"
+    },
+    {
+      "name": "Clap Analog 24.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54841"
+    },
+    {
+      "name": "Clap Analog 25.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54842"
+    },
+    {
+      "name": "Clap Analog 26.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54843"
+    },
+    {
+      "name": "Clap Analog 27.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54844"
+    },
+    {
+      "name": "Clap Analog Source.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1739"
+    },
+    {
+      "name": "Clap Analog Temper.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39582"
+    },
+    {
+      "name": "Clap Asap.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1740"
+    },
+    {
+      "name": "Clap ATL.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1735"
+    },
+    {
+      "name": "Clap Big Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54851"
+    },
+    {
+      "name": "Clap Bit Colored.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1741"
+    },
+    {
+      "name": "Clap Bit Nighties.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1742"
+    },
+    {
+      "name": "Clap BitColored.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46364"
+    },
+    {
+      "name": "Clap BitNighties.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46365"
+    },
+    {
+      "name": "Clap Blueprint.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39583"
+    },
+    {
+      "name": "Clap Bockety Reverse.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1743"
+    },
+    {
+      "name": "Clap Broken Heart.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39584"
+    },
+    {
+      "name": "Clap Brush 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54852"
+    },
+    {
+      "name": "Clap Burned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46366"
+    },
+    {
+      "name": "Clap Burned.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1744"
+    },
+    {
+      "name": "Clap Canopolis.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_48211"
+    },
+    {
+      "name": "Clap Canvas.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39585"
+    },
+    {
+      "name": "Clap Chelsea Layer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46367"
+    },
+    {
+      "name": "Clap Chopped.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37258"
+    },
+    {
+      "name": "Clap Clampy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39586"
+    },
+    {
+      "name": "Clap Clappa.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39587"
+    },
+    {
+      "name": "Clap Classy Crunch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36118"
+    },
+    {
+      "name": "Clap Click.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_42259"
+    },
+    {
+      "name": "Clap Cooked.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36119"
+    },
+    {
+      "name": "Clap Crispy Short Tail.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36120"
+    },
+    {
+      "name": "Clap Crunch 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54853"
+    },
+    {
+      "name": "Clap Crunch Preon.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_48212"
+    },
+    {
+      "name": "Clap Crunch Slap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57838"
+    },
+    {
+      "name": "Clap Crunch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37259"
+    },
+    {
+      "name": "Clap Crunch.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1745"
+    },
+    {
+      "name": "Clap Dark Ambient.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36121"
+    },
+    {
+      "name": "Clap Deep Knight.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36122"
+    },
+    {
+      "name": "Clap Delay Tail.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37260"
+    },
+    {
+      "name": "Clap Demure Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46368"
+    },
+    {
+      "name": "Clap Demure Synth.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1748"
+    },
+    {
+      "name": "Clap Digital 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37261"
+    },
+    {
+      "name": "Clap Digital 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37262"
+    },
+    {
+      "name": "Clap Digital 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37263"
+    },
+    {
+      "name": "Clap Digital Rasp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1749"
+    },
+    {
+      "name": "Clap Digital Robo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57839"
+    },
+    {
+      "name": "Clap Digital Tada.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_48213"
+    },
+    {
+      "name": "Clap Digital Vox.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1750"
+    },
+    {
+      "name": "Clap Digital Vox.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57840"
+    },
+    {
+      "name": "Clap Digital.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_48214"
+    },
+    {
+      "name": "Clap Dirt Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46369"
+    },
+    {
+      "name": "Clap Dirty Slap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36123"
+    },
+    {
+      "name": "Clap DMX Analog.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1746"
+    },
+    {
+      "name": "Clap DMX Token.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_48215"
+    },
+    {
+      "name": "Clap DMX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1747"
+    },
+    {
+      "name": "Clap Dry Single.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36124"
+    },
+    {
+      "name": "Clap Dry.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37264"
+    },
+    {
+      "name": "Clap Dub Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46370"
+    },
+    {
+      "name": "Clap Dub Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46371"
+    },
+    {
+      "name": "Clap Echo Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46372"
+    },
+    {
+      "name": "Clap eClap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1805"
+    },
+    {
+      "name": "Clap eClap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46373"
+    },
+    {
+      "name": "Clap EDM Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37265"
+    },
+    {
+      "name": "Clap EDM Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37266"
+    },
+    {
+      "name": "Clap Electrified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46374"
+    },
+    {
+      "name": "Clap Electrified.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1752"
+    },
+    {
+      "name": "Clap Enemy Flac.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1753"
+    },
+    {
+      "name": "Clap EnemyFlac.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46375"
+    },
+    {
+      "name": "Clap ER Fenk 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57841"
+    },
+    {
+      "name": "Clap ER Fenk 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57842"
+    },
+    {
+      "name": "Clap ER Fenk 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57843"
+    },
+    {
+      "name": "Clap ER Fenk 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57844"
+    },
+    {
+      "name": "Clap ER Fenk.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1751"
+    },
+    {
+      "name": "Clap Face Punch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46376"
+    },
+    {
+      "name": "Clap Feel Right Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_42260"
+    },
+    {
+      "name": "Clap Feel.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1754"
+    },
+    {
+      "name": "Clap Fenk Dry.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46377"
+    },
+    {
+      "name": "Clap Fenk Dry.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1755"
+    },
+    {
+      "name": "Clap Fenk Toy.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1756"
+    },
+    {
+      "name": "Clap Fenk Wet.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1757"
+    },
+    {
+      "name": "Clap Finger.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1758"
+    },
+    {
+      "name": "Clap Fizzle Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36125"
+    },
+    {
+      "name": "Clap Flange Hint.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1759"
+    },
+    {
+      "name": "Clap Flange Hint.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46378"
+    },
+    {
+      "name": "Clap Flared Out.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_48216"
+    },
+    {
+      "name": "Clap Ganti.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_42261"
+    },
+    {
+      "name": "Clap Glitch Boxer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_48217"
+    },
+    {
+      "name": "Clap Glitch Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57845"
+    },
+    {
+      "name": "Clap Glitch Out.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_48218"
+    },
+    {
+      "name": "Clap Glitch Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57846"
+    },
+    {
+      "name": "Clap Glitch Snake.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_48219"
+    },
+    {
+      "name": "Clap Glitch Speak.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_48220"
+    },
+    {
+      "name": "Clap Glitch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_48221"
+    },
+    {
+      "name": "Clap Grandfather.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1760"
+    },
+    {
+      "name": "Clap Gravel.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36126"
+    },
+    {
+      "name": "Clap Gravel.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46379"
+    },
+    {
+      "name": "Clap Group Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46380"
+    },
+    {
+      "name": "Clap Hands.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46381"
+    },
+    {
+      "name": "Clap Hans.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1761"
+    },
+    {
+      "name": "Clap Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54854"
+    },
+    {
+      "name": "Clap Hat Wah Soul.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39588"
+    },
+    {
+      "name": "Clap Hi Electrified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46382"
+    },
+    {
+      "name": "Clap Hi Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46383"
+    },
+    {
+      "name": "Clap Hi Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46384"
+    },
+    {
+      "name": "Clap Hi Mutations.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46385"
+    },
+    {
+      "name": "Clap High Rise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39589"
+    },
+    {
+      "name": "Clap Hit Hard 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1762"
+    },
+    {
+      "name": "Clap Hit Hard 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1763"
+    },
+    {
+      "name": "Clap HitHard 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46386"
+    },
+    {
+      "name": "Clap HitHard 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46387"
+    },
+    {
+      "name": "Clap Hugo Clones.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1764"
+    },
+    {
+      "name": "Clap HugoClones.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46388"
+    },
+    {
+      "name": "Clap Ina.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1765"
+    },
+    {
+      "name": "Clap K2L.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36127"
+    },
+    {
+      "name": "Clap Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46389"
+    },
+    {
+      "name": "Clap Kiss.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46390"
+    },
+    {
+      "name": "Clap Kiss.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1766"
+    },
+    {
+      "name": "Clap Knock Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46391"
+    },
+    {
+      "name": "Clap Knock.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1767"
+    },
+    {
+      "name": "Clap Last Min.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1769"
+    },
+    {
+      "name": "Clap LastMin.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46392"
+    },
+    {
+      "name": "Clap Layered Sun.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_42262"
+    },
+    {
+      "name": "Clap Layered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57847"
+    },
+    {
+      "name": "Clap LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37267"
+    },
+    {
+      "name": "Clap LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1768"
+    },
+    {
+      "name": "Clap Lo Electrified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46393"
+    },
+    {
+      "name": "Clap Lo Fenk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46394"
+    },
+    {
+      "name": "Clap Lo Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46395"
+    },
+    {
+      "name": "Clap Lo Mutations.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46396"
+    },
+    {
+      "name": "Clap LoFi Processed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1770"
+    },
+    {
+      "name": "Clap Loose.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1771"
+    },
+    {
+      "name": "Clap Machine 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37268"
+    },
+    {
+      "name": "Clap Machine 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1772"
+    },
+    {
+      "name": "Clap Machine 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37272"
+    },
+    {
+      "name": "Clap Machine 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37273"
+    },
+    {
+      "name": "Clap Machine 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1774"
+    },
+    {
+      "name": "Clap Machine 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37274"
+    },
+    {
+      "name": "Clap Machine 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37275"
+    },
+    {
+      "name": "Clap Machine 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37276"
+    },
+    {
+      "name": "Clap Machine 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37277"
+    },
+    {
+      "name": "Clap Machine 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37278"
+    },
+    {
+      "name": "Clap Machine 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37269"
+    },
+    {
+      "name": "Clap Machine 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37270"
+    },
+    {
+      "name": "Clap Machine 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37271"
+    },
+    {
+      "name": "Clap Machine 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1773"
+    },
+    {
+      "name": "Clap Machine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57848"
+    },
+    {
+      "name": "Clap Mannschaft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1775"
+    },
+    {
+      "name": "Clap Mate.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1776"
+    },
+    {
+      "name": "Clap Mate.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46397"
+    },
+    {
+      "name": "Clap Metal Kindified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46398"
+    },
+    {
+      "name": "Clap Mkit Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57849"
+    },
+    {
+      "name": "Clap Mkit Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57850"
+    },
+    {
+      "name": "Clap Natural.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54855"
+    },
+    {
+      "name": "Clap Nectarine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_42263"
+    },
+    {
+      "name": "Clap Noise 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54856"
+    },
+    {
+      "name": "Clap Noise 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54857"
+    },
+    {
+      "name": "Clap Noise 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54858"
+    },
+    {
+      "name": "Clap Noise 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54859"
+    },
+    {
+      "name": "Clap Noise Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46399"
+    },
+    {
+      "name": "Clap Noise Screech.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46400"
+    },
+    {
+      "name": "Clap Noise Water.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46401"
+    },
+    {
+      "name": "Clap Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46402"
+    },
+    {
+      "name": "Clap Peace.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39590"
+    },
+    {
+      "name": "Clap Peace.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1777"
+    },
+    {
+      "name": "Clap People.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1778"
+    },
+    {
+      "name": "Clap Perc Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39591"
+    },
+    {
+      "name": "Clap Pete.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1779"
+    },
+    {
+      "name": "Clap Plastic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_42264"
+    },
+    {
+      "name": "Clap PO Mutations.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_42265"
+    },
+    {
+      "name": "Clap Prommer Vinyl DMX.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1780"
+    },
+    {
+      "name": "Clap Prommer Vinyl ST.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1781"
+    },
+    {
+      "name": "Clap Punchy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37279"
+    },
+    {
+      "name": "Clap Real.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_42266"
+    },
+    {
+      "name": "Clap Reverb Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46403"
+    },
+    {
+      "name": "Clap Reverb Smack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46404"
+    },
+    {
+      "name": "Clap Reverb Tail.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37280"
+    },
+    {
+      "name": "Clap RK TD1 Uluru 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_42267"
+    },
+    {
+      "name": "Clap RK TD1 Uluru 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_42268"
+    },
+    {
+      "name": "Clap RK TD1 Uluru 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1782"
+    },
+    {
+      "name": "Clap RK TD1 Wayman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_42269"
+    },
+    {
+      "name": "Clap Rough.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46405"
+    },
+    {
+      "name": "Clap Semi Real.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39592"
+    },
+    {
+      "name": "Clap Septet.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1783"
+    },
+    {
+      "name": "Clap Septet.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46406"
+    },
+    {
+      "name": "Clap Sharp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54860"
+    },
+    {
+      "name": "Clap Shatter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57851"
+    },
+    {
+      "name": "Clap Short Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46407"
+    },
+    {
+      "name": "Clap Short Smack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46408"
+    },
+    {
+      "name": "Clap Simple Snap.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1784"
+    },
+    {
+      "name": "Clap Single Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46409"
+    },
+    {
+      "name": "Clap Slackjaw.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1785"
+    },
+    {
+      "name": "Clap Slam FX 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54861"
+    },
+    {
+      "name": "Clap Slam FX 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_54862"
+    },
+    {
+      "name": "Clap Slow Attack Swipe.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36128"
+    },
+    {
+      "name": "Clap Snap Fings Inna Big Room.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1786"
+    },
+    {
+      "name": "Clap Snap Fings.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1787"
+    },
+    {
+      "name": "Clap Snap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37281"
+    },
+    {
+      "name": "Clap Stack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39593"
+    },
+    {
+      "name": "Clap Static Equinox.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36129"
+    },
+    {
+      "name": "Clap Stick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46410"
+    },
+    {
+      "name": "Clap Streets.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39594"
+    },
+    {
+      "name": "Clap Streets.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1788"
+    },
+    {
+      "name": "clap sucka.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39595"
+    },
+    {
+      "name": "Clap Super Duper Layer.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1789"
+    },
+    {
+      "name": "Clap Super Layer.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1790"
+    },
+    {
+      "name": "Clap SuperDuperLayer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46411"
+    },
+    {
+      "name": "Clap Sustain 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37282"
+    },
+    {
+      "name": "Clap Sustain 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37286"
+    },
+    {
+      "name": "Clap Sustain 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37287"
+    },
+    {
+      "name": "Clap Sustain 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37288"
+    },
+    {
+      "name": "Clap Sustain 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37289"
+    },
+    {
+      "name": "Clap Sustain 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37290"
+    },
+    {
+      "name": "Clap Sustain 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37291"
+    },
+    {
+      "name": "Clap Sustain 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37292"
+    },
+    {
+      "name": "Clap Sustain 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37293"
+    },
+    {
+      "name": "Clap Sustain 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37283"
+    },
+    {
+      "name": "Clap Sustain 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37284"
+    },
+    {
+      "name": "Clap Sustain 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37285"
+    },
+    {
+      "name": "Clap Sustain Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57852"
+    },
+    {
+      "name": "Clap Sustain Lo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57853"
+    },
+    {
+      "name": "Clap Sustain.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1791"
+    },
+    {
+      "name": "Clap Sustain.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_42270"
+    },
+    {
+      "name": "Clap Swept Metallic.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1792"
+    },
+    {
+      "name": "Clap Synth Double White.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1793"
+    },
+    {
+      "name": "Clap Synth Double White.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46412"
+    },
+    {
+      "name": "Clap Synth Slap Shot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1794"
+    },
+    {
+      "name": "Clap Taint.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39596"
+    },
+    {
+      "name": "Clap Think Group.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36130"
+    },
+    {
+      "name": "Clap Tight.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1795"
+    },
+    {
+      "name": "Clap Trap Layer.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1796"
+    },
+    {
+      "name": "Clap TrapLayer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46413"
+    },
+    {
+      "name": "Clap Trax.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46414"
+    },
+    {
+      "name": "Clap Trax.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_57854"
+    },
+    {
+      "name": "Clap Trax.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1797"
+    },
+    {
+      "name": "Clap Truncated K2L.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36131"
+    },
+    {
+      "name": "Clap Unsaned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46415"
+    },
+    {
+      "name": "Clap Vicious.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39597"
+    },
+    {
+      "name": "Clap Vintage 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37294"
+    },
+    {
+      "name": "Clap Vintage 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37295"
+    },
+    {
+      "name": "Clap Vintage 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37296"
+    },
+    {
+      "name": "Clap Vintage 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1798"
+    },
+    {
+      "name": "Clap Vintage 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37297"
+    },
+    {
+      "name": "Clap Vintage Machine Dual.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36132"
+    },
+    {
+      "name": "Clap Vintage Nightly.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_42271"
+    },
+    {
+      "name": "Clap Vintage Yakiman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1799"
+    },
+    {
+      "name": "Clap Vintage Yakiman.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_42272"
+    },
+    {
+      "name": "Clap Vinyl SP.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1800"
+    },
+    {
+      "name": "Clap Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1801"
+    },
+    {
+      "name": "Clap Wanderlust.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46416"
+    },
+    {
+      "name": "Clap White Noise.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1802"
+    },
+    {
+      "name": "Clap Wild Canvas.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39598"
+    },
+    {
+      "name": "Clap Wood Block.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37298"
+    },
+    {
+      "name": "Clap Wood Block.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1803"
+    },
+    {
+      "name": "Clap Wood Smack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36133"
+    },
+    {
+      "name": "Clap Woody.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1804"
+    },
+    {
+      "name": "Clap-707.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46417"
+    },
+    {
+      "name": "Clap-808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46418"
+    },
+    {
+      "name": "Clap-909.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46419"
+    },
+    {
+      "name": "Clap-DMX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46420"
+    },
+    {
+      "name": "Clap-LD.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46421"
+    },
+    {
+      "name": "Hand Clap 505.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1806"
+    },
+    {
+      "name": "Hot Clap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_42273"
+    },
+    {
+      "name": "Snap 16.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39599"
+    },
+    {
+      "name": "Snap Bang.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39600"
+    },
+    {
+      "name": "Snap Buttermilk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39601"
+    },
+    {
+      "name": "Snap Fly.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_39602"
+    },
+    {
+      "name": "Snap Impulse Dub.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46422"
+    },
+    {
+      "name": "Snap Lounge.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1807"
+    },
+    {
+      "name": "Snap Nectarine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_42274"
+    },
+    {
+      "name": "Snap Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37299"
+    },
+    {
+      "name": "Snap SP.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_46423"
+    },
+    {
+      "name": "Snap SP.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1808"
+    },
+    {
+      "name": "Snap Vid Mo.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1809"
+    },
+    {
+      "name": "Snap Xrated.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_1810"
+    },
+    {
+      "name": "Snaps Reverb Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_36134"
+    },
+    {
+      "name": "Snare Clap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_37300"
+    },
+    {
+      "name": "Stereo Snap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Clap:FileId_42275"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "path": "Instruments/Drum Rack/Ambient & Evolving",
+  "name": "Ambient & Evolving",
+  "uri": "query:Synths#Drum%20Rack:Ambient%20&%20Evolving",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "3RDEYEZ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Ambient%20&%20Evolving:FileId_43213"
+    },
+    {
+      "name": "Bowed Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Ambient%20&%20Evolving:FileId_43205"
+    },
+    {
+      "name": "Cyber Angel Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Ambient%20&%20Evolving:FileId_43218"
+    },
+    {
+      "name": "Drone E-Tanpura Rack.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Ambient%20&%20Evolving:FileId_43262"
+    },
+    {
+      "name": "Internal Routing.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Ambient%20&%20Evolving:FileId_43228"
+    },
+    {
+      "name": "Olivine Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Ambient%20&%20Evolving:FileId_43206"
+    },
+    {
+      "name": "Pelog.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Ambient%20&%20Evolving:FileId_43264"
+    },
+    {
+      "name": "Razor Wire Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Ambient%20&%20Evolving:FileId_43232"
+    },
+    {
+      "name": "Silent Night Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Ambient%20&%20Evolving:FileId_43234"
+    },
+    {
+      "name": "Solfeggio Mirror Forks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Ambient%20&%20Evolving:FileId_43265"
+    },
+    {
+      "name": "Solfeggio Mirror Gongs.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Ambient%20&%20Evolving:FileId_43266"
+    },
+    {
+      "name": "X3RKABA.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Ambient%20&%20Evolving:FileId_43267"
+    },
+    {
+      "name": "XEMF.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Ambient%20&%20Evolving:FileId_43269"
+    },
+    {
+      "name": "XITHER.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Drum%20Rack:Ambient%20&%20Evolving:FileId_43270"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "path": "Instruments/Collision/Effects",
+  "name": "Effects",
+  "uri": "query:Synths#Collision:Effects",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Dynamic Wind.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Effects:FileId_59637"
+    },
+    {
+      "name": "Engine Failure.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Effects:FileId_59638"
+    },
+    {
+      "name": "Flick Hit.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Effects:FileId_59639"
+    },
+    {
+      "name": "Metal Delay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Effects:FileId_42997"
+    }
+  ]
+}

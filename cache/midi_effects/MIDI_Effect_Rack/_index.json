@@ -1,0 +1,31 @@
+{
+  "path": "midi_effects/MIDI Effect Rack",
+  "name": "MIDI Effect Rack",
+  "uri": "query:MidiFx#MIDI%20Effect%20Rack",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "Experimental",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Experimental"
+    },
+    {
+      "name": "Rhythmic",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Rhythmic"
+    },
+    {
+      "name": "Utility",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:MidiFx#MIDI%20Effect%20Rack:Utility"
+    }
+  ]
+}

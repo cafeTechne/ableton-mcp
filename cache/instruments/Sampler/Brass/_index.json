@@ -1,0 +1,185 @@
+{
+  "path": "Instruments/Sampler/Brass",
+  "name": "Brass",
+  "uri": "query:Synths#Sampler:Brass",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Abrasive Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_51076"
+    },
+    {
+      "name": "Bass Trombone Augmented.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_51077"
+    },
+    {
+      "name": "Brass Wash.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_51078"
+    },
+    {
+      "name": "Dual Tubas (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_51079"
+    },
+    {
+      "name": "Horror Horns.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_51080"
+    },
+    {
+      "name": "Long All-in-one - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36727"
+    },
+    {
+      "name": "Long Flutter - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36729"
+    },
+    {
+      "name": "Long Hollow - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36730"
+    },
+    {
+      "name": "Long Pitch Bend - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36731"
+    },
+    {
+      "name": "Long Senza Vibrato - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36732"
+    },
+    {
+      "name": "Long Vibrato - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36733"
+    },
+    {
+      "name": "MPE Erosion (Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36737"
+    },
+    {
+      "name": "MPE Erosion (Slide & Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36738"
+    },
+    {
+      "name": "MPE Erosion (Slide) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36739"
+    },
+    {
+      "name": "MPE Intimate (Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36740"
+    },
+    {
+      "name": "MPE Intimate (Slide & Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36741"
+    },
+    {
+      "name": "MPE Intimate (Slide) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36742"
+    },
+    {
+      "name": "MPE Vibrato (Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36743"
+    },
+    {
+      "name": "MPE Vibrato (Slide & Pressure) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36744"
+    },
+    {
+      "name": "MPE Vibrato (Slide) - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36745"
+    },
+    {
+      "name": "Short All-in-one - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36728"
+    },
+    {
+      "name": "Short Soft - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36734"
+    },
+    {
+      "name": "Short Staccatissimo - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36735"
+    },
+    {
+      "name": "Short Staccato - Brass Quartet.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_36736"
+    },
+    {
+      "name": "Soft Brass Ensemble.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Brass:FileId_51081"
+    }
+  ]
+}

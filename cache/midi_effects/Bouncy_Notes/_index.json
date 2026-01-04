@@ -1,0 +1,17 @@
+{
+  "path": "midi_effects/Bouncy Notes",
+  "name": "Bouncy Notes",
+  "uri": "query:MidiFx#Bouncy%20Notes",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "Experimental",
+      "is_folder": true,
+      "is_device": false,
+      "is_loadable": false,
+      "uri": "query:MidiFx#Bouncy%20Notes:Experimental"
+    }
+  ]
+}

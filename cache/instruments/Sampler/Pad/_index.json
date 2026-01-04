@@ -1,0 +1,507 @@
+{
+  "path": "Instruments/Sampler/Pad",
+  "name": "Pad",
+  "uri": "query:Synths#Sampler:Pad",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "AI Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51261"
+    },
+    {
+      "name": "Aolian Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51192"
+    },
+    {
+      "name": "Atlas.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51262"
+    },
+    {
+      "name": "Aureas.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51263"
+    },
+    {
+      "name": "Banshee's Wail.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51264"
+    },
+    {
+      "name": "Big Glass Sustained (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51194"
+    },
+    {
+      "name": "Biig Saw Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_5297"
+    },
+    {
+      "name": "Burnt Sun Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_43242"
+    },
+    {
+      "name": "Cilium Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51197"
+    },
+    {
+      "name": "Contemplation.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51198"
+    },
+    {
+      "name": "Creeper Approaching.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51265"
+    },
+    {
+      "name": "Cybernetic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51266"
+    },
+    {
+      "name": "Danakeel Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51199"
+    },
+    {
+      "name": "Dark Corner Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_3919"
+    },
+    {
+      "name": "Dark Matallurg.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51267"
+    },
+    {
+      "name": "Darkstring.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_59235"
+    },
+    {
+      "name": "Daysleeper Swells Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_3921"
+    },
+    {
+      "name": "Deep Choral.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_59236"
+    },
+    {
+      "name": "Deep Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51200"
+    },
+    {
+      "name": "Dense String.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_59237"
+    },
+    {
+      "name": "Dimm Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51268"
+    },
+    {
+      "name": "Dust Particles.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51270"
+    },
+    {
+      "name": "Fake Bowed Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51201"
+    },
+    {
+      "name": "Fat Heavy Drone Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_5298"
+    },
+    {
+      "name": "Feedbacking Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51202"
+    },
+    {
+      "name": "Flitting Around Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51203"
+    },
+    {
+      "name": "Fluid Textural Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51204"
+    },
+    {
+      "name": "Foggy Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51272"
+    },
+    {
+      "name": "Fractured Pads.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51206"
+    },
+    {
+      "name": "Frozen Rings Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_3932"
+    },
+    {
+      "name": "Galactica Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_5299"
+    },
+    {
+      "name": "Glass Harmonica (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51208"
+    },
+    {
+      "name": "Glassmosphere (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51209"
+    },
+    {
+      "name": "Gotto.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51273"
+    },
+    {
+      "name": "Grainder.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51274"
+    },
+    {
+      "name": "Hidden.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51275"
+    },
+    {
+      "name": "Inclement Drone Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_3935"
+    },
+    {
+      "name": "Inside.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51276"
+    },
+    {
+      "name": "Kanon.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51277"
+    },
+    {
+      "name": "Labyrinth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51278"
+    },
+    {
+      "name": "Lifebreath.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_43248"
+    },
+    {
+      "name": "Linus Didgeridoo.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51279"
+    },
+    {
+      "name": "Megaphatness Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_5300"
+    },
+    {
+      "name": "Message From The Colonies.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51210"
+    },
+    {
+      "name": "Modal Spectrum.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51211"
+    },
+    {
+      "name": "MPE Pearlescent Tides Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_3973"
+    },
+    {
+      "name": "Narrow Vein.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51212"
+    },
+    {
+      "name": "Odu Pads.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51213"
+    },
+    {
+      "name": "Opposite.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51280"
+    },
+    {
+      "name": "Optimus Rhyme Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51214"
+    },
+    {
+      "name": "Panorama Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_5301"
+    },
+    {
+      "name": "Paradox Plateau.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51215"
+    },
+    {
+      "name": "Psycho Tables Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_5302"
+    },
+    {
+      "name": "Quadra Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51216"
+    },
+    {
+      "name": "Quarantine Qeys.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51217"
+    },
+    {
+      "name": "Revenge of Q Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_5303"
+    },
+    {
+      "name": "Reverse Piano Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51218"
+    },
+    {
+      "name": "Seashore Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_5304"
+    },
+    {
+      "name": "Sepia Tones.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51220"
+    },
+    {
+      "name": "Simple One Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_5305"
+    },
+    {
+      "name": "Slow Drown Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_3950"
+    },
+    {
+      "name": "Soft Emotive Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51225"
+    },
+    {
+      "name": "Soft Magic Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51226"
+    },
+    {
+      "name": "Sweeper Saege Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_5306"
+    },
+    {
+      "name": "Swell Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51227"
+    },
+    {
+      "name": "The Greatest Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_5307"
+    },
+    {
+      "name": "Tibetan Bell Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51228"
+    },
+    {
+      "name": "Trillion Quake.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_43256"
+    },
+    {
+      "name": "Truely Buried.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_59245"
+    },
+    {
+      "name": "Underneath.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51282"
+    },
+    {
+      "name": "Vhaundt Premonitions.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Sampler:Pad:FileId_51283"
+    }
+  ]
+}

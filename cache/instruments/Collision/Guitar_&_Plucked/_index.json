@@ -1,0 +1,66 @@
+{
+  "path": "Instruments/Collision/Guitar & Plucked",
+  "name": "Guitar & Plucked",
+  "uri": "query:Synths#Collision:Guitar%20&%20Plucked",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Acoustic String.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Guitar%20&%20Plucked:FileId_5851"
+    },
+    {
+      "name": "Digital String.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Guitar%20&%20Plucked:FileId_5852"
+    },
+    {
+      "name": "Drippy Cave Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Guitar%20&%20Plucked:FileId_3851"
+    },
+    {
+      "name": "Glass Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Guitar%20&%20Plucked:FileId_4010"
+    },
+    {
+      "name": "Ocean Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Guitar%20&%20Plucked:FileId_3863"
+    },
+    {
+      "name": "Resonant Casing.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Guitar%20&%20Plucked:FileId_5853"
+    },
+    {
+      "name": "String Detune .adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Guitar%20&%20Plucked:FileId_43009"
+    },
+    {
+      "name": "Tube Harp.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Guitar%20&%20Plucked:FileId_5854"
+    }
+  ]
+}

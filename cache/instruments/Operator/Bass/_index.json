@@ -1,0 +1,1270 @@
+{
+  "path": "Instruments/Operator/Bass",
+  "name": "Bass",
+  "uri": "query:Synths#Operator:Bass",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Absolute Filth.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59181"
+    },
+    {
+      "name": "Acid Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5661"
+    },
+    {
+      "name": "Add Square Shifter.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59182"
+    },
+    {
+      "name": "Amp Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_36628"
+    },
+    {
+      "name": "Anarchy Reese.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59183"
+    },
+    {
+      "name": "Antidote Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_61056"
+    },
+    {
+      "name": "Anxious Woofer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_39876"
+    },
+    {
+      "name": "Axis Dub.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_48981"
+    },
+    {
+      "name": "Azimuth Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5662"
+    },
+    {
+      "name": "Basic Fanatik Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_4068"
+    },
+    {
+      "name": "Basic Fine Line Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_4069"
+    },
+    {
+      "name": "Basic Mello Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_4070"
+    },
+    {
+      "name": "Basic Sub Sine.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_4075"
+    },
+    {
+      "name": "Basic Wash Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_4077"
+    },
+    {
+      "name": "Bass Deep and Dark Pad Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_42975"
+    },
+    {
+      "name": "Bass Fake Live Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_42976"
+    },
+    {
+      "name": "Bass Follower.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_39877"
+    },
+    {
+      "name": "Bass Raw.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_42977"
+    },
+    {
+      "name": "Bass Station.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59184"
+    },
+    {
+      "name": "Beat That Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_39879"
+    },
+    {
+      "name": "Big House Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_38301"
+    },
+    {
+      "name": "Boom Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_36633"
+    },
+    {
+      "name": "Boulder Drop.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59187"
+    },
+    {
+      "name": "Bubble Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_36635"
+    },
+    {
+      "name": "Burned Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_4079"
+    },
+    {
+      "name": "Buzz Glide.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_38302"
+    },
+    {
+      "name": "Carrier Sky.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_38304"
+    },
+    {
+      "name": "Carrier Sky.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_48982"
+    },
+    {
+      "name": "Chain Me Up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59188"
+    },
+    {
+      "name": "Compressed Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_51102"
+    },
+    {
+      "name": "Creatures.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_51105"
+    },
+    {
+      "name": "Creep Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5663"
+    },
+    {
+      "name": "Cyclon.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59191"
+    },
+    {
+      "name": "Deep Chill Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_36636"
+    },
+    {
+      "name": "Deep FM Bounce.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_42980"
+    },
+    {
+      "name": "Detuned Attack Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5664"
+    },
+    {
+      "name": "Detuned Lowpass Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5665"
+    },
+    {
+      "name": "Dirty Sub.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_39881"
+    },
+    {
+      "name": "Disto FM Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5666"
+    },
+    {
+      "name": "Distortion Bright Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5667"
+    },
+    {
+      "name": "Distortion Filtered Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5668"
+    },
+    {
+      "name": "Distroy Noise Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_55443"
+    },
+    {
+      "name": "Downy Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_38309"
+    },
+    {
+      "name": "Dual Sticky Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_36639"
+    },
+    {
+      "name": "Dynamic Filter Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5669"
+    },
+    {
+      "name": "Dynamic Harmonics Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5670"
+    },
+    {
+      "name": "Ear Plug Nation.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_38311"
+    },
+    {
+      "name": "East End Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59660"
+    },
+    {
+      "name": "Electric FM Fuzz Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5671"
+    },
+    {
+      "name": "Electric FM Muffled Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5672"
+    },
+    {
+      "name": "Electric FM Wow Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5673"
+    },
+    {
+      "name": "Eon Flux.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59194"
+    },
+    {
+      "name": "Face Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5674"
+    },
+    {
+      "name": "Fading Line.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_48984"
+    },
+    {
+      "name": "Fast Filter Attack Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5675"
+    },
+    {
+      "name": "Field Marshall.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59195"
+    },
+    {
+      "name": "Fill It Up Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_61064"
+    },
+    {
+      "name": "FilterBass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59196"
+    },
+    {
+      "name": "FM Bark.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_55445"
+    },
+    {
+      "name": "FM Deep Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_4086"
+    },
+    {
+      "name": "FmHouzBass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59197"
+    },
+    {
+      "name": "Freak-o-saur.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_39886"
+    },
+    {
+      "name": "Full Sub Pocket Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_36643"
+    },
+    {
+      "name": "Fuzz Step.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59198"
+    },
+    {
+      "name": "Gemini Round Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_48985"
+    },
+    {
+      "name": "Growl Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5676"
+    },
+    {
+      "name": "Grundgy Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_42981"
+    },
+    {
+      "name": "Guitar Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5677"
+    },
+    {
+      "name": "Hang Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_42982"
+    },
+    {
+      "name": "Hang Up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_48986"
+    },
+    {
+      "name": "HardGarage.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59199"
+    },
+    {
+      "name": "Harsh FM Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5678"
+    },
+    {
+      "name": "Hip-Hop Sub Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_4093"
+    },
+    {
+      "name": "Holy Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_61067"
+    },
+    {
+      "name": "Hoover Down.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59200"
+    },
+    {
+      "name": "Hopped Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_39891"
+    },
+    {
+      "name": "Houdini Syn Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_36644"
+    },
+    {
+      "name": "House Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5679"
+    },
+    {
+      "name": "Housy Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5680"
+    },
+    {
+      "name": "Human Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59661"
+    },
+    {
+      "name": "HUSkateer Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59662"
+    },
+    {
+      "name": "Impending Doom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_51110"
+    },
+    {
+      "name": "Juicy Ladder Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5681"
+    },
+    {
+      "name": "King Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5682"
+    },
+    {
+      "name": "Lofi Deep Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_48987"
+    },
+    {
+      "name": "Low Ride.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_36646"
+    },
+    {
+      "name": "Madness Wobble Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_36647"
+    },
+    {
+      "name": "Mean Creaked Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_55446"
+    },
+    {
+      "name": "Mech Chord.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_55447"
+    },
+    {
+      "name": "Metallic Basic Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5683"
+    },
+    {
+      "name": "Metallic Mallet Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5684"
+    },
+    {
+      "name": "Midnight Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_42986"
+    },
+    {
+      "name": "MiniMeemee Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59663"
+    },
+    {
+      "name": "Modality Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_39892"
+    },
+    {
+      "name": "Monlog Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59201"
+    },
+    {
+      "name": "Mookie Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_36648"
+    },
+    {
+      "name": "Moon Drop Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_48988"
+    },
+    {
+      "name": "More Than 808 Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_36649"
+    },
+    {
+      "name": "Neaww Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5685"
+    },
+    {
+      "name": "New Old Sub.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_39894"
+    },
+    {
+      "name": "Nymph Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_55449"
+    },
+    {
+      "name": "Octo Space Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_55450"
+    },
+    {
+      "name": "OP Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5686"
+    },
+    {
+      "name": "Optimo Time Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_4099"
+    },
+    {
+      "name": "Organ Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5687"
+    },
+    {
+      "name": "Orion Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_39895"
+    },
+    {
+      "name": "Overdrive Space Boom.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_55451"
+    },
+    {
+      "name": "Ovina Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59202"
+    },
+    {
+      "name": "Oxi Bass Rack.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59203"
+    },
+    {
+      "name": "Particle Sub Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_48989"
+    },
+    {
+      "name": "PD Bass Hits.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59204"
+    },
+    {
+      "name": "Phatskweek Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_39897"
+    },
+    {
+      "name": "Ping It.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59205"
+    },
+    {
+      "name": "Power Wub Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_38321"
+    },
+    {
+      "name": "Public Announcement Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_42991"
+    },
+    {
+      "name": "Punch Growl.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59206"
+    },
+    {
+      "name": "Punchy Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_51115"
+    },
+    {
+      "name": "Ramp Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_38322"
+    },
+    {
+      "name": "Rectangle Reverse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_55453"
+    },
+    {
+      "name": "Reese Odysssey.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_4103"
+    },
+    {
+      "name": "Release Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5688"
+    },
+    {
+      "name": "Reverse Fuzz.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_42992"
+    },
+    {
+      "name": "Rinsin Gritt.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59210"
+    },
+    {
+      "name": "Room 202.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_61074"
+    },
+    {
+      "name": "SawReese.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59211"
+    },
+    {
+      "name": "Secret Kick.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59212"
+    },
+    {
+      "name": "Selekta Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5689"
+    },
+    {
+      "name": "Shipwreck Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_36652"
+    },
+    {
+      "name": "Short Decay Saw Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5690"
+    },
+    {
+      "name": "Short Decay Sine Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5691"
+    },
+    {
+      "name": "Short Decay Wah Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5692"
+    },
+    {
+      "name": "Sinelike Basic Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5693"
+    },
+    {
+      "name": "Singularity Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_51119"
+    },
+    {
+      "name": "Slow Pull Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_39899"
+    },
+    {
+      "name": "Sneak Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_36653"
+    },
+    {
+      "name": "Sneaky Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5694"
+    },
+    {
+      "name": "Sneaky Sync Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5695"
+    },
+    {
+      "name": "Solid Steel Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_42993"
+    },
+    {
+      "name": "Squiggle Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_39900"
+    },
+    {
+      "name": "Stingbat.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59216"
+    },
+    {
+      "name": "Sub Buzz.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_48993"
+    },
+    {
+      "name": "Sub Clicky Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5696"
+    },
+    {
+      "name": "Sub Crawl Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_55455"
+    },
+    {
+      "name": "Sub Dirt Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_38326"
+    },
+    {
+      "name": "Sub Fuzz.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_48995"
+    },
+    {
+      "name": "Sub Glace.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_48996"
+    },
+    {
+      "name": "Sub Killer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_48997"
+    },
+    {
+      "name": "Sub Pocket Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_61078"
+    },
+    {
+      "name": "Sub Sine Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5697"
+    },
+    {
+      "name": "Sub Species Synth Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_36655"
+    },
+    {
+      "name": "Sub Stack.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_48998"
+    },
+    {
+      "name": "Sub Terra.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_48999"
+    },
+    {
+      "name": "Sub Tonic.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_49000"
+    },
+    {
+      "name": "Subtle Donk.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_49001"
+    },
+    {
+      "name": "Super Boss Mini Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_39901"
+    },
+    {
+      "name": "Sweep Flange Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5698"
+    },
+    {
+      "name": "Sweep Slow Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5699"
+    },
+    {
+      "name": "Sweep Unison Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5700"
+    },
+    {
+      "name": "Symphonite.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_55458"
+    },
+    {
+      "name": "Tango Plush.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_42995"
+    },
+    {
+      "name": "Tense Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_38327"
+    },
+    {
+      "name": "The 101 Exchange.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_61080"
+    },
+    {
+      "name": "The Boucing Raver.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59217"
+    },
+    {
+      "name": "Three Op Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5701"
+    },
+    {
+      "name": "Tom n Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59218"
+    },
+    {
+      "name": "Upright Synth Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_36657"
+    },
+    {
+      "name": "Velocity Edge Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59664"
+    },
+    {
+      "name": "Voyage Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59665"
+    },
+    {
+      "name": "WahWah Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5702"
+    },
+    {
+      "name": "Wallwow.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_55460"
+    },
+    {
+      "name": "War Tone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59222"
+    },
+    {
+      "name": "Warm Ladder Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_39903"
+    },
+    {
+      "name": "Watch That Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59666"
+    },
+    {
+      "name": "Whammy Reso.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_59667"
+    },
+    {
+      "name": "Wobble Bass Pulse.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_51123"
+    },
+    {
+      "name": "Wobbly Flag Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5703"
+    },
+    {
+      "name": "Womp Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_4114"
+    },
+    {
+      "name": "Wonder Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_36658"
+    },
+    {
+      "name": "Wrath Bass Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_38331"
+    },
+    {
+      "name": "Wurp Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Bass:FileId_5704"
+    }
+  ]
+}

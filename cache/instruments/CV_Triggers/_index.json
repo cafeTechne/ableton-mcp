@@ -1,0 +1,9 @@
+{
+  "path": "Instruments/CV Triggers",
+  "name": "CV Triggers",
+  "uri": "query:Synths#CV%20Triggers",
+  "is_folder": false,
+  "is_device": true,
+  "is_loadable": true,
+  "items": []
+}

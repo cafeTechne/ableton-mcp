@@ -1,0 +1,38 @@
+{
+  "path": "Instruments/Bass/Synth Rhythmic",
+  "name": "Synth Rhythmic",
+  "uri": "query:Synths#Bass:Synth%20Rhythmic",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "SAH Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Rhythmic:FileId_41304"
+    },
+    {
+      "name": "Snake Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Rhythmic:FileId_41305"
+    },
+    {
+      "name": "Stabbed Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Rhythmic:FileId_41481"
+    },
+    {
+      "name": "StopandGo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Bass:Synth%20Rhythmic:FileId_41306"
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "count": 91,
+  "items": [
+    {
+      "name": "Color Limiter",
+      "uri": "query:AudioFx#Dynamics:Color%20Limiter",
+      "path": "Audio Effects/Dynamics/Color Limiter",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Compressor",
+      "uri": "query:AudioFx#Dynamics:Compressor",
+      "path": "Audio Effects/Dynamics/Compressor",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Gate",
+      "uri": "query:AudioFx#Dynamics:Gate",
+      "path": "Audio Effects/Dynamics/Gate",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Glue Compressor",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor",
+      "path": "Audio Effects/Dynamics/Glue Compressor",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Limiter",
+      "uri": "query:AudioFx#Dynamics:Limiter",
+      "path": "Audio Effects/Dynamics/Limiter",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Multiband Dynamics",
+      "uri": "query:AudioFx#Dynamics:Multiband%20Dynamics",
+      "path": "Audio Effects/Dynamics/Multiband Dynamics",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Re-Enveloper",
+      "uri": "query:AudioFx#Dynamics:Re-Enveloper",
+      "path": "Audio Effects/Dynamics/Re-Enveloper",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Brickwall Limiter.adv",
+      "uri": "query:AudioFx#Dynamics:Color%20Limiter:FileId_41159",
+      "path": "Audio Effects/Dynamics/Color Limiter/Brickwall Limiter.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Crumble.adv",
+      "uri": "query:AudioFx#Dynamics:Color%20Limiter:FileId_41160",
+      "path": "Audio Effects/Dynamics/Color Limiter/Crumble.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Delicate Squashing.adv",
+      "uri": "query:AudioFx#Dynamics:Color%20Limiter:FileId_41161",
+      "path": "Audio Effects/Dynamics/Color Limiter/Delicate Squashing.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drumbits.adv",
+      "uri": "query:AudioFx#Dynamics:Color%20Limiter:FileId_41162",
+      "path": "Audio Effects/Dynamics/Color Limiter/Drumbits.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Gentle Saturation.adv",
+      "uri": "query:AudioFx#Dynamics:Color%20Limiter:FileId_41163",
+      "path": "Audio Effects/Dynamics/Color Limiter/Gentle Saturation.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Heavy Bottom.adv",
+      "uri": "query:AudioFx#Dynamics:Color%20Limiter:FileId_41164",
+      "path": "Audio Effects/Dynamics/Color Limiter/Heavy Bottom.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Impakt.adv",
+      "uri": "query:AudioFx#Dynamics:Color%20Limiter:FileId_41165",
+      "path": "Audio Effects/Dynamics/Color Limiter/Impakt.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Loudness.adv",
+      "uri": "query:AudioFx#Dynamics:Color%20Limiter:FileId_41166",
+      "path": "Audio Effects/Dynamics/Color Limiter/Loudness.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Master Limiter.adv",
+      "uri": "query:AudioFx#Dynamics:Color%20Limiter:FileId_41167",
+      "path": "Audio Effects/Dynamics/Color Limiter/Master Limiter.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Presenz.adv",
+      "uri": "query:AudioFx#Dynamics:Color%20Limiter:FileId_41168",
+      "path": "Audio Effects/Dynamics/Color Limiter/Presenz.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Pumping.adv",
+      "uri": "query:AudioFx#Dynamics:Color%20Limiter:FileId_41169",
+      "path": "Audio Effects/Dynamics/Color Limiter/Pumping.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Squash.adv",
+      "uri": "query:AudioFx#Dynamics:Color%20Limiter:FileId_41170",
+      "path": "Audio Effects/Dynamics/Color Limiter/Squash.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Transparent Limiter.adv",
+      "uri": "query:AudioFx#Dynamics:Color%20Limiter:FileId_41171",
+      "path": "Audio Effects/Dynamics/Color Limiter/Transparent Limiter.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Acoustic Kick Compressor.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6585",
+      "path": "Audio Effects/Dynamics/Compressor/Acoustic Kick Compressor.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Acoustic.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6586",
+      "path": "Audio Effects/Dynamics/Compressor/Acoustic.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Basic Peak Compressor.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6587",
+      "path": "Audio Effects/Dynamics/Compressor/Basic Peak Compressor.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Brick Wall.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6588",
+      "path": "Audio Effects/Dynamics/Compressor/Brick Wall.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Brute Compression.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6589",
+      "path": "Audio Effects/Dynamics/Compressor/Brute Compression.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Classical Compression.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6590",
+      "path": "Audio Effects/Dynamics/Compressor/Classical Compression.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "De-esser.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6591",
+      "path": "Audio Effects/Dynamics/Compressor/De-esser.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Flattenator.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6592",
+      "path": "Audio Effects/Dynamics/Compressor/Flattenator.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Generic Compressor.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6593",
+      "path": "Audio Effects/Dynamics/Compressor/Generic Compressor.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Gentle Squeeze.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6594",
+      "path": "Audio Effects/Dynamics/Compressor/Gentle Squeeze.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Gentle-Kneeless.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6595",
+      "path": "Audio Effects/Dynamics/Compressor/Gentle-Kneeless.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Kick Reducer.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6596",
+      "path": "Audio Effects/Dynamics/Compressor/Kick Reducer.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Loud-Kneeless.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6597",
+      "path": "Audio Effects/Dynamics/Compressor/Loud-Kneeless.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Mildly Aggresive.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6598",
+      "path": "Audio Effects/Dynamics/Compressor/Mildly Aggresive.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Mix Gel.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6599",
+      "path": "Audio Effects/Dynamics/Compressor/Mix Gel.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Precise.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6600",
+      "path": "Audio Effects/Dynamics/Compressor/Precise.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Soft Snare Compressor.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6601",
+      "path": "Audio Effects/Dynamics/Compressor/Soft Snare Compressor.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Sustained Lead Vocal.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6602",
+      "path": "Audio Effects/Dynamics/Compressor/Sustained Lead Vocal.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Flipside.adv",
+      "uri": "query:AudioFx#Dynamics:Gate:FileId_6342",
+      "path": "Audio Effects/Dynamics/Gate/Flipside.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Gated Drums.adv",
+      "uri": "query:AudioFx#Dynamics:Gate:FileId_6343",
+      "path": "Audio Effects/Dynamics/Gate/Gated Drums.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Short Cut.adv",
+      "uri": "query:AudioFx#Dynamics:Gate:FileId_6344",
+      "path": "Audio Effects/Dynamics/Gate/Short Cut.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Soft Reducer.adv",
+      "uri": "query:AudioFx#Dynamics:Gate:FileId_6345",
+      "path": "Audio Effects/Dynamics/Gate/Soft Reducer.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Softy.adv",
+      "uri": "query:AudioFx#Dynamics:Gate:FileId_6346",
+      "path": "Audio Effects/Dynamics/Gate/Softy.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bass - Low Extender.adv",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor:FileId_6326",
+      "path": "Audio Effects/Dynamics/Glue Compressor/Bass - Low Extender.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bass - Punch and Parallel.adv",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor:FileId_6327",
+      "path": "Audio Effects/Dynamics/Glue Compressor/Bass - Punch and Parallel.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bass - Punch.adv",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor:FileId_6328",
+      "path": "Audio Effects/Dynamics/Glue Compressor/Bass - Punch.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum - Full Parallel.adv",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor:FileId_6329",
+      "path": "Audio Effects/Dynamics/Glue Compressor/Drum - Full Parallel.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum - Gentle Sidechain EQ.adv",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor:FileId_6330",
+      "path": "Audio Effects/Dynamics/Glue Compressor/Drum - Gentle Sidechain EQ.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum - gentle two buss sidechain.adv",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor:FileId_6333",
+      "path": "Audio Effects/Dynamics/Glue Compressor/Drum - gentle two buss sidechain.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum - Gentle Two Buss.adv",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor:FileId_6331",
+      "path": "Audio Effects/Dynamics/Glue Compressor/Drum - Gentle Two Buss.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum - Rock Parallel Room.adv",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor:FileId_6332",
+      "path": "Audio Effects/Dynamics/Glue Compressor/Drum - Rock Parallel Room.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Glue Sidechain EQ.adv",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor:FileId_6334",
+      "path": "Audio Effects/Dynamics/Glue Compressor/Glue Sidechain EQ.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Guitar - Controlled Dynamics.adv",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor:FileId_6335",
+      "path": "Audio Effects/Dynamics/Glue Compressor/Guitar - Controlled Dynamics.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Guitar - Lead Solo.adv",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor:FileId_6336",
+      "path": "Audio Effects/Dynamics/Glue Compressor/Guitar - Lead Solo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Guitar - Peak Clipping.adv",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor:FileId_6337",
+      "path": "Audio Effects/Dynamics/Glue Compressor/Guitar - Peak Clipping.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Mastering - Add Sustain.adv",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor:FileId_6338",
+      "path": "Audio Effects/Dynamics/Glue Compressor/Mastering - Add Sustain.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Mastering - Catch Peaks.adv",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor:FileId_6339",
+      "path": "Audio Effects/Dynamics/Glue Compressor/Mastering - Catch Peaks.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Mastering - Gentle Limiter.adv",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor:FileId_6340",
+      "path": "Audio Effects/Dynamics/Glue Compressor/Mastering - Gentle Limiter.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Mastering - Make It Loud.adv",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor:FileId_6341",
+      "path": "Audio Effects/Dynamics/Glue Compressor/Mastering - Make It Loud.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Fast.adv",
+      "uri": "query:AudioFx#Dynamics:Limiter:FileId_6155",
+      "path": "Audio Effects/Dynamics/Limiter/Fast.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Independence.adv",
+      "uri": "query:AudioFx#Dynamics:Limiter:FileId_6156",
+      "path": "Audio Effects/Dynamics/Limiter/Independence.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Lookahead.adv",
+      "uri": "query:AudioFx#Dynamics:Limiter:FileId_6157",
+      "path": "Audio Effects/Dynamics/Limiter/Lookahead.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Low Latency.adv",
+      "uri": "query:AudioFx#Dynamics:Limiter:FileId_6158",
+      "path": "Audio Effects/Dynamics/Limiter/Low Latency.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Push.adv",
+      "uri": "query:AudioFx#Dynamics:Limiter:FileId_6159",
+      "path": "Audio Effects/Dynamics/Limiter/Push.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Reduce.adv",
+      "uri": "query:AudioFx#Dynamics:Limiter:FileId_6160",
+      "path": "Audio Effects/Dynamics/Limiter/Reduce.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Slow.adv",
+      "uri": "query:AudioFx#Dynamics:Limiter:FileId_6161",
+      "path": "Audio Effects/Dynamics/Limiter/Slow.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Upper Ceiling.adv",
+      "uri": "query:AudioFx#Dynamics:Limiter:FileId_6162",
+      "path": "Audio Effects/Dynamics/Limiter/Upper Ceiling.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "A Standard Multiband Comp.adv",
+      "uri": "query:AudioFx#Dynamics:Multiband%20Dynamics:FileId_6137",
+      "path": "Audio Effects/Dynamics/Multiband Dynamics/A Standard Multiband Comp.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Broken Antenna.adv",
+      "uri": "query:AudioFx#Dynamics:Multiband%20Dynamics:FileId_6138",
+      "path": "Audio Effects/Dynamics/Multiband Dynamics/Broken Antenna.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Car stereo.adv",
+      "uri": "query:AudioFx#Dynamics:Multiband%20Dynamics:FileId_6139",
+      "path": "Audio Effects/Dynamics/Multiband Dynamics/Car stereo.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Flatline.adv",
+      "uri": "query:AudioFx#Dynamics:Multiband%20Dynamics:FileId_6140",
+      "path": "Audio Effects/Dynamics/Multiband Dynamics/Flatline.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Multiband Compression.adv",
+      "uri": "query:AudioFx#Dynamics:Multiband%20Dynamics:FileId_6141",
+      "path": "Audio Effects/Dynamics/Multiband Dynamics/Multiband Compression.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Multiband Gate.adv",
+      "uri": "query:AudioFx#Dynamics:Multiband%20Dynamics:FileId_6142",
+      "path": "Audio Effects/Dynamics/Multiband Dynamics/Multiband Gate.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "OTT.adv",
+      "uri": "query:AudioFx#Dynamics:Multiband%20Dynamics:FileId_6143",
+      "path": "Audio Effects/Dynamics/Multiband Dynamics/OTT.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Reduce Ambience.adv",
+      "uri": "query:AudioFx#Dynamics:Multiband%20Dynamics:FileId_6144",
+      "path": "Audio Effects/Dynamics/Multiband Dynamics/Reduce Ambience.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Restore punch.adv",
+      "uri": "query:AudioFx#Dynamics:Multiband%20Dynamics:FileId_6145",
+      "path": "Audio Effects/Dynamics/Multiband Dynamics/Restore punch.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Speech Enhancer.adv",
+      "uri": "query:AudioFx#Dynamics:Multiband%20Dynamics:FileId_6146",
+      "path": "Audio Effects/Dynamics/Multiband Dynamics/Speech Enhancer.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Split Band De-esser.adv",
+      "uri": "query:AudioFx#Dynamics:Multiband%20Dynamics:FileId_6147",
+      "path": "Audio Effects/Dynamics/Multiband Dynamics/Split Band De-esser.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Vocal Control.adv",
+      "uri": "query:AudioFx#Dynamics:Multiband%20Dynamics:FileId_6148",
+      "path": "Audio Effects/Dynamics/Multiband Dynamics/Vocal Control.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Bass Crusher.adv",
+      "uri": "query:AudioFx#Dynamics:Re-Enveloper:FileId_41198",
+      "path": "Audio Effects/Dynamics/Re-Enveloper/Bass Crusher.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Drum Dryer.adv",
+      "uri": "query:AudioFx#Dynamics:Re-Enveloper:FileId_41199",
+      "path": "Audio Effects/Dynamics/Re-Enveloper/Drum Dryer.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Effectaton.adv",
+      "uri": "query:AudioFx#Dynamics:Re-Enveloper:FileId_41200",
+      "path": "Audio Effects/Dynamics/Re-Enveloper/Effectaton.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Fat Low End.adv",
+      "uri": "query:AudioFx#Dynamics:Re-Enveloper:FileId_41201",
+      "path": "Audio Effects/Dynamics/Re-Enveloper/Fat Low End.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Hi Hat Enhancer.adv",
+      "uri": "query:AudioFx#Dynamics:Re-Enveloper:FileId_41202",
+      "path": "Audio Effects/Dynamics/Re-Enveloper/Hi Hat Enhancer.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "High Isolation.adv",
+      "uri": "query:AudioFx#Dynamics:Re-Enveloper:FileId_41203",
+      "path": "Audio Effects/Dynamics/Re-Enveloper/High Isolation.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Higher.adv",
+      "uri": "query:AudioFx#Dynamics:Re-Enveloper:FileId_41204",
+      "path": "Audio Effects/Dynamics/Re-Enveloper/Higher.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Kick Snap.adv",
+      "uri": "query:AudioFx#Dynamics:Re-Enveloper:FileId_41205",
+      "path": "Audio Effects/Dynamics/Re-Enveloper/Kick Snap.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Peak Slap.adv",
+      "uri": "query:AudioFx#Dynamics:Re-Enveloper:FileId_41206",
+      "path": "Audio Effects/Dynamics/Re-Enveloper/Peak Slap.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Pollen.adv",
+      "uri": "query:AudioFx#Dynamics:Re-Enveloper:FileId_41207",
+      "path": "Audio Effects/Dynamics/Re-Enveloper/Pollen.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Snaring.adv",
+      "uri": "query:AudioFx#Dynamics:Re-Enveloper:FileId_41208",
+      "path": "Audio Effects/Dynamics/Re-Enveloper/Snaring.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Washing.adv",
+      "uri": "query:AudioFx#Dynamics:Re-Enveloper:FileId_41209",
+      "path": "Audio Effects/Dynamics/Re-Enveloper/Washing.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    }
+  ]
+}

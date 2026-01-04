@@ -1,0 +1,52 @@
+{
+  "path": "Instruments/Poli/Percussive",
+  "name": "Percussive",
+  "uri": "query:Synths#Poli:Percussive",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Noise Clock.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Percussive:FileId_41333"
+    },
+    {
+      "name": "Phat Poli Snare.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Percussive:FileId_41334"
+    },
+    {
+      "name": "Pol-Hi Hat Pedal.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Percussive:FileId_41335"
+    },
+    {
+      "name": "Pol-Hi Hat.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Percussive:FileId_41336"
+    },
+    {
+      "name": "Poli Snare.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Percussive:FileId_41337"
+    },
+    {
+      "name": "PoliTom.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Percussive:FileId_41338"
+    }
+  ]
+}

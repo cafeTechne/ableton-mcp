@@ -1,0 +1,101 @@
+{
+  "path": "Instruments/Tension/Ambient & Evolving",
+  "name": "Ambient & Evolving",
+  "uri": "query:Synths#Tension:Ambient%20&%20Evolving",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Attack Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Ambient%20&%20Evolving:FileId_5239"
+    },
+    {
+      "name": "Basic Flange Harp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Ambient%20&%20Evolving:FileId_4006"
+    },
+    {
+      "name": "Basic Guzheng.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Ambient%20&%20Evolving:FileId_4007"
+    },
+    {
+      "name": "Basic Nylon Concerto Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Ambient%20&%20Evolving:FileId_4008"
+    },
+    {
+      "name": "Basic Shamisen.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Ambient%20&%20Evolving:FileId_4009"
+    },
+    {
+      "name": "Buzzsaw Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Ambient%20&%20Evolving:FileId_43215"
+    },
+    {
+      "name": "Ionosphere Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Ambient%20&%20Evolving:FileId_4011"
+    },
+    {
+      "name": "Moving String Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Ambient%20&%20Evolving:FileId_5240"
+    },
+    {
+      "name": "Oscillation Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Ambient%20&%20Evolving:FileId_4012"
+    },
+    {
+      "name": "Palm Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Ambient%20&%20Evolving:FileId_4013"
+    },
+    {
+      "name": "Slow String Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Ambient%20&%20Evolving:FileId_5241"
+    },
+    {
+      "name": "String Delay Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Ambient%20&%20Evolving:FileId_5242"
+    },
+    {
+      "name": "They Descend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Ambient%20&%20Evolving:FileId_48974"
+    }
+  ]
+}

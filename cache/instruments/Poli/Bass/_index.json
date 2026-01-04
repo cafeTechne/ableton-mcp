@@ -1,0 +1,66 @@
+{
+  "path": "Instruments/Poli/Bass",
+  "name": "Bass",
+  "uri": "query:Synths#Poli:Bass",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Arcade Machine.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Bass:FileId_41450"
+    },
+    {
+      "name": "Calliope Mischief.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Bass:FileId_41309"
+    },
+    {
+      "name": "Chirp Plucks.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Bass:FileId_41310"
+    },
+    {
+      "name": "Curtis Apartment Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Bass:FileId_41311"
+    },
+    {
+      "name": "Funk Nation Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Bass:FileId_41312"
+    },
+    {
+      "name": "Nervous Build.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Bass:FileId_41451"
+    },
+    {
+      "name": "ShineBoc Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Bass:FileId_41313"
+    },
+    {
+      "name": "Sub Floor Creeper.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Poli:Bass:FileId_41314"
+    }
+  ]
+}

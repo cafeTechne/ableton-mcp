@@ -1,0 +1,178 @@
+{
+  "path": "Instruments/Wavetable/Guitar & Plucked",
+  "name": "Guitar & Plucked",
+  "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Arpeggiate Me.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_5024"
+    },
+    {
+      "name": "Banjorific.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_5025"
+    },
+    {
+      "name": "Baritone Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_43001"
+    },
+    {
+      "name": "Basic Radar Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_3847"
+    },
+    {
+      "name": "Basic Vintage Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_3848"
+    },
+    {
+      "name": "Battlestar Engine.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_51285"
+    },
+    {
+      "name": "Citrus Bowl Plucks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_38353"
+    },
+    {
+      "name": "Drubb Stabs.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_3852"
+    },
+    {
+      "name": "Eastern Dream Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_5026"
+    },
+    {
+      "name": "Electric Pop.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_43006"
+    },
+    {
+      "name": "Geosmin Plucks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_51288"
+    },
+    {
+      "name": "Glocken Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_5027"
+    },
+    {
+      "name": "Heavenly Plucks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_51290"
+    },
+    {
+      "name": "Kyoto Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_3856"
+    },
+    {
+      "name": "Multi Saw Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_3862"
+    },
+    {
+      "name": "Multipluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_51291"
+    },
+    {
+      "name": "Pianositar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_5028"
+    },
+    {
+      "name": "Pizza To Go.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_5029"
+    },
+    {
+      "name": "Pluck Funk Touch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_49027"
+    },
+    {
+      "name": "Shimmer Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_3864"
+    },
+    {
+      "name": "Soft Attention.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_3865"
+    },
+    {
+      "name": "Starry Notes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_51294"
+    },
+    {
+      "name": "Velo-Rezzo Plucks.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_5030"
+    },
+    {
+      "name": "Water Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Guitar%20&%20Plucked:FileId_3868"
+    }
+  ]
+}

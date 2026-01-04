@@ -1,0 +1,1060 @@
+{
+  "path": "Sounds/Guitar & Plucked",
+  "name": "Guitar & Plucked",
+  "uri": "query:Sounds#Guitar%20&%20Plucked",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "12 String Chorus Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5160"
+    },
+    {
+      "name": "12 String Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5600"
+    },
+    {
+      "name": "Acoustic String.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5851"
+    },
+    {
+      "name": "Ancient Greek Lyre (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_51284"
+    },
+    {
+      "name": "Arpeggiate Me.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5024"
+    },
+    {
+      "name": "Banjo.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5161"
+    },
+    {
+      "name": "Banjorific.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5025"
+    },
+    {
+      "name": "Baritone Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_43001"
+    },
+    {
+      "name": "Basic Flange Harp.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_4006"
+    },
+    {
+      "name": "Basic Guzheng.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_4007"
+    },
+    {
+      "name": "Basic Nylon Concerto Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_4008"
+    },
+    {
+      "name": "Basic Radar Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3847"
+    },
+    {
+      "name": "Basic Shamisen.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_4009"
+    },
+    {
+      "name": "Basic Vintage Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3848"
+    },
+    {
+      "name": "Battlestar Engine.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_51285"
+    },
+    {
+      "name": "Bell Guitar (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_51286"
+    },
+    {
+      "name": "Big Floor Stab.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5774"
+    },
+    {
+      "name": "Blood Pick.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_43002"
+    },
+    {
+      "name": "Chirp Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5775"
+    },
+    {
+      "name": "Chord Bouncing.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5162"
+    },
+    {
+      "name": "Chord Key Stabs.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3849"
+    },
+    {
+      "name": "Chord Minor Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3850"
+    },
+    {
+      "name": "Citrus Bowl Plucks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_38353"
+    },
+    {
+      "name": "Clean Basic Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5163"
+    },
+    {
+      "name": "Clean Bright Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5164"
+    },
+    {
+      "name": "Clean Chorus Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5165"
+    },
+    {
+      "name": "Coral Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_43003"
+    },
+    {
+      "name": "Delay Bleep Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5601"
+    },
+    {
+      "name": "Dense Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_43004"
+    },
+    {
+      "name": "Digital String.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5852"
+    },
+    {
+      "name": "Drippy Cave Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3851"
+    },
+    {
+      "name": "Drive Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_43005"
+    },
+    {
+      "name": "Drubb Stabs.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3852"
+    },
+    {
+      "name": "Duelling Guitars.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_51287"
+    },
+    {
+      "name": "Eastern Dream Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5026"
+    },
+    {
+      "name": "Eastern Harp 1.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5166"
+    },
+    {
+      "name": "Eastern Harp 2.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5167"
+    },
+    {
+      "name": "Electric Nylon Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5168"
+    },
+    {
+      "name": "Electric Pop.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_43006"
+    },
+    {
+      "name": "Floomery Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3854"
+    },
+    {
+      "name": "FM Basic Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5602"
+    },
+    {
+      "name": "FM Four Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5776"
+    },
+    {
+      "name": "FM Koto.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5603"
+    },
+    {
+      "name": "FM Pluck Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3853"
+    },
+    {
+      "name": "FM Sitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5604"
+    },
+    {
+      "name": "Focal Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_38354"
+    },
+    {
+      "name": "Geosmin Plucks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_51288"
+    },
+    {
+      "name": "Glacial Tolerance.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5777"
+    },
+    {
+      "name": "Glass Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_4010"
+    },
+    {
+      "name": "Gliss Guitar (Multisampled C1-C4).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_51289"
+    },
+    {
+      "name": "Glocken Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5027"
+    },
+    {
+      "name": "Guitar Multi String.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_59734"
+    },
+    {
+      "name": "Guitar Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_49489"
+    },
+    {
+      "name": "Guitar Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_49490"
+    },
+    {
+      "name": "Guitar Plucker.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_43007"
+    },
+    {
+      "name": "Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_49491"
+    },
+    {
+      "name": "Guitar-Chopper Chords.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_49478"
+    },
+    {
+      "name": "Guitar-Dual Amped Crunch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_49479"
+    },
+    {
+      "name": "Guitar-Dual Amped Heavy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_49480"
+    },
+    {
+      "name": "Guitar-French Guitar Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_49481"
+    },
+    {
+      "name": "Guitar-Pixelated.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_49482"
+    },
+    {
+      "name": "Guitar-Reverse FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_49483"
+    },
+    {
+      "name": "Guitar-Soft Tremolo Room.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_49484"
+    },
+    {
+      "name": "Guitar-The Kids Are Alright.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_49485"
+    },
+    {
+      "name": "Hard Picked Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5169"
+    },
+    {
+      "name": "Harmonics Unpitched.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5170"
+    },
+    {
+      "name": "Harp Plastic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5605"
+    },
+    {
+      "name": "Harp Release.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5171"
+    },
+    {
+      "name": "Harp Short.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5172"
+    },
+    {
+      "name": "Harp Soft.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5173"
+    },
+    {
+      "name": "Heavenly Plucks.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_51290"
+    },
+    {
+      "name": "House Stab.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3855"
+    },
+    {
+      "name": "Ionosphere Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_4011"
+    },
+    {
+      "name": "Jazz Basic Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5174"
+    },
+    {
+      "name": "Jazz Bright Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5175"
+    },
+    {
+      "name": "Jazz Soft Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5176"
+    },
+    {
+      "name": "Koto.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5177"
+    },
+    {
+      "name": "Kototar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5606"
+    },
+    {
+      "name": "Kyoto Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3856"
+    },
+    {
+      "name": "Lift Delay Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3857"
+    },
+    {
+      "name": "Light String Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_59735"
+    },
+    {
+      "name": "Membrane Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3858"
+    },
+    {
+      "name": "Metal Arp Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5178"
+    },
+    {
+      "name": "Metal Reso Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5179"
+    },
+    {
+      "name": "Metallic Noise Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3859"
+    },
+    {
+      "name": "Miami Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3860"
+    },
+    {
+      "name": "Mod Amp Sine Bleep.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3861"
+    },
+    {
+      "name": "Multi Saw Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3862"
+    },
+    {
+      "name": "Multipluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_51291"
+    },
+    {
+      "name": "Mute Snap Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5180"
+    },
+    {
+      "name": "New Age String.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5181"
+    },
+    {
+      "name": "Nice Harp.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5182"
+    },
+    {
+      "name": "Nylon Basic Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5183"
+    },
+    {
+      "name": "Nylon Flamenco Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5184"
+    },
+    {
+      "name": "Nylon Mute Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5185"
+    },
+    {
+      "name": "Nylon Old Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5186"
+    },
+    {
+      "name": "Ocean Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3863"
+    },
+    {
+      "name": "Olivine Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_43206"
+    },
+    {
+      "name": "One Note Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_51292"
+    },
+    {
+      "name": "Oscillation Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_4012"
+    },
+    {
+      "name": "Palm Guitar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_4013"
+    },
+    {
+      "name": "Perc Blip Bleep.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5607"
+    },
+    {
+      "name": "Pianositar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5028"
+    },
+    {
+      "name": "Pick Bass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_59736"
+    },
+    {
+      "name": "Pipe Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_43008"
+    },
+    {
+      "name": "Pitchy Release Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5608"
+    },
+    {
+      "name": "Pizza To Go.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5029"
+    },
+    {
+      "name": "Pizzicato Strings (Multisampled).adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_51293"
+    },
+    {
+      "name": "Pizzicato.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5187"
+    },
+    {
+      "name": "Pluck Funk Touch.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_49027"
+    },
+    {
+      "name": "Power Chords Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5609"
+    },
+    {
+      "name": "Prayer Squayer.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_59606"
+    },
+    {
+      "name": "Reggae Chords Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5188"
+    },
+    {
+      "name": "Resonant Casing.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5853"
+    },
+    {
+      "name": "Reverse Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5189"
+    },
+    {
+      "name": "Rubber Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5610"
+    },
+    {
+      "name": "Serpentine Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_43207"
+    },
+    {
+      "name": "Shamisen.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5190"
+    },
+    {
+      "name": "Shimmer Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3864"
+    },
+    {
+      "name": "Single Coil Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5191"
+    },
+    {
+      "name": "Sitar Basic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5192"
+    },
+    {
+      "name": "Sitar Delay.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5193"
+    },
+    {
+      "name": "Sitar Far.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5194"
+    },
+    {
+      "name": "Soft Attention.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3865"
+    },
+    {
+      "name": "Square Harp.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5195"
+    },
+    {
+      "name": "Starry Notes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_51294"
+    },
+    {
+      "name": "Steel Basic Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5196"
+    },
+    {
+      "name": "Steel Direct Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5197"
+    },
+    {
+      "name": "Steel Picked Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5198"
+    },
+    {
+      "name": "Stiffpluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_59737"
+    },
+    {
+      "name": "Strat Bright Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5199"
+    },
+    {
+      "name": "Strat Hollow Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5200"
+    },
+    {
+      "name": "Strat Muted Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5201"
+    },
+    {
+      "name": "String Detune .adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_43009"
+    },
+    {
+      "name": "String Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_59607"
+    },
+    {
+      "name": "Strum Harp Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_59738"
+    },
+    {
+      "name": "Subtle Look Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3866"
+    },
+    {
+      "name": "Suitar Guitar.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5611"
+    },
+    {
+      "name": "Tarang.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5202"
+    },
+    {
+      "name": "Tenacious Tension.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_59739"
+    },
+    {
+      "name": "Toasty Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_49028"
+    },
+    {
+      "name": "Trinidad Plucks.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5778"
+    },
+    {
+      "name": "Tube Harp.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5854"
+    },
+    {
+      "name": "Tube Lead Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3867"
+    },
+    {
+      "name": "Unjazzy Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_59608"
+    },
+    {
+      "name": "Uplift Upside.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_43010"
+    },
+    {
+      "name": "Velo-Rezzo Plucks.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5030"
+    },
+    {
+      "name": "Water Pluck.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_3868"
+    },
+    {
+      "name": "Zheng.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5203"
+    },
+    {
+      "name": "Zonk Pluck.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Sounds#Guitar%20&%20Plucked:FileId_5779"
+    }
+  ]
+}

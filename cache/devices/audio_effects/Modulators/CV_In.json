@@ -1,0 +1,79 @@
+{
+  "path_category": "audio_effects",
+  "path_subfolder": "Modulators",
+  "name": "CV In",
+  "uri": "query:AudioFx#Modulators:CV%20In",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "CV From",
+      "min": 0.0,
+      "max": 10.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "No Input",
+        "1",
+        "2",
+        "ADAT 1",
+        "ADAT 2",
+        "ADAT 3",
+        "ADAT 4",
+        "ADAT 5",
+        "ADAT 6",
+        "ADAT 7",
+        "ADAT 8"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Mode",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Pitch",
+        "DC"
+      ],
+      "unit": null,
+      "index": 2
+    },
+    {
+      "name": "Range",
+      "min": 0.10000000149011612,
+      "max": 10.0,
+      "value": 5.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 3
+    },
+    {
+      "name": "Polarity",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "Bi",
+        "Uni"
+      ],
+      "unit": null,
+      "index": 4
+    }
+  ]
+}

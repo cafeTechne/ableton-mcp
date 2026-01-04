@@ -1,0 +1,9 @@
+{
+  "path": "Instruments/CV Instrument",
+  "name": "CV Instrument",
+  "uri": "query:Synths#CV%20Instrument",
+  "is_folder": false,
+  "is_device": true,
+  "is_loadable": true,
+  "items": []
+}

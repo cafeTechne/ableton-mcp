@@ -1,0 +1,80 @@
+{
+  "path": "midi_effects/Note Echo",
+  "name": "Note Echo",
+  "uri": "query:MidiFx#Note%20Echo",
+  "is_folder": true,
+  "is_device": true,
+  "is_loadable": true,
+  "items": [
+    {
+      "name": "Arcade Repeat.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Note%20Echo:FileId_4801"
+    },
+    {
+      "name": "Downwards Flutter.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Note%20Echo:FileId_4802"
+    },
+    {
+      "name": "Drift and Fall.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Note%20Echo:FileId_4803"
+    },
+    {
+      "name": "Fifth Stage.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Note%20Echo:FileId_4804"
+    },
+    {
+      "name": "Karplus Shimmer.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Note%20Echo:FileId_4805"
+    },
+    {
+      "name": "Keep It Major.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Note%20Echo:FileId_4806"
+    },
+    {
+      "name": "Keys Mute.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Note%20Echo:FileId_4807"
+    },
+    {
+      "name": "Pad Spiral.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Note%20Echo:FileId_4808"
+    },
+    {
+      "name": "Rapid Response.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Note%20Echo:FileId_4809"
+    },
+    {
+      "name": "Thirds Stacked.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:MidiFx#Note%20Echo:FileId_4810"
+    }
+  ]
+}

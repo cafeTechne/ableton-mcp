@@ -1,0 +1,192 @@
+{
+  "path": "Instruments/Operator/Brass",
+  "name": "Brass",
+  "uri": "query:Synths#Operator:Brass",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Analog Bouquet Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_5650"
+    },
+    {
+      "name": "Arena Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_59668"
+    },
+    {
+      "name": "Azimuth Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_5651"
+    },
+    {
+      "name": "Basic Synth Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_4051"
+    },
+    {
+      "name": "Bass Trombone Augmented.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_51077"
+    },
+    {
+      "name": "Block Minor Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_4052"
+    },
+    {
+      "name": "Brass Buzz Ensemble.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_59669"
+    },
+    {
+      "name": "Bright Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_5652"
+    },
+    {
+      "name": "Classic 6.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_59670"
+    },
+    {
+      "name": "Fancy Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_59671"
+    },
+    {
+      "name": "Flyte Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_39909"
+    },
+    {
+      "name": "Get Vertical.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_61086"
+    },
+    {
+      "name": "Hyper Dee.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_39910"
+    },
+    {
+      "name": "Last Dancer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_61087"
+    },
+    {
+      "name": "Mono Trumpet.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_59672"
+    },
+    {
+      "name": "Obee 12 Voice Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_39911"
+    },
+    {
+      "name": "Plain & Simple Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_5653"
+    },
+    {
+      "name": "Release Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_5654"
+    },
+    {
+      "name": "Slight Vibrato Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_5655"
+    },
+    {
+      "name": "Soft 5ths Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_5656"
+    },
+    {
+      "name": "Soft FM Sweep Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_5657"
+    },
+    {
+      "name": "Soft Warm Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_5658"
+    },
+    {
+      "name": "Sweep Chorus Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_5659"
+    },
+    {
+      "name": "Swell Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_4057"
+    },
+    {
+      "name": "Swell Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_59673"
+    },
+    {
+      "name": "Vocoder Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Brass:FileId_59674"
+    }
+  ]
+}

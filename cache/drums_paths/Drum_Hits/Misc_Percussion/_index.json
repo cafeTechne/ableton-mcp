@@ -1,0 +1,3804 @@
+{
+  "path": "drums/Drum Hits/Misc Percussion",
+  "name": "Misc Percussion",
+  "uri": "query:Drums#Drum%20Hits:Misc%20Percussion",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Agogo Atabaques 112 bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2601"
+    },
+    {
+      "name": "Agogo Bells 90 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2602"
+    },
+    {
+      "name": "Akeem Groove 120 bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2603"
+    },
+    {
+      "name": "Analog HiHat Bleep.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_5420"
+    },
+    {
+      "name": "BD 1 Kick.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_5421"
+    },
+    {
+      "name": "Bell Hollow Crackin.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46951"
+    },
+    {
+      "name": "Berimbau Stab.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_42356"
+    },
+    {
+      "name": "Blop Melodized.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46503"
+    },
+    {
+      "name": "Blop Powered.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46504"
+    },
+    {
+      "name": "Bongos 121 bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2604"
+    },
+    {
+      "name": "Bongos 130 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2605"
+    },
+    {
+      "name": "Boom Sub Onyx.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46505"
+    },
+    {
+      "name": "Bucket Snare.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_42357"
+    },
+    {
+      "name": "Buzz Melodized.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46506"
+    },
+    {
+      "name": "Castanet Reverb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_970"
+    },
+    {
+      "name": "Cavernous Stab F.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58034"
+    },
+    {
+      "name": "Clap Ambience Shadowed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46952"
+    },
+    {
+      "name": "Clapping Flamenco 120 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2606"
+    },
+    {
+      "name": "Claps and Caixa 184 bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2607"
+    },
+    {
+      "name": "Clave Synth.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46953"
+    },
+    {
+      "name": "Clave-808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46507"
+    },
+    {
+      "name": "Clave-C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46508"
+    },
+    {
+      "name": "Click 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55033"
+    },
+    {
+      "name": "Click 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55034"
+    },
+    {
+      "name": "Click Burned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46509"
+    },
+    {
+      "name": "Click Button Arcade 109 bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2608"
+    },
+    {
+      "name": "Click Full SP.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58035"
+    },
+    {
+      "name": "Click Klung.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_42358"
+    },
+    {
+      "name": "Click Saucepan.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_39721"
+    },
+    {
+      "name": "Click Vinyl.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_971"
+    },
+    {
+      "name": "Conga and Tambourine 106 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2609"
+    },
+    {
+      "name": "Conga Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46954"
+    },
+    {
+      "name": "Congas 128 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2610"
+    },
+    {
+      "name": "Crackle Crackin.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46955"
+    },
+    {
+      "name": "Cuica 1 High.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_50270"
+    },
+    {
+      "name": "Cuica 1 Low.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_50271"
+    },
+    {
+      "name": "Cuica 2 High.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_50272"
+    },
+    {
+      "name": "Cuica 2 Low.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_50273"
+    },
+    {
+      "name": "Dirty Click Dub.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46956"
+    },
+    {
+      "name": "Djembe 120 bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2611"
+    },
+    {
+      "name": "Djembe Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58036"
+    },
+    {
+      "name": "Djembe High Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_972"
+    },
+    {
+      "name": "Djembe Lo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58037"
+    },
+    {
+      "name": "Djembe Mute.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58038"
+    },
+    {
+      "name": "Djembe Open Mute.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58039"
+    },
+    {
+      "name": "Djembe Ping.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58040"
+    },
+    {
+      "name": "Dolak 85 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2612"
+    },
+    {
+      "name": "Door Stop Drop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_42359"
+    },
+    {
+      "name": "Drop Tunnel.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55035"
+    },
+    {
+      "name": "Drum Machine Vintage 100 bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2613"
+    },
+    {
+      "name": "Electronic Bosh.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58041"
+    },
+    {
+      "name": "E-Perc 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1581"
+    },
+    {
+      "name": "E-Perc 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1582"
+    },
+    {
+      "name": "E-Perc 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1583"
+    },
+    {
+      "name": "E-Perc 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1580"
+    },
+    {
+      "name": "E-Perc Analog Perc Hi.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1584"
+    },
+    {
+      "name": "E-Perc Analog Perc Low.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1585"
+    },
+    {
+      "name": "E-Perc Beetle Talk.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1586"
+    },
+    {
+      "name": "E-Perc BittyBot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46510"
+    },
+    {
+      "name": "E-Perc BittyBot.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1587"
+    },
+    {
+      "name": "E-Perc Blip Charred.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1588"
+    },
+    {
+      "name": "E-Perc Bolly.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1589"
+    },
+    {
+      "name": "E-Perc Bottle Tap.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1590"
+    },
+    {
+      "name": "E-Perc Buttoned.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1591"
+    },
+    {
+      "name": "E-Perc Chirpster.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1592"
+    },
+    {
+      "name": "E-Perc Click Chop.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1593"
+    },
+    {
+      "name": "E-Perc Digiding.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1595"
+    },
+    {
+      "name": "E-Perc Digital Plonk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1596"
+    },
+    {
+      "name": "E-Perc DMX East.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1594"
+    },
+    {
+      "name": "E-Perc Donk.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1597"
+    },
+    {
+      "name": "E-Perc ENIAC Error.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1598"
+    },
+    {
+      "name": "E-Perc ER Ring.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1599"
+    },
+    {
+      "name": "E-Perc Git Up.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1600"
+    },
+    {
+      "name": "E-Perc Low EDM.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1601"
+    },
+    {
+      "name": "E-Perc Maser Blip.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1602"
+    },
+    {
+      "name": "E-Perc Metal Chop.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1603"
+    },
+    {
+      "name": "E-Perc MoonGolfRingShift 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46511"
+    },
+    {
+      "name": "E-Perc MoonGolfRingShift 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46512"
+    },
+    {
+      "name": "E-Perc MoonGolfRingShift 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46513"
+    },
+    {
+      "name": "E-Perc MoonGolfRingShift 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46514"
+    },
+    {
+      "name": "E-Perc Noise Charred.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1604"
+    },
+    {
+      "name": "E-Perc PO Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1605"
+    },
+    {
+      "name": "E-Perc PO Snare.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1606"
+    },
+    {
+      "name": "E-Perc R100.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1607"
+    },
+    {
+      "name": "E-Perc Record Pullback.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1608"
+    },
+    {
+      "name": "E-Perc Reso.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1609"
+    },
+    {
+      "name": "E-Perc Rim Synth Mkit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1610"
+    },
+    {
+      "name": "E-Perc Ring Shift Moon Golf 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1611"
+    },
+    {
+      "name": "E-Perc Ring Shift Moon Golf 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1612"
+    },
+    {
+      "name": "E-Perc Ring Shift Moon Golf 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1613"
+    },
+    {
+      "name": "E-Perc Ring Shift Moon Golf 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1614"
+    },
+    {
+      "name": "E-Perc Scrape Shake.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1615"
+    },
+    {
+      "name": "E-Perc Short and Prune.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1616"
+    },
+    {
+      "name": "E-Perc Sine Sigh.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46515"
+    },
+    {
+      "name": "E-Perc Sine Sigh.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1617"
+    },
+    {
+      "name": "E-Perc Sound Objects Knock Ambient.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1618"
+    },
+    {
+      "name": "E-Perc Strike Buzz Hymned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46516"
+    },
+    {
+      "name": "E-Perc Strike Charred 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46517"
+    },
+    {
+      "name": "E-Perc Strike Charred 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46518"
+    },
+    {
+      "name": "E-Perc Strike Charred 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46519"
+    },
+    {
+      "name": "E-Perc Strike Charred 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46520"
+    },
+    {
+      "name": "E-Perc Strike Charred 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46521"
+    },
+    {
+      "name": "E-Perc Strike Charred 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46522"
+    },
+    {
+      "name": "E-Perc Strike Charred 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46523"
+    },
+    {
+      "name": "E-Perc Strike Charred 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46524"
+    },
+    {
+      "name": "E-Perc Strike Charred 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46525"
+    },
+    {
+      "name": "E-Perc Strike Kindified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46526"
+    },
+    {
+      "name": "E-Perc Strike Kindified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46527"
+    },
+    {
+      "name": "E-Perc Strike Kindified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46528"
+    },
+    {
+      "name": "E-Perc Strike Kindified 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46529"
+    },
+    {
+      "name": "E-Perc Strike Powered 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46530"
+    },
+    {
+      "name": "E-Perc Strike Powered 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46531"
+    },
+    {
+      "name": "E-Perc Strike Powered 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46532"
+    },
+    {
+      "name": "E-Perc Strike Powered 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46533"
+    },
+    {
+      "name": "E-Perc Strike Powered.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1619"
+    },
+    {
+      "name": "E-Perc Strike Raged 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46534"
+    },
+    {
+      "name": "E-Perc Strike Raged 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46535"
+    },
+    {
+      "name": "E-Perc Strike Raged 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46536"
+    },
+    {
+      "name": "E-Perc Strike Shadowed 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46537"
+    },
+    {
+      "name": "E-Perc Strike Shadowed 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46538"
+    },
+    {
+      "name": "E-Perc Strike Shadowed 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46539"
+    },
+    {
+      "name": "E-Perc Strle Bell Hymned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46540"
+    },
+    {
+      "name": "E-Perc Submarine Pong.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1620"
+    },
+    {
+      "name": "E-Perc Surprised Bee.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1621"
+    },
+    {
+      "name": "E-Perc Techno Bell.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1622"
+    },
+    {
+      "name": "E-Perc Tiny Cavern Anvil.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1623"
+    },
+    {
+      "name": "E-Perc Toy Token 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1624"
+    },
+    {
+      "name": "E-Perc Toy Token 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1625"
+    },
+    {
+      "name": "E-Perc Train Track.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1626"
+    },
+    {
+      "name": "E-Perc Vocoder Beat 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1627"
+    },
+    {
+      "name": "E-Perc Vocoder Beat 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1628"
+    },
+    {
+      "name": "E-Perc Weighty Knock.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1629"
+    },
+    {
+      "name": "E-Perc Weouh.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1630"
+    },
+    {
+      "name": "E-Perc Yellow Jacket.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1631"
+    },
+    {
+      "name": "E-Ride Cymbal Bell.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_5422"
+    },
+    {
+      "name": "Finger Snip Dbl.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_50274"
+    },
+    {
+      "name": "Finger SnipSngle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_50275"
+    },
+    {
+      "name": "Flexatone Unbent Large.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_42360"
+    },
+    {
+      "name": "Flexatone Unbent Small.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_42361"
+    },
+    {
+      "name": "Flexitone 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_973"
+    },
+    {
+      "name": "Flexitone 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_974"
+    },
+    {
+      "name": "Flexitone 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_975"
+    },
+    {
+      "name": "Flexitone MPC.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46957"
+    },
+    {
+      "name": "Flexitone MPC.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_976"
+    },
+    {
+      "name": "Found Object.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_977"
+    },
+    {
+      "name": "FX Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48380"
+    },
+    {
+      "name": "FX Perc Abstract.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37496"
+    },
+    {
+      "name": "FX Perc Blop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37497"
+    },
+    {
+      "name": "FX Perc Boing.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37498"
+    },
+    {
+      "name": "FX Perc Broken.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37499"
+    },
+    {
+      "name": "FX Perc Busted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37500"
+    },
+    {
+      "name": "FX Perc Cymbal Code Token.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48381"
+    },
+    {
+      "name": "FX Perc Digital.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37501"
+    },
+    {
+      "name": "FX Perc DSP Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37502"
+    },
+    {
+      "name": "FX Perc DSP Lo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37503"
+    },
+    {
+      "name": "FX Perc Glitch 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37504"
+    },
+    {
+      "name": "FX Perc Glitch 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37505"
+    },
+    {
+      "name": "FX Perc LoFill Buffer Snake.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48382"
+    },
+    {
+      "name": "FX Perc LoFill Buffer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48383"
+    },
+    {
+      "name": "FX Perc LoFill Distort Snake.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48384"
+    },
+    {
+      "name": "FX Perc LoFill Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48385"
+    },
+    {
+      "name": "FX Perc LoFill Tribe 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48386"
+    },
+    {
+      "name": "FX Perc LoFill Tribe 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48387"
+    },
+    {
+      "name": "FX Perc LoFill Tribe Reso.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48388"
+    },
+    {
+      "name": "FX Perc LoFill Tribe Token.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48389"
+    },
+    {
+      "name": "FX Perc Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37506"
+    },
+    {
+      "name": "FX Perc Streets.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_39722"
+    },
+    {
+      "name": "FX Perc Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37507"
+    },
+    {
+      "name": "FX Perc Warp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37508"
+    },
+    {
+      "name": "Geigerzaehler Bleep.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_5423"
+    },
+    {
+      "name": "Gonk Crushed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58042"
+    },
+    {
+      "name": "Guiro 110 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2614"
+    },
+    {
+      "name": "Guiro Vintage Cut.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_978"
+    },
+    {
+      "name": "Guiro-C78-Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46541"
+    },
+    {
+      "name": "Hard Slam.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58043"
+    },
+    {
+      "name": "Heavy Clunk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58044"
+    },
+    {
+      "name": "Hefty Slam.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58045"
+    },
+    {
+      "name": "Hihat Click 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55036"
+    },
+    {
+      "name": "Hihat Click 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55037"
+    },
+    {
+      "name": "Kick 4-4 Soft 128 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2615"
+    },
+    {
+      "name": "Kick Complex Perc.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_5861"
+    },
+    {
+      "name": "Kokiriko Super Slow.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_42362"
+    },
+    {
+      "name": "Light Bulb Tap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_42363"
+    },
+    {
+      "name": "Lighter Flick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58046"
+    },
+    {
+      "name": "LoFill Tribe.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_42364"
+    },
+    {
+      "name": "Maracas-808.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46542"
+    },
+    {
+      "name": "MarchingDrum TradeAid 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46958"
+    },
+    {
+      "name": "Metallic Rattle.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_979"
+    },
+    {
+      "name": "Metallic-C78.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46543"
+    },
+    {
+      "name": "Noise Hit Perc.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_5862"
+    },
+    {
+      "name": "Noise Impact Bowl.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46544"
+    },
+    {
+      "name": "Noise Impact Crunch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46545"
+    },
+    {
+      "name": "Noise Impact Machine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46546"
+    },
+    {
+      "name": "Noise Impact Mechanical.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46547"
+    },
+    {
+      "name": "Noise Impact Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46548"
+    },
+    {
+      "name": "Noise Metal Impact Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46549"
+    },
+    {
+      "name": "Noise Perc Percussion.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_5424"
+    },
+    {
+      "name": "Noise PO Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48390"
+    },
+    {
+      "name": "Noise Tap Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46550"
+    },
+    {
+      "name": "Noisy Wood Percussion.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_5425"
+    },
+    {
+      "name": "OrchPerc Vinyl 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46959"
+    },
+    {
+      "name": "Outer Bongos 140bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2616"
+    },
+    {
+      "name": "Pandeiro 110 bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2617"
+    },
+    {
+      "name": "Pandeiro 184 bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2618"
+    },
+    {
+      "name": "Perc 1 Cooked.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36286"
+    },
+    {
+      "name": "Perc 2 Cooked.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36287"
+    },
+    {
+      "name": "Perc Abstract Melt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48391"
+    },
+    {
+      "name": "Perc Abstract Pyramid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48392"
+    },
+    {
+      "name": "Perc Abstract Token.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48393"
+    },
+    {
+      "name": "Perc Acoustified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46962"
+    },
+    {
+      "name": "Perc Acoustified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46963"
+    },
+    {
+      "name": "Perc Acoustified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46964"
+    },
+    {
+      "name": "Perc Acoustified 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46965"
+    },
+    {
+      "name": "Perc Acoustified 05 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46960"
+    },
+    {
+      "name": "Perc Acoustified 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46966"
+    },
+    {
+      "name": "Perc Acoustified 07 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46961"
+    },
+    {
+      "name": "Perc African MPC 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_980"
+    },
+    {
+      "name": "Perc African MPC 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_981"
+    },
+    {
+      "name": "Perc African MPC 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_982"
+    },
+    {
+      "name": "Perc African MPC 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_983"
+    },
+    {
+      "name": "Perc Agile Shot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36288"
+    },
+    {
+      "name": "Perc Alpha 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58047"
+    },
+    {
+      "name": "Perc Alpha 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58048"
+    },
+    {
+      "name": "Perc Alpha 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58049"
+    },
+    {
+      "name": "Perc Analog 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55038"
+    },
+    {
+      "name": "Perc Analog 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55045"
+    },
+    {
+      "name": "Perc Analog 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55046"
+    },
+    {
+      "name": "Perc Analog 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55047"
+    },
+    {
+      "name": "Perc Analog 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55048"
+    },
+    {
+      "name": "Perc Analog 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55049"
+    },
+    {
+      "name": "Perc Analog 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55050"
+    },
+    {
+      "name": "Perc Analog 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55051"
+    },
+    {
+      "name": "Perc Analog 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55052"
+    },
+    {
+      "name": "Perc Analog 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55039"
+    },
+    {
+      "name": "Perc Analog 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55040"
+    },
+    {
+      "name": "Perc Analog 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55041"
+    },
+    {
+      "name": "Perc Analog 13.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55042"
+    },
+    {
+      "name": "Perc Analog 14.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55043"
+    },
+    {
+      "name": "Perc Analog 15.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55044"
+    },
+    {
+      "name": "Perc Analog Mangah 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48394"
+    },
+    {
+      "name": "Perc Analog Mangah 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48395"
+    },
+    {
+      "name": "Perc Analog Millimetrik.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48396"
+    },
+    {
+      "name": "Perc Analog Night.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48397"
+    },
+    {
+      "name": "Perc Analog Token 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48398"
+    },
+    {
+      "name": "Perc Analog Token 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48399"
+    },
+    {
+      "name": "Perc Analog.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58050"
+    },
+    {
+      "name": "Perc Asia Calls.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_39723"
+    },
+    {
+      "name": "Perc Beep.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55053"
+    },
+    {
+      "name": "Perc Bell Murder Hammer.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36289"
+    },
+    {
+      "name": "Perc Bell Ringy Bike 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36290"
+    },
+    {
+      "name": "Perc Bell Ringy Bike 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36291"
+    },
+    {
+      "name": "Perc Berk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55054"
+    },
+    {
+      "name": "Perc Big Klok.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37509"
+    },
+    {
+      "name": "Perc Big Room.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37510"
+    },
+    {
+      "name": "Perc Birdie.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55055"
+    },
+    {
+      "name": "Perc Blip 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55056"
+    },
+    {
+      "name": "Perc Blip 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55057"
+    },
+    {
+      "name": "Perc Blip 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55058"
+    },
+    {
+      "name": "Perc Blip Klok.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37511"
+    },
+    {
+      "name": "Perc Blip.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55059"
+    },
+    {
+      "name": "Perc Blop Token.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48400"
+    },
+    {
+      "name": "Perc Boff.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37512"
+    },
+    {
+      "name": "Perc Bong.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37513"
+    },
+    {
+      "name": "Perc Bonge.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37514"
+    },
+    {
+      "name": "Perc Bongo 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55060"
+    },
+    {
+      "name": "Perc Bongo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36292"
+    },
+    {
+      "name": "Perc Broken Millimetrik.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48401"
+    },
+    {
+      "name": "Perc Burned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46967"
+    },
+    {
+      "name": "Perc Buttoned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46968"
+    },
+    {
+      "name": "Perc Clackkk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_39724"
+    },
+    {
+      "name": "Perc Code Melt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48402"
+    },
+    {
+      "name": "Perc Conga 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55061"
+    },
+    {
+      "name": "Perc Conga 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55062"
+    },
+    {
+      "name": "Perc Conga 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55063"
+    },
+    {
+      "name": "Perc Conga 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55064"
+    },
+    {
+      "name": "Perc Conga 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55065"
+    },
+    {
+      "name": "Perc Crushed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37515"
+    },
+    {
+      "name": "Perc Digital Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58051"
+    },
+    {
+      "name": "Perc Digital Lo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58052"
+    },
+    {
+      "name": "Perc Digital Tada.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48403"
+    },
+    {
+      "name": "Perc Dirty Metal.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_984"
+    },
+    {
+      "name": "Perc Dirty Tam.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36293"
+    },
+    {
+      "name": "Perc Distant Tam.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36294"
+    },
+    {
+      "name": "Perc Down Knok.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37516"
+    },
+    {
+      "name": "Perc Drill Scorched.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46969"
+    },
+    {
+      "name": "Perc Dub Impulse.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46970"
+    },
+    {
+      "name": "Perc Dull Sonar.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48404"
+    },
+    {
+      "name": "Perc Electronic Tube.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37517"
+    },
+    {
+      "name": "Perc ER Fenk Gizmo 0A.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58053"
+    },
+    {
+      "name": "Perc ER Fenk Ring.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58054"
+    },
+    {
+      "name": "Perc ER Fenk Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58055"
+    },
+    {
+      "name": "Perc Ethnic 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58056"
+    },
+    {
+      "name": "Perc Ethnic 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58057"
+    },
+    {
+      "name": "Perc Ethnic 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58058"
+    },
+    {
+      "name": "Perc Ethnic 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58059"
+    },
+    {
+      "name": "Perc Ethnic 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58060"
+    },
+    {
+      "name": "Perc Ethnic 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58061"
+    },
+    {
+      "name": "Perc Ethnic 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58062"
+    },
+    {
+      "name": "Perc Ethnic 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58063"
+    },
+    {
+      "name": "Perc Ethnic Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37518"
+    },
+    {
+      "name": "Perc FM Glass Stick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48405"
+    },
+    {
+      "name": "Perc Foil Tape.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46971"
+    },
+    {
+      "name": "Perc Found Takeover.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36295"
+    },
+    {
+      "name": "Perc FX 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55066"
+    },
+    {
+      "name": "Perc FX 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55070"
+    },
+    {
+      "name": "Perc FX 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55071"
+    },
+    {
+      "name": "Perc FX 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55072"
+    },
+    {
+      "name": "Perc FX 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55073"
+    },
+    {
+      "name": "Perc FX 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55074"
+    },
+    {
+      "name": "Perc FX 8.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55075"
+    },
+    {
+      "name": "Perc FX 9.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55076"
+    },
+    {
+      "name": "Perc fx 10.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55067"
+    },
+    {
+      "name": "Perc fx 11.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55068"
+    },
+    {
+      "name": "Perc fx 12.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55069"
+    },
+    {
+      "name": "Perc Game Blip.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36296"
+    },
+    {
+      "name": "Perc Glitch Bump.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37519"
+    },
+    {
+      "name": "Perc Glitch Burned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46972"
+    },
+    {
+      "name": "Perc Glitch Electrified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46973"
+    },
+    {
+      "name": "Perc Glitch Reversed.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37520"
+    },
+    {
+      "name": "Perc Glitch Short.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37521"
+    },
+    {
+      "name": "Perc glitch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55077"
+    },
+    {
+      "name": "Perc Glock.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37522"
+    },
+    {
+      "name": "Perc Gumba.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37523"
+    },
+    {
+      "name": "Perc Hall Clack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36297"
+    },
+    {
+      "name": "Perc Hatty.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37524"
+    },
+    {
+      "name": "Perc Haus Jungle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37525"
+    },
+    {
+      "name": "Perc Heartbeat.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55078"
+    },
+    {
+      "name": "Perc Hi Hybrid Sense.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46974"
+    },
+    {
+      "name": "Perc Hippy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37526"
+    },
+    {
+      "name": "Perc Hit Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_985"
+    },
+    {
+      "name": "Perc Hit Rattle.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_986"
+    },
+    {
+      "name": "Perc Hit Soft.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_987"
+    },
+    {
+      "name": "Perc hit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55079"
+    },
+    {
+      "name": "Perc Hollow Block.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36298"
+    },
+    {
+      "name": "Perc Hollow Dreams.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36299"
+    },
+    {
+      "name": "Perc Impact Metal Tap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46975"
+    },
+    {
+      "name": "Perc Impact Metal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36300"
+    },
+    {
+      "name": "Perc India Loop 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36301"
+    },
+    {
+      "name": "Perc India Loop 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36302"
+    },
+    {
+      "name": "Perc Jiggy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_39725"
+    },
+    {
+      "name": "Perc Just Go.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37527"
+    },
+    {
+      "name": "Perc Kindified 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46977"
+    },
+    {
+      "name": "Perc Kindified 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46979"
+    },
+    {
+      "name": "Perc Kindified 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46980"
+    },
+    {
+      "name": "Perc Kindified 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46981"
+    },
+    {
+      "name": "Perc Kindified 06.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46976"
+    },
+    {
+      "name": "Perc Kindified 13.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46978"
+    },
+    {
+      "name": "Perc Knock Rattle.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_988"
+    },
+    {
+      "name": "Perc Lo Hybrid Sense.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46982"
+    },
+    {
+      "name": "Perc LoFill Distorted.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58064"
+    },
+    {
+      "name": "Perc LoFill Muddy.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58065"
+    },
+    {
+      "name": "Perc LoFill Tribe Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58066"
+    },
+    {
+      "name": "Perc LoFill Tribe Lo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58067"
+    },
+    {
+      "name": "Perc Maca SP.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58068"
+    },
+    {
+      "name": "Perc Machine.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37528"
+    },
+    {
+      "name": "Perc Melodized.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46983"
+    },
+    {
+      "name": "Perc Metal Impact.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46984"
+    },
+    {
+      "name": "Perc Metal Tap Dub.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46985"
+    },
+    {
+      "name": "Perc Metal Tap Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46986"
+    },
+    {
+      "name": "Perc Metal Tap Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46987"
+    },
+    {
+      "name": "Perc Metal Token.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48406"
+    },
+    {
+      "name": "Perc Metal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55080"
+    },
+    {
+      "name": "Perc Metallic Bell Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46988"
+    },
+    {
+      "name": "Perc Metallic Bell Grounded.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46989"
+    },
+    {
+      "name": "Perc Metallic Dirt Pipe Grounded.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46990"
+    },
+    {
+      "name": "Perc Metallic Hi Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46991"
+    },
+    {
+      "name": "Perc Metallic Reso Pipe Grounded.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46992"
+    },
+    {
+      "name": "Perc Metallic Sheet Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46993"
+    },
+    {
+      "name": "Perc Metallic Tube Raged.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46994"
+    },
+    {
+      "name": "Perc Metallic Wood Acoustified.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46995"
+    },
+    {
+      "name": "Perc Move.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_39726"
+    },
+    {
+      "name": "Perc Nare.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55081"
+    },
+    {
+      "name": "Perc Noise 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55082"
+    },
+    {
+      "name": "Perc Noise 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55083"
+    },
+    {
+      "name": "Perc Noise 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55084"
+    },
+    {
+      "name": "Perc Noise Streets.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_39727"
+    },
+    {
+      "name": "Perc Object.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48407"
+    },
+    {
+      "name": "Perc Plastic Block Mid.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46996"
+    },
+    {
+      "name": "Perc Plastique.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37529"
+    },
+    {
+      "name": "Perc Plunk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55085"
+    },
+    {
+      "name": "Perc Powered 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46997"
+    },
+    {
+      "name": "Perc Powered 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46998"
+    },
+    {
+      "name": "Perc Prayer Bowl.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58069"
+    },
+    {
+      "name": "Perc Rattle SP.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46999"
+    },
+    {
+      "name": "Perc Reception.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37530"
+    },
+    {
+      "name": "Perc Record Stop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46551"
+    },
+    {
+      "name": "Perc Reverse Box Tape.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_47000"
+    },
+    {
+      "name": "Perc Ruff Hit.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37531"
+    },
+    {
+      "name": "Perc Samba.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37532"
+    },
+    {
+      "name": "Perc Scratch 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55086"
+    },
+    {
+      "name": "Perc Scratch 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55087"
+    },
+    {
+      "name": "Perc Scratch 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55088"
+    },
+    {
+      "name": "Perc Scratch 4.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55089"
+    },
+    {
+      "name": "Perc Scratch 5.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55090"
+    },
+    {
+      "name": "Perc Scratch 6.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55091"
+    },
+    {
+      "name": "Perc Scratch 7.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55092"
+    },
+    {
+      "name": "Perc Sharp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55093"
+    },
+    {
+      "name": "Perc Shot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55094"
+    },
+    {
+      "name": "Perc Stab Full Grounded.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_47001"
+    },
+    {
+      "name": "Perc Stab Shy Grounded.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_47002"
+    },
+    {
+      "name": "Perc Stick Bottle Long.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_47003"
+    },
+    {
+      "name": "Perc stick hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55095"
+    },
+    {
+      "name": "Perc Stick Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_47004"
+    },
+    {
+      "name": "Perc Stick Overdrive.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_47005"
+    },
+    {
+      "name": "Perc Stick Sonar.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48408"
+    },
+    {
+      "name": "Perc Stick Token.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48409"
+    },
+    {
+      "name": "Perc Streets.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_39728"
+    },
+    {
+      "name": "Perc Strike Burned.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_47006"
+    },
+    {
+      "name": "Perc Swat Stick.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_47007"
+    },
+    {
+      "name": "Perc Synthesized.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37533"
+    },
+    {
+      "name": "Perc Talk.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37534"
+    },
+    {
+      "name": "Perc Taxi High.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_989"
+    },
+    {
+      "name": "Perc Taxi Low.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_990"
+    },
+    {
+      "name": "Perc Tight Metal.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_42365"
+    },
+    {
+      "name": "Perc Tin.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58070"
+    },
+    {
+      "name": "Perc Tiny Cavern Anvil.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_47008"
+    },
+    {
+      "name": "Perc Tiny.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_991"
+    },
+    {
+      "name": "Perc Tokyo Crackle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48410"
+    },
+    {
+      "name": "Perc Tokyo Glitch 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48411"
+    },
+    {
+      "name": "Perc Tokyo Glitch 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48412"
+    },
+    {
+      "name": "Perc Tokyo Minimal 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48413"
+    },
+    {
+      "name": "Perc Tokyo Minimal 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48414"
+    },
+    {
+      "name": "Perc Tokyo Transmit 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48415"
+    },
+    {
+      "name": "Perc Tokyo Transmit 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48416"
+    },
+    {
+      "name": "Perc Tokyo Verb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48417"
+    },
+    {
+      "name": "Perc Tokyo Vocal 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48418"
+    },
+    {
+      "name": "Perc Tokyo Vocal 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48419"
+    },
+    {
+      "name": "Perc Triangle Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36303"
+    },
+    {
+      "name": "Perc Tube Hit Rattle.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37535"
+    },
+    {
+      "name": "Perc Tube Token.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48420"
+    },
+    {
+      "name": "Perc Tunnel.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55096"
+    },
+    {
+      "name": "Perc Uh Oh.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55097"
+    },
+    {
+      "name": "Perc Uppa.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37536"
+    },
+    {
+      "name": "Perc Vintage 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48421"
+    },
+    {
+      "name": "Perc Vintage Night.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48422"
+    },
+    {
+      "name": "Perc Vintage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_42366"
+    },
+    {
+      "name": "Perc Warp Melt.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48423"
+    },
+    {
+      "name": "Perc Wood Clatter.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_42367"
+    },
+    {
+      "name": "Perc Woody Scratch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_42368"
+    },
+    {
+      "name": "Percussion 808 Clave.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36304"
+    },
+    {
+      "name": "Percussion Block Abyss.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36305"
+    },
+    {
+      "name": "Percussion Ensemble 92 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2619"
+    },
+    {
+      "name": "Plastic Tube A2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_992"
+    },
+    {
+      "name": "Pot Knock Uluru.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_42369"
+    },
+    {
+      "name": "Pot Knock.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58071"
+    },
+    {
+      "name": "Q Thud Hi.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_5426"
+    },
+    {
+      "name": "Rasgador Fly.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_39729"
+    },
+    {
+      "name": "Rim digi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55098"
+    },
+    {
+      "name": "Rim FX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55099"
+    },
+    {
+      "name": "Rim natural.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55100"
+    },
+    {
+      "name": "Rim Sharp.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55101"
+    },
+    {
+      "name": "Samba Whstl 1 H.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_50276"
+    },
+    {
+      "name": "Samba Whstl 1 L.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_50277"
+    },
+    {
+      "name": "Samba Whstl 1 M.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_50278"
+    },
+    {
+      "name": "Samba Whstl 2 H.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_50279"
+    },
+    {
+      "name": "Samba Whstl 2 L.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_50280"
+    },
+    {
+      "name": "Samba Whstl 2 M.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_50281"
+    },
+    {
+      "name": "Sauce Loop 75 bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2620"
+    },
+    {
+      "name": "Scrape Shake.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58072"
+    },
+    {
+      "name": "Semba Percussion 100 bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2621"
+    },
+    {
+      "name": "Shaken Glitch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58073"
+    },
+    {
+      "name": "Shaker 87 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2625"
+    },
+    {
+      "name": "Shaker 100 bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2622"
+    },
+    {
+      "name": "Shaker 102 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2623"
+    },
+    {
+      "name": "Shaker 134 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2624"
+    },
+    {
+      "name": "Shaker Ambient 80 bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2626"
+    },
+    {
+      "name": "Shaker and Stick 130 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2627"
+    },
+    {
+      "name": "Shout Cowbell Percussion.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_5427"
+    },
+    {
+      "name": "Smack Kick.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_5428"
+    },
+    {
+      "name": "Smash Impact Reveb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58074"
+    },
+    {
+      "name": "Smash Splash.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58075"
+    },
+    {
+      "name": "Snap FX.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55102"
+    },
+    {
+      "name": "Solid Snap.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58076"
+    },
+    {
+      "name": "Sound Objects Hit Hi.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58077"
+    },
+    {
+      "name": "Sound Objects Hit Lo.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58078"
+    },
+    {
+      "name": "Sound Objects Knock Ambient.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58079"
+    },
+    {
+      "name": "Sound Objects Knock.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58080"
+    },
+    {
+      "name": "Spacecraft Alert.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58081"
+    },
+    {
+      "name": "Stick Bluesbreak.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_993"
+    },
+    {
+      "name": "Stick Dub Noise.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46552"
+    },
+    {
+      "name": "Stick Dub.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_46553"
+    },
+    {
+      "name": "Stick FX 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55103"
+    },
+    {
+      "name": "Stick FX 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55104"
+    },
+    {
+      "name": "Stick Hard.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55105"
+    },
+    {
+      "name": "Stick Natural 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55106"
+    },
+    {
+      "name": "Stick Natural 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55107"
+    },
+    {
+      "name": "Stick Vinyl 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_994"
+    },
+    {
+      "name": "Stick Vinyl 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_995"
+    },
+    {
+      "name": "Stiff Vibration.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58082"
+    },
+    {
+      "name": "Stomp Voltage.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_36306"
+    },
+    {
+      "name": "Suction Punch.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58083"
+    },
+    {
+      "name": "Surdo Finger.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_50282"
+    },
+    {
+      "name": "Surdo Mute.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_50283"
+    },
+    {
+      "name": "Surdo Open.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_50284"
+    },
+    {
+      "name": "Surdo Rim.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_50285"
+    },
+    {
+      "name": "Synth Pulse Speak.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48424"
+    },
+    {
+      "name": "Synth Pulse Token.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_48425"
+    },
+    {
+      "name": "Tabla 130 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2628"
+    },
+    {
+      "name": "Tabla and Dolak 85 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2629"
+    },
+    {
+      "name": "Tabla Chop.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_37537"
+    },
+    {
+      "name": "Tabla SP 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_996"
+    },
+    {
+      "name": "Tabla SP 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_997"
+    },
+    {
+      "name": "Tabla SP 3.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_47009"
+    },
+    {
+      "name": "Tabla SP 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_998"
+    },
+    {
+      "name": "Tabla SP 4.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_999"
+    },
+    {
+      "name": "Tabla SP 5.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1000"
+    },
+    {
+      "name": "Tabla SP 6.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1001"
+    },
+    {
+      "name": "Tambo Short Smack.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_47010"
+    },
+    {
+      "name": "Tambourine 110 bpm.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2630"
+    },
+    {
+      "name": "Tambourine Sampled 86 bpm.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_2631"
+    },
+    {
+      "name": "Temple Drum Vinyl 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1002"
+    },
+    {
+      "name": "Temple Drum Vinyl 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1003"
+    },
+    {
+      "name": "Temple Drum Vinyl 3.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1004"
+    },
+    {
+      "name": "Thud Drill.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55108"
+    },
+    {
+      "name": "Timbale 505 Classic.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_47011"
+    },
+    {
+      "name": "Timp Orch MPC 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_47012"
+    },
+    {
+      "name": "Timp Soft60s Vinyl 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_47013"
+    },
+    {
+      "name": "Timpani Orchestra MPC 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1005"
+    },
+    {
+      "name": "Timpani Orchestra MPC 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1006"
+    },
+    {
+      "name": "Timpani Soft Vinyl 60s 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1007"
+    },
+    {
+      "name": "Timpani Soft Vinyl 60s 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1008"
+    },
+    {
+      "name": "Tom Lo Dub.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_47014"
+    },
+    {
+      "name": "Tom Sharp 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55109"
+    },
+    {
+      "name": "Tom Sharp 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55110"
+    },
+    {
+      "name": "Tonal Bucket.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58084"
+    },
+    {
+      "name": "Triangle natural.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55111"
+    },
+    {
+      "name": "Tube Hit.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1009"
+    },
+    {
+      "name": "Tumba Low.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1010"
+    },
+    {
+      "name": "Udu Flam.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_42370"
+    },
+    {
+      "name": "Underwater Bomb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58085"
+    },
+    {
+      "name": "Weighty Knock.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58086"
+    },
+    {
+      "name": "Whistle Verb.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1011"
+    },
+    {
+      "name": "Wind In.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58087"
+    },
+    {
+      "name": "Wind Up Robot.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58088"
+    },
+    {
+      "name": "Wobble Pluck.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_58089"
+    },
+    {
+      "name": "Wood Block 1.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55112"
+    },
+    {
+      "name": "Wood Block 2.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_55113"
+    },
+    {
+      "name": "Wood Dub.aif",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_47015"
+    },
+    {
+      "name": "Wood Percussion.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_5429"
+    },
+    {
+      "name": "Xylophone Rub 1.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1012"
+    },
+    {
+      "name": "Xylophone Rub 2.wav",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_1013"
+    },
+    {
+      "name": "Zapp Kick.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Drums#Drum%20Hits:Misc%20Percussion:FileId_5430"
+    }
+  ]
+}

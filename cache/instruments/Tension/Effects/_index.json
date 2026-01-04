@@ -1,0 +1,73 @@
+{
+  "path": "Instruments/Tension/Effects",
+  "name": "Effects",
+  "uri": "query:Synths#Tension:Effects",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Ambient Drops Hold.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Effects:FileId_5205"
+    },
+    {
+      "name": "Crackling Strings Abstract.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Effects:FileId_5206"
+    },
+    {
+      "name": "Moving Space Alarm.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Effects:FileId_5207"
+    },
+    {
+      "name": "Random Rhythmic String Abstract.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Effects:FileId_5208"
+    },
+    {
+      "name": "Robot Voice.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Effects:FileId_5209"
+    },
+    {
+      "name": "Six80Four TapDance.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Effects:FileId_59230"
+    },
+    {
+      "name": "Tiny Tonal Drums.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Effects:FileId_5210"
+    },
+    {
+      "name": "Tuned Noise.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Effects:FileId_5211"
+    },
+    {
+      "name": "Wire Noise.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Tension:Effects:FileId_5212"
+    }
+  ]
+}

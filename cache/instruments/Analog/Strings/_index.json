@@ -1,0 +1,31 @@
+{
+  "path": "Instruments/Analog/Strings",
+  "name": "Strings",
+  "uri": "query:Synths#Analog:Strings",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "M Tron Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Strings:FileId_3835"
+    },
+    {
+      "name": "Off World Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Strings:FileId_3837"
+    },
+    {
+      "name": "Synthetic Choir Strings.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Analog:Strings:FileId_3840"
+    }
+  ]
+}

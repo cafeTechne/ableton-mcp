@@ -1,0 +1,283 @@
+{
+  "path": "Instruments/Collision/Mallets",
+  "name": "Mallets",
+  "uri": "query:Synths#Collision:Mallets",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Afterbreath.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_59640"
+    },
+    {
+      "name": "Ambient Computer Bell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_3979"
+    },
+    {
+      "name": "Balafon Bright.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5827"
+    },
+    {
+      "name": "Balafon Brushed.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5828"
+    },
+    {
+      "name": "Banu Musa.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_59641"
+    },
+    {
+      "name": "Basic Bright Marimba.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_3983"
+    },
+    {
+      "name": "Bell Airy.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5829"
+    },
+    {
+      "name": "Bell Plate Long.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5830"
+    },
+    {
+      "name": "Bells Attack.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5831"
+    },
+    {
+      "name": "Bells Deep.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5832"
+    },
+    {
+      "name": "Bells Glass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5833"
+    },
+    {
+      "name": "Bells Mellow.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5834"
+    },
+    {
+      "name": "Bells Random.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5835"
+    },
+    {
+      "name": "Ceremonial Chime.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_59642"
+    },
+    {
+      "name": "Coastal Bones Marimba.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_59643"
+    },
+    {
+      "name": "Dream Cycle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_54489"
+    },
+    {
+      "name": "Dulce Delay.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_43013"
+    },
+    {
+      "name": "Glockenspiel Basic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5836"
+    },
+    {
+      "name": "Glockenspiel Detuned.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5837"
+    },
+    {
+      "name": "Grandfather Clock.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_59644"
+    },
+    {
+      "name": "Magic Orchestral Bell.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_59645"
+    },
+    {
+      "name": "Make A Deal Spiel.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_59646"
+    },
+    {
+      "name": "Marimba Classic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5838"
+    },
+    {
+      "name": "Marimba Glassy.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5839"
+    },
+    {
+      "name": "Marimba Sustain.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5840"
+    },
+    {
+      "name": "Minor Metal.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_61099"
+    },
+    {
+      "name": "Music Box Basic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5841"
+    },
+    {
+      "name": "Music Box Beam.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5842"
+    },
+    {
+      "name": "Music Box Slide.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5843"
+    },
+    {
+      "name": "Octavestring.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_59647"
+    },
+    {
+      "name": "Product Bells.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_4001"
+    },
+    {
+      "name": "Spetses Bell.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_4002"
+    },
+    {
+      "name": "Tip Toes.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_61100"
+    },
+    {
+      "name": "Vibes Basic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5844"
+    },
+    {
+      "name": "Vibes Bright.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5845"
+    },
+    {
+      "name": "Vibes Mellow.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5846"
+    },
+    {
+      "name": "Vibes Modulated.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5847"
+    },
+    {
+      "name": "Xylophone Basic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5848"
+    },
+    {
+      "name": "Xylophone Dark.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Collision:Mallets:FileId_5849"
+    }
+  ]
+}

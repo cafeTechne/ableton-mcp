@@ -1,0 +1,80 @@
+{
+  "path": "Instruments/Wavetable/Brass",
+  "name": "Brass",
+  "uri": "query:Synths#Wavetable:Brass",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Alphalog Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Brass:FileId_5054"
+    },
+    {
+      "name": "Brutal Quad Saw.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Brass:FileId_5055"
+    },
+    {
+      "name": "Duality Brass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Brass:FileId_4054"
+    },
+    {
+      "name": "Flyte Time Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Brass:FileId_5056"
+    },
+    {
+      "name": "Matrix Horns.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Brass:FileId_5057"
+    },
+    {
+      "name": "Poly 60 Saw.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Brass:FileId_5058"
+    },
+    {
+      "name": "Poly Pressure Saw.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Brass:FileId_5059"
+    },
+    {
+      "name": "Poly Saw.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Brass:FileId_5060"
+    },
+    {
+      "name": "Vox Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Brass:FileId_5061"
+    },
+    {
+      "name": "Wave Sync Brass.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Brass:FileId_5062"
+    }
+  ]
+}

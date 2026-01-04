@@ -1,0 +1,458 @@
+{
+  "path": "Instruments/Operator/Effects",
+  "name": "Effects",
+  "uri": "query:Synths#Operator:Effects",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "8bit Explosion.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_59675"
+    },
+    {
+      "name": "8Bit Lazer.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_36613"
+    },
+    {
+      "name": "Air Raid Alarm.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_38333"
+    },
+    {
+      "name": "All Star.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_59676"
+    },
+    {
+      "name": "Basscycle Aftertouch.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_5613"
+    },
+    {
+      "name": "Boinky Saw Riser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_38335"
+    },
+    {
+      "name": "Burnt FX Loop.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_49004"
+    },
+    {
+      "name": "Climbing Operation.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_55461"
+    },
+    {
+      "name": "Cycle Clicker.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_49006"
+    },
+    {
+      "name": "Cylindrical Lobotomy.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_55462"
+    },
+    {
+      "name": "Dirty Laser.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_49008"
+    },
+    {
+      "name": "Dive Dive Dive.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_38336"
+    },
+    {
+      "name": "Drip.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_5614"
+    },
+    {
+      "name": "Dub Filter FX.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_5615"
+    },
+    {
+      "name": "Electrix Circuit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_55463"
+    },
+    {
+      "name": "Faulty Hyperdrive.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_59677"
+    },
+    {
+      "name": "Fifth Spring.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_49010"
+    },
+    {
+      "name": "Flutter Ambience.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_5616"
+    },
+    {
+      "name": "Follow Along.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_49011"
+    },
+    {
+      "name": "Game Over.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_59678"
+    },
+    {
+      "name": "Ghost Whistle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_59225"
+    },
+    {
+      "name": "Glass Tapas.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_55465"
+    },
+    {
+      "name": "Gnarls Smartly.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_55466"
+    },
+    {
+      "name": "Gnarly S&H Filter.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_5617"
+    },
+    {
+      "name": "Hit and Run.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_59226"
+    },
+    {
+      "name": "Jet Sweep.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_38338"
+    },
+    {
+      "name": "Lift Off.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_59679"
+    },
+    {
+      "name": "Madness Breakdown.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_59680"
+    },
+    {
+      "name": "Metal Scrape.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_55467"
+    },
+    {
+      "name": "No Organ.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_59227"
+    },
+    {
+      "name": "Noise Rain.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_59228"
+    },
+    {
+      "name": "Numb.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_59681"
+    },
+    {
+      "name": "Pitchy Gong.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_5618"
+    },
+    {
+      "name": "Plinky Plonk.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_51308"
+    },
+    {
+      "name": "Plucked To Death.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_55469"
+    },
+    {
+      "name": "Power Up.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_42999"
+    },
+    {
+      "name": "Pulse Drone Beeper.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_51310"
+    },
+    {
+      "name": "Rave Siren.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_38342"
+    },
+    {
+      "name": "Red Alarm.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_38343"
+    },
+    {
+      "name": "Rhythmic Bells & Noise.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_5619"
+    },
+    {
+      "name": "Robot Downgrade.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_49020"
+    },
+    {
+      "name": "S&H Filtered Noise.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_5620"
+    },
+    {
+      "name": "Sad Triangle.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_59229"
+    },
+    {
+      "name": "Saw Madness.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_38345"
+    },
+    {
+      "name": "Saw Madness.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_49021"
+    },
+    {
+      "name": "Scratch Academics.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_38347"
+    },
+    {
+      "name": "Shortwave.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_59682"
+    },
+    {
+      "name": "Shouting Into Cans.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_51311"
+    },
+    {
+      "name": "Squeee.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_38348"
+    },
+    {
+      "name": "Squeek & Loop Bleep.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_5621"
+    },
+    {
+      "name": "Squishy Bleep.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_5622"
+    },
+    {
+      "name": "Subs Poppers.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_59231"
+    },
+    {
+      "name": "Sweep & Wobble.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_5623"
+    },
+    {
+      "name": "Sweep Pitch FX.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_5624"
+    },
+    {
+      "name": "Sweeping SciFi Cymbals.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_5625"
+    },
+    {
+      "name": "Swooshy.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_5626"
+    },
+    {
+      "name": "Tesseract Pitch Fall.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_5627"
+    },
+    {
+      "name": "Tesseract Unpredictable Velocity.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_5628"
+    },
+    {
+      "name": "Transit Traveler.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_49025"
+    },
+    {
+      "name": "Vice Descend.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_38351"
+    },
+    {
+      "name": "Vintage Mainframe.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_59683"
+    },
+    {
+      "name": "Vinyl Scratch Laser.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_59684"
+    },
+    {
+      "name": "Warble Spaceship.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_59685"
+    },
+    {
+      "name": "Wind Machine.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Operator:Effects:FileId_5629"
+    }
+  ]
+}

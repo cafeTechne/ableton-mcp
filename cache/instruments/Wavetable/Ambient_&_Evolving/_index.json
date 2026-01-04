@@ -1,0 +1,360 @@
+{
+  "path": "Instruments/Wavetable/Ambient & Evolving",
+  "name": "Ambient & Evolving",
+  "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving",
+  "is_folder": true,
+  "is_device": false,
+  "is_loadable": false,
+  "items": [
+    {
+      "name": "Artica.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_48957"
+    },
+    {
+      "name": "ASMR Cave Texture.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_4020"
+    },
+    {
+      "name": "Big Major 9.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_54477"
+    },
+    {
+      "name": "Bobble Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_48959"
+    },
+    {
+      "name": "Callous Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_43198"
+    },
+    {
+      "name": "Constellation Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_43199"
+    },
+    {
+      "name": "Dark State.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_59749"
+    },
+    {
+      "name": "Dark Swarm.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_4021"
+    },
+    {
+      "name": "Descenting Dreams.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_5110"
+    },
+    {
+      "name": "Desert Dream.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_59750"
+    },
+    {
+      "name": "Double Dawn.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_43221"
+    },
+    {
+      "name": "Drifting Ambient Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_5111"
+    },
+    {
+      "name": "Drunken Flutters.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_48961"
+    },
+    {
+      "name": "Echoic Chamber.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_5112"
+    },
+    {
+      "name": "Electrical Frigid.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_48962"
+    },
+    {
+      "name": "Embellish The Dead Zone.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_5113"
+    },
+    {
+      "name": "Extra Solar Orbit.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_48963"
+    },
+    {
+      "name": "Flux Capacitor.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_5114"
+    },
+    {
+      "name": "Grungey Ambient Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_5115"
+    },
+    {
+      "name": "Haunted Voltage FX.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_43225"
+    },
+    {
+      "name": "Interplanetary Trip Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_4022"
+    },
+    {
+      "name": "Iso Lunar.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_48966"
+    },
+    {
+      "name": "Kitchen Sync.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_5116"
+    },
+    {
+      "name": "Lab Ambient.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_4023"
+    },
+    {
+      "name": "Martian Ham Radio.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_5117"
+    },
+    {
+      "name": "Mindfulness.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_4024"
+    },
+    {
+      "name": "Movement Protocol Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_59751"
+    },
+    {
+      "name": "MPE Dronewind Bass.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_43204"
+    },
+    {
+      "name": "Nasty Noise Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_43229"
+    },
+    {
+      "name": "Noisy Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_48968"
+    },
+    {
+      "name": "Poison Afterburn Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_59752"
+    },
+    {
+      "name": "Possibilities.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_54479"
+    },
+    {
+      "name": "Prehistoric VHS.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_5118"
+    },
+    {
+      "name": "Recursion Particles.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_59753"
+    },
+    {
+      "name": "Release Yourself.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_5119"
+    },
+    {
+      "name": "Ripple Runner.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_48969"
+    },
+    {
+      "name": "Spacefolder.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_5120"
+    },
+    {
+      "name": "Spacey Ambient Pad.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_5121"
+    },
+    {
+      "name": "Stratos.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_48972"
+    },
+    {
+      "name": "Sunrise Waves.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_4028"
+    },
+    {
+      "name": "Symphonialgorithmic.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_5122"
+    },
+    {
+      "name": "Synchronized Swimmers.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_48973"
+    },
+    {
+      "name": "The Reveal.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_5123"
+    },
+    {
+      "name": "Tones From Nowhere.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_5124"
+    },
+    {
+      "name": "Van Der Graaf.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_5125"
+    },
+    {
+      "name": "Venus Bike.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_48979"
+    },
+    {
+      "name": "Venus Doppler.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_5126"
+    },
+    {
+      "name": "Vortex Drone.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_43237"
+    },
+    {
+      "name": "Warchestra.adv",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_59754"
+    },
+    {
+      "name": "Wave Evolve Pad.adg",
+      "is_folder": false,
+      "is_device": false,
+      "is_loadable": true,
+      "uri": "query:Synths#Wavetable:Ambient%20&%20Evolving:FileId_4030"
+    }
+  ]
+}
