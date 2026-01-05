@@ -8,6 +8,7 @@ import json
 import threading
 import time
 import traceback
+from pathlib import Path
 
 # Change queue import for Python 2
 try:
@@ -231,6 +232,16 @@ class AbletonMCP(ControlSurface):
                 "delete_track": lambda: self._delete_track(params.get("track_index", -1)),
                 "duplicate_track": lambda: self._duplicate_track(params.get("track_index", -1), params.get("target_index", None)),
                 "set_track_name": lambda: self._set_track_name(params.get("track_index", 0), params.get("name", "")),
+                "configure_track_routing": lambda: self._configure_track_routing(
+                    params.get("track_index", 0),
+                    params.get("input_type", None),
+                    params.get("input_channel", None),
+                    params.get("output_type", None),
+                    params.get("output_channel", None),
+                    params.get("monitor_state", None),
+                    params.get("arm", None),
+                    params.get("sends", None)
+                ),
                 "set_track_io": lambda: self._set_track_io(
                     params.get("track_index", 0),
                     params.get("input_type", None),
@@ -270,6 +281,30 @@ class AbletonMCP(ControlSurface):
                 "set_tempo": lambda: self._set_tempo(params.get("tempo", 120.0)),
                 "set_time_signature": lambda: self._set_time_signature(params.get("numerator", 4), params.get("denominator", 4)),
                 "fire_clip": lambda: self._fire_clip(params.get("track_index", 0), params.get("clip_index", 0)),
+                "list_clips": lambda: self._list_clips(
+                    params.get("track_pattern", None),
+                    params.get("match_mode", "contains")
+                ),
+                "fire_clip_by_name": lambda: self._fire_clip_by_name(
+                    params.get("clip_pattern", ""),
+                    params.get("track_pattern", None),
+                    params.get("match_mode", "contains"),
+                    params.get("first_only", True)
+                ),
+                "trigger_test_midi": lambda: self._trigger_test_midi(
+                    params.get("track_index", 0),
+                    params.get("clip_index", 0),
+                    params.get("length", 1.0),
+                    params.get("pitch", 60),
+                    params.get("velocity", 100),
+                    params.get("duration", 0.5),
+                    params.get("start_time", 0.0),
+                    params.get("overwrite_clip", False),
+                    params.get("fire_clip", True),
+                    params.get("cc_number", None),
+                    params.get("cc_value", 64),
+                    params.get("channel", 0)
+                ),
                 "stop_clip": lambda: self._stop_clip(params.get("track_index", 0), params.get("clip_index", 0)),
                 "start_playback": lambda: self._start_playback(),
                 "stop_playback": lambda: self._stop_playback(),
@@ -277,14 +312,44 @@ class AbletonMCP(ControlSurface):
                 "delete_scene": lambda: self._delete_scene(params.get("index", -1)),
                 "duplicate_scene": lambda: self._duplicate_scene(params.get("index", -1)),
                 "fire_scene": lambda: self._fire_scene(params.get("index", -1)),
+                "fire_scene_by_name": lambda: self._fire_scene_by_name(
+                    params.get("pattern", ""),
+                    params.get("match_mode", "contains"),
+                    params.get("first_only", True)
+                ),
                 "stop_scene": lambda: self._stop_scene(params.get("index", -1)),
-                "load_browser_item": lambda: self._load_browser_item(params.get("track_index", 0), params.get("item_uri", "")),
+                "load_browser_item": lambda: self._load_browser_item(
+                    params.get("track_index", 0),
+                    params.get("item_uri", ""),
+                    params.get("clip_index", None)
+                ),
+                "load_simpler_with_sample": lambda: self._load_simpler_with_sample(
+                    params.get("track_index", 0),
+                    params.get("file_path", ""),
+                    params.get("device_slot", -1)
+                ),
+                "load_sampler_with_sample": lambda: self._load_sampler_with_sample(
+                    params.get("track_index", 0),
+                    params.get("file_path", ""),
+                    params.get("device_slot", -1)
+                ),
                 "load_device": lambda: self._load_device(params.get("track_index", 0), params.get("device_uri", ""), params.get("device_slot", -1)),
                 "set_device_parameter": lambda: self._set_device_parameter(
                     params.get("track_index", 0),
                     params.get("device_index", 0),
                     params.get("parameter", 0),
                     params.get("value", 0.0)
+                ),
+                "set_device_parameters": lambda: self._set_device_parameters(
+                    params.get("track_index", 0),
+                    params.get("device_index", 0),
+                    params.get("parameters", None)
+                ),
+                "set_device_audio_input": lambda: self._set_device_audio_input(
+                    params.get("track_index", 0),
+                    params.get("device_index", 0),
+                    params.get("input_type", None),
+                    params.get("input_channel", None)
                 ),
                 "get_device_parameters": lambda: self._get_device_parameters(params.get("track_index", 0), params.get("device_index", 0)),
                 "set_device_sidechain_source": lambda: self._set_device_sidechain_source(
@@ -294,6 +359,7 @@ class AbletonMCP(ControlSurface):
                     params.get("pre_fx", True),
                     params.get("mono", True)
                 ),
+                "list_routable_devices": lambda: self._list_routable_devices(),
                 "save_device_snapshot": lambda: self._save_device_snapshot(params.get("track_index", 0), params.get("device_index", 0)),
                 "save_device_preset": lambda: self._save_device_snapshot(params.get("track_index", 0), params.get("device_index", 0)),
                 "apply_device_snapshot": lambda: self._apply_device_snapshot(
@@ -323,6 +389,10 @@ class AbletonMCP(ControlSurface):
             elif command_type == "get_track_info":
                 track_index = params.get("track_index", 0)
                 response["result"] = self._get_track_info(track_index)
+            elif command_type == "list_clips":
+                track_pattern = params.get("track_pattern", None)
+                match_mode = params.get("match_mode", "contains")
+                response["result"] = self._list_clips(track_pattern, match_mode)
             elif command_type in main_thread_commands:
                 # Use a thread-safe approach with a response queue
                 response_queue = queue.Queue()
@@ -412,6 +482,45 @@ class AbletonMCP(ControlSurface):
             return result
         except Exception as e:
             self.log_message("Error getting session info: " + str(e))
+            raise
+
+    def _list_clips(self, track_pattern=None, match_mode="contains"):
+        """List all named clips across tracks, optionally filtering by track name."""
+        try:
+            results = []
+            def _match(name, pattern):
+                if pattern is None:
+                    return True
+                name_l = name.lower()
+                patt_l = pattern.lower()
+                if match_mode == "equals":
+                    return name_l == patt_l
+                if match_mode == "startswith":
+                    return name_l.startswith(patt_l)
+                return patt_l in name_l
+
+            for t_idx, track in enumerate(self._song.tracks):
+                track_name = getattr(track, "name", f"Track {t_idx}")
+                if not _match(track_name, track_pattern):
+                    continue
+                for c_idx, slot in enumerate(track.clip_slots):
+                    try:
+                        if slot.has_clip:
+                            clip = slot.clip
+                            clip_name = getattr(clip, "name", f"Clip {c_idx}")
+                            results.append({
+                                "track_index": t_idx,
+                                "track_name": track_name,
+                                "clip_index": c_idx,
+                                "clip_name": clip_name,
+                                "length": getattr(clip, "length", None)
+                            })
+                    except Exception as clip_err:
+                        self.log_message("Error reading clip at {0}:{1}: {2}".format(t_idx, c_idx, str(clip_err)))
+                        continue
+            return {"clips": results, "count": len(results)}
+        except Exception as e:
+            self.log_message("Error listing clips: " + str(e))
             raise
     
     def _get_track_info(self, track_index):
@@ -539,6 +648,177 @@ class AbletonMCP(ControlSurface):
         except Exception:
             pass
         return None
+
+    def _name_matches(self, name, pattern, match_mode="contains"):
+        """Case-insensitive matcher supporting contains/startswith/equals."""
+        if pattern is None or pattern == "":
+            return True
+        try:
+            hay = (name or "").lower()
+            needle = str(pattern).lower()
+            if match_mode == "equals":
+                return hay == needle
+            if match_mode == "startswith":
+                return hay.startswith(needle)
+            return needle in hay
+        except Exception:
+            return False
+
+    def _resolve_send_index(self, track, target):
+        """Resolve a send index using numeric index or name substring."""
+        try:
+            sends = getattr(track.mixer_device, "sends", [])
+            if target is None or sends is None:
+                return None
+            if isinstance(target, int):
+                if 0 <= target < len(sends):
+                    return target
+                return None
+            target_lower = str(target).lower()
+            for idx, send_param in enumerate(sends):
+                name = getattr(send_param, "name", None) or getattr(send_param, "short_name", None) or str(send_param)
+                if name and target_lower in name.lower():
+                    return idx
+            try:
+                for idx, return_track in enumerate(getattr(self._song, "return_tracks", [])):
+                    name = getattr(return_track, "name", None)
+                    if name and target_lower in name.lower():
+                        return idx
+            except Exception:
+                pass
+        except Exception:
+            pass
+        return None
+
+    def _describe_send_levels(self, track):
+        """Return current send levels with names for a track."""
+        sends = getattr(track.mixer_device, "sends", [])
+        send_info = []
+        try:
+            return_tracks = getattr(self._song, "return_tracks", [])
+        except Exception:
+            return_tracks = []
+        for idx, send_param in enumerate(sends):
+            try:
+                name = getattr(send_param, "name", None)
+                if not name and idx < len(return_tracks):
+                    name = getattr(return_tracks[idx], "name", None)
+            except Exception:
+                name = None
+            try:
+                value = send_param.value
+                send_min = send_param.min
+                send_max = send_param.max
+            except Exception:
+                value = None
+                send_min = None
+                send_max = None
+            send_info.append({
+                "index": idx,
+                "name": name,
+                "value": value,
+                "min": send_min,
+                "max": send_max
+            })
+        return send_info
+
+    def _set_multiple_send_levels(self, track_index, send_levels):
+        """Apply multiple send levels using flexible payloads."""
+        if send_levels is None:
+            return {"updated": [], "errors": [], "current": []}
+        if track_index < 0 or track_index >= len(self._song.tracks):
+            raise IndexError("Track index out of range")
+        track = self._song.tracks[track_index]
+        sends = getattr(track.mixer_device, "sends", [])
+        updates = []
+        errors = []
+
+        def _apply_send(idx, level, label):
+            if idx is None or idx < 0 or idx >= len(sends):
+                errors.append({"target": label, "reason": "send_not_found"})
+                return
+            try:
+                send_param = sends[idx]
+                value = float(level)
+                clamped = max(send_param.min, min(send_param.max, value))
+                send_param.value = clamped
+                updates.append({
+                    "index": idx,
+                    "name": getattr(send_param, "name", None),
+                    "value": clamped,
+                    "min": send_param.min,
+                    "max": send_param.max
+                })
+            except Exception as e:
+                errors.append({"target": label, "reason": str(e)})
+
+        if isinstance(send_levels, dict):
+            for key, value in send_levels.items():
+                idx = self._resolve_send_index(track, key)
+                _apply_send(idx, value, key)
+        elif isinstance(send_levels, (list, tuple)):
+            for idx, entry in enumerate(send_levels):
+                if isinstance(entry, dict):
+                    target = entry.get("index", entry.get("send", entry.get("name", None)))
+                    level = entry.get("level", entry.get("value", None))
+                    resolved_idx = self._resolve_send_index(track, target if target is not None else idx)
+                    _apply_send(resolved_idx, level, target if target is not None else idx)
+                elif isinstance(entry, (list, tuple)) and len(entry) == 2:
+                    resolved_idx = self._resolve_send_index(track, entry[0])
+                    _apply_send(resolved_idx, entry[1], entry[0])
+                else:
+                    _apply_send(idx, entry, idx)
+        else:
+            errors.append({"target": "payload", "reason": "unsupported_type"})
+
+        return {"updated": updates, "errors": errors, "current": self._describe_send_levels(track)}
+
+    def _configure_track_routing(
+        self,
+        track_index,
+        input_type=None,
+        input_channel=None,
+        output_type=None,
+        output_channel=None,
+        monitor_state=None,
+        arm=None,
+        sends=None
+    ):
+        """Set I/O, monitoring, arm, and multiple sends in one call."""
+        try:
+            if track_index < 0 or track_index >= len(self._song.tracks):
+                raise IndexError("Track index out of range")
+            track = self._song.tracks[track_index]
+
+            routing = self._describe_track_routing(track)
+            if any(value is not None for value in (input_type, input_channel, output_type, output_channel)):
+                routing = self._set_track_io(track_index, input_type, input_channel, output_type, output_channel)
+
+            monitoring_state = routing.get("monitoring_state")
+            if monitor_state is not None:
+                monitor_result = self._set_track_monitor(track_index, monitor_state)
+                monitoring_state = monitor_result.get("monitoring_state")
+
+            arm_state = bool(getattr(track, "arm", False))
+            if arm is not None:
+                arm_result = self._set_track_bool(track_index, "arm", arm)
+                arm_state = arm_result.get("arm", arm_state)
+
+            send_result = {"updated": [], "errors": [], "current": self._describe_send_levels(track)}
+            if sends is not None:
+                send_result = self._set_multiple_send_levels(track_index, sends)
+
+            return {
+                "track_index": track_index,
+                "track_name": track.name,
+                "routing": routing,
+                "monitoring_state": monitoring_state,
+                "arm": arm_state,
+                "sends": send_result
+            }
+        except Exception as e:
+            self.log_message("Error configuring track routing: " + str(e))
+            raise
 
     def _create_audio_track(self, index):
         """Create a new audio track at the specified index."""
@@ -1161,6 +1441,106 @@ class AbletonMCP(ControlSurface):
         except Exception as e:
             self.log_message("Error firing clip: " + str(e))
             raise
+
+    def _fire_clip_by_name(self, clip_pattern, track_pattern=None, match_mode="contains", first_only=True):
+        """Fire clips whose names match a pattern (optionally filter by track name)."""
+        try:
+            if clip_pattern is None or clip_pattern == "":
+                raise ValueError("clip_pattern is required")
+            fired = []
+            for t_idx, track in enumerate(self._song.tracks):
+                if track_pattern and not self._name_matches(track.name, track_pattern, match_mode):
+                    continue
+                for c_idx, slot in enumerate(track.clip_slots):
+                    if not slot.has_clip:
+                        continue
+                    clip = slot.clip
+                    if self._name_matches(getattr(clip, "name", ""), clip_pattern, match_mode):
+                        slot.fire()
+                        fired.append({
+                            "track_index": t_idx,
+                            "track_name": track.name,
+                            "clip_index": c_idx,
+                            "clip_name": clip.name
+                        })
+                        if first_only:
+                            return {"fired": fired}
+            if not fired:
+                raise ValueError("No clips matched pattern '{0}'".format(clip_pattern))
+            return {"fired": fired}
+        except Exception as e:
+            self.log_message("Error firing clip by name: " + str(e))
+            raise
+
+    def _trigger_test_midi(
+        self,
+        track_index,
+        clip_index,
+        length,
+        pitch,
+        velocity,
+        duration,
+        start_time,
+        overwrite_clip,
+        fire_clip,
+        cc_number,
+        cc_value,
+        channel
+    ):
+        """Create/reuse a short MIDI clip and fire a test note/optional CC."""
+        try:
+            if track_index < 0 or track_index >= len(self._song.tracks):
+                raise IndexError("Track index out of range")
+            track = self._song.tracks[track_index]
+            if not getattr(track, "has_midi_input", False) and not getattr(track, "has_midi_output", False):
+                raise ValueError("Track does not support MIDI")
+            if clip_index < 0 or clip_index >= len(track.clip_slots):
+                raise IndexError("Clip index out of range")
+
+            clip_slot = track.clip_slots[clip_index]
+            created_clip = False
+            if not clip_slot.has_clip:
+                clip_slot.create_clip(length)
+                created_clip = True
+            elif not overwrite_clip:
+                raise Exception("Clip slot already has a clip; set overwrite_clip=True to reuse it")
+
+            clip = clip_slot.clip
+            if not getattr(clip, "is_midi_clip", False):
+                raise Exception("Target clip slot is not a MIDI clip")
+
+            self._write_clip_notes(clip, [{
+                "pitch": int(pitch),
+                "start_time": float(start_time),
+                "duration": float(max(duration, 0.01)),
+                "velocity": int(velocity),
+                "mute": False
+            }], replace=True)
+
+            cc_result = None
+            if cc_number is not None:
+                try:
+                    status = 176 + max(min(int(channel), 15), 0)
+                    data = (status, int(cc_number), int(cc_value))
+                    self._send_midi(data)
+                    cc_result = {"sent": True, "status": status, "cc_number": int(cc_number), "value": int(cc_value)}
+                except Exception as cc_err:
+                    cc_result = {"sent": False, "error": str(cc_err)}
+
+            if fire_clip:
+                clip_slot.fire()
+
+            return {
+                "track_index": track_index,
+                "clip_index": clip_index,
+                "created_clip": created_clip,
+                "note": {"pitch": int(pitch), "velocity": int(velocity), "duration": float(duration), "start_time": float(start_time)},
+                "fired": bool(fire_clip),
+                "cc": cc_result
+            }
+        except Exception as e:
+            self.log_message("Error triggering test MIDI: " + str(e))
+            raise
     
     def _stop_clip(self, track_index, clip_index):
         """Stop a clip"""
@@ -1235,6 +1615,25 @@ class AbletonMCP(ControlSurface):
             return {"index": index, "name": scene.name, "fired": True}
         except Exception as e:
             self.log_message("Error firing scene: " + str(e))
+            raise
+
+    def _fire_scene_by_name(self, pattern, match_mode="contains", first_only=True):
+        """Launch scenes matching a name pattern."""
+        try:
+            if pattern is None or pattern == "":
+                raise ValueError("pattern is required")
+            fired = []
+            for idx, scene in enumerate(self._song.scenes):
+                if self._name_matches(scene.name, pattern, match_mode):
+                    scene.fire()
+                    fired.append({"index": idx, "name": scene.name})
+                    if first_only:
+                        return {"fired": fired}
+            if not fired:
+                raise ValueError("No scenes matched pattern '{0}'".format(pattern))
+            return {"fired": fired}
+        except Exception as e:
+            self.log_message("Error firing scene by name: " + str(e))
             raise
 
     def _stop_scene(self, index):
@@ -1377,8 +1776,8 @@ class AbletonMCP(ControlSurface):
     
     
     
-    def _load_browser_item(self, track_index, item_uri):
-        """Load a browser item onto a track by its URI"""
+    def _load_browser_item(self, track_index, item_uri, clip_index=None):
+        """Load a browser item onto a track by its URI (optionally target a clip slot)."""
         try:
             if track_index < 0 or track_index >= len(self._song.tracks):
                 raise IndexError("Track index out of range")
@@ -1396,6 +1795,18 @@ class AbletonMCP(ControlSurface):
             
             # Select the track
             self._song.view.selected_track = track
+            try:
+                if clip_index is not None and clip_index >= 0:
+                    scene_count = len(self._song.scenes)
+                    # Clamp to available scenes (clip slots mirror scenes)
+                    if clip_index >= scene_count:
+                        clip_index = scene_count - 1
+                    if clip_index >= 0:
+                        target_slot = track.clip_slots[clip_index]
+                        self._song.view.highlighted_clip_slot = target_slot
+                        self._song.view.selected_scene = self._song.scenes[clip_index]
+            except Exception as slot_err:
+                self.log_message("Unable to set target clip slot: {0}".format(slot_err))
             
             # Load the item
             app.browser.load_item(item)
@@ -1409,6 +1820,239 @@ class AbletonMCP(ControlSurface):
             return result
         except Exception as e:
             self.log_message("Error loading browser item: {0}".format(str(e)))
+            self.log_message(traceback.format_exc())
+            raise
+
+    def _load_simpler_with_sample(self, track_index, file_path, device_slot=-1):
+        """
+        Load Simpler on a track and set its sample.file_path directly to the given path.
+        Returns device_index and sample metadata.
+        """
+        try:
+            if track_index < 0 or track_index >= len(self._song.tracks):
+                raise IndexError("Track index out of range")
+            if not file_path:
+                raise ValueError("file_path is required")
+
+            track = self._song.tracks[track_index]
+            stem = Path(file_path).stem.lower() if Path else file_path.split("/")[-1].rsplit(".", 1)[0].lower()
+            # Load Simpler via browser if needed
+            # Try to find an existing Simpler at device_slot
+            device = None
+            if device_slot >= 0 and device_slot < len(track.devices):
+                dev = track.devices[device_slot]
+                if hasattr(dev, "class_name") and dev.class_name == "OriginalSimpler":
+                    device = dev
+            if device is None:
+                # Find Simpler in browser by name and load it
+                app = self.application()
+                if not app or not hasattr(app, "browser"):
+                    raise ValueError("Could not access Live browser")
+
+                def _find_simpler(root):
+                    stack = [root]
+                    while stack:
+                        item = stack.pop()
+                        try:
+                            name = getattr(item, "name", "").lower()
+                            is_device = getattr(item, "is_device", False)
+                            is_loadable = getattr(item, "is_loadable", False)
+                            if is_device and is_loadable and name == "simpler":
+                                return item
+                            for child in getattr(item, "children", []):
+                                stack.append(child)
+                        except Exception:
+                            continue
+                    return None
+
+                simpler_item = None
+                try:
+                    if hasattr(app.browser, "instruments"):
+                        simpler_item = _find_simpler(app.browser.instruments)
+                except Exception:
+                    simpler_item = None
+                if simpler_item is None and hasattr(app.browser, "sounds"):
+                    try:
+                        simpler_item = _find_simpler(app.browser.sounds)
+                    except Exception:
+                        simpler_item = None
+                if simpler_item is None:
+                    raise ValueError("Could not find Simpler in browser")
+
+                self._song.view.selected_track = track
+                app.browser.load_item(simpler_item)
+                if len(track.devices) == 0:
+                    raise IndexError("No devices after loading Simpler")
+                device = track.devices[-1]
+            # Load sample via browser hotswap if possible
+            loaded = False
+            try:
+                app = self.application()
+                browser_path = None
+                parts = file_path.replace("\\", "/").split("/")
+                if "Core Library" in parts:
+                    idx = parts.index("Core Library")
+                    browser_path = "/".join(parts[idx:-1])
+                elif "Factory Packs" in parts:
+                    idx = parts.index("Factory Packs")
+                    browser_path = "/".join(parts[idx:-1])
+                elif "User Library" in parts:
+                    idx = parts.index("User Library")
+                    browser_path = "/".join(parts[idx:-1])
+                if browser_path:
+                    items = self.get_browser_items_at_path(browser_path)
+                    target_uri = None
+                    for it in items.get("items", []):
+                        if str(it.get("name", "")).lower() == stem and it.get("is_loadable", False):
+                            target_uri = it.get("uri")
+                            break
+                    # Fallback: search root Samples if folder lookup fails
+                    if not target_uri:
+                        target_uri = self._find_sample_uri_by_stem(stem)
+                    if target_uri:
+                        try:
+                            app.browser.hotswap_target = device
+                        except Exception:
+                            pass
+                        target_item = self._find_browser_item_by_uri(app.browser, target_uri)
+                        if target_item:
+                            app.browser.load_item(target_item)
+                            loaded = True
+            except Exception:
+                loaded = False
+
+            warn = None
+            if not loaded:
+                # Last resort: try direct hotswap by root Samples URI
+                fallback_uri = self._find_sample_uri_by_stem(stem)
+                if fallback_uri:
+                    loaded = self._hotswap_device_with_uri(device, fallback_uri)
+            if not loaded:
+                warn = "Unable to load sample via browser or hotswap"
+            result = {
+                "track_index": track_index,
+                "device_index": list(track.devices).index(device),
+                "file_path": file_path,
+                "loaded": loaded,
+                "warping": getattr(getattr(device, "sample", None), "warping", None),
+                "warp_mode": getattr(getattr(device, "sample", None), "warp_mode", None)
+            }
+            if warn:
+                result["warning"] = warn
+            return result
+        except Exception as e:
+            self.log_message("Error loading Simpler with sample: {0}".format(str(e)))
+            self.log_message(traceback.format_exc())
+            raise
+
+    def _load_sampler_with_sample(self, track_index, file_path, device_slot=-1):
+        """
+        Load Sampler on a track and try to load a sample via browser hotswap; fallback to file_path.
+        """
+        try:
+            if track_index < 0 or track_index >= len(self._song.tracks):
+                raise IndexError("Track index out of range")
+            if not file_path:
+                raise ValueError("file_path is required")
+
+            track = self._song.tracks[track_index]
+            stem = Path(file_path).stem.lower() if Path else file_path.split("/")[-1].rsplit(".", 1)[0].lower()
+            device = None
+            if device_slot >= 0 and device_slot < len(track.devices):
+                dev = track.devices[device_slot]
+                if hasattr(dev, "class_name") and dev.class_name.lower() == "sampler":
+                    device = dev
+
+            if device is None:
+                app = self.application()
+                if not app or not hasattr(app, "browser"):
+                    raise ValueError("Could not access Live browser")
+
+                def _find_sampler(root):
+                    stack = [root]
+                    while stack:
+                        item = stack.pop()
+                        try:
+                            name = getattr(item, "name", "").lower()
+                            is_device = getattr(item, "is_device", False)
+                            is_loadable = getattr(item, "is_loadable", False)
+                            if is_device and is_loadable and name == "sampler":
+                                return item
+                            for child in getattr(item, "children", []):
+                                stack.append(child)
+                        except Exception:
+                            continue
+                    return None
+
+                sampler_item = None
+                try:
+                    if hasattr(app.browser, "instruments"):
+                        sampler_item = _find_sampler(app.browser.instruments)
+                except Exception:
+                    sampler_item = None
+                if sampler_item is None and hasattr(app.browser, "sounds"):
+                    try:
+                        sampler_item = _find_sampler(app.browser.sounds)
+                    except Exception:
+                        sampler_item = None
+                if sampler_item is None:
+                    raise ValueError("Could not find Sampler in browser")
+
+                self._song.view.selected_track = track
+                app.browser.load_item(sampler_item)
+                if len(track.devices) == 0:
+                    raise IndexError("No devices after loading Sampler")
+                device = track.devices[-1]
+
+            loaded = False
+            warn = None
+            try:
+                app = self.application()
+                browser_path = None
+                parts = file_path.replace("\\", "/").split("/")
+                if "Core Library" in parts:
+                    idx = parts.index("Core Library")
+                    browser_path = "/".join(parts[idx:-1])
+                elif "Factory Packs" in parts:
+                    idx = parts.index("Factory Packs")
+                    browser_path = "/".join(parts[idx:-1])
+                elif "User Library" in parts:
+                    idx = parts.index("User Library")
+                    browser_path = "/".join(parts[idx:-1])
+                if browser_path and app and hasattr(app, "browser"):
+                    items = self.get_browser_items_at_path(browser_path)
+                    target_uri = None
+                    for it in items.get("items", []):
+                        if str(it.get("name", "")).lower() == stem and it.get("is_loadable", False):
+                            target_uri = it.get("uri")
+                            break
+                    # Fallback: search root Samples if folder lookup fails
+                    if not target_uri:
+                        target_uri = self._find_sample_uri_by_stem(stem)
+                    if target_uri:
+                        loaded = self._hotswap_device_with_uri(device, target_uri)
+            except Exception:
+                loaded = False
+
+            if not loaded:
+                # Last resort: try direct hotswap by root Samples URI
+                fallback_uri = self._find_sample_uri_by_stem(stem)
+                if fallback_uri:
+                    loaded = self._hotswap_device_with_uri(device, fallback_uri)
+                if not loaded:
+                    warn = "Unable to load sample via browser or hotswap"
+
+            result = {
+                "track_index": track_index,
+                "device_index": list(track.devices).index(device),
+                "file_path": file_path,
+                "loaded": loaded
+            }
+            if warn:
+                result["warning"] = warn
+            return result
+        except Exception as e:
+            self.log_message("Error loading Sampler with sample: {0}".format(str(e)))
             self.log_message(traceback.format_exc())
             raise
 
@@ -1570,6 +2214,53 @@ class AbletonMCP(ControlSurface):
             self.log_message(traceback.format_exc())
             raise
 
+    def _set_device_parameters(self, track_index, device_index, parameters):
+        """Set multiple parameters on a device from a dict or list payload."""
+        try:
+            if parameters is None:
+                return {"updated": [], "errors": []}
+            if track_index < 0 or track_index >= len(self._song.tracks):
+                raise IndexError("Track index out of range")
+            track = self._song.tracks[track_index]
+            if device_index < 0 or device_index >= len(track.devices):
+                raise IndexError("Device index out of range")
+            device = track.devices[device_index]
+
+            updates = []
+            errors = []
+
+            def _apply(param_spec, value):
+                try:
+                    param = self._resolve_parameter(device, param_spec)
+                    before = param.value
+                    param.value = self._normalize_param_value(param, value)
+                    meta = self._parameter_meta(param)
+                    meta["before"] = before
+                    meta["after"] = param.value
+                    meta["device_name"] = getattr(device, "name", "Unknown")
+                    meta["index"] = list(device.parameters).index(param)
+                    updates.append(meta)
+                except Exception as err:
+                    errors.append({"parameter": param_spec, "error": str(err)})
+
+            if isinstance(parameters, dict):
+                for key, val in parameters.items():
+                    _apply(key, val)
+            elif isinstance(parameters, (list, tuple)):
+                for entry in parameters:
+                    if isinstance(entry, dict):
+                        _apply(entry.get("parameter", entry.get("name", entry.get("index", None))), entry.get("value", None))
+                    elif isinstance(entry, (list, tuple)) and len(entry) == 2:
+                        _apply(entry[0], entry[1])
+            else:
+                errors.append({"parameter": "payload", "error": "unsupported_type"})
+
+            return {"updated": updates, "errors": errors}
+        except Exception as e:
+            self.log_message("Error setting multiple device parameters: {0}".format(str(e)))
+            self.log_message(traceback.format_exc())
+            raise
+
     def _get_device_parameters(self, track_index, device_index):
         """Return metadata for all parameters on a device."""
         try:
@@ -1659,6 +2350,30 @@ class AbletonMCP(ControlSurface):
 
             device = track.devices[device_index]
             available_params = [getattr(p, "name", "unknown") for p in device.parameters]
+            routing_set = False
+            routing_detail = {}
+
+            # Prefer device-level routing if exposed (Compressor, plugins)
+            try:
+                available_types = getattr(device, "available_input_routing_types", [])
+                available_channels = getattr(device, "available_input_routing_channels", [])
+                matched_type = self._match_routing_option(available_types, source_track_index if isinstance(source_track_index, str) else None) or \
+                               self._match_routing_option(available_types, None if isinstance(source_track_index, str) else "Ext.")
+                matched_channel = self._match_routing_option(available_channels, source_track_index if isinstance(source_track_index, str) else source_track_index)
+                if matched_type:
+                    device.input_routing_type = matched_type
+                if matched_channel:
+                    device.input_routing_channel = matched_channel
+                if matched_type or matched_channel:
+                    routing_set = True
+                    routing_detail = {
+                        "type": self._display(getattr(device, "input_routing_type", None)),
+                        "channel": self._display(getattr(device, "input_routing_channel", None)),
+                        "available_types": [self._display(t) for t in available_types],
+                        "available_channels": [self._display(c) for c in available_channels]
+                    }
+            except Exception:
+                pass
 
             # Toggle sidechain on if available
             sidechain_toggle = self._find_param_by_keywords(device, ["sidechain", "on"]) or \
@@ -1668,11 +2383,10 @@ class AbletonMCP(ControlSurface):
 
             source_param = self._find_param_by_keywords(device, ["audio", "from"]) or \
                            self._find_param_by_keywords(device, ["sidechain", "audio"])
-            if not source_param:
-                raise ValueError("Could not find 'Audio From' parameter. Available: {0}".format(available_params))
-
-            # Live enumerations are typically 1-based with 0 = None
-            source_param.value = source_track_index + 1
+            if source_param:
+                # Live enumerations are typically 1-based with 0 = None
+                source_param.value = source_track_index + 1
+                routing_set = True
 
             mono_param = self._find_param_by_keywords(device, ["mono"])
             if mono_param is not None:
@@ -1682,17 +2396,138 @@ class AbletonMCP(ControlSurface):
             if prefx_param is not None:
                 prefx_param.value = 1.0 if pre_fx else 0.0
 
+            # Best-effort S/C Listen off if present
+            listen_param = self._find_param_by_keywords(device, ["s/c", "listen"]) or \
+                           self._find_param_by_keywords(device, ["sidechain", "listen"])
+            if listen_param is not None:
+                try:
+                    listen_param.value = 0.0
+                except Exception:
+                    pass
+
             return {
                 "device_name": getattr(device, "name", "Unknown"),
                 "sidechain_enabled": bool(sidechain_toggle),
-                "source_track_index": source_track_index,
+                "source_track_index": source_track_index if routing_set else None,
                 "mono_set": bool(mono_param),
                 "pre_fx_set": bool(prefx_param),
+                "routing_set": routing_set,
+                "routing_detail": routing_detail,
+                "routing_message": None if routing_set else "Sidechain routing not exposed on this device; routing not set",
                 "available_parameters": available_params
             }
         except Exception as e:
             self.log_message("Error setting device sidechain source: {0}".format(str(e)))
             self.log_message(traceback.format_exc())
+            raise
+
+    def _display(self, item):
+        """Unified display helper for routing options."""
+        if item is None:
+            return None
+        return getattr(item, "display_name", None) or getattr(item, "name", None) or str(item)
+
+    def _set_device_audio_input(self, track_index, device_index, input_type=None, input_channel=None):
+        """Set a device's audio input routing (useful for plugin sidechain inputs)."""
+        try:
+            if track_index < 0 or track_index >= len(self._song.tracks):
+                raise IndexError("Track index out of range")
+            track = self._song.tracks[track_index]
+            if device_index < 0 or device_index >= len(track.devices):
+                raise IndexError("Device index out of range")
+            device = track.devices[device_index]
+
+            routing_applied = False
+            detail = None
+
+            # Prefer DeviceIO endpoints when present (DeviceIOClass from Live API)
+            io_endpoints = getattr(device, "input_routings", None)
+            if io_endpoints:
+                try:
+                    for io in io_endpoints:
+                        available_types = getattr(io, "available_routing_types", [])
+                        available_channels = getattr(io, "available_routing_channels", [])
+                        matched_type = self._match_routing_option(available_types, input_type)
+                        matched_channel = self._match_routing_option(available_channels, input_channel)
+                        if matched_type:
+                            io.routing_type = matched_type
+                        if matched_channel:
+                            io.routing_channel = matched_channel
+                        if matched_type or matched_channel:
+                            routing_applied = True
+                            detail = {
+                                "type": self._display(matched_type) if matched_type else self._display(getattr(io, "routing_type", None)),
+                                "channel": self._display(matched_channel) if matched_channel else self._display(getattr(io, "routing_channel", None)),
+                                "available_types": [self._display(t) for t in available_types],
+                                "available_channels": [self._display(c) for c in available_channels]
+                            }
+                            break
+                except Exception as io_err:
+                    detail = {"error": str(io_err)}
+
+            # Fallback to device-level routing properties
+            if not routing_applied:
+                available_types = getattr(device, "available_input_routing_types", [])
+                available_channels = getattr(device, "available_input_routing_channels", [])
+                matched_type = self._match_routing_option(available_types, input_type)
+                matched_channel = self._match_routing_option(available_channels, input_channel)
+                if matched_type:
+                    device.input_routing_type = matched_type
+                if matched_channel:
+                    device.input_routing_channel = matched_channel
+                if matched_type or matched_channel:
+                    routing_applied = True
+                detail = {
+                    "type": self._display(matched_type) if matched_type else self._display(getattr(device, "input_routing_type", None)),
+                    "channel": self._display(matched_channel) if matched_channel else self._display(getattr(device, "input_routing_channel", None)),
+                    "available_types": [self._display(t) for t in available_types],
+                    "available_channels": [self._display(c) for c in available_channels]
+                }
+
+            return {
+                "device_name": getattr(device, "name", "Unknown"),
+                "routing_applied": routing_applied,
+                "detail": detail,
+                "message": None if routing_applied else "Device did not expose routable inputs; no routing applied"
+            }
+        except Exception as e:
+            self.log_message("Error setting device audio input: {0}".format(str(e)))
+            self.log_message(traceback.format_exc())
+            raise
+
+    def _describe_device_routing(self, device):
+        """Return available input routing options for a device."""
+        try:
+            available_types = []
+            available_channels = []
+            try:
+                available_types = getattr(device, "available_input_routing_types", []) or []
+                available_channels = getattr(device, "available_input_routing_channels", []) or []
+            except Exception:
+                available_types = []
+                available_channels = []
+            return {
+                "device_name": getattr(device, "name", "Unknown"),
+                "available_types": [self._display(t) for t in available_types],
+                "available_channels": [self._display(c) for c in available_channels]
+            }
+        except Exception as e:
+            self.log_message("Error describing device routing: {0}".format(str(e)))
+            return {"error": str(e)}
+
+    def _list_routable_devices(self):
+        """List devices in the set that expose input routing types/channels."""
+        try:
+            routable = []
+            for t_idx, track in enumerate(self._song.tracks):
+                for d_idx, device in enumerate(track.devices):
+                    info = self._describe_device_routing(device)
+                    if info.get("available_types") or info.get("available_channels"):
+                        info.update({"track_index": t_idx, "device_index": d_idx, "track_name": track.name})
+                        routable.append(info)
+            return {"routable_devices": routable}
+        except Exception as e:
+            self.log_message("Error listing routable devices: {0}".format(str(e)))
             raise
 
     def _ensure_clip(self, track_index, clip_index, length):
@@ -1857,7 +2692,7 @@ class AbletonMCP(ControlSurface):
             
             # Check if this is a browser with root categories
             if hasattr(browser_or_item, 'instruments'):
-                # Check all main categories
+                # Check all main categories (include optional ones when available)
                 categories = [
                     browser_or_item.instruments,
                     browser_or_item.sounds,
@@ -1865,13 +2700,22 @@ class AbletonMCP(ControlSurface):
                     browser_or_item.audio_effects,
                     browser_or_item.midi_effects
                 ]
+                optional = [
+                    getattr(browser_or_item, 'max_for_live', None),
+                    getattr(browser_or_item, 'plug_ins', None),
+                    getattr(browser_or_item, 'plugins', None),
+                    getattr(browser_or_item, 'packs', None),
+                    getattr(browser_or_item, 'samples', None),
+                    getattr(browser_or_item, 'clips', None),
+                    getattr(browser_or_item, 'user_library', None),
+                    getattr(browser_or_item, 'current_project', None),
+                ]
+                categories.extend([c for c in optional if c])
                 
                 for category in categories:
                     item = self._find_browser_item_by_uri(category, uri, max_depth, current_depth + 1)
                     if item:
                         return item
-                
-                return None
             
             # Check if this item has children
             if hasattr(browser_or_item, 'children') and browser_or_item.children:
@@ -1884,6 +2728,41 @@ class AbletonMCP(ControlSurface):
         except Exception as e:
             self.log_message("Error finding browser item by URI: {0}".format(str(e)))
             return None
+
+    def _find_sample_uri_by_stem(self, stem):
+        """Best-effort lookup for a sample URI in the root Samples category by stem."""
+        try:
+            items = self.get_browser_items_at_path("Samples")
+            if isinstance(items, dict):
+                for it in items.get("items", []):
+                    if not it.get("is_loadable", False):
+                        continue
+                    name_lower = str(it.get("name", "")).lower()
+                    if name_lower == stem or name_lower == f"{stem}.wav" or name_lower == f"{stem}.aif" or name_lower == f"{stem}.aiff":
+                        return it.get("uri")
+        except Exception:
+            pass
+        return None
+
+    def _hotswap_device_with_uri(self, device, target_uri):
+        """Set hotswap target and load a browser item by URI."""
+        if not target_uri:
+            return False
+        try:
+            app = self.application()
+            if not app or not hasattr(app, "browser"):
+                return False
+            try:
+                app.browser.hotswap_target = device
+            except Exception:
+                pass
+            item = self._find_browser_item_by_uri(app.browser, target_uri)
+            if item:
+                app.browser.load_item(item)
+                return True
+            return False
+        except Exception:
+            return False
     
     # Helper methods
     

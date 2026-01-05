@@ -1,0 +1,41 @@
+{
+  "path_category": "max_for_live",
+  "path_subfolder": "Max_MIDI_Effect",
+  "name": "Sidechain Modulator",
+  "uri": "query:M4L#Max%20MIDI%20Effect:FileId_36824",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Smoothing",
+      "min": 10.0,
+      "max": 1000.0,
+      "value": 250.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Smoothing",
+      "min": 10.0,
+      "max": 1000.0,
+      "value": 250.0,
+      "is_quantized": false,
+      "value_items": null,
+      "unit": null,
+      "index": 2
+    }
+  ]
+}

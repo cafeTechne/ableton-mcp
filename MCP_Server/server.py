@@ -15,8 +15,18 @@ from mcp.server.fastmcp import FastMCP, Context
 CACHE_DIR = Path(os.environ.get("ABLETON_MCP_CACHE_DIR", Path.cwd() / "cache"))
 CACHE_DIR.mkdir(parents=True, exist_ok=True)
 CACHE_FILE = CACHE_DIR / "browser_devices.json"
+ROUTABLE_CACHE_FILE = CACHE_DIR / "routable_devices.json"
 PRESET_DIR = Path(os.environ.get("ABLETON_MCP_PRESET_DIR", Path.cwd() / "presets"))
 PRESET_DIR.mkdir(parents=True, exist_ok=True)
+SAMPLE_CACHE_FILE = CACHE_DIR / "browser_samples.json"
+SAMPLE_CACHE_FILE_FS = CACHE_DIR / "browser_samples_fs.json"
+CLIP_CACHE_FILE_FS = CACHE_DIR / "browser_clips_fs.json"
+PRIVATE_PRESETS_FILE = Path(
+    os.environ.get(
+        "ABLETON_MCP_PRIVATE_PRESETS",
+        Path(__file__).resolve().parent.parent.parent / "ableton-mcp-private" / "presets.json"
+    )
+)
 HELPER_NAME = "SidechainHelper_Advanced.amxd"
 HELPER_SOURCE = Path(__file__).resolve().parent.parent / "m4l" / HELPER_NAME
 
@@ -258,17 +268,20 @@ class AbletonConnection:
         is_modifying_command = command_type in [
             "create_midi_track", "create_audio_track", "set_track_name",
             "delete_track", "duplicate_track",
+            "configure_track_routing",
             "set_track_io", "set_track_monitor", "set_track_arm", "set_track_solo",
             "set_track_mute", "set_track_volume", "set_track_panning", "set_send_level",
             "create_return_track", "delete_return_track", "set_return_track_name",
             "create_clip", "delete_clip", "duplicate_clip", "add_notes_to_clip", "set_clip_name",
             "set_clip_loop", "set_clip_length", "quantize_clip",
             "set_tempo", "set_time_signature",
-            "fire_clip", "stop_clip", "set_device_parameter", "get_device_parameters",
-            "start_playback", "stop_playback", "load_instrument_or_effect",
+            "fire_clip", "list_clips", "fire_clip_by_name", "trigger_test_midi", "stop_clip",
+            "set_device_parameter", "set_device_parameters", "set_device_audio_input", "get_device_parameters",
+            "start_playback", "stop_playback", "load_instrument_or_effect", "load_browser_item",
             "load_device", "set_device_sidechain_source", "save_device_snapshot",
             "apply_device_snapshot", "create_scene", "delete_scene", "duplicate_scene",
-            "fire_scene", "stop_scene"
+            "fire_scene", "fire_scene_by_name", "stop_scene",
+            "pump_helper", "auto_test_suite", "ducking_tool", "lfo_pump_helper"
         ]
         
         try:
@@ -283,8 +296,17 @@ class AbletonConnection:
                 import time
                 time.sleep(0.1)  # 100ms delay
             
-            # Set timeout based on command type (longer for modifying/quantize)
-            timeout = 30.0 if is_modifying_command else 12.0
+            # Set timeout based on command type (longer for heavy browser searches)
+            long_ops = {"search_loadable_devices", "list_loadable_devices", "get_browser_items_at_path", "get_browser_tree"}
+            long_timeout_env = os.environ.get("ABLETON_MCP_LONG_TIMEOUT")
+            try:
+                long_timeout = float(long_timeout_env) if long_timeout_env else 120.0
+            except Exception:
+                long_timeout = 120.0
+            if command_type in long_ops:
+                timeout = long_timeout
+            else:
+                timeout = 30.0 if is_modifying_command else 12.0
             self.sock.settimeout(timeout)
             
             # Receive the response
@@ -517,6 +539,37 @@ def duplicate_track(ctx: Context, track_index: int, target_index: int = None) ->
     except Exception as e:
         logger.error(f"Error duplicating track: {str(e)}")
         return f"Error duplicating track: {str(e)}"
+
+
+@mcp.tool()
+def configure_track_routing(
+    ctx: Context,
+    track_index: int,
+    input_type: Optional[str] = None,
+    input_channel: Optional[str] = None,
+    output_type: Optional[str] = None,
+    output_channel: Optional[str] = None,
+    monitor_state: Optional[str] = None,
+    arm: Optional[bool] = None,
+    sends: Optional[Any] = None
+) -> str:
+    """Set I/O, monitoring, arm, and multiple sends in one call."""
+    try:
+        ableton = get_ableton_connection()
+        result = ableton.send_command("configure_track_routing", {
+            "track_index": track_index,
+            "input_type": input_type,
+            "input_channel": input_channel,
+            "output_type": output_type,
+            "output_channel": output_channel,
+            "monitor_state": monitor_state,
+            "arm": arm,
+            "sends": sends
+        })
+        return json.dumps(result, indent=2)
+    except Exception as e:
+        logger.error(f"Error configuring track routing: {str(e)}")
+        return f"Error configuring track routing: {str(e)}"
 
 
 @mcp.tool()
@@ -1118,6 +1171,67 @@ def set_device_parameter(ctx: Context, track_index: int, device_index: int, para
         logger.error(f"Error setting device parameter: {str(e)}")
         return f"Error setting device parameter: {str(e)}"
 
+@mcp.tool()
+def set_device_parameters(ctx: Context, track_index: int, device_index: int, parameters: Any) -> str:
+    """
+    Set multiple device parameters from a dict or list payload.
+    
+    Parameters:
+    - track_index: Track index containing the device
+    - device_index: Device index on that track
+    - parameters: Dict of name/index -> value, or list of {parameter,value}
+    """
+    try:
+        ableton = get_ableton_connection()
+        result = ableton.send_command("set_device_parameters", {
+            "track_index": track_index,
+            "device_index": device_index,
+            "parameters": parameters
+        })
+        updated = result.get("updated", [])
+        errors = result.get("errors", [])
+        summary = [f"{item.get('name')}={item.get('after')}" for item in updated]
+        parts = []
+        if summary:
+            parts.append("updated: " + ", ".join(summary))
+        if errors:
+            parts.append("errors: " + "; ".join([str(e) for e in errors]))
+        return " / ".join(parts) if parts else "No parameters updated"
+    except Exception as e:
+        logger.error(f"Error setting multiple device parameters: {str(e)}")
+        return f"Error setting multiple device parameters: {str(e)}"
+
+@mcp.tool()
+def set_device_audio_input(ctx: Context, track_index: int, device_index: int, input_type: Optional[str] = None, input_channel: Optional[str] = None) -> str:
+    """Set a device's audio input routing (plugin sidechain helpers)."""
+    try:
+        ableton = get_ableton_connection()
+        result = ableton.send_command("set_device_audio_input", {
+            "track_index": track_index,
+            "device_index": device_index,
+            "input_type": input_type,
+            "input_channel": input_channel
+        })
+        return json.dumps(result, indent=2)
+    except Exception as e:
+        logger.error(f"Error setting device audio input: {str(e)}")
+        return f"Error setting device audio input: {str(e)}"
+
+@mcp.tool()
+def list_routable_devices(ctx: Context) -> str:
+    """List devices in the current set that expose input routing types/channels."""
+    try:
+        ableton = get_ableton_connection()
+        result = ableton.send_command("list_routable_devices")
+        try:
+            ROUTABLE_CACHE_FILE.write_text(json.dumps(result, indent=2))
+        except Exception as cache_err:
+            logger.warning(f"Could not write routable device cache: {cache_err}")
+        return json.dumps(result, indent=2)
+    except Exception as e:
+        logger.error(f"Error listing routable devices: {str(e)}")
+        return f"Error listing routable devices: {str(e)}"
+
 
 @mcp.tool()
 def get_device_parameters(ctx: Context, track_index: int, device_index: int) -> str:
@@ -1299,6 +1413,779 @@ def load_sidechain_helper(
         return f"Error loading sidechain helper: {str(e)}"
 
 @mcp.tool()
+def trigger_test_midi(
+    ctx: Context,
+    track_index: int,
+    clip_index: int = 0,
+    length: float = 1.0,
+    pitch: int = 60,
+    velocity: int = 100,
+    duration: float = 0.5,
+    start_time: float = 0.0,
+    overwrite_clip: bool = False,
+    fire_clip: bool = True,
+    cc_number: Optional[int] = None,
+    cc_value: int = 64,
+    channel: int = 0
+) -> str:
+    """Create/reuse a short MIDI clip, add a note, and fire it (optional CC send)."""
+    try:
+        ableton = get_ableton_connection()
+        result = ableton.send_command("trigger_test_midi", {
+            "track_index": track_index,
+            "clip_index": clip_index,
+            "length": length,
+            "pitch": pitch,
+            "velocity": velocity,
+            "duration": duration,
+            "start_time": start_time,
+            "overwrite_clip": overwrite_clip,
+            "fire_clip": fire_clip,
+            "cc_number": cc_number,
+            "cc_value": cc_value,
+            "channel": channel
+        })
+        return json.dumps(result, indent=2)
+    except Exception as e:
+        logger.error(f"Error triggering test MIDI: {str(e)}")
+        return f"Error triggering test MIDI: {str(e)}"
+
+@mcp.tool()
+def pump_helper(
+    ctx: Context,
+    track_index: int,
+    mode: str = "auto_pan",
+    profile: Optional[str] = None,
+    rate: str = "1/4",
+    amount: float = 70.0,
+    phase: float = 0.0,
+    threshold: float = -30.0,
+    ratio: float = 4.0,
+    attack_ms: float = 0.5,
+    release_ms: float = 200.0,
+    knee: float = 6.0,
+    sidechain_source_track_index: Optional[int] = None
+    ) -> str:
+    """
+    Load and configure a simple pump effect (Auto Pan or Compressor sidechain).
+    
+    mode: 'auto_pan' (default) or 'compressor'
+    profile: optional preset name to override defaults (e.g., 'gentle', 'deep', 'triplet')
+    """
+    try:
+        ableton = get_ableton_connection()
+        mode_lower = (mode or "auto_pan").lower()
+        profiles = {
+            "gentle": {"amount": 40.0, "rate": "1/4", "phase": 0.0, "threshold": -20.0, "ratio": 2.5},
+            "deep": {"amount": 80.0, "rate": "1/8", "phase": 0.0, "threshold": -35.0, "ratio": 6.0},
+            "triplet": {"amount": 60.0, "rate": "1/8T", "phase": 0.0, "threshold": -28.0, "ratio": 4.0},
+        }
+        preset = profiles.get((profile or "").lower(), {})
+        amount = preset.get("amount", amount)
+        rate = preset.get("rate", rate)
+        phase = preset.get("phase", phase)
+        threshold = preset.get("threshold", threshold)
+        ratio = preset.get("ratio", ratio)
+        if mode_lower in ("compressor", "comp", "sidechain"):
+            device_name = "Compressor"
+            params = [
+                {"parameter": "Threshold", "value": threshold},
+                {"parameter": "Ratio", "value": ratio},
+                {"parameter": "Attack", "value": attack_ms},
+                {"parameter": "Release", "value": release_ms},
+                {"parameter": "Knee", "value": knee},
+                {"parameter": "Makeup", "value": 0.0},
+            ]
+        else:
+            device_name = "Auto Pan"
+            params = [
+                {"parameter": "Amount", "value": amount},
+                {"parameter": "Rate", "value": rate},
+                {"parameter": "Phase", "value": phase},
+                {"parameter": "Shape", "value": "Sine"},
+            ]
+
+        uri = _resolve_uri_by_name(device_name, category="audio_effects", max_items=200)
+        if not uri:
+            return f"Could not resolve device '{device_name}' in browser cache/search"
+
+        load_result = ableton.send_command("load_device", {
+            "track_index": track_index,
+            "device_uri": uri,
+            "device_slot": -1
+        })
+        if not load_result.get("loaded", False):
+            return f"Failed to load {device_name} on track {track_index}"
+
+        device_index = max(load_result.get("device_count", 1) - 1, 0)
+        try:
+            ableton.send_command("set_device_parameters", {
+                "track_index": track_index,
+                "device_index": device_index,
+                "parameters": params
+            })
+        except Exception as param_err:
+            logger.warning(f"Pump helper parameter set warning: {param_err}")
+
+        sidechain_result = None
+        if mode_lower in ("compressor", "comp", "sidechain") and sidechain_source_track_index is not None:
+            try:
+                sidechain_result = ableton.send_command("set_device_sidechain_source", {
+                    "track_index": track_index,
+                    "device_index": device_index,
+                    "source_track_index": sidechain_source_track_index,
+                    "pre_fx": True,
+                    "mono": True
+                })
+            except Exception as sc_err:
+                sidechain_result = {"error": str(sc_err)}
+
+        return json.dumps({
+            "track_index": track_index,
+            "device_name": device_name,
+            "device_index": device_index,
+            "parameters": params,
+            "sidechain": sidechain_result
+        }, indent=2)
+    except Exception as e:
+        logger.error(f"Error running pump helper: {str(e)}")
+        return f"Error running pump helper: {str(e)}"
+
+@mcp.tool()
+def lfo_pump_helper(
+    ctx: Context,
+    track_index: int,
+    rate: str = "1/4",
+    depth: float = 80.0,
+    device_name: str = "LFO Tool"
+) -> str:
+    """
+    Load an LFO-style device (default: 'LFO Tool') and set basic pump params (rate/depth).
+    Best-effort parameter names; returns applied/failed list.
+    """
+    try:
+        ableton = get_ableton_connection()
+        uri = _resolve_uri_by_name(device_name, category="audio_effects", max_items=200)
+        if not uri:
+            return f"No device found matching '{device_name}'"
+        load_result = ableton.send_command("load_device", {
+            "track_index": track_index,
+            "device_uri": uri,
+            "device_slot": -1
+        })
+        if not load_result or not load_result.get("loaded", False):
+            return f"Failed to load {device_name} on track {track_index}"
+        device_index = max(load_result.get("device_count", 1) - 1, 0)
+        applied = []
+        errors = []
+        for param_name, val in [("Rate", rate), ("Depth", depth), ("Amount", depth), ("Mix", 100)]:
+            try:
+                ableton.send_command("set_device_parameter", {
+                    "track_index": track_index,
+                    "device_index": device_index,
+                    "parameter": param_name,
+                    "value": val
+                })
+                applied.append(param_name)
+                break
+            except Exception as err:
+                errors.append(f"{param_name}: {err}")
+        return json.dumps({
+            "track_index": track_index,
+            "device_index": device_index,
+            "device_name": device_name,
+            "applied": applied,
+            "errors": errors
+        }, indent=2)
+    except Exception as e:
+        logger.error(f"Error running lfo pump helper: {str(e)}")
+        return f"Error running lfo pump helper: {str(e)}"
+
+@mcp.tool()
+def auto_test_suite(
+    ctx: Context,
+    target_audio_track: int = 3,
+    sidechain_source_track: int = 0,
+    cleanup: bool = True
+) -> str:
+    """
+    End-to-end smoke: create temp MIDI track/clip, fire by name, load Compressor on target track,
+    set sidechain, and report routable devices.
+    """
+    ableton = get_ableton_connection()
+    report: Dict[str, Any] = {"errors": []}
+    new_track_index: Optional[int] = None
+    try:
+        session = ableton.send_command("get_session_info")
+        report["session_start"] = session
+        starting_tracks = session.get("track_count", 0)
+
+        # Create temp MIDI track
+        create_resp = ableton.send_command("create_midi_track", {"index": -1})
+        new_track_index = starting_tracks  # appended at end
+        report["created_midi_track"] = {"index": new_track_index, "resp": create_resp}
+
+        # Create clip and note
+        ableton.send_command("create_clip", {"track_index": new_track_index, "clip_index": 0, "length": 1.0})
+        ableton.send_command("add_notes_to_clip", {
+            "track_index": new_track_index,
+            "clip_index": 0,
+            "notes": [{"pitch": 60, "start_time": 0.0, "duration": 0.5, "velocity": 100, "mute": False}]
+        })
+        ableton.send_command("set_clip_name", {"track_index": new_track_index, "clip_index": 0, "name": "test"})
+
+        # Fire by name
+        try:
+            fire_resp = ableton.send_command("fire_clip_by_name", {
+                "clip_pattern": "test",
+                "track_pattern": None,
+                "match_mode": "equals",
+                "first_only": True
+            })
+            report["fire_clip_by_name"] = fire_resp
+        except Exception as fire_err:
+            report["errors"].append(f"fire_clip_by_name: {fire_err}")
+
+        # Load compressor on target track and set sidechain
+        load_comp = ableton.send_command("load_device", {
+            "track_index": target_audio_track,
+            "device_uri": "query:AudioFx#Dynamics:Compressor",
+            "device_slot": -1
+        })
+        device_count = load_comp.get("device_count", 1)
+        comp_index = max(device_count - 1, 0)
+        report["compressor_load"] = {"track_index": target_audio_track, "device_index": comp_index, "resp": load_comp}
+        try:
+            sc_resp = ableton.send_command("set_device_sidechain_source", {
+                "track_index": target_audio_track,
+                "device_index": comp_index,
+                "source_track_index": sidechain_source_track,
+                "pre_fx": True,
+                "mono": True
+            })
+            report["sidechain"] = sc_resp
+        except Exception as sc_err:
+            report["errors"].append(f"sidechain: {sc_err}")
+
+        # Routable devices snapshot
+        try:
+            routable = ableton.send_command("list_routable_devices")
+            report["routable_devices"] = routable
+            try:
+                ROUTABLE_CACHE_FILE.write_text(json.dumps(routable, indent=2))
+            except Exception as cache_err:
+                report["errors"].append(f"cache routable: {cache_err}")
+        except Exception as list_err:
+            report["errors"].append(f"list_routable_devices: {list_err}")
+
+        return json.dumps(report, indent=2)
+    except Exception as e:
+        logger.error(f"Error running auto test suite: {str(e)}")
+        return f"Error running auto test suite: {str(e)}"
+    finally:
+        if cleanup and new_track_index is not None:
+            try:
+                ableton.send_command("delete_track", {"track_index": new_track_index})
+            except Exception as cleanup_err:
+                logger.warning(f"Cleanup failed for track {new_track_index}: {cleanup_err}")
+
+
+def _bars_to_beats(bars: float, numerator: int = 4) -> float:
+    """Convert bars to beats assuming numerator time signature (default 4/4)."""
+    try:
+        return float(bars) * float(numerator)
+    except Exception:
+        return float(numerator)
+
+
+def _ensure_track_exists(
+    track_index: Optional[int],
+    prefer: str = "midi",
+    allow_create: bool = True
+) -> int:
+    """
+    Ensure a track exists at the requested index; append a new track if needed.
+    prefer: 'midi' or 'audio'
+    """
+    ableton = get_ableton_connection()
+    session = ableton.send_command("get_session_info")
+    track_count = session.get("track_count", 0)
+    # If within range, use it
+    if track_index is not None and 0 <= track_index < track_count:
+        return track_index
+    if not allow_create:
+        raise IndexError(f"Track index {track_index} out of range and creation disabled")
+    # Otherwise create at end
+    if prefer == "audio":
+        resp = ableton.send_command("create_audio_track", {"index": -1})
+    else:
+        resp = ableton.send_command("create_midi_track", {"index": -1})
+    # New track will be appended at previous track_count index
+    return resp.get("index", track_count)
+
+
+def _ensure_clip_slot(track_index: int, clip_index: int, allow_create: bool = True) -> bool:
+    """Ensure the clip slot exists; optionally extend scenes."""
+    if clip_index < 0:
+        return False
+    ableton = get_ableton_connection()
+    track_info = ableton.send_command("get_track_info", {"track_index": track_index})
+    existing = len(track_info.get("clip_slots", []))
+    if clip_index < existing:
+        return True
+    if not allow_create:
+        return False
+    while clip_index >= existing:
+        ableton.send_command("create_scene", {"index": -1})
+        existing += 1
+    return True
+
+
+FORM_LIBRARY: Dict[str, Dict[str, Any]] = {
+    # Public defaults stay generic; detailed show forms should live in private presets.
+    "basic": {
+        "name": "Basic Skeleton",
+        "tempo": 120,
+        "segments": [("Section", 16)],
+        "aliases": ["default", "template"]
+    }
+}
+
+SONG_PRESETS: Dict[str, Dict[str, Any]] = {
+    # Populated at runtime from PRIVATE_PRESETS_FILE if present; keep public defaults clean.
+}
+
+
+def _resolve_form(key: str) -> Dict[str, Any]:
+    """Pick a form or song preset by key/alias. External presets can live in PRIVATE_PRESETS_FILE."""
+    if not key:
+        return FORM_LIBRARY["basic"]
+    normalized = key.lower().strip()
+    # Lazy load private presets once per process
+    global SONG_PRESETS
+    if not SONG_PRESETS:
+        try:
+            if PRIVATE_PRESETS_FILE.exists():
+                data = json.loads(PRIVATE_PRESETS_FILE.read_text())
+                if isinstance(data, dict):
+                    for slug, preset in data.items():
+                        SONG_PRESETS[slug.lower()] = preset
+                elif isinstance(data, list):
+                    for preset in data:
+                        slug = str(preset.get("name", "")).lower() or f"preset_{len(SONG_PRESETS)}"
+                        SONG_PRESETS[slug] = preset
+                logger.info(f"Loaded {len(SONG_PRESETS)} private presets from {PRIVATE_PRESETS_FILE}")
+        except Exception as priv_err:
+            logger.warning(f"Could not load private presets: {priv_err}")
+    for slug, preset in SONG_PRESETS.items():
+        if normalized == slug or normalized in preset.get("aliases", []):
+            return preset
+    for slug, form in FORM_LIBRARY.items():
+        if normalized == slug or normalized in form.get("aliases", []):
+            return form
+    return FORM_LIBRARY["basic"]
+
+
+def _basic_kick_notes(bars: int, velocity: int = 96) -> List[Dict[str, Any]]:
+    """Return a simple four-on-the-floor note list for the given bars."""
+    beats = int(_bars_to_beats(bars))
+    notes = []
+    for i in range(beats):
+        notes.append({
+            "pitch": 36,
+            "start_time": float(i),
+            "duration": 0.4,
+            "velocity": int(velocity),
+            "mute": False
+        })
+    return notes
+
+
+@mcp.tool()
+def form_builder(
+    ctx: Context,
+    form: str = "festival_standard",
+    tempo: Optional[float] = None,
+    scene_prefix: Optional[str] = None,
+    create_kick_clip: bool = True,
+    kick_track_index: Optional[int] = None,
+    kick_clip_length_bars: Optional[int] = None,
+    velocity: int = 96
+) -> str:
+    """
+    Build scenes from a preset form and optionally drop in a basic kick clip.
+    Public default is generic; detailed show/band forms should live in a private JSON via ABLETON_MCP_PRIVATE_PRESETS.
+    - form: preset key/alias or private preset name
+    - tempo: override BPM; defaults to preset tempo
+    - scene_prefix: optional label applied to each scene name
+    - create_kick_clip: create a simple 4-on-the-floor clip on kick_track_index
+    - kick_track_index: target MIDI track for the kick clip (appends a new MIDI track if needed)
+    - kick_clip_length_bars: override kick clip bars (defaults to first segment bars)
+    """
+    try:
+        preset = _resolve_form(form)
+        ableton = get_ableton_connection()
+        applied_tempo = tempo or preset.get("tempo")
+        if applied_tempo:
+            ableton.send_command("set_tempo", {"tempo": applied_tempo})
+
+        prefix = scene_prefix or preset.get("name", form)
+        segments = preset.get("segments", [])
+        created_scenes: List[Dict[str, Any]] = []
+        for seg in segments:
+            seg_name, bars = seg
+            scene_name = f"{prefix} - {seg_name} ({bars}b)"
+            resp = ableton.send_command("create_scene", {"index": -1, "name": scene_name})
+            created_scenes.append({"name": scene_name, "bars": bars, "resp": resp})
+
+        kick_info = None
+        if create_kick_clip and segments:
+            target_track = _ensure_track_exists(kick_track_index, prefer="midi")
+            ableton.send_command("set_track_name", {"track_index": target_track, "name": f"{prefix} Kick"})
+            clip_bars = kick_clip_length_bars or segments[0][1]
+            clip_len = _bars_to_beats(clip_bars)
+            ableton.send_command("create_clip", {"track_index": target_track, "clip_index": 0, "length": clip_len})
+            ableton.send_command("set_clip_name", {"track_index": target_track, "clip_index": 0, "name": f"{prefix} kick"})
+            ableton.send_command("add_notes_to_clip", {
+                "track_index": target_track,
+                "clip_index": 0,
+                "notes": _basic_kick_notes(int(clip_bars), velocity=velocity)
+            })
+            kick_info = {"track_index": target_track, "clip_bars": clip_bars}
+
+        return json.dumps({
+            "preset": preset.get("name", form),
+            "tempo": applied_tempo,
+            "scenes_created": created_scenes,
+            "kick_clip": kick_info
+        }, indent=2)
+    except Exception as e:
+        logger.error(f"Error building form: {str(e)}")
+        return f"Error building form: {str(e)}"
+
+
+def _resolve_clip_uri(name: str, category: str = "all", max_items: int = 120) -> Optional[Dict[str, Any]]:
+    """Best-effort resolution of a clip/sample browser item by name."""
+    ableton = get_ableton_connection()
+    try:
+        result = ableton.send_command("search_loadable_devices", {
+            "query": name,
+            "category": category,
+            "max_items": max_items
+        })
+    except Exception as primary_err:
+        logger.debug(f"Primary clip search failed: {primary_err}")
+        try:
+            result = ableton.send_command("search_loadable_devices", {
+                "query": name,
+                "category": "all",
+                "max_items": max_items
+            })
+        except Exception as fallback_err:
+            logger.warning(f"Fallback clip search failed: {fallback_err}")
+            return None
+    items = result.get("items", [])
+    if not items:
+        return None
+
+    def _score(item: Dict[str, Any]) -> int:
+        path = str(item.get("path", "")).lower()
+        name_lower = str(item.get("name", "")).lower()
+        score_val = 0
+        if "clips" in path or name_lower.endswith(".alc"):
+            score_val -= 2
+        if name.lower() == name_lower:
+            score_val -= 1
+        if name_lower.startswith(name.lower()):
+            score_val -= 1
+        return score_val
+
+    items.sort(key=_score)
+    return items[0]
+
+
+def _resolve_sample_uri(name: str, category: str = "sounds", max_items: int = 200) -> Optional[Dict[str, Any]]:
+    """Best-effort resolution of a sample/browser sound by name."""
+    ableton = get_ableton_connection()
+    try:
+        result = ableton.send_command("search_loadable_devices", {
+            "query": name,
+            "category": category,
+            "max_items": max_items
+        })
+    except Exception as primary_err:
+        logger.debug(f"Primary sample search failed: {primary_err}")
+        return None
+    items = result.get("items", [])
+    if not items:
+        return None
+
+    def _score(item: Dict[str, Any]) -> int:
+        name_lower = str(item.get("name", "")).lower()
+        score_val = 0
+        if name_lower == name.lower():
+            score_val -= 2
+        if name_lower.startswith(name.lower()):
+            score_val -= 1
+        return score_val
+
+    items.sort(key=_score)
+    try:
+        SAMPLE_CACHE_FILE.write_text(json.dumps({"items": items}, indent=2))
+    except Exception:
+        pass
+    return items[0]
+
+
+@mcp.tool()
+def load_clip_by_name(
+    ctx: Context,
+    clip_name: str,
+    track_index: Optional[int] = None,
+    clip_index: int = 0,
+    category: str = "all",
+    fire: bool = False
+) -> str:
+    """
+    Load a browser clip/sample onto a specific track/slot by name (best-effort search).
+    - clip_name: name substring to match
+    - track_index: target track (creates an audio track at end if omitted/out of range)
+    - clip_index: scene slot to load into (auto-extends scenes if needed)
+    - category: browser category hint ('clips', 'sounds', 'all')
+    - fire: optionally launch the loaded clip
+    """
+    try:
+        ableton = get_ableton_connection()
+        target_track = _ensure_track_exists(track_index, prefer="audio")
+        _ensure_clip_slot(target_track, clip_index)
+        resolved = _resolve_clip_uri(clip_name, category=category)
+        if not resolved or not resolved.get("uri"):
+            return f"No clip found matching '{clip_name}' (category '{category}')"
+
+        load_resp = ableton.send_command("load_browser_item", {
+            "track_index": target_track,
+            "item_uri": resolved.get("uri"),
+            "clip_index": clip_index
+        })
+        result: Dict[str, Any] = {
+            "loaded": load_resp.get("loaded", False),
+            "target_track": target_track,
+            "clip_index": clip_index,
+            "item_name": load_resp.get("item_name", resolved.get("name")),
+            "uri": resolved.get("uri"),
+            "path": resolved.get("path")
+        }
+        if fire and result["loaded"]:
+            try:
+                ableton.send_command("fire_clip", {"track_index": target_track, "clip_index": clip_index})
+                result["fired"] = True
+            except Exception as fire_err:
+                result["fired"] = False
+                result["fire_error"] = str(fire_err)
+        return json.dumps(result, indent=2)
+    except Exception as e:
+        logger.error(f"Error loading clip by name: {str(e)}")
+        return f"Error loading clip by name: {str(e)}"
+
+
+@mcp.tool()
+def load_sample_by_name(
+    ctx: Context,
+    sample_name: str,
+    track_index: Optional[int] = None,
+    clip_index: int = 0,
+    category: str = "sounds",
+    fire: bool = False
+) -> str:
+    """
+    Load a browser sample/sound onto a track/slot by name (best-effort search).
+    - sample_name: name substring to match
+    - track_index: target track (creates an audio track at end if omitted/out of range)
+    - clip_index: scene slot to load into (auto-extends scenes if needed)
+    - category: browser category hint ('sounds' is typical for samples)
+    - fire: optionally launch the loaded clip
+    """
+    try:
+        ableton = get_ableton_connection()
+        target_track = _ensure_track_exists(track_index, prefer="audio")
+        _ensure_clip_slot(target_track, clip_index)
+        resolved = _resolve_sample_uri(sample_name, category=category)
+        if not resolved or not resolved.get("uri"):
+            return f"No sample found matching '{sample_name}' (category '{category}')"
+
+        load_resp = ableton.send_command("load_browser_item", {
+            "track_index": target_track,
+            "item_uri": resolved.get("uri"),
+            "clip_index": clip_index
+        })
+        result: Dict[str, Any] = {
+            "loaded": load_resp.get("loaded", False),
+            "target_track": target_track,
+            "clip_index": clip_index,
+            "item_name": load_resp.get("item_name", resolved.get("name")),
+            "uri": resolved.get("uri"),
+            "path": resolved.get("path")
+        }
+        if fire and result["loaded"]:
+            try:
+                ableton.send_command("fire_clip", {"track_index": target_track, "clip_index": clip_index})
+                result["fired"] = True
+            except Exception as fire_err:
+                result["fired"] = False
+                result["fire_error"] = str(fire_err)
+        return json.dumps(result, indent=2)
+    except Exception as e:
+        logger.error(f"Error loading sample by name: {str(e)}")
+        return f"Error loading sample by name: {str(e)}"
+
+
+def _search_sample_cache(query: str, limit: int = 20) -> list[Dict[str, Any]]:
+    """Filter the filesystem sample cache by substring."""
+    try:
+        cache = json.loads(SAMPLE_CACHE_FILE_FS.read_text())
+        items = cache.get("items", [])
+    except Exception:
+        return []
+    q = (query or "").lower()
+    results = []
+    for item in items:
+        name = str(item.get("name", ""))
+        if q in name.lower() or q in str(item.get("relative_path", "")).lower():
+            results.append({
+                "name": name,
+                "path": item.get("path"),
+                "relative_path": item.get("relative_path"),
+                "ext": item.get("ext"),
+                "root": item.get("root")
+            })
+        if len(results) >= limit:
+            break
+    return results
+
+
+@mcp.tool()
+def search_cached_samples(ctx: Context, query: str, limit: int = 20) -> str:
+    """
+    Search the cached filesystem sample list for a substring match.
+    Returns names and paths; no Live/browser call is made.
+    """
+    try:
+        results = _search_sample_cache(query, limit=limit)
+        return json.dumps({"query": query, "count": len(results), "items": results}, indent=2)
+    except Exception as e:
+        logger.error(f"Error searching cached samples: {str(e)}")
+        return f"Error searching cached samples: {str(e)}"
+
+@mcp.tool()
+def ducking_tool(
+    ctx: Context,
+    target_track_index: int,
+    source_track_index: int,
+    profile: str = "duck",
+    threshold: float = -30.0,
+    ratio: float = 6.0,
+    attack_ms: float = 1.0,
+    release_ms: float = 120.0,
+    knee: float = 6.0,
+    makeup: float = 0.0,
+    create_ghost_trigger: bool = False,
+    ghost_track_name: str = "SC Trigger"
+) -> str:
+    """
+    Load Compressor on target track and wire sidechain to source track with a ducking profile.
+    """
+    try:
+        ableton = get_ableton_connection()
+        profiles = {
+            "duck": {"threshold": -30.0, "ratio": 6.0, "attack": 1.0, "release": 120.0, "knee": 6.0, "makeup": 0.0},
+            "hard": {"threshold": -35.0, "ratio": 10.0, "attack": 0.5, "release": 80.0, "knee": 3.0, "makeup": 0.0},
+            "soft": {"threshold": -25.0, "ratio": 4.0, "attack": 2.0, "release": 180.0, "knee": 9.0, "makeup": 0.0},
+            "ghost": {"threshold": -32.0, "ratio": 8.0, "attack": 0.5, "release": 100.0, "knee": 6.0, "makeup": 0.0, "ghost": True},
+        }
+        preset = profiles.get((profile or "").lower(), {})
+        threshold = preset.get("threshold", threshold)
+        ratio = preset.get("ratio", ratio)
+        attack_ms = preset.get("attack", attack_ms)
+        release_ms = preset.get("release", release_ms)
+        knee = preset.get("knee", knee)
+        makeup = preset.get("makeup", makeup)
+        if preset.get("ghost"):
+            create_ghost_trigger = True
+
+        ghost_info = None
+        ghost_track_index = source_track_index
+        if create_ghost_trigger:
+            try:
+                session = ableton.send_command("get_session_info")
+                start_count = session.get("track_count", 0)
+                ableton.send_command("create_midi_track", {"index": -1})
+                ghost_track_index = start_count
+                ableton.send_command("set_track_name", {"track_index": ghost_track_index, "name": ghost_track_name})
+                ableton.send_command("create_clip", {"track_index": ghost_track_index, "clip_index": 0, "length": 1.0})
+                ableton.send_command("add_notes_to_clip", {
+                    "track_index": ghost_track_index,
+                    "clip_index": 0,
+                    "notes": [{"pitch": 60, "start_time": 0.0, "duration": 0.05, "velocity": 100, "mute": False}]
+                })
+                ableton.send_command("set_clip_name", {"track_index": ghost_track_index, "clip_index": 0, "name": "ghost"})
+                try:
+                    ableton.send_command("set_track_volume", {"track_index": ghost_track_index, "volume": -70.0})
+                except Exception:
+                    pass
+                ghost_info = {"index": ghost_track_index, "name": ghost_track_name}
+            except Exception as ghost_err:
+                ghost_info = {"error": str(ghost_err)}
+
+        load_result = ableton.send_command("load_device", {
+            "track_index": target_track_index,
+            "device_uri": "query:AudioFx#Dynamics:Compressor",
+            "device_slot": -1
+        })
+        if not load_result.get("loaded", False):
+            return f"Failed to load Compressor on track {target_track_index}"
+        device_index = max(load_result.get("device_count", 1) - 1, 0)
+
+        ableton.send_command("set_device_parameters", {
+            "track_index": target_track_index,
+            "device_index": device_index,
+            "parameters": [
+                {"parameter": "Threshold", "value": threshold},
+                {"parameter": "Ratio", "value": ratio},
+                {"parameter": "Attack", "value": attack_ms},
+                {"parameter": "Release", "value": release_ms},
+                {"parameter": "Knee", "value": knee},
+                {"parameter": "Makeup", "value": makeup},
+            ]
+        })
+
+        sidechain = ableton.send_command("set_device_sidechain_source", {
+            "track_index": target_track_index,
+            "device_index": device_index,
+            "source_track_index": ghost_track_index,
+            "pre_fx": True,
+            "mono": True
+        })
+
+        return json.dumps({
+            "track_index": target_track_index,
+            "device_index": device_index,
+            "sidechain": sidechain,
+            "profile": profile,
+            "params": {
+                "threshold": threshold,
+                "ratio": ratio,
+                "attack_ms": attack_ms,
+                "release_ms": release_ms,
+                "knee": knee,
+                "makeup": makeup
+            },
+            "ghost": ghost_info
+        }, indent=2)
+    except Exception as e:
+        logger.error(f"Error running ducking tool: {str(e)}")
+        return f"Error running ducking tool: {str(e)}"
+
+@mcp.tool()
 def fire_clip(ctx: Context, track_index: int, clip_index: int) -> str:
     """
     Start playing a clip.
@@ -1317,6 +2204,391 @@ def fire_clip(ctx: Context, track_index: int, clip_index: int) -> str:
     except Exception as e:
         logger.error(f"Error firing clip: {str(e)}")
         return f"Error firing clip: {str(e)}"
+
+@mcp.tool()
+def fire_clip_by_name(ctx: Context, clip_pattern: str, track_pattern: Optional[str] = None, match_mode: str = "contains", first_only: bool = True) -> str:
+    """Fire clips by name pattern (optionally filtered by track name)."""
+    try:
+        ableton = get_ableton_connection()
+        result = ableton.send_command("fire_clip_by_name", {
+            "clip_pattern": clip_pattern,
+            "track_pattern": track_pattern,
+            "match_mode": match_mode,
+            "first_only": first_only
+        })
+        fired = result.get("fired", [])
+        if not fired:
+            return f"No clips matched '{clip_pattern}'"
+        if first_only and len(fired) == 1:
+            item = fired[0]
+            return f"Fired clip '{item.get('clip_name')}' on track {item.get('track_index')} ({item.get('track_name')}) slot {item.get('clip_index')}"
+        return json.dumps(result, indent=2)
+    except Exception as e:
+        logger.error(f"Error firing clip by name: {str(e)}")
+        return f"Error firing clip by name: {str(e)}"
+
+@mcp.tool()
+def list_clips(ctx: Context, track_pattern: Optional[str] = None, match_mode: str = "contains") -> str:
+    """List all named clips across tracks; filter by track name if provided."""
+    try:
+        ableton = get_ableton_connection()
+        result = ableton.send_command("list_clips", {
+            "track_pattern": track_pattern,
+            "match_mode": match_mode
+        })
+        clips = result.get("clips", [])
+        if not clips:
+            return "No clips found"
+        return json.dumps(result, indent=2)
+    except Exception as e:
+        logger.error(f"Error listing clips: {str(e)}")
+        return f"Error listing clips: {str(e)}"
+
+
+def _filter_cache_items(cache_path: Path, query: Optional[str] = None, limit: int = 20) -> Dict[str, Any]:
+    if not cache_path.exists():
+        return {"items": [], "source": str(cache_path)}
+    try:
+        data = json.loads(cache_path.read_text())
+        items = data.get("items", [])
+        if query:
+            q = query.lower()
+            items = [i for i in items if q in str(i.get("name", "")).lower()]
+        return {"items": items[:limit], "total": len(items), "source": str(cache_path)}
+    except Exception as e:
+        return {"items": [], "error": str(e), "source": str(cache_path)}
+
+
+@mcp.tool()
+def list_cached_samples(ctx: Context, query: Optional[str] = None, limit: int = 25) -> str:
+    """List samples from filesystem/browser caches (non-Live). Filters by substring if provided."""
+    result = _filter_cache_items(SAMPLE_CACHE_FILE_FS, query, limit)
+    if not result.get("items"):
+        result = _filter_cache_items(SAMPLE_CACHE_FILE, query, limit)
+    return json.dumps(result, indent=2)
+
+
+@mcp.tool()
+def list_cached_clips(ctx: Context, query: Optional[str] = None, limit: int = 25) -> str:
+    """List clips from filesystem/browser caches (non-Live). Filters by substring if provided."""
+    result = _filter_cache_items(CLIP_CACHE_FILE_FS, query, limit)
+    if not result.get("items"):
+        result = _filter_cache_items(CACHE_FILE, query, limit)
+    return json.dumps(result, indent=2)
+
+
+def _pick_cached_sample(query: str, limit: int = 5) -> Optional[str]:
+    """Return the name of a cached sample matching query."""
+    best = _filter_cache_items(SAMPLE_CACHE_FILE_FS, query, limit).get("items", [])
+    if best:
+        return str(best[0].get("name", "")).strip()
+    # fallback to browser sample cache if present
+    best = _filter_cache_items(SAMPLE_CACHE_FILE, query, limit).get("items", [])
+    if best:
+        return str(best[0].get("name", "")).strip()
+    return None
+
+
+def _first_cached_sample(query: str, limit: int = 5) -> Optional[Dict[str, Any]]:
+    """Return the first cached sample entry matching query (FS then browser cache)."""
+    for cache_path in (SAMPLE_CACHE_FILE_FS, SAMPLE_CACHE_FILE):
+        try:
+            if not cache_path.exists():
+                continue
+            data = json.loads(cache_path.read_text())
+            items = data.get("items", [])
+            if query:
+                q = query.lower()
+                items = [i for i in items if q in str(i.get("name", "")).lower()]
+            if items:
+                return items[0]
+        except Exception:
+            continue
+    return None
+
+
+def _browser_path_from_cache_item(item: Dict[str, Any]) -> Optional[str]:
+    """Best-effort mapping from cached file path to Live browser path."""
+    path_str = item.get("path") or item.get("relative_path")
+    if not path_str:
+        return None
+    path = Path(path_str)
+    parts = [p for p in path.parts]
+    if "Core Library" in parts:
+        idx = parts.index("Core Library")
+        rel_parts = parts[idx:]  # include Core Library
+    elif "Factory Packs" in parts:
+        idx = parts.index("Factory Packs")
+        rel_parts = parts[idx:]
+    elif "User Library" in parts:
+        idx = parts.index("User Library")
+        rel_parts = parts[idx:]
+    else:
+        return None
+    # Remove filename
+    if rel_parts and "." in rel_parts[-1]:
+        rel_parts = rel_parts[:-1]
+    # Join with slashes for browser path
+    return "/".join(rel_parts)
+
+
+@mcp.tool()
+def load_sample_from_cache(
+    ctx: Context,
+    query: str,
+    track_index: Optional[int] = None,
+    clip_index: int = 0,
+    category: str = "all",
+    fire: bool = False,
+    max_items: int = 50
+) -> str:
+    """
+    Pick the first cached sample matching a query, then load it via Live's browser search.
+    This reduces search strings to known names and caps search results to avoid timeouts.
+    """
+    try:
+        cached_item = _first_cached_sample(query, limit=5)
+        if not cached_item:
+            return f"No cached sample matches '{query}'"
+        chosen = str(cached_item.get("name", "")).strip()
+        ableton = get_ableton_connection()
+        target_track = _ensure_track_exists(track_index, prefer="audio")
+        _ensure_clip_slot(target_track, clip_index)
+
+        item_uri = None
+        # Path-based resolution first
+        browser_path = _browser_path_from_cache_item(cached_item)
+        if browser_path:
+            try:
+                path_result = ableton.send_command("get_browser_items_at_path", {"path": browser_path})
+                for it in path_result.get("items", []):
+                    if str(it.get("name", "")).lower() == chosen.lower() and it.get("is_loadable"):
+                        item_uri = it.get("uri")
+                        break
+                if not item_uri:
+                    # fallback: first loadable in folder
+                    for it in path_result.get("items", []):
+                        if it.get("is_loadable"):
+                            item_uri = it.get("uri")
+                            chosen = it.get("name", chosen)
+                            break
+            except Exception as path_err:
+                logger.debug(f"Path resolution failed: {path_err}")
+
+        if not item_uri:
+            # Try a constrained search to find the actual URI
+            result = ableton.send_command("search_loadable_devices", {
+                "query": chosen,
+                "category": category,
+                "max_items": max_items
+            })
+            items = result.get("items", [])
+            if not items:
+                return f"Cached sample '{chosen}' not found in Live browser (category '{category}')"
+            item_uri = items[0].get("uri")
+
+        load_resp = ableton.send_command("load_browser_item", {
+            "track_index": target_track,
+            "item_uri": item_uri,
+            "clip_index": clip_index
+        })
+        res: Dict[str, Any] = {
+            "cached_name": chosen,
+            "loaded": load_resp.get("loaded", False),
+            "target_track": target_track,
+            "clip_index": clip_index,
+            "item_name": load_resp.get("item_name", items[0].get("name")),
+            "uri": item_uri
+        }
+        if fire and res["loaded"]:
+            try:
+                ableton.send_command("fire_clip", {"track_index": target_track, "clip_index": clip_index})
+                res["fired"] = True
+            except Exception as fire_err:
+                res["fired"] = False
+                res["fire_error"] = str(fire_err)
+        return json.dumps(res, indent=2)
+    except Exception as e:
+        logger.error(f"Error loading sample from cache: {str(e)}")
+        return f"Error loading sample from cache: {str(e)}"
+
+
+@mcp.tool()
+def load_sample_to_simpler_from_cache(
+    ctx: Context,
+    query: str,
+    track_index: Optional[int] = None,
+    device_slot: int = -1
+) -> str:
+    """
+    Pick a cached sample matching query, load Simpler on the target track, and set its file_path directly.
+    Bypasses browser search for more reliability.
+    """
+    try:
+        cached_item = _first_cached_sample(query, limit=5)
+        if not cached_item:
+            return f"No cached sample matches '{query}'"
+        file_path = cached_item.get("path")
+        if not file_path:
+            return f"Cached sample has no path for '{query}'"
+        ableton = get_ableton_connection()
+        target_track = _ensure_track_exists(track_index, prefer="midi")
+        resp = ableton.send_command("load_simpler_with_sample", {
+            "track_index": target_track,
+            "file_path": file_path,
+            "device_slot": device_slot
+        })
+        return json.dumps({
+            "query": query,
+            "file_path": file_path,
+            "track_index": target_track,
+            "device_index": resp.get("device_index"),
+            "sample_meta": {
+                "warping": resp.get("warping"),
+                "warp_mode": resp.get("warp_mode")
+            }
+        }, indent=2)
+    except Exception as e:
+        logger.error(f"Error loading sample to Simpler: {str(e)}")
+        return f"Error loading sample to Simpler: {str(e)}"
+
+
+@mcp.tool()
+def load_sample_to_sampler_from_cache(
+    ctx: Context,
+    query: str,
+    track_index: Optional[int] = None,
+    device_slot: int = -1
+) -> str:
+    """
+    Pick a cached sample matching query, load Sampler on the target track, and set the sample via hotswap/file_path.
+    """
+    try:
+        cached_item = _first_cached_sample(query, limit=5)
+        if not cached_item:
+            return f"No cached sample matches '{query}'"
+        file_path = cached_item.get("path")
+        if not file_path:
+            return f"Cached sample has no path for '{query}'"
+        ableton = get_ableton_connection()
+        target_track = _ensure_track_exists(track_index, prefer="midi")
+        resp = ableton.send_command("load_sampler_with_sample", {
+            "track_index": target_track,
+            "file_path": file_path,
+            "device_slot": device_slot
+        })
+        return json.dumps({
+            "query": query,
+            "file_path": file_path,
+            "track_index": target_track,
+            "device_index": resp.get("device_index")
+        }, indent=2)
+    except Exception as e:
+        logger.error(f"Error loading sample to Sampler: {str(e)}")
+        return f"Error loading sample to Sampler: {str(e)}"
+
+
+def _browser_path_and_stem(file_path: str) -> tuple[Optional[str], str]:
+    parts = file_path.replace("\\", "/").split("/")
+    browser_path = None
+    stem = Path(file_path).stem.lower() if Path else file_path.split("/")[-1].rsplit(".", 1)[0].lower()
+    if "Samples" in parts:
+        idx = parts.index("Samples")
+        rel = parts[idx + 1:-1]
+        # Preserve the "Samples/..." root so the browser path aligns with Live's category
+        browser_path = "Samples/" + "/".join(rel)
+    return browser_path, stem
+
+
+@mcp.tool()
+def load_sample_clip_from_cache(
+    ctx: Context,
+    query: str,
+    track_index: Optional[int] = None,
+    clip_index: int = 0,
+    fire: bool = False,
+    allow_create_track: bool = True,
+    allow_create_scene: bool = True
+) -> str:
+    """
+    Load a cached sample as a clip onto an audio track slot using browser folder resolution (no device sample slot).
+    - allow_create_track: if False, error instead of creating a new audio track
+    - allow_create_scene: if False, error instead of creating new scenes/slots
+    """
+    try:
+        cached_item = _first_cached_sample(query, limit=5)
+        if not cached_item:
+            return f"No cached sample matches '{query}'"
+        file_path = cached_item.get("path")
+        if not file_path:
+            return f"Cached sample has no path for '{query}'"
+
+        browser_path, stem = _browser_path_and_stem(file_path)
+        if not browser_path:
+            return f"Could not derive browser path for '{file_path}'"
+
+        ableton = get_ableton_connection()
+        try:
+            target_track = _ensure_track_exists(track_index, prefer="audio", allow_create=allow_create_track)
+        except Exception as track_err:
+            return f"Track unavailable: {track_err}"
+        if not _ensure_clip_slot(target_track, clip_index, allow_create=allow_create_scene):
+            return f"Clip slot {clip_index} does not exist on track {target_track} and scene creation disabled"
+
+        target_name = Path(file_path).name.lower()
+        target_stem = Path(file_path).stem.lower()
+
+        def _pick_uri(items: list[dict]) -> tuple[Optional[str], Optional[str]]:
+            """Find the best-matching browser item by name/stem."""
+            best_uri = None
+            best_name = None
+            for it in items:
+                if not it.get("is_loadable", False):
+                    continue
+                name_lower = str(it.get("name", "")).lower()
+                if name_lower == target_name or name_lower == target_stem:
+                    return it.get("uri"), it.get("name")
+                if not best_uri and (target_stem in name_lower or target_name in name_lower):
+                    best_uri = it.get("uri")
+                    best_name = it.get("name")
+            return best_uri, best_name
+
+        # Resolve URI within the folder first
+        items = ableton.send_command("get_browser_items_at_path", {"path": browser_path})
+        uri, resolved_name = _pick_uri(items.get("items", []))
+
+        # Fallback: search the root Samples category (Live often indexes core content there)
+        if not uri:
+            root_items = ableton.send_command("get_browser_items_at_path", {"path": "Samples"})
+            uri, resolved_name = _pick_uri(root_items.get("items", []))
+
+        if not uri:
+            return f"Could not find '{stem}' in browser folder '{browser_path}' or root Samples"
+
+        load_resp = ableton.send_command("load_browser_item", {
+            "track_index": target_track,
+            "item_uri": uri,
+            "clip_index": clip_index
+        })
+        result: Dict[str, Any] = {
+            "loaded": load_resp.get("loaded", False),
+            "target_track": target_track,
+            "clip_index": clip_index,
+            "item_name": load_resp.get("item_name", resolved_name or stem),
+            "uri": uri,
+            "browser_path": browser_path
+        }
+        if fire and result["loaded"]:
+            try:
+                ableton.send_command("fire_clip", {"track_index": target_track, "clip_index": clip_index})
+                result["fired"] = True
+            except Exception as fire_err:
+                result["fired"] = False
+                result["fire_error"] = str(fire_err)
+        return json.dumps(result, indent=2)
+    except Exception as e:
+        logger.error(f"Error loading sample clip from cache: {str(e)}")
+        return f"Error loading sample clip from cache: {str(e)}"
 
 @mcp.tool()
 def stop_clip(ctx: Context, track_index: int, clip_index: int) -> str:
@@ -1410,6 +2682,27 @@ def fire_scene(ctx: Context, index: int) -> str:
         logger.error(f"Error firing scene: {str(e)}")
         return f"Error firing scene: {str(e)}"
 
+
+@mcp.tool()
+def fire_scene_by_name(ctx: Context, pattern: str, match_mode: str = "contains", first_only: bool = True) -> str:
+    """Launch scenes matching a name pattern."""
+    try:
+        ableton = get_ableton_connection()
+        result = ableton.send_command("fire_scene_by_name", {
+            "pattern": pattern,
+            "match_mode": match_mode,
+            "first_only": first_only
+        })
+        fired = result.get("fired", [])
+        if not fired:
+            return f"No scenes matched '{pattern}'"
+        if first_only and len(fired) == 1:
+            item = fired[0]
+            return f"Fired scene {item.get('index')} ({item.get('name')})"
+        return json.dumps(result, indent=2)
+    except Exception as e:
+        logger.error(f"Error firing scene by name: {str(e)}")
+        return f"Error firing scene by name: {str(e)}"
 
 @mcp.tool()
 def stop_scene(ctx: Context, index: int) -> str:

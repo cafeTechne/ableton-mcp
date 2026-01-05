@@ -1,0 +1,377 @@
+{
+  "items": [
+    {
+      "name": "Auto Pan",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Auto%20Pan",
+      "path": "Audio Effects/Pitch & Modulation/Auto Pan",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Suitcase Auto Pan.adv",
+      "uri": "query:AudioFx#Pitch%20&%20Modulation:Auto%20Pan:FileId_6658",
+      "path": "Audio Effects/Pitch & Modulation/Auto Pan/Suitcase Auto Pan.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Compressor",
+      "uri": "query:AudioFx#Dynamics:Compressor",
+      "path": "Audio Effects/Dynamics/Compressor",
+      "is_device": true,
+      "category": "audio_effects",
+      "parameters": [
+        {
+          "name": "Device On",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 1.0,
+          "is_quantized": true,
+          "value_items": [
+            "Off",
+            "On"
+          ],
+          "unit": null,
+          "index": 0
+        },
+        {
+          "name": "Threshold",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 0.8500000238418579,
+          "is_quantized": false,
+          "value_items": null,
+          "unit": null,
+          "index": 1
+        },
+        {
+          "name": "Ratio",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 0.75,
+          "is_quantized": false,
+          "value_items": null,
+          "unit": null,
+          "index": 2
+        },
+        {
+          "name": "Expansion Ratio",
+          "min": 1.0,
+          "max": 2.0,
+          "value": 1.149999976158142,
+          "is_quantized": false,
+          "value_items": null,
+          "unit": null,
+          "index": 3
+        },
+        {
+          "name": "Attack",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 0.4000000059604645,
+          "is_quantized": false,
+          "value_items": null,
+          "unit": null,
+          "index": 4
+        },
+        {
+          "name": "Release",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 0.1569925993680954,
+          "is_quantized": false,
+          "value_items": null,
+          "unit": null,
+          "index": 5
+        },
+        {
+          "name": "Auto Release On/Off",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 0.0,
+          "is_quantized": true,
+          "value_items": [
+            "Off",
+            "On"
+          ],
+          "unit": null,
+          "index": 6
+        },
+        {
+          "name": "Output Gain",
+          "min": -36.0,
+          "max": 36.0,
+          "value": 0.0,
+          "is_quantized": false,
+          "value_items": null,
+          "unit": null,
+          "index": 7
+        },
+        {
+          "name": "Makeup",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 0.0,
+          "is_quantized": true,
+          "value_items": [
+            "Off",
+            "On"
+          ],
+          "unit": null,
+          "index": 8
+        },
+        {
+          "name": "Dry/Wet",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 1.0,
+          "is_quantized": false,
+          "value_items": null,
+          "unit": null,
+          "index": 9
+        },
+        {
+          "name": "Model",
+          "min": 0.0,
+          "max": 2.0,
+          "value": 1.0,
+          "is_quantized": true,
+          "value_items": [
+            "Peak",
+            "RMS",
+            "Expand"
+          ],
+          "unit": null,
+          "index": 10
+        },
+        {
+          "name": "Env Mode",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 1.0,
+          "is_quantized": true,
+          "value_items": [
+            "Lin",
+            "Log"
+          ],
+          "unit": null,
+          "index": 11
+        },
+        {
+          "name": "Knee",
+          "min": 0.0,
+          "max": 18.0,
+          "value": 6.0,
+          "is_quantized": false,
+          "value_items": null,
+          "unit": null,
+          "index": 12
+        },
+        {
+          "name": "LookAhead",
+          "min": 0.0,
+          "max": 2.0,
+          "value": 0.0,
+          "is_quantized": true,
+          "value_items": [
+            "0 ms",
+            "1 ms",
+            "10 ms"
+          ],
+          "unit": null,
+          "index": 13
+        },
+        {
+          "name": "S/C Listen",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 0.0,
+          "is_quantized": true,
+          "value_items": [
+            "Off",
+            "On"
+          ],
+          "unit": null,
+          "index": 14
+        },
+        {
+          "name": "S/C On",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 0.0,
+          "is_quantized": true,
+          "value_items": [
+            "Off",
+            "On"
+          ],
+          "unit": null,
+          "index": 15
+        },
+        {
+          "name": "S/C Gain",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 0.4000000059604645,
+          "is_quantized": false,
+          "value_items": null,
+          "unit": null,
+          "index": 16
+        },
+        {
+          "name": "S/C Mix",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 1.0,
+          "is_quantized": false,
+          "value_items": null,
+          "unit": null,
+          "index": 17
+        },
+        {
+          "name": "S/C EQ Type",
+          "min": 0.0,
+          "max": 5.0,
+          "value": 5.0,
+          "is_quantized": true,
+          "value_items": [
+            "Low Shelf",
+            "Bell",
+            "High Shelf",
+            "Low pass",
+            "Peak",
+            "High pass"
+          ],
+          "unit": null,
+          "index": 18
+        },
+        {
+          "name": "S/C EQ On",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 1.0,
+          "is_quantized": true,
+          "value_items": [
+            "Off",
+            "On"
+          ],
+          "unit": null,
+          "index": 19
+        },
+        {
+          "name": "S/C EQ Freq",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 0.15782640874385834,
+          "is_quantized": false,
+          "value_items": null,
+          "unit": null,
+          "index": 20
+        },
+        {
+          "name": "S/C EQ Gain",
+          "min": -15.0,
+          "max": 15.0,
+          "value": 0.0,
+          "is_quantized": false,
+          "value_items": null,
+          "unit": null,
+          "index": 21
+        },
+        {
+          "name": "S/C EQ Q",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 0.40856707096099854,
+          "is_quantized": false,
+          "value_items": null,
+          "unit": null,
+          "index": 22
+        }
+      ]
+    },
+    {
+      "name": "Glue Compressor",
+      "uri": "query:AudioFx#Dynamics:Glue%20Compressor",
+      "path": "Audio Effects/Dynamics/Glue Compressor",
+      "is_device": true,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Acoustic Kick Compressor.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6585",
+      "path": "Audio Effects/Dynamics/Compressor/Acoustic Kick Compressor.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Basic Peak Compressor.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6587",
+      "path": "Audio Effects/Dynamics/Compressor/Basic Peak Compressor.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Generic Compressor.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6593",
+      "path": "Audio Effects/Dynamics/Compressor/Generic Compressor.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "Soft Snare Compressor.adv",
+      "uri": "query:AudioFx#Dynamics:Compressor:FileId_6601",
+      "path": "Audio Effects/Dynamics/Compressor/Soft Snare Compressor.adv",
+      "is_device": false,
+      "category": "audio_effects"
+    },
+    {
+      "name": "External Audio Effect",
+      "uri": "query:AudioFx#Utilities:External%20Audio%20Effect",
+      "parameters": [
+        {
+          "name": "Device On",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 1.0,
+          "is_quantized": true,
+          "value_items": [
+            "Off",
+            "On"
+          ],
+          "unit": null,
+          "index": 0
+        },
+        {
+          "name": "Dry/Wet",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 1.0,
+          "is_quantized": false,
+          "value_items": null,
+          "unit": null,
+          "index": 1
+        },
+        {
+          "name": "Output Gain",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 0.4000000059604645,
+          "is_quantized": false,
+          "value_items": null,
+          "unit": null,
+          "index": 2
+        },
+        {
+          "name": "Input Gain",
+          "min": 0.0,
+          "max": 1.0,
+          "value": 0.4000000059604645,
+          "is_quantized": false,
+          "value_items": null,
+          "unit": null,
+          "index": 3
+        }
+      ]
+    }
+  ]
+}

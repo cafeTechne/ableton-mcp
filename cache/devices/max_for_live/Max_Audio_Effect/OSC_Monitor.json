@@ -1,0 +1,47 @@
+{
+  "path_category": "max_for_live",
+  "path_subfolder": "Max_Audio_Effect",
+  "name": "OSC Monitor",
+  "uri": "query:M4L#Max%20Audio%20Effect:FileId_40009",
+  "parameters": [
+    {
+      "name": "Device On",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 1.0,
+      "is_quantized": true,
+      "value_items": [
+        "Off",
+        "On"
+      ],
+      "unit": null,
+      "index": 0
+    },
+    {
+      "name": "Clear",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "val1",
+        "val2"
+      ],
+      "unit": null,
+      "index": 1
+    },
+    {
+      "name": "Freeze",
+      "min": 0.0,
+      "max": 1.0,
+      "value": 0.0,
+      "is_quantized": true,
+      "value_items": [
+        "off",
+        "on"
+      ],
+      "unit": null,
+      "index": 2
+    }
+  ]
+}

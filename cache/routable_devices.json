@@ -1,0 +1,23 @@
+{
+  "routable_devices": [
+    {
+      "device_name": "Compressor",
+      "available_types": [
+        "3-Audio",
+        "4-Audio",
+        "6-Audio",
+        "7-Audio",
+        "A-Reverb",
+        "B-Delay",
+        "Master",
+        "No Input"
+      ],
+      "available_channels": [
+        "<Track.RoutingChannel object at 0x000000003ABFC0D0>"
+      ],
+      "track_index": 3,
+      "device_index": 0,
+      "track_name": "4-Audio"
+    }
+  ]
+}
