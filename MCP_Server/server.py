@@ -5,7 +5,7 @@ from typing import Optional, Dict, Any, List
 
 from fastmcp import FastMCP, Context
 from mcp_tooling.connection import get_ableton_connection, AbletonConnection
-from mcp_tooling.util import search_cache, resolve_uri_by_name, CACHE_FILE
+from mcp_tooling.util import search_cache, CACHE_FILE
 from mcp_tooling.devices import (
     load_device_logic, load_simpler_with_sample_logic, load_sampler_with_sample_logic,
     load_sample_by_name_logic, load_drum_kit_logic, load_clip_by_name_logic,
@@ -18,6 +18,8 @@ from mcp_tooling.generators import (
     generate_bassline_advanced_wrapper as gen_bass_advanced,
     generate_strings_advanced_wrapper as gen_strings_advanced,
     generate_woodwinds_advanced_wrapper as gen_winds_advanced,
+    generate_brass_advanced_wrapper as gen_brass_advanced,
+    generate_rhythmic_comp as gen_rhythmic_comp,
     pattern_generator as gen_pattern
 )
 from mcp_tooling.arrangement import create_song_blueprint as gen_blueprint, construct_song as do_construct
@@ -33,6 +35,15 @@ from mcp_tooling.macros import (
     randomize_macros, get_rack_chains
 )
 from mcp_tooling.recording import set_record_mode, trigger_session_record, capture_midi, set_overdub
+from mcp_tooling.drummer import (
+    list_genres as drummer_list_genres,
+    list_patterns as drummer_list_patterns,
+    search_patterns as drummer_search_patterns,
+    generate_drum_pattern as gen_drum_pattern,
+    generate_drum_fill as gen_drum_fill,
+    generate_drum_section as gen_drum_section,
+    get_metadata as drummer_get_metadata
+)
 
 # Setup Logging
 logger = logging.getLogger("mcp_server")
@@ -2370,6 +2381,192 @@ def list_routable_devices(ctx: Context, track_index: int) -> str:
     return json.dumps(conn.send_command("list_routable_devices", {"track_index": track_index}), indent=2)
 
 # Main execution
+
+@mcp.tool()
+def generate_bassline_advanced(ctx: Context, track_index: int, clip_index: int, key: str = "C", scale: str = "major", progression: str = None, mood: str = None, style: str = "walking", velocity: int = 100, humanize: float = 0.0) -> str:
+    """Advanced bassline generator (style: walking, rock, funk, reggae, puzzle, root)"""
+    return gen_bass_advanced(track_index, clip_index, key, scale, progression, mood=mood, style=style, velocity=velocity, humanize=humanize)
+
+@mcp.tool()
+def generate_strings_advanced(ctx: Context, track_index: int, clip_index: int, key: str = "C", scale: str = "major", progression: str = None, mood: str = None, style: str = "pop", velocity: int = 90, humanize: float = 0.0) -> str:
+    """Advanced strings generator (style: pop, classical, rock, disco, jazz)"""
+    return gen_strings_advanced(track_index, clip_index, key, scale, progression, mood=mood, style=style, velocity=velocity, humanize=humanize)
+
+@mcp.tool()
+def generate_woodwinds_advanced(ctx: Context, track_index: int, clip_index: int, key: str = "C", scale: str = "major", progression: str = None, mood: str = None, style: str = "pop", velocity: int = 90, humanize: float = 0.0) -> str:
+    """Advanced woodwinds generator (style: pop, classical, jazz, reggae)"""
+    return gen_winds_advanced(track_index, clip_index, key, scale, progression, mood=mood, style=style, velocity=velocity, humanize=humanize)
+
+@mcp.tool()
+def generate_brass_advanced(ctx: Context, track_index: int, clip_index: int, key: str = "C", scale: str = "major", progression: str = None, mood: str = None, style: str = "pop", velocity: int = 100, humanize: float = 0.0) -> str:
+    """Advanced brass generator (style: pop, rock, metal, jazz, ska, reggae, gospel)"""
+    return gen_brass_advanced(track_index, clip_index, key, scale, progression, mood=mood, style=style, velocity=velocity, humanize=humanize)
+
+@mcp.tool()
+def generate_rhythmic_comp(ctx: Context, track_index: int, clip_index: int, key: str = "C", scale: str = "major", progression: str = None, mood: str = None, style: str = "ska_skank", velocity: int = 85, humanize: float = 0.3) -> str:
+    """Generate rhythmic comping (chords/keys). Style: ska_skank, reggae_skank, funk_stabs, house_piano..."""
+    return gen_rhythmic_comp(track_index, clip_index, key, scale, progression, mood=mood, style=style, velocity=velocity, humanize=humanize)
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# DRUMMER TOOLS - Pattern-based drum generation from library
+# ═══════════════════════════════════════════════════════════════════════════════
+
+@mcp.tool()
+def list_drum_genres(ctx: Context) -> str:
+    """
+    List all available drum pattern genres in the library.
+    
+    Returns a JSON list of genre names like 'latin', 'rock', 'house', etc.
+    Use these genre names with generate_drum_pattern.
+    """
+    try:
+        genres = drummer_list_genres()
+        metadata = drummer_get_metadata()
+        return json.dumps({
+            "genres": genres,
+            "total_patterns": metadata.get("total_patterns", 0),
+            "genres_count": len(genres)
+        }, indent=2)
+    except Exception as e:
+        return f"Error: {e}"
+
+@mcp.tool()
+def list_drum_patterns(ctx: Context, genre: str, variation: Optional[str] = None) -> str:
+    """
+    List all drum patterns in a specific genre.
+    
+    Args:
+        genre: Genre name (e.g., 'latin', 'rock', 'house')
+        variation: Optional filter - 'A', 'B', or 'fill'
+    
+    Returns list of pattern names and variations.
+    """
+    try:
+        patterns = drummer_list_patterns(genre, variation)
+        return json.dumps({"genre": genre, "patterns": patterns, "count": len(patterns)}, indent=2)
+    except Exception as e:
+        return f"Error: {e}"
+
+@mcp.tool()
+def search_drum_patterns(ctx: Context, query: str, genre: Optional[str] = None, limit: int = 20) -> str:
+    """
+    Search for drum patterns by name.
+    
+    Args:
+        query: Search query (partial match)
+        genre: Optional genre filter
+        limit: Maximum results
+    
+    Returns matching patterns with genre info.
+    """
+    try:
+        results = drummer_search_patterns(query, genre, limit)
+        return json.dumps({"results": results, "count": len(results)}, indent=2)
+    except Exception as e:
+        return f"Error: {e}"
+
+@mcp.tool()
+def generate_drum_pattern(
+    ctx: Context,
+    track_index: int,
+    clip_index: int,
+    genre: str,
+    pattern_name: Optional[str] = None,
+    variation: Optional[str] = None,
+    bars: int = 4,
+    velocity_scale: float = 1.0,
+    humanize: float = 0.1,
+    swing: float = 0.0
+) -> str:
+    """
+    Generate a drum pattern from the library onto a track.
+    
+    Args:
+        track_index: Target track (must have drum instrument)
+        clip_index: Target clip slot
+        genre: Genre name (use list_drum_genres to see options)
+        pattern_name: Specific pattern (optional - random if None)
+        variation: Filter by 'A', 'B', or 'fill' if pattern_name is None
+        bars: Number of bars to generate (pattern loops)
+        velocity_scale: Velocity multiplier (0.5-1.5 typical)
+        humanize: Timing/velocity humanization (0.0-1.0)
+        swing: Swing amount (0.0-1.0)
+    
+    Returns status message with pattern details.
+    """
+    return gen_drum_pattern(
+        track_index=track_index,
+        clip_index=clip_index,
+        genre=genre,
+        pattern_name=pattern_name,
+        variation=variation,
+        bars=bars,
+        velocity_scale=velocity_scale,
+        humanize=humanize,
+        swing=swing
+    )
+
+@mcp.tool()
+def generate_drum_fill(
+    ctx: Context,
+    track_index: int,
+    clip_index: int,
+    genre: str,
+    bars: int = 1
+) -> str:
+    """
+    Generate a drum fill from the library.
+    
+    Convenience function that selects patterns with variation='fill'.
+    Great for transitions between sections.
+    
+    Args:
+        track_index: Target track
+        clip_index: Target clip slot
+        genre: Genre name
+        bars: Fill length (typically 1 bar)
+    """
+    return gen_drum_fill(
+        track_index=track_index,
+        clip_index=clip_index,
+        genre=genre,
+        bars=bars
+    )
+
+@mcp.tool()
+def generate_drum_section(
+    ctx: Context,
+    track_index: int,
+    clip_indices: str,
+    genre: str,
+    include_fill: bool = True,
+    bars_per_clip: int = 4
+) -> str:
+    """
+    Generate a multi-clip drum section with A/B variations.
+    
+    Creates varied patterns across multiple clips, optionally
+    ending with a fill. Great for building song sections.
+    
+    Args:
+        track_index: Target track
+        clip_indices: Comma-separated clip indices (e.g., '0,1,2,3')
+        genre: Genre name
+        include_fill: Add fill at the end
+        bars_per_clip: Bars per clip
+    """
+    try:
+        indices = [int(i.strip()) for i in clip_indices.split(",")]
+        return gen_drum_section(
+            track_index=track_index,
+            clip_indices=indices,
+            genre=genre,
+            include_fill=include_fill,
+            bars_per_clip=bars_per_clip
+        )
+    except ValueError:
+        return "Error: clip_indices must be comma-separated integers (e.g., '0,1,2,3')"
+
 def main():
     """Run the MCP server"""
     mcp.run()

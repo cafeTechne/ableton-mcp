@@ -3,7 +3,7 @@ import logging
 from typing import Optional
 from .constants import GENRE_TEMPLATES
 from .connection import get_ableton_connection
-from .util import resolve_uri_by_name
+from .util import load_device_by_name
 from .generators import generate_chord_progression_advanced, generate_bassline_advanced_wrapper, add_basic_drum_pattern
 
 logger = logging.getLogger("mcp_server.arrangement")
@@ -74,7 +74,14 @@ def construct_song(blueprint_json: str) -> str:
             # Load Instrument
             inst = track_def.get("instrument")
             if inst:
-                 uri = resolve_uri_by_name(inst, "instruments") or resolve_uri_by_name(inst, "sounds") or resolve_uri_by_name(inst, "drums")
+                 # Use load_device_by_name instead of resolve_uri_by_name
+                 # Try instruments, then sounds, then drums
+                 result = load_device_by_name(track_idx, inst, "instruments")
+                 if not result.get("loaded"):
+                     result = load_device_by_name(track_idx, inst, "sounds")
+                 if not result.get("loaded"):
+                     result = load_device_by_name(track_idx, inst, "drums")
+                 uri = result.get("device_uri") if result.get("loaded") else None
                  if uri:
                      ableton.send_command("load_device", {"track_index": t_idx, "device_uri": uri})
                      created_tracks_log.append(f"Track {t_idx} '{track_def['name']}': Loaded {inst}")

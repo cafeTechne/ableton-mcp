@@ -6,7 +6,7 @@ from typing import Optional, Dict, Any, List
 
 from .connection import get_ableton_connection
 from .util import (
-    resolve_uri_by_name, update_cache_item, update_cache_parameters_by_name, 
+    update_cache_item, update_cache_parameters_by_name, 
     CACHE_FILE, SAMPLE_CACHE_FILE
 )
 from .ableton_helpers import ensure_device, ensure_track_exists, ensure_clip_slot
@@ -82,9 +82,7 @@ def load_simpler_with_sample_logic(track_index: int, file_path: str, device_slot
 
         device_index = ensure_device(ableton, track_index, "Simpler", device_slot)
         if device_index is None:
-             uri = resolve_uri_by_name("Simpler", category="instruments")
-             if not uri: return "Could not find Simpler in browser"
-             load_res = ableton.send_command("load_device", {"track_index": track_index, "device_uri": uri, "device_slot": device_slot})
+             load_res = load_device_by_name(track_index, "Simpler", category="instruments")
              if not load_res.get("loaded"): return "Failed to load Simpler"
              device_index = ensure_device(ableton, track_index, "Simpler", device_slot)
         
@@ -111,9 +109,7 @@ def load_sampler_with_sample_logic(track_index: int, file_path: str, device_slot
 
         device_index = ensure_device(ableton, track_index, "Sampler", device_slot)
         if device_index is None:
-             uri = resolve_uri_by_name("Sampler", category="instruments")
-             if not uri: return "Could not find Sampler in browser"
-             load_res = ableton.send_command("load_device", {"track_index": track_index, "device_uri": uri, "device_slot": device_slot})
+             load_res = load_device_by_name(track_index, "Sampler", category="instruments")
              if not load_res.get("loaded"): return "Failed to load Sampler"
              device_index = ensure_device(ableton, track_index, "Sampler", device_slot)
         
@@ -225,7 +221,8 @@ def plan_load_device_logic(query: str) -> str:
     
     # 1. Check Device
     try:
-        dev_uri = resolve_uri_by_name(query, "all")
+        # Deprecated: resolve_uri_by_name removed - URIs are unreliable
+        dev_uri = None
         if dev_uri:
             result["found"] = True
             result["resolved_device_uri"] = dev_uri
@@ -266,14 +263,11 @@ def search_and_load_device(track_index: int, query: str, category: str = "all") 
         ableton = get_ableton_connection()
         
         # Search for the device
-        uri = resolve_uri_by_name(query, category)
-        if not uri:
-            return f"Device not found: {query}"
-        
-        # Load the device
-        result = ableton.send_command("load_device", {
+        # Use live browser search instead of URI resolution
+        result = ableton.send_command("search_and_load_device", {
             "track_index": track_index,
-            "device_uri": uri
+            "query": query,
+            "category": category
         })
         
         if result.get("loaded"):
