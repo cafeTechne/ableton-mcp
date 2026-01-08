@@ -1,0 +1,3877 @@
+{
+  "version": "11.0.0",
+  "modules": {
+    "Application": {
+      "classes": {
+        "Application": {
+          "description": "This class represents the Live application.",
+          "methods": [
+            {
+              "name": "get_bugfix_version()",
+              "description": "Returns an integer representing the bugfix version of Live. "
+            },
+            {
+              "name": "get_document()",
+              "description": "Returns the current Live Set. "
+            },
+            {
+              "name": "get_major_version()",
+              "description": "Returns an integer representing the major version of Live. "
+            },
+            {
+              "name": "get_minor_version()",
+              "description": "Returns an integer representing the minor version of Live. "
+            },
+            {
+              "name": "has_option()",
+              "description": "Returns True if the given entry exists in Options.txt, False otherwise. "
+            },
+            {
+              "name": "press_current_dialog_button()",
+              "description": "Press a button, by index, on the current message box. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "browser",
+              "description": "Returns an interface to the browser."
+            },
+            {
+              "name": "canonical_parent",
+              "description": "Returns the canonical parent of the application."
+            },
+            {
+              "name": "control_surfaces",
+              "description": "Const access to a list of the control surfaces selected in preferences, in the same order.The list contains None if no control surface is active at that index."
+            },
+            {
+              "name": "current_dialog_button_count",
+              "description": "Number of buttons on the current dialog."
+            },
+            {
+              "name": "current_dialog_message",
+              "description": "Text of the last dialog that appeared; Empty if all dialogs just disappeared."
+            },
+            {
+              "name": "open_dialog_count",
+              "description": "The number of open dialogs in Live. 0 if not dialog is open."
+            },
+            {
+              "name": "unavailable_features",
+              "description": "List of features that are unavailable due to limitations of the current Live edition."
+            },
+            {
+              "name": "view",
+              "description": "Returns the applications view component."
+            }
+          ],
+          "sub_classes": [
+            {
+              "name": "View",
+              "methods": [
+                "available_main_views()",
+                "focus_view()",
+                "hide_view()",
+                "is_view_visible()",
+                "scroll_view()",
+                "show_view()",
+                "toggle_browse()",
+                "zoom_view()"
+              ],
+              "properties": [
+                "browse_mode",
+                "canonical_parent",
+                "focused_document_view"
+              ]
+            }
+          ]
+        },
+        "UnavailableFeature": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "UnavailableFeatureVector": {
+          "description": "A container for returning unavailable features.",
+          "methods": [
+            {
+              "name": "append()",
+              "description": ""
+            },
+            {
+              "name": "extend()",
+              "description": ""
+            }
+          ],
+          "properties": [],
+          "sub_classes": []
+        }
+      },
+      "built_ins": [
+        {
+          "name": "combine_apcs()",
+          "description": "Returns true if multiple APCs should be combined. "
+        },
+        {
+          "name": "encrypt_challenge()",
+          "description": "Returns an encrypted challenge based on the TEA algortithm "
+        },
+        {
+          "name": "encrypt_challenge2()",
+          "description": "Returns the UMAC hash for the given challenge. "
+        },
+        {
+          "name": "get_application()",
+          "description": "Returns the application instance. "
+        },
+        {
+          "name": "get_random_int()",
+          "description": "Returns a random integer from the given range. "
+        }
+      ]
+    },
+    "Base": {
+      "classes": {
+        "FloatVector": {
+          "description": "A simple container for returning floats from Live.",
+          "methods": [
+            {
+              "name": "append()",
+              "description": ""
+            },
+            {
+              "name": "extend()",
+              "description": ""
+            }
+          ],
+          "properties": [],
+          "sub_classes": []
+        },
+        "IntVector": {
+          "description": "A simple container for returning integers from Live.",
+          "methods": [
+            {
+              "name": "append()",
+              "description": ""
+            },
+            {
+              "name": "extend()",
+              "description": ""
+            }
+          ],
+          "properties": [],
+          "sub_classes": []
+        },
+        "LimitationError": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "ObjectVector": {
+          "description": "A simple read only container for returning python objects.",
+          "methods": [
+            {
+              "name": "append()",
+              "description": ""
+            },
+            {
+              "name": "extend()",
+              "description": ""
+            }
+          ],
+          "properties": [],
+          "sub_classes": []
+        },
+        "StringVector": {
+          "description": "A simple container for returning strings from Live.",
+          "methods": [
+            {
+              "name": "append()",
+              "description": ""
+            },
+            {
+              "name": "extend()",
+              "description": ""
+            }
+          ],
+          "properties": [],
+          "sub_classes": []
+        },
+        "Timer": {
+          "description": "A timer that will trigger a callback after a certain inverval. The timer can be repeated and will trigger the callback every interval. Errors in the callback will stop the timer.",
+          "methods": [
+            {
+              "name": "restart()",
+              "description": ""
+            },
+            {
+              "name": "start()",
+              "description": ""
+            },
+            {
+              "name": "stop()",
+              "description": ""
+            }
+          ],
+          "properties": [
+            {
+              "name": "running",
+              "description": ""
+            }
+          ],
+          "sub_classes": []
+        },
+        "Vector": {
+          "description": "A simple read only container for returning objects from Live.",
+          "methods": [
+            {
+              "name": "append()",
+              "description": ""
+            },
+            {
+              "name": "extend()",
+              "description": ""
+            }
+          ],
+          "properties": [],
+          "sub_classes": []
+        }
+      },
+      "built_ins": [
+        {
+          "name": "log()",
+          "description": ""
+        }
+      ]
+    },
+    "Browser": {
+      "classes": {
+        "Browser": {
+          "description": "This class represents the live browser data base.",
+          "methods": [
+            {
+              "name": "load_item()",
+              "description": "Loads the provided browser item. "
+            },
+            {
+              "name": "preview_item()",
+              "description": "Previews the provided browser item. "
+            },
+            {
+              "name": "relation_to_hotswap_target()",
+              "description": "Returns the relation between the given browser item and the current hotswap target "
+            },
+            {
+              "name": "stop_preview()",
+              "description": "Stop the current preview. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "audio_effects",
+              "description": "Returns a browser item with access to all the Audio Effects content."
+            },
+            {
+              "name": "clips",
+              "description": "Returns a browser item with access to all the Clips content."
+            },
+            {
+              "name": "colors",
+              "description": "Returns a list of browser items containing the configured colors."
+            },
+            {
+              "name": "current_project",
+              "description": "Returns a browser item with access to all the Current Project content."
+            },
+            {
+              "name": "drums",
+              "description": "Returns a browser item with access to all the Drums content."
+            },
+            {
+              "name": "filter_type",
+              "description": "Bang triggered when the hotswap target has changed."
+            },
+            {
+              "name": "hotswap_target",
+              "description": "Bang triggered when the hotswap target has changed."
+            },
+            {
+              "name": "instruments",
+              "description": "Returns a browser item with access to all the Instruments content."
+            },
+            {
+              "name": "legacy_libraries",
+              "description": "Returns a list of browser items containing the installed legacy libraries. The list is always empty as legacy library handling has been removed."
+            },
+            {
+              "name": "max_for_live",
+              "description": "Returns a browser item with access to all the Max For Live content."
+            },
+            {
+              "name": "midi_effects",
+              "description": "Returns a browser item with access to all the Midi Effects content."
+            },
+            {
+              "name": "packs",
+              "description": "Returns a browser item with access to all the Packs content."
+            },
+            {
+              "name": "plugins",
+              "description": "Returns a browser item with access to all the Plugins content."
+            },
+            {
+              "name": "samples",
+              "description": "Returns a browser item with access to all the Samples content."
+            },
+            {
+              "name": "sounds",
+              "description": "Returns a browser item with access to all the Sounds content."
+            },
+            {
+              "name": "user_folders",
+              "description": "Returns a list of browser items containing all the user folders."
+            },
+            {
+              "name": "user_library",
+              "description": "Returns a browser item with access to all the User Library content."
+            }
+          ],
+          "sub_classes": []
+        },
+        "BrowserItem": {
+          "description": "This class represents an item of the browser hierarchy.",
+          "methods": [],
+          "properties": [
+            {
+              "name": "children",
+              "description": "Const access to the descendants of this browser item."
+            },
+            {
+              "name": "is_device",
+              "description": "Indicates if the browser item represents a device."
+            },
+            {
+              "name": "is_folder",
+              "description": "Indicates if the browser item represents folder."
+            },
+            {
+              "name": "is_loadable",
+              "description": "True if item can be loaded via the Browser’s ‘load_item’ method."
+            },
+            {
+              "name": "is_selected",
+              "description": "True if the item is ancestor of or the actual selection."
+            },
+            {
+              "name": "iter_children",
+              "description": "Const iterable access to the descendants of this browser item."
+            },
+            {
+              "name": "name",
+              "description": "Const access to the canonical display name of this browser item."
+            },
+            {
+              "name": "source",
+              "description": "Specifies where does item come from — i.e. Live pack, user library…"
+            },
+            {
+              "name": "uri",
+              "description": "The uri describes a unique identifier for a browser item."
+            }
+          ],
+          "sub_classes": []
+        },
+        "BrowserItemIterator": {
+          "description": "This class iterates over children of another BrowserItem.",
+          "methods": [
+            {
+              "name": "next()",
+              "description": "Retrieve next item "
+            }
+          ],
+          "properties": [],
+          "sub_classes": []
+        },
+        "BrowserItemVector": {
+          "description": "A container for returning browser items from Live.",
+          "methods": [
+            {
+              "name": "append()",
+              "description": ""
+            },
+            {
+              "name": "extend()",
+              "description": ""
+            }
+          ],
+          "properties": [],
+          "sub_classes": []
+        },
+        "FilterType": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "Relation": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "Chain": {
+      "classes": {
+        "Chain": {
+          "description": "This class represents a group device chain in Live.",
+          "methods": [
+            {
+              "name": "delete_device()",
+              "description": "Remove a device identified by its index from the chain. Throws runtime error if bad index.  "
+            }
+          ],
+          "properties": [
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the chain."
+            },
+            {
+              "name": "color",
+              "description": "Access the color index of the Chain."
+            },
+            {
+              "name": "color_index",
+              "description": "Access the color index of the Chain."
+            },
+            {
+              "name": "devices",
+              "description": "Return const access to all available Devices that are present in the chains"
+            },
+            {
+              "name": "has_audio_input",
+              "description": "return True, if this Chain can be feed with an Audio signal. This istrue for all Audio Chains."
+            },
+            {
+              "name": "has_audio_output",
+              "description": "return True, if this Chain sends out an Audio signal. This istrue for all Audio Chains, and MIDI chains with an Instrument."
+            },
+            {
+              "name": "has_midi_input",
+              "description": "return True, if this Chain can be feed with an Audio signal. This istrue for all MIDI Chains."
+            },
+            {
+              "name": "has_midi_output",
+              "description": "return True, if this Chain sends out MIDI events. This istrue for all MIDI Chains with no Instruments."
+            },
+            {
+              "name": "is_auto_colored",
+              "description": "Get/set access to the auto color flag of the Chain.If True, the Chain will always have the same color as the containingTrack or Chain."
+            },
+            {
+              "name": "mixer_device",
+              "description": "Return access to the mixer device that holds the chain’s mixer parameters:the Volume, Pan, and Sendamounts."
+            },
+            {
+              "name": "mute",
+              "description": "Mute/unmute the chain."
+            },
+            {
+              "name": "muted_via_solo",
+              "description": "Return const access to whether this chain is muted due to some other chainbeing soloed."
+            },
+            {
+              "name": "name",
+              "description": "Read/write access to the name of the Chain, as visible in the track header."
+            },
+            {
+              "name": "solo",
+              "description": "Get/Set the solo status of the chain. Note that this will not disable thesolo state of any other Chain in the same rack. If you want exclusive solo, you have to disable the solo state of the other Cha"
+            }
+          ],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "DrumChain": {
+      "classes": {
+        "DrumChain": {
+          "description": "This class represents a drum group device chain in Live.",
+          "methods": [
+            {
+              "name": "delete_device()",
+              "description": "Remove a device identified by its index from the chain. Throws runtime error if bad index.  "
+            }
+          ],
+          "properties": [
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the chain."
+            },
+            {
+              "name": "choke_group",
+              "description": "Access to the chain’s choke group setting."
+            },
+            {
+              "name": "color",
+              "description": "Access the color index of the Chain."
+            },
+            {
+              "name": "color_index",
+              "description": "Access the color index of the Chain."
+            },
+            {
+              "name": "devices",
+              "description": "Return const access to all available Devices that are present in the chains"
+            },
+            {
+              "name": "has_audio_input",
+              "description": "return True, if this Chain can be feed with an Audio signal. This istrue for all Audio Chains."
+            },
+            {
+              "name": "has_audio_output",
+              "description": "return True, if this Chain sends out an Audio signal. This istrue for all Audio Chains, and MIDI chains with an Instrument."
+            },
+            {
+              "name": "has_midi_input",
+              "description": "return True, if this Chain can be feed with an Audio signal. This istrue for all MIDI Chains."
+            },
+            {
+              "name": "has_midi_output",
+              "description": "return True, if this Chain sends out MIDI events. This istrue for all MIDI Chains with no Instruments."
+            },
+            {
+              "name": "is_auto_colored",
+              "description": "Get/set access to the auto color flag of the Chain.If True, the Chain will always have the same color as the containingTrack or Chain."
+            },
+            {
+              "name": "mixer_device",
+              "description": "Return access to the mixer device that holds the chain’s mixer parameters:the Volume, Pan, and Sendamounts."
+            },
+            {
+              "name": "mute",
+              "description": "Mute/unmute the chain."
+            },
+            {
+              "name": "muted_via_solo",
+              "description": "Return const access to whether this chain is muted due to some other chainbeing soloed."
+            },
+            {
+              "name": "name",
+              "description": "Read/write access to the name of the Chain, as visible in the track header."
+            },
+            {
+              "name": "out_note",
+              "description": "Access to the MIDI note sent to the devices in the chain."
+            },
+            {
+              "name": "solo",
+              "description": "Get/Set the solo status of the chain. Note that this will not disable thesolo state of any other Chain in the same rack. If you want exclusive solo, you have to disable the solo state of the other Cha"
+            }
+          ],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "Clip": {
+      "classes": {
+        "AutomationEnvelope": {
+          "description": "Describes parameter automation per clip.",
+          "methods": [
+            {
+              "name": "insert_step()",
+              "description": ""
+            },
+            {
+              "name": "value_at_time()",
+              "description": ""
+            }
+          ],
+          "properties": [],
+          "sub_classes": []
+        },
+        "Clip": {
+          "description": "This class represents a Clip in Live. It can be either an AudioClip or a MIDI Clip, in an Arrangement or the Session, dependingon the Track (Slot) it lives in.",
+          "methods": [
+            {
+              "name": "add_new_notes()",
+              "description": "Expects a Python iterable holding a number of Live.Clip.MidiNoteSpecification objects. The objects will be used to construct new notes in the clip. "
+            },
+            {
+              "name": "apply_note_modifications()",
+              "description": "Expects a list of notes as returned from get_notes_extended. The content of the list will be used to modify existing notes in the clip, based on matching note IDs. This function should be used when mo"
+            },
+            {
+              "name": "automation_envelope()",
+              "description": "Return the envelope for the given parameter.Returns None if the envelope doesn’t exist.Returns None for Arrangement clips.Returns None for parameters from a different track. "
+            },
+            {
+              "name": "beat_to_sample_time()",
+              "description": "Available for AudioClips only. Converts the given beat time to sample time. Raises an error if the sample is not warped. "
+            },
+            {
+              "name": "clear_all_envelopes()",
+              "description": "Clears all envelopes for this clip. "
+            },
+            {
+              "name": "clear_envelope()",
+              "description": "Clears the envelope of this clips given parameter. "
+            },
+            {
+              "name": "create_automation_envelope()",
+              "description": "Creates an envelope for a given parameter and returns it.This should only be used if the envelope doesn’t exist.Raises an error if the envelope can’t be created. "
+            },
+            {
+              "name": "crop()",
+              "description": "Crops the clip. The region that is cropped depends on whether the clip is looped or not. If looped, the region outside of the loop is removed. If not looped, the region outside the start and end marke"
+            },
+            {
+              "name": "deselect_all_notes()",
+              "description": "De-selects all notes present in the clip. "
+            },
+            {
+              "name": "duplicate_loop()",
+              "description": "Make the loop two times longer and duplicates notes and envelopes. Duplicates the clip start/end range if the clip is not looped. "
+            },
+            {
+              "name": "duplicate_region()",
+              "description": "Duplicate the notes in the specified region to the destination_time. Only notes of the specified pitch are duplicated or all if pitch is -1. If the transposition_amount is not 0, the notes in the regi"
+            },
+            {
+              "name": "fire()",
+              "description": "(Re)Start playing this Clip. "
+            },
+            {
+              "name": "get_notes()",
+              "description": "Returns a tuple of tuples where each inner tuple represents a note starting in the given pitch- and time range. The inner tuple contains pitch, time, duration, velocity, and mute state. "
+            },
+            {
+              "name": "get_notes_by_id()",
+              "description": "Return a list of MIDI notes matching the given note IDs.  "
+            },
+            {
+              "name": "get_notes_extended()",
+              "description": "Returns a list of MIDI notes from the given pitch and time range. Each note is represented by a Live.Clip.MidiNote object. The returned list can be modified freely, but modifications will not be refle"
+            },
+            {
+              "name": "get_selected_notes()",
+              "description": "Returns a tuple of tuples where each inner tuple represents a selected note. The inner tuple contains pitch, time, duration, velocity, and mute state. "
+            },
+            {
+              "name": "get_selected_notes_extended()",
+              "description": "Returns a list of all MIDI notes from the clip that are currently selected. Each note is represented by a Live.Clip.MidiNote object. The returned list can be modified freely, but modifications will no"
+            },
+            {
+              "name": "move_playing_pos()",
+              "description": "Jump forward or backward by the specified relative amount in beats. Will do nothing, if the Clip is not playing. "
+            },
+            {
+              "name": "quantize()",
+              "description": "Quantize all notes in a clip or align warp markers. "
+            },
+            {
+              "name": "quantize_pitch()",
+              "description": "Quantize all the notes of a given pitch.  Raises an error on audio clips. "
+            },
+            {
+              "name": "remove_notes()",
+              "description": "Delete all notes starting in the given pitch- and time range. "
+            },
+            {
+              "name": "remove_notes_by_id()",
+              "description": "Delete all notes matching the given note IDs. This function should NOT be used to implement modification of existing notes (i.e. in combination with add_new_notes), as that leads to loss of per-note e"
+            },
+            {
+              "name": "remove_notes_extended()",
+              "description": "Delete all notes starting in the given pitch and time range. This function should NOT be used to implement modification of existing notes (i.e. in combination with add_new_notes), as that leads to los"
+            },
+            {
+              "name": "replace_selected_notes()",
+              "description": "Called with a tuple of tuples where each inner tuple represents a note in the same format as returned by get_selected_notes. The notes described that way will then be used to replace the old selection"
+            },
+            {
+              "name": "sample_to_beat_time()",
+              "description": "Available for AudioClips only. Converts the given sample time to beat time. Raises an error if the sample is not warped. "
+            },
+            {
+              "name": "scrub()",
+              "description": "Scrubs inside a clip. scrub_position defines the position in beats that the scrub will start from. The scrub will continue until stop_scrub is called. Global quantization applies to the scrub’s positi"
+            },
+            {
+              "name": "seconds_to_sample_time()",
+              "description": "Available for AudioClips only. Converts the given seconds to sample time. Raises an error if the sample is warped. "
+            },
+            {
+              "name": "select_all_notes()",
+              "description": "Selects all notes present in the clip. "
+            },
+            {
+              "name": "set_fire_button_state()",
+              "description": "Set the clip’s fire button state directly. Supports all launch modes. "
+            },
+            {
+              "name": "set_notes()",
+              "description": "Called with a tuple of tuples where each inner tuple represents a note in the same format as returned by get_notes. The notes described that way will then be added to the clip. "
+            },
+            {
+              "name": "stop()",
+              "description": "Stop playing this Clip. "
+            },
+            {
+              "name": "stop_scrub()",
+              "description": "Stops the current scrub. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "available_warp_modes",
+              "description": "Available for AudioClips only.Get/Set the available warp modes, that can be used."
+            },
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the Clip."
+            },
+            {
+              "name": "color",
+              "description": "Get/set access to the color of the Clip (RGB)."
+            },
+            {
+              "name": "color_index",
+              "description": "Get/set access to the color index of the Clip."
+            },
+            {
+              "name": "end_marker",
+              "description": "Get/Set the Clips end marker pos in beats/seconds (unit depends on warping)."
+            },
+            {
+              "name": "end_time",
+              "description": "Get the clip’s end time."
+            },
+            {
+              "name": "file_path",
+              "description": "Get the path of the file represented by the Audio Clip."
+            },
+            {
+              "name": "gain",
+              "description": "Available for AudioClips only.Read/write access to the gain setting of theAudio Clip"
+            },
+            {
+              "name": "gain_display_string",
+              "description": "Return a string with the gain as dB value"
+            },
+            {
+              "name": "groove",
+              "description": "Get the groove associated with this clip."
+            },
+            {
+              "name": "has_envelopes",
+              "description": "Will notify if the clip gets his first envelope or the last envelope is removed."
+            },
+            {
+              "name": "has_groove",
+              "description": "Returns true if a groove is associated with this clip."
+            },
+            {
+              "name": "is_arrangement_clip",
+              "description": "return true if this Clip is an Arrangement Clip.A Clip can be either a Session or Arrangement Clip."
+            },
+            {
+              "name": "is_audio_clip",
+              "description": "Return true if this Clip is an Audio Clip.A Clip can be either an Audioclip or a MIDI Clip."
+            },
+            {
+              "name": "is_midi_clip",
+              "description": "return true if this Clip is a MIDI Clip.A Clip can be either an Audioclip or a MIDI Clip."
+            },
+            {
+              "name": "is_overdubbing",
+              "description": "returns true if the Clip is recording overdubs"
+            },
+            {
+              "name": "is_playing",
+              "description": "Get/Set if this Clip is currently playing. If the Clips trigger modeis set to a quantization value, the Clip will not start playing immediately.If you need to know wether the Clip was triggered, use t"
+            },
+            {
+              "name": "is_recording",
+              "description": "returns true if the Clip was triggered to record or is recording."
+            },
+            {
+              "name": "is_triggered",
+              "description": "returns true if the Clip was triggered or is playing."
+            },
+            {
+              "name": "launch_mode",
+              "description": "Get/Set access to the launch mode setting of the Clip."
+            },
+            {
+              "name": "launch_quantization",
+              "description": "Get/Set access to the launch quantization setting of the Clip."
+            },
+            {
+              "name": "legato",
+              "description": "Get/Set access to the legato setting of the Clip"
+            },
+            {
+              "name": "length",
+              "description": "Get to the Clips length in beats/seconds (unit depends on warping)."
+            },
+            {
+              "name": "loop_end",
+              "description": "Get/Set the loop end pos of this Clip in beats/seconds (unit depends on warping)."
+            },
+            {
+              "name": "loop_start",
+              "description": "Get/Set the Clips loopstart pos in beats/seconds (unit depends on warping)."
+            },
+            {
+              "name": "looping",
+              "description": "Get/Set the Clips ‘loop is enabled’ flag.Only Warped Audio Clips or MIDI Clip can be looped."
+            },
+            {
+              "name": "muted",
+              "description": "Read/write access to the mute state of the Clip."
+            },
+            {
+              "name": "name",
+              "description": "Read/write access to the name of the Clip."
+            },
+            {
+              "name": "pitch_coarse",
+              "description": "Available for AudioClips only.Read/write access to the pitch (in halftones) setting of theAudio Clip, ranging from -48 to 48"
+            },
+            {
+              "name": "pitch_fine",
+              "description": "Available for AudioClips only.Read/write access to the pitch fine setting of theAudio Clip, ranging from -500 to 500"
+            },
+            {
+              "name": "playing_position",
+              "description": "Constant access to the current playing position of the clip.The returned value is the position in beats for midi and warped audio clips, or in seconds for unwarped audio clips. Stopped clips will retu"
+            },
+            {
+              "name": "position",
+              "description": "Get/Set the loop position of this Clip in beats/seconds (unit depends on warping)."
+            },
+            {
+              "name": "ram_mode",
+              "description": "Available for AudioClips only.Read/write access to the Ram mode setting of the Audio Clip"
+            },
+            {
+              "name": "sample_length",
+              "description": "Available for AudioClips only.Get the sample length in sample time or -1 if there is no sample available."
+            },
+            {
+              "name": "signature_denominator",
+              "description": "Get/Set access to the global signature denominator of the Clip."
+            },
+            {
+              "name": "signature_numerator",
+              "description": "Get/Set access to the global signature numerator of the Clip."
+            },
+            {
+              "name": "start_marker",
+              "description": "Get/Set the Clips start marker pos in beats/seconds (unit depends on warping)."
+            },
+            {
+              "name": "start_time",
+              "description": "Get the clip’s start time offset. For Session View clips, this is the time the clip was started. For Arrangement View clips, this is the offset within the arrangement."
+            },
+            {
+              "name": "velocity_amount",
+              "description": "Get/Set access to the velocity to volume amount of the Clip."
+            },
+            {
+              "name": "view",
+              "description": "Get the view of the Clip."
+            },
+            {
+              "name": "warp_markers",
+              "description": "Available for AudioClips only.Get the warp markers for this audio clip."
+            },
+            {
+              "name": "warp_mode",
+              "description": "Available for AudioClips only.Get/Set the warp mode for this audio clip."
+            },
+            {
+              "name": "warping",
+              "description": "Available for AudioClips only.Get/Set if this Clip is timestreched."
+            },
+            {
+              "name": "will_record_on_start",
+              "description": "returns true if the Clip will record on being started."
+            }
+          ],
+          "sub_classes": [
+            {
+              "name": "View",
+              "methods": [
+                "hide_envelope()",
+                "select_envelope_parameter()",
+                "show_envelope()",
+                "show_loop()"
+              ],
+              "properties": [
+                "canonical_parent",
+                "grid_is_triplet",
+                "grid_quantization"
+              ]
+            }
+          ]
+        },
+        "ClipLaunchQuantization": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "GridQuantization": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "LaunchMode": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "MidiNote": {
+          "description": "An object representing a MIDI Note",
+          "methods": [],
+          "properties": [
+            {
+              "name": "duration",
+              "description": ""
+            },
+            {
+              "name": "mute",
+              "description": ""
+            },
+            {
+              "name": "note_id",
+              "description": "A numerical ID that’s unique within the originating clip of the note. Not to beused directly, but important for other API calls, namely apply_note_modifications."
+            },
+            {
+              "name": "pitch",
+              "description": ""
+            },
+            {
+              "name": "probability",
+              "description": ""
+            },
+            {
+              "name": "release_velocity",
+              "description": ""
+            },
+            {
+              "name": "start_time",
+              "description": ""
+            },
+            {
+              "name": "velocity",
+              "description": ""
+            },
+            {
+              "name": "velocity_deviation",
+              "description": ""
+            }
+          ],
+          "sub_classes": []
+        },
+        "MidiNoteSpecification": {
+          "description": "An object specifying the data for creating a MIDI note. To be used with the add_new_notes function.",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "MidiNoteVector": {
+          "description": "A container for holding MIDI notes from Live.",
+          "methods": [
+            {
+              "name": "append()",
+              "description": ""
+            },
+            {
+              "name": "extend()",
+              "description": ""
+            }
+          ],
+          "properties": [],
+          "sub_classes": []
+        },
+        "WarpMarker": {
+          "description": "This class represents a WarpMarker type.",
+          "methods": [],
+          "properties": [
+            {
+              "name": "beat_time",
+              "description": "A WarpMarker’s beat time."
+            },
+            {
+              "name": "sample_time",
+              "description": "A WarpMarker’s sample time."
+            }
+          ],
+          "sub_classes": []
+        },
+        "WarpMarkerVector": {
+          "description": "A container for returning warp markers from Live.",
+          "methods": [
+            {
+              "name": "append()",
+              "description": ""
+            },
+            {
+              "name": "extend()",
+              "description": ""
+            }
+          ],
+          "properties": [],
+          "sub_classes": []
+        },
+        "WarpMode": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "ClipSlot": {
+      "classes": {
+        "ClipSlot": {
+          "description": "This class represents an entry in Lives Session view matrix.",
+          "methods": [
+            {
+              "name": "create_clip()",
+              "description": "Creates an empty clip with the given length in the slot. Throws an error when called on non-empty slots or slots in non-MIDI tracks. "
+            },
+            {
+              "name": "delete_clip()",
+              "description": "Removes the clip contained in the slot. Raises an exception if the slot was empty. "
+            },
+            {
+              "name": "duplicate_clip_to()",
+              "description": "Duplicates the slot’s clip to the passed in target slot. Overrides the target’s clip if it’s not empty. Raises an exception if the (source) slot itself is empty, or if source and target have different"
+            },
+            {
+              "name": "fire()",
+              "description": "Fire a Clip if this Clipslot owns one, else trigger the stop button, if we have one. "
+            },
+            {
+              "name": "set_fire_button_state()",
+              "description": "Set the clipslot’s fire button state directly. Supports all launch modes. "
+            },
+            {
+              "name": "stop()",
+              "description": "Stop playing the contained Clip, if there is a Clip and its currently playing. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the ClipSlot."
+            },
+            {
+              "name": "clip",
+              "description": "Returns the Clip which this clipslots currently owns. Might be None."
+            },
+            {
+              "name": "color",
+              "description": "Returns the canonical color for the clip slot or None if it does not exist."
+            },
+            {
+              "name": "color_index",
+              "description": "Returns the canonical color index for the clip slot or None if it does not exist."
+            },
+            {
+              "name": "controls_other_clips",
+              "description": "Returns true if firing this slot will fire clips in other slots.Can only be true for slots in group tracks."
+            },
+            {
+              "name": "has_clip",
+              "description": "Returns true if this Clipslot owns a Clip."
+            },
+            {
+              "name": "has_stop_button",
+              "description": "Get/Set if this Clip has a stop button, which will, if fired, stop anyother Clip that is currently playing the Track we do belong to."
+            },
+            {
+              "name": "is_group_slot",
+              "description": "Returns whether this clip slot is a group track slot (group slot)."
+            },
+            {
+              "name": "is_playing",
+              "description": "Returns whether the clip associated with the slot is playing."
+            },
+            {
+              "name": "is_recording",
+              "description": "Returns whether the clip associated with the slot is recording."
+            },
+            {
+              "name": "is_triggered",
+              "description": "Const access to the triggering state of the clip slot."
+            },
+            {
+              "name": "playing_status",
+              "description": "Const access to the playing state of the clip slot.Can be either stopped, playing, or recording."
+            },
+            {
+              "name": "will_record_on_start",
+              "description": "returns true if the clip slot will record on being fired."
+            }
+          ],
+          "sub_classes": []
+        },
+        "ClipSlotPlayingState": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "Conversions": {
+      "classes": {
+        "AudioToMidiType": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        }
+      },
+      "built_ins": [
+        {
+          "name": "audio_to_midi_clip()",
+          "description": "Creates a MIDI clip in a new MIDI track with the notes extracted from the given audio_clip. The `audio_to_midi_type` decides which algorithm is used in the process. Raises error when called with an in"
+        },
+        {
+          "name": "create_drum_rack_from_audio_clip()",
+          "description": "Creates a new track with a drum rack with a simpler on the first pad with the specified audio clip. "
+        },
+        {
+          "name": "create_midi_track_from_drum_pad()",
+          "description": "Creates a new Midi track containing the specified Drum Pad’s device chain. "
+        },
+        {
+          "name": "create_midi_track_with_simpler()",
+          "description": "Creates a new Midi track with a simpler including the specified audio clip. "
+        },
+        {
+          "name": "is_convertible_to_midi()",
+          "description": "Returns whether `audio_clip` can be converted to MIDI. Raises error when called with a MIDI clip "
+        },
+        {
+          "name": "move_devices_on_track_to_new_drum_rack_pad()",
+          "description": "Moves the entire device chain of the track according to the track index onto the C1 (note 36) drum pad of a new drum rack in a new track.If the track associated with the track index does not contain a"
+        },
+        {
+          "name": "sliced_simpler_to_drum_rack()",
+          "description": "Converts the Simpler into a Drum Rack, assigning each slice to a drum pad. Calling it on a non-sliced simpler raises an error. "
+        }
+      ]
+    },
+    "Device": {
+      "classes": {
+        "ATimeableValueVector": {
+          "description": "",
+          "methods": [
+            {
+              "name": "append()",
+              "description": ""
+            },
+            {
+              "name": "extend()",
+              "description": ""
+            }
+          ],
+          "properties": [],
+          "sub_classes": []
+        },
+        "Device": {
+          "description": "This class represents a MIDI or Audio DSP-Device in Live.",
+          "methods": [
+            {
+              "name": "store_chosen_bank()",
+              "description": "Set the selected bank in the device for persistency. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "can_have_chains",
+              "description": "Returns true if the device is a rack."
+            },
+            {
+              "name": "can_have_drum_pads",
+              "description": "Returns true if the device is a drum rack."
+            },
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the Device."
+            },
+            {
+              "name": "class_display_name",
+              "description": "Return const access to the name of the device’s class name as displayed in Live’s browser and device chain"
+            },
+            {
+              "name": "class_name",
+              "description": "Return const access to the name of the device’s class."
+            },
+            {
+              "name": "is_active",
+              "description": "Return const access to whether this device is active. This will be false bothwhen the device is off and when it’s inside a rack device which is off."
+            },
+            {
+              "name": "name",
+              "description": "Return access to the name of the device."
+            },
+            {
+              "name": "parameters",
+              "description": "Const access to the list of available automatable parameters for this device."
+            },
+            {
+              "name": "type",
+              "description": "Return the type of the device."
+            },
+            {
+              "name": "view",
+              "description": "Representing the view aspects of a device."
+            }
+          ],
+          "sub_classes": [
+            {
+              "name": "View",
+              "methods": [],
+              "properties": [
+                "canonical_parent",
+                "is_collapsed"
+              ]
+            }
+          ]
+        },
+        "DeviceType": {
+          "description": "The type of the device.",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "ChainMixerDevice": {
+      "classes": {
+        "ChainMixerDevice": {
+          "description": "This class represents a Chain’s Mixer Device in Live, which gives youaccess to the Volume, Panning, and Send properties of a Chain.",
+          "methods": [],
+          "properties": [
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the mixer device."
+            },
+            {
+              "name": "chain_activator",
+              "description": "Const access to the Chain’s Activator Device Parameter."
+            },
+            {
+              "name": "panning",
+              "description": "Const access to the Chain’s Panning Device Parameter."
+            },
+            {
+              "name": "sends",
+              "description": "Const access to the Chain’s list of Send Amount Device Parameters."
+            },
+            {
+              "name": "volume",
+              "description": "Const access to the Chain’s Volume Device Parameter."
+            }
+          ],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "CompressorDevice": {
+      "classes": {
+        "CompressorDevice": {
+          "description": "This class represents a Compressor device.",
+          "methods": [
+            {
+              "name": "store_chosen_bank()",
+              "description": "Set the selected bank in the device for persistency. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "available_input_routing_channels",
+              "description": "Return a list of source channels for input routing in the sidechain."
+            },
+            {
+              "name": "available_input_routing_types",
+              "description": "Return a list of source types for input routing in the sidechain."
+            },
+            {
+              "name": "can_have_chains",
+              "description": "Returns true if the device is a rack."
+            },
+            {
+              "name": "can_have_drum_pads",
+              "description": "Returns true if the device is a drum rack."
+            },
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the Device."
+            },
+            {
+              "name": "class_display_name",
+              "description": "Return const access to the name of the device’s class name as displayed in Live’s browser and device chain"
+            },
+            {
+              "name": "class_name",
+              "description": "Return const access to the name of the device’s class."
+            },
+            {
+              "name": "input_routing_channel",
+              "description": "Get and set the current source channel for input routing in the sidechain.Raises ValueError if the channel isn’t one of the current values inavailable_input_routing_channels."
+            },
+            {
+              "name": "input_routing_type",
+              "description": "Get and set the current source type for input routing in the sidechain.Raises ValueError if the type isn’t one of the current values inavailable_input_routing_types."
+            },
+            {
+              "name": "is_active",
+              "description": "Return const access to whether this device is active. This will be false bothwhen the device is off and when it’s inside a rack device which is off."
+            },
+            {
+              "name": "name",
+              "description": "Return access to the name of the device."
+            },
+            {
+              "name": "parameters",
+              "description": "Const access to the list of available automatable parameters for this device."
+            },
+            {
+              "name": "type",
+              "description": "Return the type of the device."
+            },
+            {
+              "name": "view",
+              "description": "Representing the view aspects of a device."
+            }
+          ],
+          "sub_classes": [
+            {
+              "name": "View",
+              "methods": [],
+              "properties": [
+                "canonical_parent",
+                "is_collapsed"
+              ]
+            }
+          ]
+        }
+      },
+      "built_ins": []
+    },
+    "Eq8Device": {
+      "classes": {
+        "EditMode": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "Eq8Device": {
+          "description": "This class represents an Eq8 device.",
+          "methods": [
+            {
+              "name": "store_chosen_bank()",
+              "description": "Set the selected bank in the device for persistency. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "can_have_chains",
+              "description": "Returns true if the device is a rack."
+            },
+            {
+              "name": "can_have_drum_pads",
+              "description": "Returns true if the device is a drum rack."
+            },
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the Device."
+            },
+            {
+              "name": "class_display_name",
+              "description": "Return const access to the name of the device’s class name as displayed in Live’s browser and device chain"
+            },
+            {
+              "name": "class_name",
+              "description": "Return const access to the name of the device’s class."
+            },
+            {
+              "name": "edit_mode",
+              "description": "Access to Eq8's edit mode."
+            },
+            {
+              "name": "global_mode",
+              "description": "Access to Eq8's global mode."
+            },
+            {
+              "name": "is_active",
+              "description": "Return const access to whether this device is active. This will be false bothwhen the device is off and when it’s inside a rack device which is off."
+            },
+            {
+              "name": "name",
+              "description": "Return access to the name of the device."
+            },
+            {
+              "name": "oversample",
+              "description": "Access to Eq8's oversample value."
+            },
+            {
+              "name": "parameters",
+              "description": "Const access to the list of available automatable parameters for this device."
+            },
+            {
+              "name": "type",
+              "description": "Return the type of the device."
+            },
+            {
+              "name": "view",
+              "description": "Representing the view aspects of a device."
+            }
+          ],
+          "sub_classes": [
+            {
+              "name": "View",
+              "methods": [],
+              "properties": [
+                "canonical_parent",
+                "is_collapsed",
+                "selected_band"
+              ]
+            }
+          ]
+        },
+        "GlobalMode": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "HybridReverbDevice": {
+      "classes": {
+        "HybridReverbDevice": {
+          "description": "This class represents a Hybrid Reverb device.",
+          "methods": [
+            {
+              "name": "store_chosen_bank()",
+              "description": "Set the selected bank in the device for persistency. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "can_have_chains",
+              "description": "Returns true if the device is a rack."
+            },
+            {
+              "name": "can_have_drum_pads",
+              "description": "Returns true if the device is a drum rack."
+            },
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the Device."
+            },
+            {
+              "name": "class_display_name",
+              "description": "Return const access to the name of the device’s class name as displayed in Live’s browser and device chain"
+            },
+            {
+              "name": "class_name",
+              "description": "Return const access to the name of the device’s class."
+            },
+            {
+              "name": "ir_attack_time",
+              "description": "Return the current IrAttackTime"
+            },
+            {
+              "name": "ir_category_index",
+              "description": "Return the current IR category index"
+            },
+            {
+              "name": "ir_category_list",
+              "description": "Return the current IR categories list"
+            },
+            {
+              "name": "ir_decay_time",
+              "description": "Return the current IrDecayTime"
+            },
+            {
+              "name": "ir_file_index",
+              "description": "Return the current IR file index"
+            },
+            {
+              "name": "ir_file_list",
+              "description": "Return the current IR file list"
+            },
+            {
+              "name": "ir_size_factor",
+              "description": "Return the current IrSizeFactor"
+            },
+            {
+              "name": "ir_time_shaping_on",
+              "description": "Return the current IrTimeShapingOn"
+            },
+            {
+              "name": "is_active",
+              "description": "Return const access to whether this device is active. This will be false bothwhen the device is off and when it’s inside a rack device which is off."
+            },
+            {
+              "name": "name",
+              "description": "Return access to the name of the device."
+            },
+            {
+              "name": "parameters",
+              "description": "Const access to the list of available automatable parameters for this device."
+            },
+            {
+              "name": "type",
+              "description": "Return the type of the device."
+            },
+            {
+              "name": "view",
+              "description": "Representing the view aspects of a device."
+            }
+          ],
+          "sub_classes": [
+            {
+              "name": "View",
+              "methods": [],
+              "properties": [
+                "canonical_parent",
+                "is_collapsed"
+              ]
+            }
+          ]
+        }
+      },
+      "built_ins": []
+    },
+    "MaxDevice": {
+      "classes": {
+        "MaxDevice": {
+          "description": "This class represents a Max for Live device.",
+          "methods": [
+            {
+              "name": "get_bank_count()",
+              "description": "Get the number of parameter banks. This is related to hardware control surfaces. "
+            },
+            {
+              "name": "get_bank_name()",
+              "description": "Get the name of a parameter bank given by index. This is related to hardware control surfaces. "
+            },
+            {
+              "name": "get_bank_parameters()",
+              "description": "Get the indices of parameters of the given bank index. Empty slots are marked as -1. Bank index -1 refers to the best-of bank. This function is related to hardware control surfaces. "
+            },
+            {
+              "name": "get_value_item_icons()",
+              "description": "Get a list of icon identifier strings for a list parameter’s values.An empty string is given where no icon should be displayed.An empty list is given when no icons should be displayed.This is related "
+            },
+            {
+              "name": "store_chosen_bank()",
+              "description": "Set the selected bank in the device for persistency. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "audio_inputs",
+              "description": "Const access to a list of all audio inputs of the device."
+            },
+            {
+              "name": "audio_outputs",
+              "description": "Const access to a list of all audio outputs of the device."
+            },
+            {
+              "name": "can_have_chains",
+              "description": "Returns true if the device is a rack."
+            },
+            {
+              "name": "can_have_drum_pads",
+              "description": "Returns true if the device is a drum rack."
+            },
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the Device."
+            },
+            {
+              "name": "class_display_name",
+              "description": "Return const access to the name of the device’s class name as displayed in Live’s browser and device chain"
+            },
+            {
+              "name": "class_name",
+              "description": "Return const access to the name of the device’s class."
+            },
+            {
+              "name": "is_active",
+              "description": "Return const access to whether this device is active. This will be false bothwhen the device is off and when it’s inside a rack device which is off."
+            },
+            {
+              "name": "midi_inputs",
+              "description": "Const access to a list of all midi outputs of the device."
+            },
+            {
+              "name": "midi_outputs",
+              "description": "Const access to a list of all midi outputs of the device."
+            },
+            {
+              "name": "name",
+              "description": "Return access to the name of the device."
+            },
+            {
+              "name": "parameters",
+              "description": "Const access to the list of available automatable parameters for this device."
+            },
+            {
+              "name": "type",
+              "description": "Return the type of the device."
+            },
+            {
+              "name": "view",
+              "description": "Representing the view aspects of a device."
+            }
+          ],
+          "sub_classes": [
+            {
+              "name": "View",
+              "methods": [],
+              "properties": [
+                "canonical_parent",
+                "is_collapsed"
+              ]
+            }
+          ]
+        }
+      },
+      "built_ins": []
+    },
+    "MixerDevice": {
+      "classes": {
+        "MixerDevice": {
+          "description": "This class represents a Mixer Device in Live, which gives youaccess to the Volume and Panning properties of a Track.",
+          "methods": [],
+          "properties": [
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the mixer device."
+            },
+            {
+              "name": "crossfade_assign",
+              "description": "Player- and ReturnTracks only: Access to the Track’s Crossfade Assign State."
+            },
+            {
+              "name": "crossfader",
+              "description": "MasterTrack only: Const access to the Crossfader."
+            },
+            {
+              "name": "cue_volume",
+              "description": "MasterTrack only: Const access to the Cue Volume Parameter."
+            },
+            {
+              "name": "left_split_stereo",
+              "description": "Const access to the Track’s Left Split Stereo Panning Device Parameter."
+            },
+            {
+              "name": "panning",
+              "description": "Const access to the Tracks Panning Device Parameter."
+            },
+            {
+              "name": "panning_mode",
+              "description": "Access to the Track’s Panning Mode."
+            },
+            {
+              "name": "right_split_stereo",
+              "description": "Const access to the Track’s Right Split Stereo Panning Device Parameter."
+            },
+            {
+              "name": "sends",
+              "description": "Const access to the Tracks list of Send Amount Device Parameters."
+            },
+            {
+              "name": "song_tempo",
+              "description": "MasterTrack only: Const access to the Song’s Tempo."
+            },
+            {
+              "name": "track_activator",
+              "description": "Const access to the Tracks Activator Device Parameter."
+            },
+            {
+              "name": "volume",
+              "description": "Const access to the Tracks Volume Device Parameter."
+            }
+          ],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "PluginDevice": {
+      "classes": {
+        "PluginDevice": {
+          "description": "This class represents a plugin device.",
+          "methods": [
+            {
+              "name": "get_parameter_names()",
+              "description": "Get the range of plugin parameter names, bound by begin and end. If end is smaller than 0 it is interpreted as the parameter count.  "
+            },
+            {
+              "name": "store_chosen_bank()",
+              "description": "Set the selected bank in the device for persistency. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "can_have_chains",
+              "description": "Returns true if the device is a rack."
+            },
+            {
+              "name": "can_have_drum_pads",
+              "description": "Returns true if the device is a drum rack."
+            },
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the Device."
+            },
+            {
+              "name": "class_display_name",
+              "description": "Return const access to the name of the device’s class name as displayed in Live’s browser and device chain"
+            },
+            {
+              "name": "class_name",
+              "description": "Return const access to the name of the device’s class."
+            },
+            {
+              "name": "is_active",
+              "description": "Return const access to whether this device is active. This will be false bothwhen the device is off and when it’s inside a rack device which is off."
+            },
+            {
+              "name": "name",
+              "description": "Return access to the name of the device."
+            },
+            {
+              "name": "parameters",
+              "description": "Const access to the list of available automatable parameters for this device."
+            },
+            {
+              "name": "presets",
+              "description": "Get the list of presets the plugin offers."
+            },
+            {
+              "name": "selected_preset_index",
+              "description": "Access to the index of the currently selected preset."
+            },
+            {
+              "name": "type",
+              "description": "Return the type of the device."
+            },
+            {
+              "name": "view",
+              "description": "Representing the view aspects of a device."
+            }
+          ],
+          "sub_classes": [
+            {
+              "name": "View",
+              "methods": [],
+              "properties": [
+                "canonical_parent",
+                "is_collapsed"
+              ]
+            }
+          ]
+        }
+      },
+      "built_ins": []
+    },
+    "RackDevice": {
+      "classes": {
+        "RackDevice": {
+          "description": "This class represents a Rack device.",
+          "methods": [
+            {
+              "name": "add_macro()",
+              "description": "Increases the number of visible macro controls in the rack. Throws an exception if the maximum number of macro controls is reached. "
+            },
+            {
+              "name": "copy_pad()",
+              "description": "Copies all contents of a drum pad from a source pad into a destination pad. copy_pad(source_index, destination_index) where source_index and destination_index correspond to the note number/index of th"
+            },
+            {
+              "name": "delete_selected_variation()",
+              "description": "Deletes the currently selected macro variation.Does nothing if there is no selected variation. "
+            },
+            {
+              "name": "randomize_macros()",
+              "description": "Randomizes the values for all macro controls not excluded from randomization. "
+            },
+            {
+              "name": "recall_last_used_variation()",
+              "description": "Recalls the macro variation that was recalled most recently.Does nothing if no variation has been recalled yet. "
+            },
+            {
+              "name": "recall_selected_variation()",
+              "description": "Recalls the currently selected macro variation.Does nothing if there are no variations. "
+            },
+            {
+              "name": "remove_macro()",
+              "description": "Decreases the number of visible macro controls in the rack. Throws an exception if the minimum number of macro controls is reached. "
+            },
+            {
+              "name": "store_chosen_bank()",
+              "description": "Set the selected bank in the device for persistency. "
+            },
+            {
+              "name": "store_variation()",
+              "description": "Stores a new variation of the values of all currently mapped macros "
+            }
+          ],
+          "properties": [
+            {
+              "name": "can_have_chains",
+              "description": "Returns true if the device is a rack."
+            },
+            {
+              "name": "can_have_drum_pads",
+              "description": "Returns true if the device is a drum rack."
+            },
+            {
+              "name": "can_show_chains",
+              "description": "return True, if this Rack contains a rack instrument device that is capable of showing its chains in session view."
+            },
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the Device."
+            },
+            {
+              "name": "chains",
+              "description": "Return const access to the list of chains in this device. Throws an exception if can_have_chains is false."
+            },
+            {
+              "name": "class_display_name",
+              "description": "Return const access to the name of the device’s class name as displayed in Live’s browser and device chain"
+            },
+            {
+              "name": "class_name",
+              "description": "Return const access to the name of the device’s class."
+            },
+            {
+              "name": "drum_pads",
+              "description": "Return const access to the list of drum pads in this device. Throws an exception if can_have_drum_pads is false."
+            },
+            {
+              "name": "has_drum_pads",
+              "description": "Returns true if the device is a drum rack which has drum pads. Throws an exception if can_have_drum_pads is false."
+            },
+            {
+              "name": "has_macro_mappings",
+              "description": "Returns true if any of the rack’s macros are mapped to a parameter."
+            },
+            {
+              "name": "is_active",
+              "description": "Return const access to whether this device is active. This will be false bothwhen the device is off and when it’s inside a rack device which is off."
+            },
+            {
+              "name": "is_showing_chains",
+              "description": "Returns True, if it is showing chains."
+            },
+            {
+              "name": "macros_mapped",
+              "description": "A list of booleans, one for each macro parameter, which is True iffthat macro is mapped to something"
+            },
+            {
+              "name": "name",
+              "description": "Return access to the name of the device."
+            },
+            {
+              "name": "parameters",
+              "description": "Const access to the list of available automatable parameters for this device."
+            },
+            {
+              "name": "return_chains",
+              "description": "Return const access to the list of return chains in this device. Throws an exception if can_have_chains is false."
+            },
+            {
+              "name": "selected_variation_index",
+              "description": "Access to the index of the currently selected macro variation.Throws an exception if the index is out of range."
+            },
+            {
+              "name": "type",
+              "description": "Return the type of the device."
+            },
+            {
+              "name": "variation_count",
+              "description": "Access to the number of macro variations currently stored."
+            },
+            {
+              "name": "view",
+              "description": "Representing the view aspects of a device."
+            },
+            {
+              "name": "visible_drum_pads",
+              "description": "Return const access to the list of visible drum pads in this device. Throws an exception if can_have_drum_pads is false."
+            }
+          ],
+          "sub_classes": [
+            {
+              "name": "View",
+              "methods": [],
+              "properties": [
+                "canonical_parent",
+                "drum_pads_scroll_position",
+                "is_collapsed",
+                "is_showing_chain_devices",
+                "selected_chain",
+                "selected_drum_pad"
+              ]
+            }
+          ]
+        }
+      },
+      "built_ins": []
+    },
+    "SimplerDevice": {
+      "classes": {
+        "PlaybackMode": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "SimplerDevice": {
+          "description": "This class represents a Simpler device.",
+          "methods": [
+            {
+              "name": "crop()",
+              "description": "Crop the loaded sample to the active area between start- and end marker. Calling this method on an empty simpler raises an error. "
+            },
+            {
+              "name": "guess_playback_length()",
+              "description": "Return an estimated beat time for the playback length between start- and end-marker. Calling this method on an empty simpler raises an error. "
+            },
+            {
+              "name": "reverse()",
+              "description": "Reverse the loaded sample. Calling this method on an empty simpler raises an error. "
+            },
+            {
+              "name": "store_chosen_bank()",
+              "description": "Set the selected bank in the device for persistency. "
+            },
+            {
+              "name": "warp_as()",
+              "description": "Warp the playback region between start- and end-marker as the given length. Calling this method on an empty simpler raises an error. "
+            },
+            {
+              "name": "warp_double()",
+              "description": "Doubles the tempo for region between start- and end-marker. "
+            },
+            {
+              "name": "warp_half()",
+              "description": "Halves the tempo for region between start- and end-marker. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "can_have_chains",
+              "description": "Returns true if the device is a rack."
+            },
+            {
+              "name": "can_have_drum_pads",
+              "description": "Returns true if the device is a drum rack."
+            },
+            {
+              "name": "can_warp_as",
+              "description": "Returns true if warp_as is available."
+            },
+            {
+              "name": "can_warp_double",
+              "description": "Returns true if warp_double is available."
+            },
+            {
+              "name": "can_warp_half",
+              "description": "Returns true if warp_half is available."
+            },
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the Device."
+            },
+            {
+              "name": "class_display_name",
+              "description": "Return const access to the name of the device’s class name as displayed in Live’s browser and device chain"
+            },
+            {
+              "name": "class_name",
+              "description": "Return const access to the name of the device’s class."
+            },
+            {
+              "name": "is_active",
+              "description": "Return const access to whether this device is active. This will be false bothwhen the device is off and when it’s inside a rack device which is off."
+            },
+            {
+              "name": "multi_sample_mode",
+              "description": "Returns whether Simpler is in mulit-sample mode."
+            },
+            {
+              "name": "name",
+              "description": "Return access to the name of the device."
+            },
+            {
+              "name": "pad_slicing",
+              "description": "When set to true, slices can be added in slicing mode by playing notes .that are not assigned to slices, yet."
+            },
+            {
+              "name": "parameters",
+              "description": "Const access to the list of available automatable parameters for this device."
+            },
+            {
+              "name": "playback_mode",
+              "description": "Access to Simpler’s playback mode."
+            },
+            {
+              "name": "playing_position",
+              "description": "Constant access to the current playing position in the sample.The returned value is the normalized position between sample start and end."
+            },
+            {
+              "name": "playing_position_enabled",
+              "description": "Returns whether Simpler is showing the playing position.The returned value is True while the sample is played back"
+            },
+            {
+              "name": "retrigger",
+              "description": "Access to Simpler’s retrigger mode."
+            },
+            {
+              "name": "sample",
+              "description": "Get the loaded Sample."
+            },
+            {
+              "name": "slicing_playback_mode",
+              "description": "Access to Simpler’s slicing playback mode."
+            },
+            {
+              "name": "type",
+              "description": "Return the type of the device."
+            },
+            {
+              "name": "view",
+              "description": "Representing the view aspects of a device."
+            },
+            {
+              "name": "voices",
+              "description": "Access to the number of voices in Simpler."
+            }
+          ],
+          "sub_classes": [
+            {
+              "name": "View",
+              "methods": [],
+              "properties": [
+                "canonical_parent",
+                "is_collapsed",
+                "sample_end",
+                "sample_env_fade_in",
+                "sample_env_fade_out",
+                "sample_loop_end",
+                "sample_loop_fade",
+                "sample_loop_start",
+                "sample_start",
+                "selected_slice"
+              ]
+            }
+          ]
+        },
+        "SlicingPlaybackMode": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        }
+      },
+      "built_ins": [
+        {
+          "name": "get_available_voice_numbers()",
+          "description": "Get a vector of valid Simpler voice numbers. "
+        }
+      ]
+    },
+    "TransmuteDevice": {
+      "classes": {
+        "TransmuteDevice": {
+          "description": "This class represents a Transmute device.",
+          "methods": [
+            {
+              "name": "store_chosen_bank()",
+              "description": "Set the selected bank in the device for persistency. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "can_have_chains",
+              "description": "Returns true if the device is a rack."
+            },
+            {
+              "name": "can_have_drum_pads",
+              "description": "Returns true if the device is a drum rack."
+            },
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the Device."
+            },
+            {
+              "name": "class_display_name",
+              "description": "Return const access to the name of the device’s class name as displayed in Live’s browser and device chain"
+            },
+            {
+              "name": "class_name",
+              "description": "Return const access to the name of the device’s class."
+            },
+            {
+              "name": "frequency_dial_mode_index",
+              "description": "Return the current frequency dial mode index"
+            },
+            {
+              "name": "frequency_dial_mode_list",
+              "description": "Return the current frequency dial mode list"
+            },
+            {
+              "name": "is_active",
+              "description": "Return const access to whether this device is active. This will be false bothwhen the device is off and when it’s inside a rack device which is off."
+            },
+            {
+              "name": "midi_gate_index",
+              "description": "Return the current midi gate index"
+            },
+            {
+              "name": "midi_gate_list",
+              "description": "Return the current midi gate list"
+            },
+            {
+              "name": "mod_mode_index",
+              "description": "Return the current mod mode index"
+            },
+            {
+              "name": "mod_mode_list",
+              "description": "Return the current mod mode list"
+            },
+            {
+              "name": "mono_poly_index",
+              "description": "Return the current mono poly mode index"
+            },
+            {
+              "name": "mono_poly_list",
+              "description": "Return the current mono poly mode list"
+            },
+            {
+              "name": "name",
+              "description": "Return access to the name of the device."
+            },
+            {
+              "name": "parameters",
+              "description": "Const access to the list of available automatable parameters for this device."
+            },
+            {
+              "name": "pitch_bend_range",
+              "description": "Return the current pitch bend range"
+            },
+            {
+              "name": "pitch_mode_index",
+              "description": "Return the current pitch mode index"
+            },
+            {
+              "name": "pitch_mode_list",
+              "description": "Return the current pitch mode list"
+            },
+            {
+              "name": "polyphony",
+              "description": "Return the current polyphony"
+            },
+            {
+              "name": "type",
+              "description": "Return the type of the device."
+            },
+            {
+              "name": "view",
+              "description": "Representing the view aspects of a device."
+            }
+          ],
+          "sub_classes": [
+            {
+              "name": "View",
+              "methods": [],
+              "properties": [
+                "canonical_parent",
+                "is_collapsed"
+              ]
+            }
+          ]
+        }
+      },
+      "built_ins": []
+    },
+    "WavetableDevice": {
+      "classes": {
+        "EffectMode": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "FilterRouting": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "ModulationSource": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "UnisonMode": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "VoiceCount": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "Voicing": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "WavetableDevice": {
+          "description": "This class represents a Wavetable device.",
+          "methods": [
+            {
+              "name": "add_parameter_to_modulation_matrix()",
+              "description": "Add a non-pitch parameter to the modulation matrix. "
+            },
+            {
+              "name": "get_modulation_target_parameter_name()",
+              "description": "Get the parameter name of the modulation target at the given index. "
+            },
+            {
+              "name": "get_modulation_value()",
+              "description": "Get the value of a modulation amount for the given target-source connection. "
+            },
+            {
+              "name": "is_parameter_modulatable()",
+              "description": "Indicate whether the parameter is modulatable. Note that pitch parameters only exist in python and must be handled there. "
+            },
+            {
+              "name": "set_modulation_value()",
+              "description": "Set the value of a modulation amount for the given target-source connection. "
+            },
+            {
+              "name": "store_chosen_bank()",
+              "description": "Set the selected bank in the device for persistency. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "can_have_chains",
+              "description": "Returns true if the device is a rack."
+            },
+            {
+              "name": "can_have_drum_pads",
+              "description": "Returns true if the device is a drum rack."
+            },
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the Device."
+            },
+            {
+              "name": "class_display_name",
+              "description": "Return const access to the name of the device’s class name as displayed in Live’s browser and device chain"
+            },
+            {
+              "name": "class_name",
+              "description": "Return const access to the name of the device’s class."
+            },
+            {
+              "name": "filter_routing",
+              "description": "Return the current filter routing."
+            },
+            {
+              "name": "is_active",
+              "description": "Return const access to whether this device is active. This will be false bothwhen the device is off and when it’s inside a rack device which is off."
+            },
+            {
+              "name": "mono_poly",
+              "description": "Return the current voicing mode."
+            },
+            {
+              "name": "name",
+              "description": "Return access to the name of the device."
+            },
+            {
+              "name": "oscillator_1_effect_mode",
+              "description": "Return the current effect mode of the oscillator 1."
+            },
+            {
+              "name": "oscillator_1_wavetable_category",
+              "description": "Return the current wavetable category of the oscillator 1."
+            },
+            {
+              "name": "oscillator_1_wavetable_index",
+              "description": "Return the current wavetable index of the oscillator 1."
+            },
+            {
+              "name": "oscillator_1_wavetables",
+              "description": "Get a vector of oscillator 1's wavetable names."
+            },
+            {
+              "name": "oscillator_2_effect_mode",
+              "description": "Return the current effect mode of the oscillator 2."
+            },
+            {
+              "name": "oscillator_2_wavetable_category",
+              "description": "Return the current wavetable category of the oscillator 2."
+            },
+            {
+              "name": "oscillator_2_wavetable_index",
+              "description": "Return the current wavetable index of the oscillator 2."
+            },
+            {
+              "name": "oscillator_2_wavetables",
+              "description": "Get a vector of oscillator 2's wavetable names."
+            },
+            {
+              "name": "oscillator_wavetable_categories",
+              "description": "Get a vector of the available wavetable categories."
+            },
+            {
+              "name": "parameters",
+              "description": "Const access to the list of available automatable parameters for this device."
+            },
+            {
+              "name": "poly_voices",
+              "description": "Return the current number of polyphonic voices. Uses the VoiceCount enumeration."
+            },
+            {
+              "name": "type",
+              "description": "Return the type of the device."
+            },
+            {
+              "name": "unison_mode",
+              "description": "Return the current unison mode."
+            },
+            {
+              "name": "unison_voice_count",
+              "description": "Return the current number of unison voices."
+            },
+            {
+              "name": "view",
+              "description": "Representing the view aspects of a device."
+            },
+            {
+              "name": "visible_modulation_target_names",
+              "description": "Get the names of all the visible modulation targets."
+            }
+          ],
+          "sub_classes": [
+            {
+              "name": "View",
+              "methods": [],
+              "properties": [
+                "canonical_parent",
+                "is_collapsed"
+              ]
+            }
+          ]
+        }
+      },
+      "built_ins": []
+    },
+    "DeviceIO": {
+      "classes": {
+        "DeviceIO": {
+          "description": "This class represents a specific input or output bus of a device.",
+          "methods": [],
+          "properties": [
+            {
+              "name": "available_routing_channels",
+              "description": "Return a list of channels for this IO endpoint."
+            },
+            {
+              "name": "available_routing_types",
+              "description": "Return a list of available routing types for this IO endpoint."
+            },
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the device IO."
+            },
+            {
+              "name": "default_external_routing_channel_is_none",
+              "description": "Get and set whether the default routing channel for External routing types is none."
+            },
+            {
+              "name": "routing_channel",
+              "description": "Get and set the current routing channel.Raises ValueError if the channel isn’t one of the current values inavailable_routing_channels."
+            },
+            {
+              "name": "routing_type",
+              "description": "Get and set the current routing type.Raises ValueError if the type isn’t one of the current values inavailable_routing_types."
+            }
+          ],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "DeviceParameter": {
+      "classes": {
+        "AutomationState": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "DeviceParameter": {
+          "description": "This class represents a (automatable) parameter within a MIDI orAudio DSP-Device.",
+          "methods": [
+            {
+              "name": "begin_gesture()",
+              "description": "Notify the begin of a modification of the parameter, when a sequence of modifications have to be consider a consistent group — for Sexample, when recording automation. "
+            },
+            {
+              "name": "end_gesture()",
+              "description": "Notify the end of a modification of the parameter. See begin_gesture. "
+            },
+            {
+              "name": "re_enable_automation()",
+              "description": "Reenable automation for this parameter. "
+            },
+            {
+              "name": "str_for_value()",
+              "description": "Return a string representation of the given value. To be used for display purposes only.  This value can include characters like ‘db’ or ‘hz’, depending on the type of the parameter. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "automation_state",
+              "description": "Returns state of type AutomationState."
+            },
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the device parameter."
+            },
+            {
+              "name": "default_value",
+              "description": "Return the default value for this parameter.  A Default value is onlyavailable for non-quantized parameter types (see ‘is_quantized’)."
+            },
+            {
+              "name": "is_enabled",
+              "description": "Returns false if the parameter has been macro mapped or disabled by Max."
+            },
+            {
+              "name": "is_quantized",
+              "description": "Returns True, if this value is a boolean or integer like switch.Non quantized values are continues float values."
+            },
+            {
+              "name": "max",
+              "description": "Returns const access to the upper value of the allowed range forthis parameter"
+            },
+            {
+              "name": "min",
+              "description": "Returns const access to the lower value of the allowed range forthis parameter"
+            },
+            {
+              "name": "name",
+              "description": "Returns const access the name of this parameter, as visible in Livesautomation choosers."
+            },
+            {
+              "name": "original_name",
+              "description": "Returns const access the original name of this parameter, unaffected ofany renamings."
+            },
+            {
+              "name": "state",
+              "description": "Returns the state of the parameter:- enabled - the parameter’s value can be changed, - irrelevant - the parameter is enabled, but value changes will not take any effect until it gets enabled, - disabl"
+            },
+            {
+              "name": "value",
+              "description": "Get/Set the current value (as visible in the GUI) this parameter.The value must be inside the min/max properties of this device."
+            },
+            {
+              "name": "value_items",
+              "description": "Return the list of possible values for this parameter. Raises an error if ‘is_quantized’ is False."
+            }
+          ],
+          "sub_classes": []
+        },
+        "ParameterState": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "DrumPad": {
+      "classes": {
+        "DrumPad": {
+          "description": "This class represents a drum group device pad in Live.",
+          "methods": [
+            {
+              "name": "delete_all_chains()",
+              "description": "Deletes all chains associated with a drum pad. This is equivalent to deleting a drum rack pad in Live. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the drum pad."
+            },
+            {
+              "name": "chains",
+              "description": "Return const access to the list of chains in this drum pad."
+            },
+            {
+              "name": "mute",
+              "description": "Mute/unmute the pad."
+            },
+            {
+              "name": "name",
+              "description": "Return const access to the drum pad’s name. It depends on the contained chains."
+            },
+            {
+              "name": "note",
+              "description": "Get the MIDI note of the drum pad."
+            },
+            {
+              "name": "solo",
+              "description": "Solo/unsolo the pad."
+            }
+          ],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "Groove": {
+      "classes": {
+        "Base": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "Groove": {
+          "description": "This class represents a groove in Live.",
+          "methods": [],
+          "properties": [
+            {
+              "name": "base",
+              "description": "Get/set the groove’s base grid."
+            },
+            {
+              "name": "name",
+              "description": "Read/write/listen access to the groove’s name"
+            },
+            {
+              "name": "quantization_amount",
+              "description": "Read/write/listen access to the groove’s quantization amount."
+            },
+            {
+              "name": "random_amount",
+              "description": "Read/write/listen access to the groove’s random amount."
+            },
+            {
+              "name": "timing_amount",
+              "description": "Read/write/listen access to the groove’s timing amount."
+            },
+            {
+              "name": "velocity_amount",
+              "description": "Read/write/listen access to the groove’s velocity amount."
+            }
+          ],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "GroovePool": {
+      "classes": {
+        "GroovePool": {
+          "description": "This class represents the groove pool in Live.",
+          "methods": [],
+          "properties": [
+            {
+              "name": "grooves",
+              "description": "Access to the list of grooves"
+            }
+          ],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "Listener": {
+      "classes": {
+        "ListenerHandle": {
+          "description": "This class represents a Python listener when connected to a Live property.",
+          "methods": [
+            {
+              "name": "disconnect()",
+              "description": "Disconnects the listener from its property "
+            }
+          ],
+          "properties": [
+            {
+              "name": "listener_func",
+              "description": "Returns the original function"
+            },
+            {
+              "name": "listener_self",
+              "description": "Returns the weak reference to original self, if it was a bound method"
+            },
+            {
+              "name": "name",
+              "description": "Prints the name of the property that this listener is connected to"
+            }
+          ],
+          "sub_classes": []
+        },
+        "ListenerVector": {
+          "description": "A read only container for accessing a list of listeners.",
+          "methods": [
+            {
+              "name": "append()",
+              "description": ""
+            },
+            {
+              "name": "extend()",
+              "description": ""
+            }
+          ],
+          "properties": [],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "LomObject": {
+      "classes": {
+        "LomObject": {
+          "description": "this is the base class for an object that is accessible via the LOM",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "MidiMap": {
+      "classes": {
+        "CCFeedbackRule": {
+          "description": "Structure to define feedback properties of MIDI mappings.",
+          "methods": [],
+          "properties": [
+            {
+              "name": "cc_no",
+              "description": ""
+            },
+            {
+              "name": "cc_value_map",
+              "description": ""
+            },
+            {
+              "name": "channel",
+              "description": ""
+            },
+            {
+              "name": "delay_in_ms",
+              "description": ""
+            }
+          ],
+          "sub_classes": []
+        },
+        "MapMode": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "NoteFeedbackRule": {
+          "description": "Structure to define feedback properties of MIDI mappings.",
+          "methods": [],
+          "properties": [
+            {
+              "name": "channel",
+              "description": ""
+            },
+            {
+              "name": "delay_in_ms",
+              "description": ""
+            },
+            {
+              "name": "note_no",
+              "description": ""
+            },
+            {
+              "name": "vel_map",
+              "description": ""
+            }
+          ],
+          "sub_classes": []
+        },
+        "PitchBendFeedbackRule": {
+          "description": "Structure to define feedback properties of MIDI mappings.",
+          "methods": [],
+          "properties": [
+            {
+              "name": "channel",
+              "description": ""
+            },
+            {
+              "name": "delay_in_ms",
+              "description": ""
+            },
+            {
+              "name": "value_pair_map",
+              "description": ""
+            }
+          ],
+          "sub_classes": []
+        }
+      },
+      "built_ins": [
+        {
+          "name": "forward_midi_cc()",
+          "description": ""
+        },
+        {
+          "name": "forward_midi_note()",
+          "description": ""
+        },
+        {
+          "name": "forward_midi_pitchbend()",
+          "description": ""
+        },
+        {
+          "name": "map_midi_cc()",
+          "description": ""
+        },
+        {
+          "name": "map_midi_cc_with_feedback_map()",
+          "description": ""
+        },
+        {
+          "name": "map_midi_note()",
+          "description": ""
+        },
+        {
+          "name": "map_midi_note_with_feedback_map()",
+          "description": ""
+        },
+        {
+          "name": "map_midi_pitchbend()",
+          "description": ""
+        },
+        {
+          "name": "map_midi_pitchbend_with_feedback_map()",
+          "description": ""
+        },
+        {
+          "name": "send_feedback_for_parameter()",
+          "description": ""
+        }
+      ]
+    },
+    "Sample": {
+      "classes": {
+        "Sample": {
+          "description": "This class represents a sample file loaded into a Simpler instance.",
+          "methods": [
+            {
+              "name": "beat_to_sample_time()",
+              "description": "Converts the given beat time to sample time. Raises an error if the sample is not warped. "
+            },
+            {
+              "name": "clear_slices()",
+              "description": "Clears all slices created in Simpler’s manual mode. "
+            },
+            {
+              "name": "gain_display_string()",
+              "description": "Get the gain’s display value as a string. "
+            },
+            {
+              "name": "insert_slice()",
+              "description": "Add a slice point at the provided time if there is none. "
+            },
+            {
+              "name": "move_slice()",
+              "description": "Move the slice point at the provided time. "
+            },
+            {
+              "name": "remove_slice()",
+              "description": "Remove the slice point at the provided time if there is one. "
+            },
+            {
+              "name": "reset_slices()",
+              "description": "Resets all edited slices to their original positions. "
+            },
+            {
+              "name": "sample_to_beat_time()",
+              "description": "Converts the given sample time to beat time. Raises an error if the sample is not warped. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "beats_granulation_resolution",
+              "description": "Access to the Granulation Resolution parameter in Beats Warp Mode."
+            },
+            {
+              "name": "beats_transient_envelope",
+              "description": "Access to the Transient Envelope parameter in Beats Warp Mode."
+            },
+            {
+              "name": "beats_transient_loop_mode",
+              "description": "Access to the Transient Loop Mode parameter in Beats Warp Mode."
+            },
+            {
+              "name": "canonical_parent",
+              "description": "Access to the sample’s canonical parent."
+            },
+            {
+              "name": "complex_pro_envelope",
+              "description": "Access to the Envelope parameter in Complex Pro Mode."
+            },
+            {
+              "name": "complex_pro_formants",
+              "description": "Access to the Formants parameter in Complex Pro Warp Mode."
+            },
+            {
+              "name": "end_marker",
+              "description": "Access to the position of the sample’s end marker."
+            },
+            {
+              "name": "file_path",
+              "description": "Get the path of the sample file."
+            },
+            {
+              "name": "gain",
+              "description": "Access to the sample gain."
+            },
+            {
+              "name": "length",
+              "description": "Get the length of the sample file in sample frames."
+            },
+            {
+              "name": "sample_rate",
+              "description": "Access to the audio sample rate of the sample."
+            },
+            {
+              "name": "slices",
+              "description": "Access to the list of slice points in sample time in the sample."
+            },
+            {
+              "name": "slicing_beat_division",
+              "description": "Access to sample’s slicing step size."
+            },
+            {
+              "name": "slicing_region_count",
+              "description": "Access to sample’s slicing split count."
+            },
+            {
+              "name": "slicing_sensitivity",
+              "description": "Access to sample’s slicing sensitivity whose sensitivity is in between 0.0 and 1.0.The higher the sensitivity, the more slices will be available."
+            },
+            {
+              "name": "slicing_style",
+              "description": "Access to sample’s slicing style."
+            },
+            {
+              "name": "start_marker",
+              "description": "Access to the position of the sample’s start marker."
+            },
+            {
+              "name": "texture_flux",
+              "description": "Access to the Flux parameter in Texture Warp Mode."
+            },
+            {
+              "name": "texture_grain_size",
+              "description": "Access to the Grain Size parameter in Texture Warp Mode."
+            },
+            {
+              "name": "tones_grain_size",
+              "description": "Access to the Grain Size parameter in Tones Warp Mode."
+            },
+            {
+              "name": "warp_markers",
+              "description": "Get the warp markers for this sample."
+            },
+            {
+              "name": "warp_mode",
+              "description": "Access to the sample’s warp mode."
+            },
+            {
+              "name": "warping",
+              "description": "Access to the sample’s warping property."
+            }
+          ],
+          "sub_classes": []
+        },
+        "SlicingBeatDivision": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "SlicingStyle": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "TransientLoopMode": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "Scene": {
+      "classes": {
+        "Scene": {
+          "description": "This class represents an series of ClipSlots in Lives Sessionview matrix.",
+          "methods": [
+            {
+              "name": "fire()",
+              "description": "Fire the scene directly. Will fire all clipslots that this scene owns and select the scene itself. "
+            },
+            {
+              "name": "fire_as_selected()",
+              "description": "Fire the selected scene. Will fire all clipslots that this scene owns and select the next scene if necessary. "
+            },
+            {
+              "name": "set_fire_button_state()",
+              "description": "Set the scene’s fire button state directly. Supports all launch modes. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the scene."
+            },
+            {
+              "name": "clip_slots",
+              "description": "return a list of clipslots (see class AClipSlot) that this scene covers."
+            },
+            {
+              "name": "color",
+              "description": "Get/set access to the color of the Scene (RGB)."
+            },
+            {
+              "name": "color_index",
+              "description": "Get/set access to the color index of the Scene. Can be None for no color."
+            },
+            {
+              "name": "is_empty",
+              "description": "Returns True if all clip slots of this scene are empty."
+            },
+            {
+              "name": "is_triggered",
+              "description": "Const access to the scene’s trigger state."
+            },
+            {
+              "name": "name",
+              "description": "Get/Set the name of the scene. Might contain the substring BPM, whichidentifies that the scene will change the tempo when fired. To Get/Setthe temp, use the ‘tempo’ property of the scene."
+            },
+            {
+              "name": "tempo",
+              "description": "Get/Set the tempo value of the scene.The Song will use the Scenes tempo as soon as the Scene is fired.Returns -1 if the Scene has no tempo property."
+            }
+          ],
+          "sub_classes": []
+        }
+      },
+      "built_ins": []
+    },
+    "Song": {
+      "classes": {
+        "BeatTime": {
+          "description": "Represents a Time, splitted into Bars, Beats, SubDivision and Ticks.",
+          "methods": [],
+          "properties": [
+            {
+              "name": "bars",
+              "description": ""
+            },
+            {
+              "name": "beats",
+              "description": ""
+            },
+            {
+              "name": "sub_division",
+              "description": ""
+            },
+            {
+              "name": "ticks",
+              "description": ""
+            }
+          ],
+          "sub_classes": []
+        },
+        "CaptureDestination": {
+          "description": "The destination for MIDI capture.",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "CaptureMode": {
+          "description": "The capture mode that is used for capture and insert scene.",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "CuePoint": {
+          "description": "Represents a ‘Marker’ in the arrangement.",
+          "methods": [
+            {
+              "name": "jump()",
+              "description": "When the Song is playing, set the playing-position quantized to this Cuepoint’s time. When not playing, simply move the start playing position. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the cue point."
+            },
+            {
+              "name": "name",
+              "description": "Get/Listen to the name of this CuePoint, as visible in the arranger."
+            },
+            {
+              "name": "time",
+              "description": "Get/Listen to the CuePoint’s time in beats."
+            }
+          ],
+          "sub_classes": []
+        },
+        "Quantization": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "RecordingQuantization": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "SessionRecordStatus": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "SmptTime": {
+          "description": "Represents a Time, split into Hours, Minutes, Seconds and Frames.The frame type must be specified when calling a function that returnsa SmptTime.",
+          "methods": [],
+          "properties": [
+            {
+              "name": "frames",
+              "description": ""
+            },
+            {
+              "name": "hours",
+              "description": ""
+            },
+            {
+              "name": "minutes",
+              "description": ""
+            },
+            {
+              "name": "seconds",
+              "description": ""
+            }
+          ],
+          "sub_classes": []
+        },
+        "Song": {
+          "description": "This class represents a Live set.",
+          "methods": [
+            {
+              "name": "begin_undo_step()",
+              "description": ""
+            },
+            {
+              "name": "capture_and_insert_scene()",
+              "description": "Capture currently playing clips and insert them as a new scene after the selected scene. Raises a runtime error if creating a new scene would exceed the limitations. "
+            },
+            {
+              "name": "capture_midi()",
+              "description": "Capture recently played MIDI material from audible tracks. If no Destination is given or Destination is set to CaptureDestination.auto, the captured material is inserted into the Session or Arrangemen"
+            },
+            {
+              "name": "continue_playing()",
+              "description": "Continue playing the song from the current position "
+            },
+            {
+              "name": "create_audio_track()",
+              "description": "Create a new audio track at the optional given index and return it.If the index is -1, the new track is added at the end. It will create a default audio track if possible. If the index is invalid or t"
+            },
+            {
+              "name": "create_midi_track()",
+              "description": "Create a new midi track at the optional given index and return it.If the index is -1,  the new track is added at the end.It will create a default midi track if possible. If the index is invalid or the"
+            },
+            {
+              "name": "create_return_track()",
+              "description": "Create a new return track at the end and return it. If the new track would exceed  the limitations, a limitation error is raised.  If the maximum number of return tracks is exceeded, a RuntimeError is"
+            },
+            {
+              "name": "create_scene()",
+              "description": "Create a new scene at the given index. If the index is -1, the new scene is added at the end. If the index is invalid or the new scene would exceed the limitations, a limitation error is raised. "
+            },
+            {
+              "name": "delete_return_track()",
+              "description": "Delete the return track with the given index. If no track with this index exists, an exception will be raised. "
+            },
+            {
+              "name": "delete_scene()",
+              "description": "Delete the scene with the given index. If no scene with this index exists, an exception will be raised. "
+            },
+            {
+              "name": "delete_track()",
+              "description": "Delete the track with the given index. If no track with this index exists, an exception will be raised. "
+            },
+            {
+              "name": "duplicate_scene()",
+              "description": "Duplicates a scene and selects the new one. Raises a limitation error if creating a new scene would exceed the limitations. "
+            },
+            {
+              "name": "duplicate_track()",
+              "description": "Duplicates a track and selects the new one. If the track is inside a folded group track, the group track is unfolded. Raises a limitation error if creating a new track would exceed the limitations. "
+            },
+            {
+              "name": "end_undo_step()",
+              "description": ""
+            },
+            {
+              "name": "find_device_position()",
+              "description": "Returns the closest possible position to the given target, where the device can be inserted. If inserting is not possible at all (i.e. if the device type is wrong), -1 is returned. "
+            },
+            {
+              "name": "force_link_beat_time()",
+              "description": "Force the Link timeline to jump to Lives current beat time. Danger: This can cause beat time discontinuities in other connected apps. "
+            },
+            {
+              "name": "get_beats_loop_length()",
+              "description": "Get const access to the songs loop length, using a BeatTime class with the current global set signature. "
+            },
+            {
+              "name": "get_beats_loop_start()",
+              "description": "Get const access to the songs loop start, using a BeatTime class with the current global set signature. "
+            },
+            {
+              "name": "get_current_beats_song_time()",
+              "description": "Get const access to the songs current playing position, using a BeatTime class with the current global set signature. "
+            },
+            {
+              "name": "get_current_smpte_song_time()",
+              "description": "Get const access to the songs current playing position, by specifying the SMPTE format in which you would like to receive the time. "
+            },
+            {
+              "name": "get_data()",
+              "description": "Get data for the given key, that was previously stored using set_data. "
+            },
+            {
+              "name": "is_cue_point_selected()",
+              "description": "Return true if the global playing pos is currently on a cue point. "
+            },
+            {
+              "name": "jump_by()",
+              "description": "Set a new playing pos, relative to the current one. "
+            },
+            {
+              "name": "jump_to_next_cue()",
+              "description": "Jump to the next cue (marker) if possible. "
+            },
+            {
+              "name": "jump_to_prev_cue()",
+              "description": "Jump to the prior cue (marker) if possible. "
+            },
+            {
+              "name": "move_device()",
+              "description": "Move a device into the target at the given position, where 0 moves it before the first device and len(devices) moves it to the end of the device chain.If the device cannot be moved to this position, t"
+            },
+            {
+              "name": "play_selection()",
+              "description": "Start playing the current set selection, or do nothing if no selection is set. "
+            },
+            {
+              "name": "re_enable_automation()",
+              "description": "Discards overrides of automated parameters. "
+            },
+            {
+              "name": "redo()",
+              "description": "Redo the last action that was undone. "
+            },
+            {
+              "name": "scrub_by()",
+              "description": "Same as jump_by, but does not stop playback. "
+            },
+            {
+              "name": "set_data()",
+              "description": "Store data for the given key in this object. The data is persistent and will be restored when loading the Live Set. "
+            },
+            {
+              "name": "set_or_delete_cue()",
+              "description": "When a cue is selected, it gets deleted. If no cue is selected, a new cue is created at the current global songtime. "
+            },
+            {
+              "name": "start_playing()",
+              "description": "Start playing from the startmarker "
+            },
+            {
+              "name": "stop_all_clips()",
+              "description": "Stop all playing Clips (if any) but continue playing the Song. "
+            },
+            {
+              "name": "stop_playing()",
+              "description": "Stop playing the Song. "
+            },
+            {
+              "name": "tap_tempo()",
+              "description": "Trigger the tap tempo function. "
+            },
+            {
+              "name": "trigger_session_record()",
+              "description": "Triggers a new session recording. "
+            },
+            {
+              "name": "undo()",
+              "description": "Undo the last action that was made. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "appointed_device",
+              "description": "Read, write, and listen access to the appointed Device"
+            },
+            {
+              "name": "arrangement_overdub",
+              "description": "Get/Set the global arrangement overdub state."
+            },
+            {
+              "name": "back_to_arranger",
+              "description": "Get/Set if triggering a Clip in the Session, disabled the playback ofClips in the Arranger."
+            },
+            {
+              "name": "can_capture_midi",
+              "description": "Get whether there currently is material to be captured on any tracks."
+            },
+            {
+              "name": "can_jump_to_next_cue",
+              "description": "Returns true when there is a cue marker right to the playing pos thatwe could jump to."
+            },
+            {
+              "name": "can_jump_to_prev_cue",
+              "description": "Returns true when there is a cue marker left to the playing pos thatwe could jump to."
+            },
+            {
+              "name": "can_redo",
+              "description": "Returns true if there is an undone action that we can redo."
+            },
+            {
+              "name": "can_undo",
+              "description": "Returns true if there is an action that we can restore."
+            },
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the song."
+            },
+            {
+              "name": "clip_trigger_quantization",
+              "description": "Get/Set access to the quantization settings that are used to fireClips in the Session."
+            },
+            {
+              "name": "count_in_duration",
+              "description": "Get the count in duration. Returns an index, mapped as follows: 0 - None, 1 - 1 Bar, 2 - 2 Bars, 3 - 4 Bars."
+            },
+            {
+              "name": "cue_points",
+              "description": "Const access to a list of all cue points of the Live Song."
+            },
+            {
+              "name": "current_song_time",
+              "description": "Get/Set access to the songs current playing position in ms."
+            },
+            {
+              "name": "exclusive_arm",
+              "description": "Get if Tracks should be armed exclusively by default."
+            },
+            {
+              "name": "exclusive_solo",
+              "description": "Get if Tracks should be soloed exclusively by default."
+            },
+            {
+              "name": "groove_amount",
+              "description": "Get/Set the global groove amount, that adjust all setup groovesin all clips."
+            },
+            {
+              "name": "groove_pool",
+              "description": "Get the groove pool."
+            },
+            {
+              "name": "is_counting_in",
+              "description": "Get whether currently counting in."
+            },
+            {
+              "name": "is_playing",
+              "description": "Returns true if the Song is currently playing."
+            },
+            {
+              "name": "last_event_time",
+              "description": "Return the time of the last set event in the song. In contrary tosong_length, this will not add some extra beats that are mostly neededfor Display purposes in the Arrangerview."
+            },
+            {
+              "name": "loop",
+              "description": "Get/Set the looping flag that en/disables the usage of the globalloop markers in the song."
+            },
+            {
+              "name": "loop_length",
+              "description": "Get/Set the length of the global loop marker position in beats."
+            },
+            {
+              "name": "loop_start",
+              "description": "Get/Set the start of the global loop marker position in beats."
+            },
+            {
+              "name": "master_track",
+              "description": "Access to the Master Track (always available)"
+            },
+            {
+              "name": "metronome",
+              "description": "Get/Set if the metronom is audible."
+            },
+            {
+              "name": "midi_recording_quantization",
+              "description": "Get/Set access to the settings that are used to quantizeMIDI recordings."
+            },
+            {
+              "name": "nudge_down",
+              "description": "Get/Set the status of the nudge down button."
+            },
+            {
+              "name": "nudge_up",
+              "description": "Get/Set the status of the nudge up button."
+            },
+            {
+              "name": "overdub",
+              "description": "Legacy hook for Live 8 overdub state. Now hooks tosession record, but never starts playback."
+            },
+            {
+              "name": "punch_in",
+              "description": "Get/Set the flag that will enable recording as soon as the Song playsand hits the global loop start region."
+            },
+            {
+              "name": "punch_out",
+              "description": "Get/Set the flag that will disable recording as soon as the Song playsand hits the global loop end region."
+            },
+            {
+              "name": "re_enable_automation_enabled",
+              "description": "Returns true if some automated parameter has been overriden"
+            },
+            {
+              "name": "record_mode",
+              "description": "Get/Set the state of the global recording flag."
+            },
+            {
+              "name": "return_tracks",
+              "description": "Const access to the list of available Return Tracks."
+            },
+            {
+              "name": "root_note",
+              "description": "Set and access the root note (i.e. key) of the song used for control surfaces. The root note can be a number between 0 and 11, with 0 corresponding to C and 11 corresponding to B."
+            },
+            {
+              "name": "scale_intervals",
+              "description": "Reports the current scale’s intervals as a list of integers, starting with the root note and representing the number of halfsteps (e.g. Major → 0, 2, 4, 5, 7, 9, 11)"
+            },
+            {
+              "name": "scale_name",
+              "description": "Set and access the last used scale name for control surfaces. The default scale names that can be saved with a set and recalled are'Major', ‘Minor’, ‘Dorian’, ‘Mixolydian’ , ‘Lydian’ , ‘Phrygian’ , ‘L"
+            },
+            {
+              "name": "scenes",
+              "description": "Const access to a list of all Scenes in the Live Song."
+            },
+            {
+              "name": "select_on_launch",
+              "description": "Get if Scenes and Clips should be selected when fired."
+            },
+            {
+              "name": "session_automation_record",
+              "description": "Returns true if automation recording is enabled."
+            },
+            {
+              "name": "session_record",
+              "description": "Get/Set the session record state."
+            },
+            {
+              "name": "session_record_status",
+              "description": "Get the session slot-recording state."
+            },
+            {
+              "name": "signature_denominator",
+              "description": "Get/Set access to the global signature denominator of the Song."
+            },
+            {
+              "name": "signature_numerator",
+              "description": "Get/Set access to the global signature numerator of the Song."
+            },
+            {
+              "name": "song_length",
+              "description": "Return the time of the last set event in the song, plus som extra beatsthat are usually added for better navigation in the arrangerview."
+            },
+            {
+              "name": "swing_amount",
+              "description": "Get/Set access to the amount of swing that is applied when adding or quantizing notes to MIDI clips"
+            },
+            {
+              "name": "tempo",
+              "description": "Get/Set the global project tempo."
+            },
+            {
+              "name": "tracks",
+              "description": "Const access to a list of all Player Tracks in the Live Song, exludingthe return and Master Track (see also Song.send_tracks and Song.master_track).At least one MIDI or Audio Track is always available"
+            },
+            {
+              "name": "view",
+              "description": "Representing the view aspects of a Live document: The Session and Arrangerview."
+            },
+            {
+              "name": "visible_tracks",
+              "description": "Const access to a list of all visible Player Tracks in the Live Song, exludingthe return and Master Track (see also Song.send_tracks and Song.master_track).At least one MIDI or Audio Track is always a"
+            }
+          ],
+          "sub_classes": [
+            {
+              "name": "View",
+              "methods": [
+                "select_device()"
+              ],
+              "properties": [
+                "canonical_parent",
+                "detail_clip",
+                "draw_mode",
+                "follow_song",
+                "highlighted_clip_slot",
+                "selected_chain",
+                "selected_parameter",
+                "selected_scene",
+                "selected_track"
+              ]
+            }
+          ]
+        },
+        "TimeFormat": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        }
+      },
+      "built_ins": [
+        {
+          "name": "get_all_scales_ordered()",
+          "description": "Get an ordered tuple of tuples of all available scale names to intervals. "
+        }
+      ]
+    },
+    "Track": {
+      "classes": {
+        "DeviceContainer": {
+          "description": "This class is a common super class of Track and Chain",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "DeviceInsertMode": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "RoutingChannel": {
+          "description": "This class represents a routing channel.",
+          "methods": [],
+          "properties": [
+            {
+              "name": "display_name",
+              "description": "Display name of routing channel."
+            },
+            {
+              "name": "layout",
+              "description": "The routing channel’s Layout, e.g., mono or stereo."
+            }
+          ],
+          "sub_classes": []
+        },
+        "RoutingChannelLayout": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "RoutingChannelVector": {
+          "description": "A container for returning routing channels from Live.",
+          "methods": [
+            {
+              "name": "append()",
+              "description": ""
+            },
+            {
+              "name": "extend()",
+              "description": ""
+            }
+          ],
+          "properties": [],
+          "sub_classes": []
+        },
+        "RoutingType": {
+          "description": "This class represents a routing type.",
+          "methods": [],
+          "properties": [
+            {
+              "name": "attached_object",
+              "description": "Live object associated with the routing type."
+            },
+            {
+              "name": "category",
+              "description": "Category of the routing type."
+            },
+            {
+              "name": "display_name",
+              "description": "Display name of routing type."
+            }
+          ],
+          "sub_classes": []
+        },
+        "RoutingTypeCategory": {
+          "description": "",
+          "methods": [],
+          "properties": [],
+          "sub_classes": []
+        },
+        "RoutingTypeVector": {
+          "description": "A container for returning routing types from Live.",
+          "methods": [
+            {
+              "name": "append()",
+              "description": ""
+            },
+            {
+              "name": "extend()",
+              "description": ""
+            }
+          ],
+          "properties": [],
+          "sub_classes": []
+        },
+        "Track": {
+          "description": "This class represents a track in Live. It can be either an Audio track, a MIDI Track, a Return Track or the Master track. The Master Track and at least one Audio or MIDI track will be always present.R",
+          "methods": [
+            {
+              "name": "delete_clip()",
+              "description": "Delete the given clip. Raises a runtime error when the clip belongs to another track. "
+            },
+            {
+              "name": "delete_device()",
+              "description": "Delete a device identified by the index in the ‘devices’ list. "
+            },
+            {
+              "name": "duplicate_clip_slot()",
+              "description": "Duplicate a clip and put it into the next free slot and return the index of the destination slot. A new scene is created if no free slot is available. If creating the new scene would exceed the limita"
+            },
+            {
+              "name": "duplicate_clip_to_arrangement()",
+              "description": "Duplicate the given clip into the arrangement of this track at the provided destination time and return it. When the type of the clip and the type of the track are incompatible, a runtime error is rai"
+            },
+            {
+              "name": "get_data()",
+              "description": "Get data for the given key, that was previously stored using set_data. "
+            },
+            {
+              "name": "jump_in_running_session_clip()",
+              "description": "Jump forward or backward in the currently running Sessionclip (if any) by the specified relative amount in beats. Does nothing if no Session Clip is currently running. "
+            },
+            {
+              "name": "set_data()",
+              "description": "Store data for the given key in this object. The data is persistent and will be restored when loading the Live Set. "
+            },
+            {
+              "name": "stop_all_clips()",
+              "description": "Stop running and triggered clip and slots on this track. "
+            }
+          ],
+          "properties": [
+            {
+              "name": "arm",
+              "description": "Arm the track for recording. Not available for Master- and Send Tracks."
+            },
+            {
+              "name": "arrangement_clips",
+              "description": "const access to the list of clips in arrangement viewThe list will be empty for the master, send and group tracks."
+            },
+            {
+              "name": "available_input_routing_channels",
+              "description": "Return a list of source channels for input routing."
+            },
+            {
+              "name": "available_input_routing_types",
+              "description": "Return a list of source types for input routing."
+            },
+            {
+              "name": "available_output_routing_channels",
+              "description": "Return a list of destination channels for output routing."
+            },
+            {
+              "name": "available_output_routing_types",
+              "description": "Return a list of destination types for output routing."
+            },
+            {
+              "name": "can_be_armed",
+              "description": "return True, if this Track has a valid arm property. Not all trackscan be armed (for example return Tracks or the Master Tracks)."
+            },
+            {
+              "name": "can_be_frozen",
+              "description": "return True, if this Track can be frozen."
+            },
+            {
+              "name": "can_show_chains",
+              "description": "return True, if this Track contains a rack instrument device that is capable of showing its chains in session view."
+            },
+            {
+              "name": "canonical_parent",
+              "description": "Get the canonical parent of the track."
+            },
+            {
+              "name": "clip_slots",
+              "description": "const access to the list of clipslots (see class AClipSlot) for this track.The list will be empty for the master and sendtracks."
+            },
+            {
+              "name": "color",
+              "description": "Get/set access to the color of the Track (RGB)."
+            },
+            {
+              "name": "color_index",
+              "description": "Get/Set access to the color index of the track. Can be None for no color."
+            },
+            {
+              "name": "current_input_routing",
+              "description": "Get/Set the name of the current active input routing.When setting a new routing, the new routing must be one of the available ones."
+            },
+            {
+              "name": "current_input_sub_routing",
+              "description": "Get/Set the current active input sub routing.When setting a new routing, the new routing must be one of the available ones."
+            },
+            {
+              "name": "current_monitoring_state",
+              "description": "Get/Set the track’s current monitoring state."
+            },
+            {
+              "name": "current_output_routing",
+              "description": "Get/Set the current active output routing.When setting a new routing, the new routing must be one of the available ones."
+            },
+            {
+              "name": "current_output_sub_routing",
+              "description": "Get/Set the current active output sub routing.When setting a new routing, the new routing must be one of the available ones."
+            },
+            {
+              "name": "devices",
+              "description": "Return const access to all available Devices that are present in the TracksDevicechain. This tuple will also include the ‘mixer_device’ that every Trackalways has."
+            },
+            {
+              "name": "fired_slot_index",
+              "description": "const access to the index of the fired (and thus blinking) clipslot in this track.This index is -1 if no slot is fired and -2 if the track’s stop button has been fired."
+            },
+            {
+              "name": "fold_state",
+              "description": "Get/Set whether the track is folded or not. Only available if is_foldable is True."
+            },
+            {
+              "name": "group_track",
+              "description": "return the group track if is_grouped."
+            },
+            {
+              "name": "has_audio_input",
+              "description": "return True, if this Track can be feed with an Audio signal. This istrue for all Audio Tracks."
+            },
+            {
+              "name": "has_audio_output",
+              "description": "return True, if this Track sends out an Audio signal. This istrue for all Audio Tracks, and MIDI tracks with an Instrument."
+            },
+            {
+              "name": "has_midi_input",
+              "description": "return True, if this Track can be feed with an Audio signal. This istrue for all MIDI Tracks."
+            },
+            {
+              "name": "has_midi_output",
+              "description": "return True, if this Track sends out MIDI events. This istrue for all MIDI Tracks with no Instruments."
+            },
+            {
+              "name": "implicit_arm",
+              "description": "Arm the track for recording. When The track is implicitly armed, it showsin a weaker color in the live GUI and is not saved in the set."
+            },
+            {
+              "name": "input_meter_left",
+              "description": "Momentary value of left input channel meter, 0.0 to 1.0. For Audio Tracks only."
+            },
+            {
+              "name": "input_meter_level",
+              "description": "Return the MIDI or Audio meter value of the Tracks input, depending on thetype of the Track input. Meter values (MIDI or Audio) are always scaledfrom 0.0 to 1.0."
+            },
+            {
+              "name": "input_meter_right",
+              "description": "Momentary value of right input channel meter, 0.0 to 1.0. For Audio Tracks only."
+            },
+            {
+              "name": "input_routing_channel",
+              "description": "Get and set the current source channel for input routing.Raises ValueError if the type isn’t one of the current values inavailable_input_routing_channels."
+            },
+            {
+              "name": "input_routing_type",
+              "description": "Get and set the current source type for input routing.Raises ValueError if the type isn’t one of the current values inavailable_input_routing_types."
+            },
+            {
+              "name": "input_routings",
+              "description": "Const access to the list of available input routings."
+            },
+            {
+              "name": "input_sub_routings",
+              "description": "Return a list of all available input sub routings."
+            },
+            {
+              "name": "is_foldable",
+              "description": "return True if the track can be (un)folded to hide/reveal contained tracks."
+            },
+            {
+              "name": "is_frozen",
+              "description": "return True if this Track is currently frozen. No changes should be applied to the track’s devices or clips while it is frozen."
+            },
+            {
+              "name": "is_grouped",
+              "description": "return True if this Track is current part of a group track."
+            },
+            {
+              "name": "is_part_of_selection",
+              "description": "return False if the track is not selected."
+            },
+            {
+              "name": "is_showing_chains",
+              "description": "Get/Set whether a track with a rack device is showing its chains in session view."
+            },
+            {
+              "name": "is_visible",
+              "description": "return False if the track is hidden within a folded group track."
+            },
+            {
+              "name": "mixer_device",
+              "description": "Return access to the special Device that every Track has: This Device containsthe Volume, Pan, Sendamounts, and Crossfade assignment parameters."
+            },
+            {
+              "name": "mute",
+              "description": "Mute/unmute the track."
+            },
+            {
+              "name": "muted_via_solo",
+              "description": "Returns true if the track is muted because another track is soloed."
+            },
+            {
+              "name": "name",
+              "description": "Read/write access to the name of the Track, as visible in the track header."
+            },
+            {
+              "name": "output_meter_left",
+              "description": "Momentary value of left output channel meter, 0.0 to 1.0.For tracks with audio output only."
+            },
+            {
+              "name": "output_meter_level",
+              "description": "Return the MIDI or Audio meter value of the Track output (behind themixer_device), depending on the type of the Track input, this can be a MIDIor Audio meter. Meter values (MIDI or Audio) are always s"
+            },
+            {
+              "name": "output_meter_right",
+              "description": "Momentary value of right output channel meter, 0.0 to 1.0.For tracks with audio output only."
+            },
+            {
+              "name": "output_routing_channel",
+              "description": "Get and set the current destination channel for output routing.Raises ValueError if the channel isn’t one of the current values inavailable_output_routing_channels."
+            },
+            {
+              "name": "output_routing_type",
+              "description": "Get and set the current destination type for output routing.Raises ValueError if the type isn’t one of the current values inavailable_output_routing_types."
+            },
+            {
+              "name": "output_routings",
+              "description": "Const access to the list of all available output routings."
+            },
+            {
+              "name": "output_sub_routings",
+              "description": "Return a list of all available output sub routings."
+            },
+            {
+              "name": "playing_slot_index",
+              "description": "const access to the index of the currently playing clip in the track.Will be -1 when no clip is playing."
+            },
+            {
+              "name": "solo",
+              "description": "Get/Set the solo status of the track. Note that this will not disable thesolo state of any other track. If you want exclusive solo, you have to disable the solo state of the other Tracks manually."
+            },
+            {
+              "name": "view",
+              "description": "Representing the view aspects of a Track."
+            }
+          ],
+          "sub_classes": [
+            {
+              "name": "View",
+              "methods": [
+                "select_instrument()"
+              ],
+              "properties": [
+                "canonical_parent",
+                "device_insert_mode",
+                "is_collapsed",
+                "selected_device"
+              ]
+            }
+          ]
+        }
+      },
+      "built_ins": []
+    }
+  }
+}

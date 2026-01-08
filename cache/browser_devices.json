@@ -372,6 +372,20 @@
           "index": 3
         }
       ]
+    },
+    {
+      "name": "Sampler",
+      "uri": "query:Synths#Sampler",
+      "path": "Instruments/Sampler",
+      "is_device": true,
+      "category": "instruments"
+    },
+    {
+      "name": "DS Sampler",
+      "uri": "query:Synths#Drum%20Synth:DS%20Sampler",
+      "path": "Instruments/Drum Synth/DS Sampler",
+      "is_device": true,
+      "category": "instruments"
     }
   ]
 }

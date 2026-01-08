@@ -1,3 +1,16 @@
+## Progress (2026-01-07) - Documentation, Cleanup & Workflows
+
+- **Documentation Overhaul**: Completely rewrote `AGENTS.md` to follow "Best Practices", including "Critical Gotchas" (EQ normalization, track detection), "Tool Categories", and "Code Patterns".
+- **Workflow Expansion**: Created 14 detailed workflow files in `.agent/workflows/` covering every aspect of the API (Device Loading, Mixer, Scenes, Transport, Automation, Sampling, Orchestration).
+- **User Scripts Audit**: Audited `user_scripts` folder.
+    - **Deleted 20+ obsolete/broken scripts**: Removed scripts sending raw Hz/dB values (causing silence) and project-specific scene scripts.
+    - **Fixed Core Scripts**: Rewrote `setup_sidechain.py` (correct API), created `configure_session_eqs.py` (normalized values), fixed `reset_eqs.py` and `add_production_effects.py` (track detection).
+- **Core Library Fixes**:
+    - **`mcp_tooling/ableton_helpers.py`**: Replaced deprecated `get_session_info` with `get_song_context`.
+    - **`mcp_tooling/arrangement.py`**: Fixed broken imports and function calls (`generate_chord_progression_advanced`).
+    - **`mcp_tooling/devices.py`**: Added `search_and_load_device` helper for user scripts.
+- **Verification**: Verified 27/28 core commands (27 passed, 1 unrelated failure).
+
 ## Near-term targets
 
 - Sidechain helper: get `SidechainHelper_Advanced` indexed in the Live browser (user library preset path is `Presets/Audio Effects/Max Audio Effect/AbletonMCP`), then rerun `load_sidechain_helper` to validate routing on hidden-UI devices (Compressor/Glue).
@@ -18,6 +31,14 @@
 - Built `form_builder` MCP macro with only a generic public preset; song/band-specific presets are expected in a private JSON (set `ABLETON_MCP_PRIVATE_PRESETS`, default `../ableton-mcp-private/presets.json`). Added `load_clip_by_name` (browser clip resolver with scene slot targeting) plus Remote Script slot selection for deterministic loads.
 - `auto_test_suite` now runs end-to-end after Live reload: creates/fires temp MIDI clip, loads Compressor on target track, sets sidechain, and snapshots routable devices to `cache/routable_devices.json`.
 - Cached sample loader now resolves via cache → browser folder → root Samples fallback; added `search_cached_samples` helper and optional no-create flags on clip loads. Simpler/Sampler hotswap now also falls back to root Samples URIs (Live reload required for control surface changes).
+
+## Progress (2026-01-05) - Server Refactor & Augmentation
+- **Core Refactor**: Moved all tool implementations from `__init__.py` to `server.py` (and new `tools` module structure). `__init__.py` now only handles RPC routing.
+- **Robust Sample Resolution**: Implemented `_resolve_sample_uri` with variant cleaning (e.g., matches `Kick_128bpm` to `Kick`); verified with unit tests.
+- **Offline Planning**: Added `plan_load_device` tool to simulate device/sample loading against local cache (supports variant search and diagnostics).
+- **Trace Logging**: Added `@trace_mcp_command` decorator for performance profiling, gated by `ABLETON_MCP_TRACE=1` environment variable.
+- **Verification**: Validated server connection, scene creation, and playback control with real Live instance.
+- **Cleanup**: Removed temporary debug scripts and artifacts; repository is clean.
 
 ## Nice-to-have follow-ups
 

@@ -1,0 +1,201 @@
+============================================================
+LIVE 11 API EXTRACTION SUMMARY
+============================================================
+API Version: 11.0.0
+Total Modules: 32
+
+Module: Application
+  Classes: 3, Built-ins: 5
+  Methods: 16, Properties: 11
+    - Application
+    - UnavailableFeature
+    - UnavailableFeatureVector
+Module: Base
+  Classes: 7, Built-ins: 1
+  Methods: 13, Properties: 1
+    - FloatVector
+    - IntVector
+    - LimitationError
+    - ObjectVector
+    - StringVector
+    - Timer
+    - Vector
+Module: Browser
+  Classes: 6, Built-ins: 0
+  Methods: 7, Properties: 26
+    - Browser
+    - BrowserItem
+    - BrowserItemIterator
+    - BrowserItemVector
+    - FilterType
+    - Relation
+Module: Chain
+  Classes: 1, Built-ins: 0
+  Methods: 1, Properties: 14
+    - Chain
+Module: ChainMixerDevice
+  Classes: 1, Built-ins: 0
+  Methods: 0, Properties: 5
+    - ChainMixerDevice
+Module: Clip
+  Classes: 11, Built-ins: 0
+  Methods: 42, Properties: 58
+    - AutomationEnvelope
+    - Clip
+    - ClipLaunchQuantization
+    - GridQuantization
+    - LaunchMode
+    - MidiNote
+    - MidiNoteSpecification
+    - MidiNoteVector
+    - WarpMarker
+    - WarpMarkerVector
+    - WarpMode
+Module: ClipSlot
+  Classes: 2, Built-ins: 0
+  Methods: 6, Properties: 13
+    - ClipSlot
+    - ClipSlotPlayingState
+Module: CompressorDevice
+  Classes: 1, Built-ins: 0
+  Methods: 1, Properties: 16
+    - CompressorDevice
+Module: Conversions
+  Classes: 1, Built-ins: 7
+  Methods: 0, Properties: 0
+    - AudioToMidiType
+Module: Device
+  Classes: 3, Built-ins: 0
+  Methods: 3, Properties: 12
+    - ATimeableValueVector
+    - Device
+    - DeviceType
+Module: DeviceIO
+  Classes: 1, Built-ins: 0
+  Methods: 0, Properties: 6
+    - DeviceIO
+Module: DeviceParameter
+  Classes: 3, Built-ins: 0
+  Methods: 4, Properties: 12
+    - AutomationState
+    - DeviceParameter
+    - ParameterState
+Module: DrumChain
+  Classes: 1, Built-ins: 0
+  Methods: 1, Properties: 16
+    - DrumChain
+Module: DrumPad
+  Classes: 1, Built-ins: 0
+  Methods: 1, Properties: 6
+    - DrumPad
+Module: Eq8Device
+  Classes: 3, Built-ins: 0
+  Methods: 1, Properties: 16
+    - EditMode
+    - Eq8Device
+    - GlobalMode
+Module: Groove
+  Classes: 2, Built-ins: 0
+  Methods: 0, Properties: 6
+    - Base
+    - Groove
+Module: GroovePool
+  Classes: 1, Built-ins: 0
+  Methods: 0, Properties: 1
+    - GroovePool
+Module: HybridReverbDevice
+  Classes: 1, Built-ins: 0
+  Methods: 1, Properties: 20
+    - HybridReverbDevice
+Module: Listener
+  Classes: 2, Built-ins: 0
+  Methods: 3, Properties: 3
+    - ListenerHandle
+    - ListenerVector
+Module: LomObject
+  Classes: 1, Built-ins: 0
+  Methods: 0, Properties: 0
+    - LomObject
+Module: MaxDevice
+  Classes: 1, Built-ins: 0
+  Methods: 5, Properties: 16
+    - MaxDevice
+Module: MidiMap
+  Classes: 4, Built-ins: 10
+  Methods: 0, Properties: 11
+    - CCFeedbackRule
+    - MapMode
+    - NoteFeedbackRule
+    - PitchBendFeedbackRule
+Module: MixerDevice
+  Classes: 1, Built-ins: 0
+  Methods: 0, Properties: 12
+    - MixerDevice
+Module: PluginDevice
+  Classes: 1, Built-ins: 0
+  Methods: 2, Properties: 14
+    - PluginDevice
+Module: RackDevice
+  Classes: 1, Built-ins: 0
+  Methods: 9, Properties: 27
+    - RackDevice
+Module: Sample
+  Classes: 4, Built-ins: 0
+  Methods: 8, Properties: 23
+    - Sample
+    - SlicingBeatDivision
+    - SlicingStyle
+    - TransientLoopMode
+Module: Scene
+  Classes: 1, Built-ins: 0
+  Methods: 3, Properties: 8
+    - Scene
+Module: SimplerDevice
+  Classes: 3, Built-ins: 1
+  Methods: 7, Properties: 32
+    - PlaybackMode
+    - SimplerDevice
+    - SlicingPlaybackMode
+Module: Song
+  Classes: 10, Built-ins: 1
+  Methods: 40, Properties: 70
+    - BeatTime
+    - CaptureDestination
+    - CaptureMode
+    - CuePoint
+    - Quantization
+    - RecordingQuantization
+    - SessionRecordStatus
+    - SmptTime
+    - Song
+    - TimeFormat
+Module: Track
+  Classes: 9, Built-ins: 0
+  Methods: 13, Properties: 63
+    - DeviceContainer
+    - DeviceInsertMode
+    - RoutingChannel
+    - RoutingChannelLayout
+    - RoutingChannelVector
+    - RoutingType
+    - RoutingTypeCategory
+    - RoutingTypeVector
+    - Track
+Module: TransmuteDevice
+  Classes: 1, Built-ins: 0
+  Methods: 1, Properties: 24
+    - TransmuteDevice
+Module: WavetableDevice
+  Classes: 7, Built-ins: 0
+  Methods: 6, Properties: 27
+    - EffectMode
+    - FilterRouting
+    - ModulationSource
+    - UnisonMode
+    - VoiceCount
+    - Voicing
+    - WavetableDevice
+
+============================================================
+TOTALS: 219 methods, 569 properties
+============================================================

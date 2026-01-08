@@ -1,0 +1,22 @@
+2026-01-05 16:52:27,737 - mcp_trace - START load_sampler_with_sample args=(<MagicMock id='107486800'>,) kwargs={'track_index': 1, 'file_path': 'Bass.wav'}
+2026-01-05 16:52:27,738 - mcp_trace - END load_sampler_with_sample duration=0.0005s result=Loaded sample into Sampler: Bass.wav (URI resolved)
+2026-01-05 16:52:27,739 - mcp_trace - START load_simpler_with_sample args=(<MagicMock id='107485792'>,) kwargs={'track_index': 0, 'file_path': 'Kick 707'}
+2026-01-05 16:52:27,740 - mcp_trace - END load_simpler_with_sample duration=0.0005s result=Loaded sample into Simpler: Kick 707 (URI resolved)
+2026-01-05 16:52:27,740 - mcp_trace - START plan_load_device args=(<MagicMock id='107195824'>,) kwargs={'query': 'Simpler'}
+2026-01-05 16:52:27,741 - mcp_trace - END plan_load_device duration=0.0005s result={
+  "query": "Simpler",
+  "category_filter": null,
+  "resolved_device_uri": "ableton:device:Simpler",
+  "resolved_sample_uri": null,
+  "found": true
+}
+2026-01-05 16:52:27,741 - mcp_trace - START plan_load_device args=(<MagicMock id='107195824'>,) kwargs={'query': 'Kick.wav'}
+2026-01-05 16:52:27,741 - mcp_trace - END plan_load_device duration=0.0000s result={
+  "query": "Kick.wav",
+  "category_filter": null,
+  "resolved_device_uri": null,
+  "resolved_sample_uri": "ableton:sample:Kick.wav",
+  "found": true
+}
+2026-01-05 16:52:27,741 - mcp_trace - START load_simpler_with_sample args=(<MagicMock id='107501120'>,) kwargs={'track_index': 0, 'file_path': 'C:/Samples/Kick_128bpm.wav'}
+2026-01-05 16:52:27,742 - mcp_trace - END load_simpler_with_sample duration=0.0010s result=Loaded sample into Simpler: Kick.wav (URI resolved)

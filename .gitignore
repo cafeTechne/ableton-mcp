@@ -9,3 +9,9 @@ wheels/
 # Virtual environments
 .venv
 .DS_Store
+
+# MCP Server Artifacts
+MCP_Server/logs/
+MCP_Server/cache/*
+!MCP_Server/cache/browser_devices.json
+!MCP_Server/cache/browser_samples.json
