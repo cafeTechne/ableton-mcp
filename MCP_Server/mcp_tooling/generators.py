@@ -262,11 +262,16 @@ def generate_chord_progression_advanced(
         # theory.voice_lead_progression takes (root_midi, scale, chord_names) -> list of lists of pitches
         
         if voice_lead:
-            chord_voicings = voice_lead_progression(root_midi, scale, chord_list)
-            # Now we have [[60, 64, 67], [59, 62, 67]...]
+            # 1. Generate all chords in root position first
+            root_midi = key_to_midi(key, 3)
+            root_positioned_notes = []
+            for chord_name in chord_list:
+                root_positioned_notes.append(get_chord_notes(root_midi, scale, chord_name))
+            
+            # 2. Apply voice leading logic
+            chord_voicings = voice_lead_progression(root_positioned_notes)
             
             for i, tones in enumerate(chord_voicings):
-                # Tones are absolute MIDI pitches
                 for pitch in tones:
                      notes.append({
                         "pitch": pitch,
@@ -319,6 +324,11 @@ def generate_chord_progression_advanced(
         clip_length = float(len(chord_list) * beats_per_chord)
         final_notes = finalize_notes(notes, clip_length)
 
+        # Safe clip creation: delete if exists to avoid "Already has clip" error
+        try:
+            ableton.send_command("delete_clip", {"track_index": track_index, "clip_index": clip_index})
+        except:
+            pass
         ableton.send_command("create_clip", {"track_index": track_index, "clip_index": clip_index, "length": clip_length})
         ableton.send_command("add_notes_to_clip", {"track_index": track_index, "clip_index": clip_index, "notes": final_notes})
 
@@ -458,6 +468,11 @@ def generate_rhythmic_comp(
         # Finalize and send
         final_notes = finalize_notes(notes, clip_length)
         
+        # Safe clip creation
+        try:
+            ableton.send_command("delete_clip", {"track_index": track_index, "clip_index": clip_index})
+        except:
+            pass
         ableton.send_command("create_clip", {"track_index": track_index, "clip_index": clip_index, "length": clip_length})
         ableton.send_command("add_notes_to_clip", {"track_index": track_index, "clip_index": clip_index, "notes": final_notes})
         
@@ -574,6 +589,11 @@ def generate_bassline_advanced_wrapper(
              apply_humanization(notes, profile, amount=humanize if humanize > 0 else 1.0)
         final_notes = finalize_notes(notes, clip_length)
         
+        # Safe clip creation
+        try:
+            ableton.send_command("delete_clip", {"track_index": track_index, "clip_index": clip_index})
+        except:
+            pass
         ableton.send_command("create_clip", {"track_index": track_index, "clip_index": clip_index, "length": clip_length})
         ableton.send_command("add_notes_to_clip", {"track_index": track_index, "clip_index": clip_index, "notes": final_notes})
         
@@ -1123,6 +1143,11 @@ def pattern_generator(track_index: int, clip_slot_index: int, pattern_type: str 
              
         final_notes = finalize_notes(processed_notes, beats)
             
+        # Safe clip creation
+        try:
+            ableton.send_command("delete_clip", {"track_index": track_index, "clip_index": clip_slot_index})
+        except:
+            pass
         ableton.send_command("create_clip", {"track_index": track_index, "clip_index": clip_slot_index, "length": beats})
         ableton.send_command("add_notes_to_clip", {"track_index": track_index, "clip_index": clip_slot_index, "notes": final_notes})
         return f"Generated pattern {ptype} ({len(final_notes)} notes)"
