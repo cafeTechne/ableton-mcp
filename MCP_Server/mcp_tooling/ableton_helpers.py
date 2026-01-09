@@ -19,6 +19,21 @@ def _ensure_track_exists(track_index: Optional[int], prefer: str = "midi", allow
     context = ableton.send_command("get_song_context", {"include_clips": False})
     track_count = len(context.get("tracks", []))
     
+    # FALLBACK: If get_song_context reports 0 tracks, verify using get_track_info
+    # This prevents accidental track creation when the API misreports
+    if track_count == 0:
+        try:
+            ableton.send_command("get_track_info", {"track_index": 0})
+            # If we get here, tracks DO exist - count them manually
+            for i in range(100):  # Reasonable upper bound
+                try:
+                    ableton.send_command("get_track_info", {"track_index": i})
+                    track_count = i + 1
+                except:
+                    break
+        except:
+            pass  # Truly no tracks
+    
     if track_index is not None and 0 <= track_index < track_count:
         return track_index
     if not allow_create:

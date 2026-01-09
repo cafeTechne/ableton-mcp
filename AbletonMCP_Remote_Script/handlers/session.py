@@ -236,12 +236,25 @@ class SessionHandler(object):
                     "index": idx,
                     "name": track.name,
                     "type": "midi" if track.has_midi_input else "audio",
-                    "armed": track.arm,
-                    "muted": track.mute,
-                    "soloed": track.solo,
+                    "armed": False,
+                    "muted": False,
+                    "soloed": False,
                     "devices": [],
                     "has_clips": False
                 }
+                # Some track types (Group tracks) don't have arm/mute/solo
+                try:
+                    track_info["armed"] = track.arm
+                except:
+                    pass
+                try:
+                    track_info["muted"] = track.mute
+                except:
+                    pass
+                try:
+                    track_info["soloed"] = track.solo
+                except:
+                    pass
                 
                 # Devices
                 for dev_idx, device in enumerate(track.devices):
