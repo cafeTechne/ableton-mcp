@@ -145,9 +145,46 @@ def finalize_notes(notes: List[Dict[str, Any]], clip_length: float) -> List[Dict
 
         out.append({"pitch": p, "start_time": s, "duration": d, "velocity": v})
 
+
     out.sort(key=lambda n: (n["start_time"], n["pitch"]))
     return out
 
+
+def generate_chord_progression(
+    track_index: int,
+    clip_index: int,
+    key: str = "C",
+    scale: str = "major",
+    genre_progression: str = "pop_1",
+    instrument_name: Optional[str] = None
+) -> str:
+    """
+    Simple chord progression generator using preset progressions.
+    
+    This is a simplified wrapper around generate_chord_progression_advanced
+    for backwards compatibility and ease of use.
+    
+    Args:
+        track_index: Target track index
+        clip_index: Target clip slot
+        key: Musical key (e.g., "C", "Dm", "F#")
+        scale: Scale type ("major" or "minor")
+        genre_progression: Preset name like "pop_1", "jazz_1", etc.
+        instrument_name: Optional instrument to load
+    """
+    return generate_chord_progression_advanced(
+        track_index=track_index,
+        clip_index=clip_index,
+        key=key,
+        scale=scale,
+        progression=genre_progression,
+        mood=None,
+        velocity=90,
+        beats_per_chord=4.0,
+        voice_lead=True,
+        humanize=0.0,
+        groove="straight"
+    )
 
 
 def generate_chord_progression_advanced(
@@ -482,6 +519,48 @@ def generate_rhythmic_comp(
     except Exception as e:
         logger.error(f"Error generating rhythmic comp: {e}")
         return f"Error: {e}"
+
+
+def generate_bassline(
+    track_index: int,
+    clip_index: int,
+    key: str = "C",
+    scale: str = "major",
+    genre_progression: str = "pop_1",
+    style: str = "walking",
+    instrument_name: Optional[str] = None
+) -> str:
+    """
+    Simple bassline generator using preset progressions.
+    
+    This is a simplified wrapper around generate_bassline_advanced_wrapper
+    for backwards compatibility and ease of use.
+    
+    Args:
+        track_index: Target track index
+        clip_index: Target clip slot
+        key: Musical key (e.g., "C", "Dm", "F#")
+        scale: Scale type ("major" or "minor")
+        genre_progression: Preset name like "pop_1", "jazz_1", etc.
+        style: Bassline style ("walking", "rock", "funk", "reggae", etc.)
+        instrument_name: Optional instrument to load
+    """
+    return generate_bassline_advanced_wrapper(
+        track_index=track_index,
+        clip_index=clip_index,
+        key=key,
+        scale=scale,
+        progression=genre_progression,
+        mood=None,
+        beats_per_chord=4.0,
+        style=style,
+        velocity=100,
+        octave=2,
+        humanize=0.0,
+        groove="straight",
+        instrument_name=instrument_name
+    )
+
 
 def generate_bassline_advanced_wrapper(
     track_index: int,

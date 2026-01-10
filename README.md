@@ -124,6 +124,26 @@ Add the following to your MCP settings configuration (e.g., in VS Code's `settin
 ```
 *Replace `C:\\path\\to\\this\\repo` with the actual absolute path.*
 
+### 4. OpenWebUI Integration (SSE)
+
+This server supports **Server-Sent Events (SSE)** for integration with OpenWebUI or other web-based clients.
+
+1.  **Start the Server Manually:**
+    ```powershell
+    # Standard installation
+    python MCP_Server/server.py --transport sse --port 8000
+
+    # Or via uv
+    uv run ableton-mcp --transport sse
+    ```
+
+2.  **Configure OpenWebUI:**
+    *   Navigate to **Admin Panel > Settings > External Connections**.
+    *   Add a new MCP Server.
+    *   **URL:** `http://host.docker.internal:8000/sse` (if OpenWebUI is in Docker) or `http://localhost:8000/sse`.
+
+3.  **Note:** The default behavior (running without arguments) remains `stdio` for compatibility with Claude Desktop.
+
 ---
 
 ## 🤖 Agentic Workflows & Documentation
@@ -234,6 +254,43 @@ This verifies: `uv`/Python availability, Remote Script folder, and TCP port stat
 *   **Connection Failed**: Ensure Ableton is running and the control surface is selected.
 *   **No Sound / EQ Silence**: You likely sent raw Hz/dB values instead of normalized values.
 *   **Script Not Loading After Changes**: After editing `AbletonMCP_Remote_Script`, you must restart Ableton completely (just toggling the control surface is NOT enough).
+
+---
+
+## 🧪 Experimental: Local LLM & OpenWebUI Integration
+
+For developers wanting to move away from cloud tokens or work offline, this server supports **Local LLM integration via OpenWebUI and Ollama**.
+
+> [!WARNING]
+> **Experimental Status**: While the connectivity works, running complex **agentic systems** (which require following the 30+ workflows and `AGENTS.md`) requires significant local compute. Small models like Gemma 3 4B may struggle with the sheer volume of tool definitions (220+) and logic.
+
+### 💻 Hardware Recommendations
+- **RAM**: 32GB+ (128GB recommended for running high-quality 32B+ parameter models on CPU).
+- **GPU**: 8GB+ VRAM recommended. For AMD users, ensure you use the latest Ollama (v0.12.11+) with **Vulkan** support enabled (`$env:OLLAMA_VULKAN=1`).
+
+### 🛠 setup
+1.  **Install Ollama**: Version 0.12.11 or later for Vulkan/GPU acceleration.
+2.  **Install MCPO Proxy**: This bridges the MCP SSE server to an OpenAPI format OpenWebUI understands.
+    ```bash
+    pip install mcpo
+    ```
+3.  **Add Firewall Rules** (Administrator PowerShell):
+    ```powershell
+    netsh advfirewall firewall add rule name="MCP Server" dir=in action=allow protocol=TCP localport=8000
+    netsh advfirewall firewall add rule name="MCPO Proxy" dir=in action=allow protocol=TCP localport=8001
+    ```
+
+### 🚀 Launching the Stack
+Use the provided `start_openwebui_mcp.bat` in the project root to launch both the MCP Server (Port 8000) and the MCPO Proxy (Port 8001) simultaneously.
+
+### 🌐 OpenWebUI Configuration
+1.  Navigate to **Workspace > Tools > Add Tool (+)**.
+2.  **Type**: OpenAPI
+3.  **URL**: `http://host.docker.internal:8001` (if using Docker) or `http://localhost:8001`.
+4.  **OpenAPI Spec**: `openapi.json`
+5.  **Auth**: No authentication.
+
+Once added, select the **Ableton Tools** in your model's workspace settings to give it control over your DAW.
 
 ---
 

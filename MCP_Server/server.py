@@ -1,7 +1,7 @@
 import logging
 import json
 import os
-from typing import Optional, Dict, Any, List
+from typing import Optional, Dict, Any, List, Union
 
 from fastmcp import FastMCP, Context
 from mcp_tooling.connection import get_ableton_connection, AbletonConnection
@@ -2567,9 +2567,19 @@ def generate_drum_section(
     except ValueError:
         return "Error: clip_indices must be comma-separated integers (e.g., '0,1,2,3')"
 
+import argparse
+
 def main():
     """Run the MCP server"""
-    mcp.run()
+    parser = argparse.ArgumentParser(description="Ableton MCP Server")
+    parser.add_argument("--transport", default="stdio", choices=["stdio", "sse"], help="Transport mode (stdio or sse)")
+    parser.add_argument("--port", type=int, default=8000, help="Port for SSE transport")
+    args = parser.parse_args()
+
+    if args.transport == "sse":
+        mcp.run(transport="sse", host="0.0.0.0", port=args.port)
+    else:
+        mcp.run() # Defaults to stdio
 
 if __name__ == "__main__":
     main()
