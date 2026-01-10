@@ -55,6 +55,21 @@ python -m pytest tests/
 >
 > ⚠️ Simply toggling the Control Surface without restarting Ableton does NOT reload the script!
 
+## Critical Implementation Notes
+
+### Audio Humanization
+- **NOT SUPPORTED / NOT REQUIRED**.
+- Do not attempt to implement audio humanization via pitch envelopes or transposition automation.
+- Focusing on MIDI humanization is sufficient.
+
+### MIDI Constants
+- **Velocity Deviation**: Recommended range is **10-30%** (up from 5-15%).
+- **Probability**: 95-100% recommended for subtle humanization.
+
+### Live API Quirks
+- **`apply_note_modifications`**: STRICTLY requires a `MidiNoteVector` object (C++ handle).
+  - ❌ Do NOT pass a Python `list` or `tuple`.
+  - ✅ Pass the original vector object returned by `get_notes_extended` (after modifying its elements' properties).
 
 
 | Problem | ❌ Wrong | ✅ Correct |

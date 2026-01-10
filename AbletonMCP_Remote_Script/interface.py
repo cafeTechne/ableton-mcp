@@ -986,8 +986,6 @@ class CommandDispatcher(object):
 
             if command_type == "get_session_info":
                 response["result"] = self.handler._get_session_info()
-            elif command_type == "get_song_context":
-                response["result"] = self.handler.song_handler.get_song_state()
             elif command_type == "get_track_info":
                 track_index = params.get("track_index", 0)
                 response["result"] = self.handler.track_handler.get_track_info(track_index)

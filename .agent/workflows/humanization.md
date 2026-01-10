@@ -10,6 +10,8 @@ Beyond standard quantization, AbletonMCP allows for surgical humanization of eve
 
 Use `update_notes` to inject life into rigid MIDI patterns.
 
+**Note**: All `apply_note_modifications` calls STRICTLY require a `MidiNoteVector` C++ object. You must use the object returned by `get_notes_extended` and pass it back. See `AGENTS.md` for details.
+
 ```python
 from mcp_tooling.connection import get_ableton_connection
 conn = get_ableton_connection()
@@ -24,12 +26,13 @@ notes = data.get("notes", [])
 # Apply humanization to each note
 for note in notes:
     # 1. Randomize velocity within a deviation range (0-127)
-    note["velocity_deviation"] = 10 
+    # Recommended range: 10-30 for noticeable feel
+    note["velocity_deviation"] = 20 
     
     # 2. Add probability for rhythmic variation (0.0 to 1.0)
-    # Perfect for ghost notes or hi-hat rolls
+    # Recommended: 0.95-1.0 for subtle variation
     if note["pitch"] == 42: # Hi-Hat
-        note["probability"] = 0.85
+        note["probability"] = 0.95
     
     # 3. Soften note releases
     note["release_velocity"] = 48
@@ -55,31 +58,13 @@ import random
 note["start_time"] += random.uniform(-0.01, 0.01)
 ```
 
-## Audio Humanization (Pitch Tuning)
+### 3. Audio Humanization
+**NOT SUPPORTED**. Audio humanization via pitch envelopes or transposition automation is not supported in the current Remote Script implementation. Please stick to MIDI humanization.
 
-For audio clips, humanization is achieved via **Transposition Envelopes**. This allows for correcting or stylizing the pitch of individual notes within a recording.
-
-```python
-# 1. Target the Transposition envelope in the Clip device
-# This is an additive offset to the clip's main transpose setting.
-conn.send_command("insert_envelope_step", {
-    "track_index": 1,
-    "clip_index": 0,
-    "device_id": "Clip",
-    "parameter_id": "Transposition",
-    "time": 0.0,
-    "length": 0.25, # The duration of a single note
-    "value": 0.52   # +1 semitone (normalized)
-})
-```
-
-### Strategy: Vocal Tuning
-Layer subtle modulation onto a vocal audio clip to simulate natural pitch drift or to create a "chopped" melodic sequence from a single sustained note.
-
-### 3. Velocity Ramping
+### 4. Velocity Ramping
 Use `velocity_deviation` on the first beat of every bar to ground the performance while keeping the internal notes fluid.
 
-### 4. Groove Randomization (Layered Doubling)
+### 5. Groove Randomization (Layered Doubling)
 Use the **Random** parameter in the **Groove Pool** to create realistic doublings.
 1. Duplicate a track (e.g., a vocal or lead synth).
 2. Apply a groove to *one* of the tracks.

@@ -1204,9 +1204,10 @@ class ClipHandler(HandlerBase):
                     updated_objects.append(live_note)
                     updates_count += 1
             
-            if updated_objects:
+            if updates_count > 0:
                 # API expects a vector/list of modified objects
-                clip.apply_note_modifications(updated_objects)
+                # We pass the entire vector back, as it's the correct type (MidiNoteVector)
+                clip.apply_note_modifications(all_notes_vector)
                 
             return {
                 "status": "success", 
